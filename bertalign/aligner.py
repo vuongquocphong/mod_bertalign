@@ -26,8 +26,8 @@ class Bertalign:
         
         src = clean_text(src)
         tgt = clean_text(tgt)
-        src_lang = detect_lang(src)
-        tgt_lang = detect_lang(tgt)
+        src_lang = 'zh'
+        tgt_lang = 'vi'
         
         if is_split:
             src_sents = src.splitlines()
