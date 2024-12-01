@@ -1,19 +1,19 @@
 import bertalign
 
-books_list = ["tqdn1", "tqdn2", "tqdn3"]
+dirs_list = ["tqdn1", "tqdn2", "tqdn3"]
 
-def align_book(book_name):
+def align_dir(dir_name):
     alignments = []
 
     tgt = []
     src = []
 
-    with open(f"{book_name}/chinese_pars.txt") as f:
+    with open(f"{dir_name}/chinese_pars.txt") as f:
         pars = f.readlines()
         for par in pars:
             src.append(par.strip())
 
-    with open(f"{book_name}/translation_pars.txt") as f:
+    with open(f"{dir_name}/translation_pars.txt") as f:
         pars = f.readlines()
         for par in pars:
             tgt.append(par.strip())
@@ -29,10 +29,10 @@ def align_book(book_name):
             tgt_line = aligner._get_line(bead[1], aligner.tgt_sents)
             alignments.append((src_line, tgt_line))
 
-    with open(f"{book_name}/alignments.txt", "w") as f:
+    with open(f"{dir_name}/alignments.txt", "w") as f:
         for alignment in alignments:
             f.write(alignment[0] + "\t" + alignment[1] + "\n")
 
 if __name__ == "__main__":
-    for book in books_list:
-        align_book(book)
+    for dir in dirs_list:
+        align_dir(dir)
