@@ -1,0 +1,632 @@
+[
+    {
+        "source": "昭等辞去。",
+        "target": "\n",
+        "similarity": "0.032431718",
+        "weight": "4"
+    },
+    {
+        "source": "俯皇都之宏丽兮，瞰云霞之浮动。 欣群才之来萃兮，协飞熊之吉梦。 仰春风之和穆兮，听百鸟之悲鸣。",
+        "target": "\n",
+        "similarity": "-0.056085188",
+        "weight": "41"
+    },
+    {
+        "source": "天云垣其既立兮，家愿得乎双逞，扬仁化于宇宙兮，尽肃恭于上京。 惟桓文之为盛兮，岂足方乎圣明？ 休矣！ 美矣！",
+        "target": "\n",
+        "similarity": "0.057615045",
+        "weight": "46"
+    },
+    {
+        "source": "惠泽远扬。 翼佐我皇家兮，宁彼四方。 同天地之规量兮，齐日月之辉光。 永贵尊而无极兮，等君寿于东皇。",
+        "target": "\n",
+        "similarity": "0.0290006",
+        "weight": "43"
+    },
+    {
+        "source": "御龙旂以遨游兮，回鸾驾而周章。 恩化及乎四海兮，嘉物阜而民康。 愿斯台之永固兮，乐终古而未央！”",
+        "target": "\n",
+        "similarity": "0.061706815",
+        "weight": "41"
+    },
+    {
+        "source": "权曰：“张子布等皆主其意。”",
+        "target": "\n",
+        "similarity": "0.019460889",
+        "weight": "10"
+    },
+    {
+        "source": "玄德再欲问时，孔明催促玄德作速开船。",
+        "target": "\n",
+        "similarity": "0.09689243",
+        "weight": "16"
+    },
+    {
+        "source": "言讫自回。",
+        "target": "\n",
+        "similarity": "0.07893467",
+        "weight": "4"
+    },
+    {
+        "source": "干勉强应之。",
+        "target": "\n",
+        "similarity": "-0.05827385",
+        "weight": "5"
+    },
+    {
+        "source": "前人有篇《大雾垂江赋》曰：“大哉长江！ 西接岷、峨，南控三吴，北带九河。",
+        "target": "\n",
+        "similarity": "0.11928128",
+        "weight": "27"
+    },
+    {
+        "source": "汇百川而入海，历万古以扬波。",
+        "target": "\n",
+        "similarity": "0.019712057",
+        "weight": "12"
+    },
+    {
+        "source": "至若龙伯、海若，江妃、水母，长鲸千丈，天蜈九首，鬼怪异类，咸集而有。 盖夫鬼神之所凭依，英雄之所战守也。",
+        "target": "\n",
+        "similarity": "0.0043451153",
+        "weight": "42"
+    },
+    {
+        "source": "时也阴阳既乱，昧爽不分。 讶长空之一色，忽大雾之四屯。",
+        "target": "\n",
+        "similarity": "0.041165456",
+        "weight": "23"
+    },
+    {
+        "source": "虽舆薪而莫睹，惟金鼓之可闻。",
+        "target": "\n",
+        "similarity": "0.06335551",
+        "weight": "12"
+    },
+    {
+        "source": "初若溟濛，才隐南山之豹；渐而充塞，欲迷北海之鲲。",
+        "target": "\n",
+        "similarity": "-0.009553824",
+        "weight": "20"
+    },
+    {
+        "source": "然后上接高天，下垂厚地；渺乎苍茫，浩乎无际。",
+        "target": "\n",
+        "similarity": "0.14620666",
+        "weight": "18"
+    },
+    {
+        "source": "鲸鲵出水而腾波，蛟龙潜渊而吐气。",
+        "target": "\n",
+        "similarity": "0.034478135",
+        "weight": "14"
+    },
+    {
+        "source": "又如梅霖收溽，春阴酿寒；溟溟漠漠，洁浩漫漫。",
+        "target": "\n",
+        "similarity": "-0.0091927145",
+        "weight": "18"
+    },
+    {
+        "source": "东失柴桑之岸，南无夏口之山。",
+        "target": "\n",
+        "similarity": "0.09245774",
+        "weight": "12"
+    },
+    {
+        "source": "战船千艘，俱沉沦于岩壑；渔舟一叶，惊出没于波澜。",
+        "target": "\n",
+        "similarity": "0.03057317",
+        "weight": "20"
+    },
+    {
+        "source": "甚则穹吴无光，朝阳失色；返白昼为昏黄，变丹山为水碧。",
+        "target": "\n",
+        "similarity": "0.14366016",
+        "weight": "22"
+    },
+    {
+        "source": "虽大禹之智，不能测其浅深；离娄之明，焉能辨乎咫尺？",
+        "target": "\n",
+        "similarity": "0.061078224",
+        "weight": "21"
+    },
+    {
+        "source": "于是冯夷息浪，屏翳收功；鱼鳖遁迹，鸟兽潜踪。",
+        "target": "\n",
+        "similarity": "0.019287413",
+        "weight": "18"
+    },
+    {
+        "source": "隔断蓬莱之岛，暗围阊阖之宫。",
+        "target": "\n",
+        "similarity": "0.07871972",
+        "weight": "12"
+    },
+    {
+        "source": "恍惚奔腾，如骤雨之将至；纷纭杂沓，若寒云之欲同。",
+        "target": "\n",
+        "similarity": "-0.015019185",
+        "weight": "20"
+    },
+    {
+        "source": "乃能中隐毒蛇，因之而为瘴疠；内藏妖魅，凭之而为祸害。",
+        "target": "\n",
+        "similarity": "-0.03825614",
+        "weight": "22"
+    },
+    {
+        "source": "降疾厄于人间，起风尘于塞外。",
+        "target": "\n",
+        "similarity": "-0.014365402",
+        "weight": "12"
+    },
+    {
+        "source": "小民遇之夭伤，大人观之感慨。",
+        "target": "\n",
+        "similarity": "0.052216217",
+        "weight": "12"
+    },
+    {
+        "source": "盖将返元气于洪荒，混天地为大块。",
+        "target": "\n",
+        "similarity": "-0.05654229",
+        "weight": "14"
+    },
+    {
+        "source": "盖曰：“甚善。”",
+        "target": "\n",
+        "similarity": "0.16350216",
+        "weight": "4"
+    },
+    {
+        "source": "泽至宁寨，宁接入，泽曰：“将军昨为救黄公覆，被周公瑾所辱，吾甚不平。” 宁笑而不答。 正话间，蔡和、蔡中至。",
+        "target": "\n",
+        "similarity": "0.00909695",
+        "weight": "42"
+    },
+    {
+        "source": "统拜求榜文，以安宗族。",
+        "target": "Thống xin tờ chứng nhân của Tháo để phòng khi quân Tháo kéo sang khỏi động chạm đến họ hàng nhà mình.\n",
+        "similarity": "0.090861425",
+        "weight": "28"
+    },
+    {
+        "source": "庶曰：“愿先生赐教。”",
+        "target": "\n",
+        "similarity": "0.03875394",
+        "weight": "7"
+    },
+    {
+        "source": "瑜收了礼物，发付孙乾先回。",
+        "target": "\n",
+        "similarity": "0.08271214",
+        "weight": "11"
+    },
+    {
+        "source": "大小水军，尽是步行；止有为首官军骑马。",
+        "target": "\n",
+        "similarity": "0.05362215",
+        "weight": "16"
+    },
+    {
+        "source": "操急使人解开。",
+        "target": "\n",
+        "similarity": "0.038952924",
+        "weight": "6"
+    },
+    {
+        "source": "那领锦袍已是扯得粉碎。",
+        "target": "\n",
+        "similarity": "0.0914157",
+        "weight": "10"
+    },
+    {
+        "source": "似此推调，未免累及老兄矣。",
+        "target": "Y cứ nói quanh mãi thế này, e lại lụy đến ông mất!\n",
+        "similarity": "0.14158538",
+        "weight": "23"
+    },
+    {
+        "source": "糜竺领了言语先回。",
+        "target": "My Chúc xin vâng rồi từ biệt trở ra.\n",
+        "similarity": "0.17903596",
+        "weight": "17"
+    },
+    {
+        "source": "巴丘终命处，凭吊欲伤情。”",
+        "target": "Ba Khâu mệnh bạc từ đây nhé, Lệ ứa hai hàng ruột xót xa!\n",
+        "similarity": "0.16497657",
+        "weight": "21"
+    },
+    {
+        "source": "既遗书特荐子敬，孤敢不从之。”",
+        "target": "Nay để thư lại tiến cử Lỗ Túc, có đâu ta chẳng nghe lời!\n",
+        "similarity": "0.13632225",
+        "weight": "26"
+    },
+    {
+        "source": "却说当夜两兵混战，直到天明，各自收兵。",
+        "target": "\n",
+        "similarity": "0.07816674",
+        "weight": "16"
+    },
+    {
+        "source": "韩遂即出阵；见操并无甲仗，亦弃衣甲，轻服匹马而出。",
+        "target": "\n",
+        "similarity": "0.058331415",
+        "weight": "21"
+    },
+    {
+        "source": "二人马头相交，各按辔对语。",
+        "target": "\n",
+        "similarity": "0.030963788",
+        "weight": "11"
+    },
+    {
+        "source": "修领命。",
+        "target": "Tu vâng lời,\n",
+        "similarity": "0.19087933",
+        "weight": "7"
+    },
+    {
+        "source": "国太恨恨而入。",
+        "target": "\n",
+        "similarity": "0.085442774",
+        "weight": "6"
+    },
+    {
+        "source": "你道那九锡？",
+        "target": "\n",
+        "similarity": "0.12912276",
+        "weight": "5"
+    },
+    {
+        "source": "一，车马（大辂、戎辂各一。大辂，金车也。戎辂，兵车也。 玄牡二驷，黄马八匹。）",
+        "target": "\n",
+        "similarity": "0.1517908",
+        "weight": "28"
+    },
+    {
+        "source": "四，朱户（居以朱户，红门也。）",
+        "target": "\n",
+        "similarity": "0.1959871",
+        "weight": "10"
+    },
+    {
+        "source": "五，纳陛（纳陛以登。 陛，阶也。）",
+        "target": "\n",
+        "similarity": "0.16841954",
+        "weight": "11"
+    },
+    {
+        "source": "六，虎贲（虎贲三百人，守门之军也。）",
+        "target": "\n",
+        "similarity": "0.1346565",
+        "weight": "13"
+    },
+    {
+        "source": "七，鈇钺（鈇钺各一。 鈇，即斧也。钺，斧属。）",
+        "target": "\n",
+        "similarity": "0.031075688",
+        "weight": "15"
+    },
+    {
+        "source": "八，弓矢（彤弓一，彤矢百。 彤，赤色也。 【左玄右旅去方】弓十，【左玄右旅去方】矢千。",
+        "target": "\n",
+        "similarity": "0.13666126",
+        "weight": "31"
+    },
+    {
+        "source": "九，秬鬯圭瓒（秬鬯一卣，圭瓒副焉。 秬，黑黍也。 鬯，香酒，灌地以求神于阴。卣，中樽也。 圭瓒，宗庙祭器，以祀先王也。）",
+        "target": "\n",
+        "similarity": "0.022016017",
+        "weight": "45"
+    },
+    {
+        "source": "未观玄德兴王业，先向成都血染衣。”",
+        "target": "Nào hay minh chúa nên cơ nghiệp? Nước biếc non xanh luống ngậm ngùi!\n",
+        "similarity": "0.09819099",
+        "weight": "26"
+    },
+    {
+        "source": "飞下马来参军师。",
+        "target": "Phi xuống ngựa vào chào Khổng Minh.\n",
+        "similarity": "0.18111454",
+        "weight": "14"
+    },
+    {
+        "source": "鲁喜其利，从之。",
+        "target": "Lỗ hám lợi, nghe xong muốn cất quân sang cứu.\n",
+        "similarity": "0.13029478",
+        "weight": "16"
+    },
+    {
+        "source": "待其来撤时，便可用计招降马超矣。”",
+        "target": "Khi đó, ta sẽ dùng mẹo gọi là Mã Siêu lại hàng.\n",
+        "similarity": "0.19355324",
+        "weight": "25"
+    },
+    {
+        "source": "云长曰：“此皆吾兄之事，非某所宜与也。”",
+        "target": "\n",
+        "similarity": "0.14793572",
+        "weight": "15"
+    },
+    {
+        "source": "献帝安敢不从。",
+        "target": "Bây giờ Tháo bảo thế nào mà vua chả phải nghe.\n",
+        "similarity": "0.15700577",
+        "weight": "16"
+    },
+    {
+        "source": "鲁乃下马投拜。",
+        "target": "Lỗ không thể nào được nữa, phải xuống ngựa xin hàng.\n",
+        "similarity": "0.16961603",
+        "weight": "17"
+    },
+    {
+        "source": "操令芝卜易。",
+        "target": "Tháo sai Chi bói dịch xem lành dữ làm sao.\n",
+        "similarity": "0.15907192",
+        "weight": "13"
+    },
+    {
+        "source": "客言辂能覆射。",
+        "target": "Có tiếng đồn Lộ biết được cả những vật úp kín.\n",
+        "similarity": "0.13868393",
+        "weight": "17"
+    },
+    {
+        "source": "又令卜传祚修短之数。",
+        "target": "Tháo lại sai bói xem mình truyền ngôi được dài hay ngắn.\n",
+        "similarity": "0.19353457",
+        "weight": "21"
+    },
+    {
+        "source": "咬牙皆碎而死。",
+        "target": "\n",
+        "similarity": "0.11574873",
+        "weight": "6"
+    },
+    {
+        "source": "此是借寨与彼屯辎重耳。",
+        "target": "Thế gọi là bỏ trại không để cho quân kia mượn mà chứa lương thảo đó thôi.\n",
+        "similarity": "0.12778135",
+        "weight": "26"
+    },
+    {
+        "source": "曹操依允。",
+        "target": "Tháo nghe lời ấy.\n",
+        "similarity": "0.18390884",
+        "weight": "9"
+    },
+    {
+        "source": "张翼应诺。",
+        "target": "\n",
+        "similarity": "0.113208234",
+        "weight": "4"
+    },
+    {
+        "source": "于是曹操以植为能。",
+        "target": "Tháo thấy vậy, cho Thực giỏi hơn Phi.\n",
+        "similarity": "0.13392013",
+        "weight": "17"
+    },
+    {
+        "source": "表曰：“备以具臣之才，荷上将之任，总督三军，奉辞于外；不能扫除寇难，靖匡王室，久使陛下圣教陵迟，六合之内，否而未泰：惟忧反侧，疢如疾首。 曩者董卓，伪为乱阶。",
+        "target": "\n",
+        "similarity": "-0.004504768",
+        "weight": "64"
+    },
+    {
+        "source": "自是之后，群凶纵横，残剥海内。",
+        "target": "\n",
+        "similarity": "0.01064496",
+        "weight": "12"
+    },
+    {
+        "source": "赖陛下圣德威临，人臣同应，或忠义奋讨，或上天降罚，暴逆并殪，以渐冰消。",
+        "target": "\n",
+        "similarity": "0.0704492",
+        "weight": "29"
+    },
+    {
+        "source": "惟独曹操，久未枭除，侵擅国权，恣心极乱。",
+        "target": "\n",
+        "similarity": "0.07570247",
+        "weight": "16"
+    },
+    {
+        "source": "臣昔与车骑将军董承，图谋讨操，机事不密，承见陷害。",
+        "target": "\n",
+        "similarity": "0.046064734",
+        "weight": "21"
+    },
+    {
+        "source": "臣播越失据，忠义不果，遂得使操穷凶极逆：主后戮杀，皇子鸩害。",
+        "target": "\n",
+        "similarity": "-0.02432765",
+        "weight": "25"
+    },
+    {
+        "source": "虽纠合同盟，念在奋力；懦弱不武，历年未效。",
+        "target": "\n",
+        "similarity": "0.054682333",
+        "weight": "17"
+    },
+    {
+        "source": "常恐殒没，辜负国恩；寤寐永叹，夕惕若厉。",
+        "target": "\n",
+        "similarity": "0.010997077",
+        "weight": "16"
+    },
+    {
+        "source": "今臣群僚以为：在昔虞书敦叙九族，庶明励翼；帝王相传，此道不废；周监二代，并建诸姬，实赖晋、郑夹辅之力；高祖龙兴，尊王子弟，大启九国，卒斩诸吕，以安大宗。",
+        "target": "\n",
+        "similarity": "0.048576146",
+        "weight": "62"
+    },
+    {
+        "source": "今操恶直丑正，实繁有徒，包藏祸心，篡盗已显；既宗室微弱，帝族无位，斟酌古式，依假权宜：上臣为大司马、汉中王。",
+        "target": "\n",
+        "similarity": "0.031394366",
+        "weight": "44"
+    },
+    {
+        "source": "臣伏自三省：受国厚恩，荷任一方，陈力未效，所获已过，不宜复忝高位，以重罪谤。",
+        "target": "\n",
+        "similarity": "-0.008216765",
+        "weight": "31"
+    },
+    {
+        "source": "群僚见逼，迫臣以义。",
+        "target": "\n",
+        "similarity": "-0.037136257",
+        "weight": "8"
+    },
+    {
+        "source": "臣退惟寇贼不枭，国难未已；宗庙倾危，社稷将坠：诚臣忧心碎首之日。",
+        "target": "\n",
+        "similarity": "0.00790976",
+        "weight": "27"
+    },
+    {
+        "source": "若应权通变，以宁静圣朝，虽赴水火，所不得辞。",
+        "target": "\n",
+        "similarity": "0.10894739",
+        "weight": "18"
+    },
+    {
+        "source": "辄顺众议，拜受印玺，以崇国威。",
+        "target": "\n",
+        "similarity": "-0.037097454",
+        "weight": "12"
+    },
+    {
+        "source": "仰惟爵号，位高宠厚；俯思报效，忧深责重。",
+        "target": "\n",
+        "similarity": "-0.026812797",
+        "weight": "16"
+    },
+    {
+        "source": "惊怖惕息，如临于谷。",
+        "target": "\n",
+        "similarity": "-0.117406756",
+        "weight": "8"
+    },
+    {
+        "source": "敢不尽力输诚，奖励六师，率齐群义，应天顺时，以宁社稷。",
+        "target": "\n",
+        "similarity": "-0.020874381",
+        "weight": "22"
+    },
+    {
+        "source": "谨拜表以闻。”",
+        "target": "\n",
+        "similarity": "0.02245133",
+        "weight": "5"
+    },
+    {
+        "source": "辱子愿代父去战庞德。”",
+        "target": "Con xin ra đánh nó cũng xong!\n",
+        "similarity": "0.13261244",
+        "weight": "17"
+    },
+    {
+        "source": "发落去讫。",
+        "target": "\n",
+        "similarity": "0.13739374",
+        "weight": "4"
+    },
+    {
+        "source": "逊又曰：“愚有小方，能治将军之疾，未审可用否？”",
+        "target": "\n",
+        "similarity": "0.07429528",
+        "weight": "18"
+    },
+    {
+        "source": "蒙乃屏退左右而问曰：“伯言良方，乞早赐教。”",
+        "target": "\n",
+        "similarity": "0.044465743",
+        "weight": "17"
+    },
+    {
+        "source": "急令追拷。",
+        "target": "Nói xong kíp sai tra khảo.\n",
+        "similarity": "0.16320641",
+        "weight": "10"
+    },
+    {
+        "source": "即日遣使赍诰敕赴东吴去讫。",
+        "target": "\n",
+        "similarity": "-0.040947117",
+        "weight": "12"
+    },
+    {
+        "source": "后人有《邺中歌》一篇叹曹操云：“邺则邺城水漳水，定有异人从此起：雄谋韵事与文心，君臣兄弟而父子；英雄未有俗胸中，出没岂随人眼底？",
+        "target": "\n",
+        "similarity": "0.09944199",
+        "weight": "54"
+    },
+    {
+        "source": "功首罪魁非两人，遗臭流芳本一身；文章有神霸有气，岂能苟尔化为群？",
+        "target": "\n",
+        "similarity": "0.04901094",
+        "weight": "28"
+    },
+    {
+        "source": "横流筑台距太行，气与理势相低昂；安有斯人不作逆，小不为霸大不王？",
+        "target": "\n",
+        "similarity": "0.06565444",
+        "weight": "28"
+    },
+    {
+        "source": "霸王降作儿女鸣，无可奈何中不平；向帐明知非有益，分香未可谓无情。",
+        "target": "\n",
+        "similarity": "0.05868546",
+        "weight": "28"
+    },
+    {
+        "source": "古人作事无巨细，寂寞豪华皆有意；书生轻议冢中人，冢中笑尔书生气！”",
+        "target": "\n",
+        "similarity": "0.050464742",
+        "weight": "28"
+    },
+    {
+        "source": "愿陛下察之。”",
+        "target": "Xin bệ hạ suy xét mà nhường ngôi cho Ngụy Vương ngay đi!\n",
+        "similarity": "0.1733592",
+        "weight": "15"
+    },
+    {
+        "source": "曹丕开读诏曰：“咨尔魏王，上书谦让。",
+        "target": "\n",
+        "similarity": "0.10620664",
+        "weight": "14"
+    },
+    {
+        "source": "朕窃为汉道陵迟，为日已久；幸赖武王操，德膺符运，奋扬神武，芟除凶暴，清定区夏。",
+        "target": "\n",
+        "similarity": "0.03173532",
+        "weight": "32"
+    },
+    {
+        "source": "今王丕缵承前绪，至德光昭，声教被四海，仁风扇八区；天之历数，实在尔躬。",
+        "target": "\n",
+        "similarity": "-0.02844366",
+        "weight": "29"
+    },
+    {
+        "source": "昔虞舜有大功二十，而放勋禅以天下；大禹有疏导之绩，而重华禅以帝位。",
+        "target": "\n",
+        "similarity": "0.024205124",
+        "weight": "29"
+    },
+    {
+        "source": "汉承尧运，有传圣之义，加顺灵袛，绍天明命，使行御史大夫张音，持节奉皇帝玺绶。",
+        "target": "\n",
+        "similarity": "0.07830229",
+        "weight": "32"
+    }
+]

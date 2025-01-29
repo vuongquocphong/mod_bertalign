@@ -8,6 +8,7 @@ class Bertalign:
     def __init__(self,
                  src,
                  tgt,
+                 model = model,
                  max_align=5,
                  top_k=3,
                  win=5,
@@ -16,7 +17,7 @@ class Bertalign:
                  len_penalty=True,
                  is_split=False,
                ):
-        
+        self.model = model
         self.max_align = max_align
         self.top_k = top_k
         self.win = win
@@ -45,9 +46,9 @@ class Bertalign:
         print("Source language: {}, Number of sentences: {}".format(src_lang, src_num))
         print("Target language: {}, Number of sentences: {}".format(tgt_lang, tgt_num))
 
-        print("Embedding source and target text using {} ...".format(model.model_name))
-        src_vecs, src_lens = model.transform(src_sents, max_align - 1)
-        tgt_vecs, tgt_lens = model.transform(tgt_sents, max_align - 1)
+        print("Embedding source and target text using {} ...".format(self.model.model_name))
+        src_vecs, src_lens = self.model.transform(src_sents, max_align - 1)
+        tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1)
 
         char_ratio = np.sum(src_lens[0,]) / np.sum(tgt_lens[0,])
 
@@ -62,9 +63,25 @@ class Bertalign:
         self.char_ratio = char_ratio
         self.src_vecs = src_vecs
         self.tgt_vecs = tgt_vecs
-        
-    def align_sents(self):
+    def get_anchor_alignments(self, threshold=0.8):
+        anchors = []
+        for j in range(len(self.src_lens[0])):
+            src_vec = self.src_vecs[0][j]
+            for k in range(len(self.tgt_lens[0])):
+                tgt_vec = self.tgt_vecs[0][k]
+                sim = np.dot(src_vec, tgt_vec) / (np.linalg.norm(src_vec) * np.linalg.norm(tgt_vec))
+                if sim > threshold:
+                    anchors.append(([j], [k]))
+        return anchors
 
+    def align_sents(self):
+        # anchor_alignments = self.get_anchor_alignments(0.8)
+        # for anchor in anchor_alignments:
+        #     print("Anchor alignment: ", anchor)
+        #     src_line = self._get_line(anchor[0], self.src_sents)
+        #     tgt_line = self._get_line(anchor[1], self.tgt_sents)
+        #     print(src_line + "\n" + tgt_line + "\n")
+        
         print("Performing first-step alignment ...")
         D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
         first_alignment_types = get_alignment_types(2) # 0-1, 1-0, 1-1

@@ -1,0 +1,40 @@
+Timestamp: 19:23:09
+Time taken: 0:17:50.067032
+Model: LaBSE
+Max align param: 5
+Golden size: 2016
+Alignments size: 1997
+Precision: 0.985478217325989
+Recall: 0.9761904761904762
+F1: 0.9808123598305506
+--------------------
+Timestamp: 19:59:29
+Time taken: 0:26:51.739469
+Model: all-MPNet-base-v2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1358
+Precision: 0.26435935198821797
+Recall: 0.17807539682539683
+F1: 0.2128037937166568
+--------------------
+Timestamp: 20:32:02
+Time taken: 0:20:45.629232
+Model: paraphrase-multilingual-mpnet-base-v2
+Max align param: 5
+Golden size: 2016
+Alignments size: 2073
+Precision: 0.8229618909792571
+Recall: 0.8462301587301587
+F1: 0.834433846906334
+--------------------
+Timestamp: 20:53:08
+Time taken: 0:09:32.065579
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1958
+Precision: 0.924923391215526
+Recall: 0.8983134920634921
+F1: 0.9114242576748868
+--------------------
