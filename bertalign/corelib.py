@@ -273,7 +273,11 @@ def first_pass_align(src_len,
                      search_path,
                      align_types,
                      dist,
-                     index
+                     index,
+                     src_sents,
+                     tgt_sents,
+                     src_keys,
+                     tgt_keys,
                      ):
     """
     Perform the first-pass alignment to extract only 1-1 bitext segments.

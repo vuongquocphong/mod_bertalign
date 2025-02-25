@@ -16,6 +16,7 @@ class Bertalign:
                  margin=True,
                  len_penalty=True,
                  is_split=False,
+                 ner_dict={}
                ):
         self.model = model
         self.max_align = max_align
@@ -24,6 +25,7 @@ class Bertalign:
         self.skip = skip
         self.margin = margin
         self.len_penalty = len_penalty
+        self.ner_dict = ner_dict
         
         src = clean_text(src)
         tgt = clean_text(tgt)
@@ -47,8 +49,8 @@ class Bertalign:
         print("Target language: {}, Number of sentences: {}".format(tgt_lang, tgt_num))
 
         print("Embedding source and target text using {} ...".format(self.model.model_name))
-        src_vecs, src_lens = self.model.transform(src_sents, max_align - 1)
-        tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1)
+        src_vecs, src_lens = self.model.transform(src_sents, max_align - 1, lang='zh', ner_dict=ner_dict)
+        tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1, lang='vi', ner_dict=ner_dict)
 
         char_ratio = np.sum(src_lens[0,]) / np.sum(tgt_lens[0,])
 
@@ -80,13 +82,15 @@ class Bertalign:
         #     print("Anchor alignment: ", anchor)
         #     src_line = self._get_line(anchor[0], self.src_sents)
         #     tgt_line = self._get_line(anchor[1], self.tgt_sents)
-        #     print(src_line + "\n" + tgt_line + "\n")
+        #     print(src_line + "\n" + tgt_line + "\n") 
         
         print("Performing first-step alignment ...")
         D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
         first_alignment_types = get_alignment_types(2) # 0-1, 1-0, 1-1
         first_w, first_path = find_first_search_path(self.src_num, self.tgt_num)
-        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I)
+        src_keys = list(self.ner_dict.keys())
+        tgt_keys = list(self.ner_dict.values())
+        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents, src_keys=src_keys, tgt_keys=tgt_keys)
         first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
         
         print("Performing second-step alignment ...")

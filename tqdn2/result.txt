@@ -38,3 +38,47 @@ Precision: 0.924923391215526
 Recall: 0.8983134920634921
 F1: 0.9114242576748868
 --------------------
+Timestamp: 22:09:24
+Time taken: 0:09:59.739884
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1958
+Precision: 0.924923391215526
+Recall: 0.8983134920634921
+F1: 0.9114242576748868
+--------------------
+Timestamp: 22:48:04
+Time taken: 0:17:47.861595
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 6
+Golden size: 2016
+Alignments size: 1955
+Precision: 0.9248081841432225
+Recall: 0.8968253968253969
+F1: 0.9106018635104508
+--------------------
+Timestamp: 11:15:27
+Time taken: 0:08:32.585850
+Model: distiluse-base-multilingual-cased-v2
+Top k: 10
+Max align param: 5
+Golden size: 2016
+Alignments size: 1958
+Precision: 0.924923391215526
+Recall: 0.8983134920634921
+F1: 0.9114242576748868
+--------------------
+Timestamp: 14:55:27
+Time taken: 0:58:15.360576
+Model: intfloat/multilingual-e5-large
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1968
+Precision: 0.9395325203252033
+Recall: 0.9171626984126984
+F1: 0.9282128514056224
+--------------------
