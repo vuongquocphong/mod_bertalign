@@ -153,12 +153,12 @@ def align_snts_no_gold(dir_name, top_k, max_align, model, start_time, ner_dict):
     with open(f"{dir_name}/chinese_snts.txt", "r", encoding="utf-8") as f:
         snts = f.readlines()
         for snt in snts:
-            src += snt.strip() + " "
+            src += snt.strip() + "\n"
     with open(f"{dir_name}/translation_snts.txt", "r", encoding="utf-8") as f:
         snts = f.readlines()
         for snt in snts:
-            tgt += snt.strip() + " "
-    aligner = bertalign.Bertalign(src, tgt, model=model, max_align=max_align, top_k=top_k, ner_dict=ner_dict)
+            tgt += snt.strip() + "\n"
+    aligner = bertalign.Bertalign(src, tgt, model=model, max_align=max_align, top_k=top_k, ner_dict=ner_dict, is_split=True)
     aligner.align_sents()
     for bead in (aligner.result):
         src_line = aligner._get_line(bead[0], aligner.src_sents)
