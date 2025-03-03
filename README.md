@@ -17,6 +17,7 @@ pip install -r requirements.txt
 ## Usage
 
 - The format of a directory for alignment should have 2 files:
+
 ```
 <data_dir_name>
 ├── "chinese_pars.txt"
@@ -24,6 +25,7 @@ pip install -r requirements.txt
 ```
 
 - Then, in the `align_main.py` file, change the names list to all the directories you want to align. Then run the following command:
+
 ```bash
 python3.10 align_main.py
 ```

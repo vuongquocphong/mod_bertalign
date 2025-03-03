@@ -241,3 +241,14 @@ Precision: 0.9077740222114921
 Recall: 0.9034118212397886
 F1: 0.905587668593449
 --------------------
+Timestamp: 21:14:25
+Time taken: 0:12:41.911791
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------

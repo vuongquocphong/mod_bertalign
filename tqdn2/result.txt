@@ -82,3 +82,36 @@ Precision: 0.9395325203252033
 Recall: 0.9171626984126984
 F1: 0.9282128514056224
 --------------------
+Timestamp: 22:15:16
+Time taken: 1:04:26.302023
+Model: Alibaba-NLP/gte-modernbert-base
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 2792
+Precision: 0.11855300859598854
+Recall: 0.16418650793650794
+F1: 0.13768718801996674
+--------------------
+Timestamp: 21:05:37
+Time taken: 0:08:16.770543
+Model: sentence-transformers/clip-ViT-B-32-multilingual-v1
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 3317
+Precision: 0.17636418450406993
+Recall: 0.29017857142857145
+F1: 0.21938871179448713
+--------------------
+Timestamp: 21:49:19
+Time taken: 0:21:05.331335
+Model: Alibaba-NLP/gte-multilingual-base
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1992
+Precision: 0.9467871485943775
+Recall: 0.935515873015873
+F1: 0.9411177644710579
+--------------------

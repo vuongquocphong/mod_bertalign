@@ -2,7 +2,11 @@ from bertalign.encoder import Encoder
 from align_main import * 
 from eval_alignments import eval
 
-list_model = ["laser2", "intfloat/multilingual-e5-large", "jinaai/jina-embeddings-v3"]
+# list_model = ["laser2", "intfloat/multilingual-e5-large", "jinaai/jina-embeddings-v3"]
+# list_model = ["distiluse-base-multilingual-cased-v2"]
+# list_model = ["Alibaba-NLP/gte-modernbert-base"]
+# list_model = ["sentence-transformers/clip-ViT-B-32-multilingual-v1"]
+list_model = ["Alibaba-NLP/gte-multilingual-base"]
 
 def auto_eval_model(dir_name, num_overlaps, top_k):
     ner_dict = load_ner_json_to_dict("cn_sv_dict.json")
