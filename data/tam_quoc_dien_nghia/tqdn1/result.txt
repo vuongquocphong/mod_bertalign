@@ -1,0 +1,45 @@
+COMPARISON BETWEEN DIFFERENT EMBEDDINGS MODELS
+
+Data used: tqdn1 (first 10 chapters)
+
+--------------------
+Timestamp: 14:50:03
+Time taken: 0:22:21.243477
+Model: all-MPNet-base-v2
+Max align param: 5
+Golden size: 2129
+Alignments size: 1463
+Precision: 0.20369104579630895
+Recall: 0.13997181775481446
+F1: 0.16592427616926503
+--------------------
+Timestamp: 15:26:28
+Time taken: 0:16:16.025904
+Model: paraphrase-multilingual-mpnet-base-v2
+Max align param: 5
+Golden size: 2129
+Alignments size: 2203
+Precision: 0.8125283704039945
+Recall: 0.8407703147017379
+F1: 0.8264081255771005
+--------------------
+Timestamp: 15:44:21
+Time taken: 0:13:18.121273
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 5
+Golden size: 2129
+Alignments size: 2080
+Precision: 0.9043269230769231
+Recall: 0.8835133865664632
+F1: 0.8937990021382752
+--------------------
+Timestamp: 17:57:21
+Time taken: 0:24:38.447317
+Model: LaBSE
+Max align param: 5
+Golden size: 2129
+Alignments size: 2133
+Precision: 0.9896858884200657
+Recall: 0.99154532644434
+F1: 0.9906147348662601
+--------------------

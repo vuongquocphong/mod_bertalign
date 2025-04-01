@@ -1,0 +1,254 @@
+Timestamp: 18:56:07
+Time taken: 0:24:24.263993
+Model: LaBSE
+Max align param: 5
+Golden size: 2081
+Alignments size: 2083
+Precision: 0.9947191550648103
+Recall: 0.9956751561749159
+F1: 0.9951969260326609
+--------------------
+Timestamp: 19:39:52
+Time taken: 0:30:05.039373
+Model: all-MPNet-base-v2
+Max align param: 5
+Golden size: 2081
+Alignments size: 1383
+Precision: 0.17859725234996385
+Recall: 0.11869293608841903
+F1: 0.1426096997690531
+--------------------
+Timestamp: 20:16:36
+Time taken: 0:22:59.590423
+Model: paraphrase-multilingual-mpnet-base-v2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2161
+Precision: 0.7917630726515502
+Recall: 0.822200864968765
+F1: 0.8066949552098067
+--------------------
+Timestamp: 20:44:56
+Time taken: 0:12:45.706772
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 14:18:34
+Time taken: 0:08:19.826999
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 4
+Golden size: 2081
+Alignments size: 2071
+Precision: 0.9077740222114921
+Recall: 0.9034118212397886
+F1: 0.905587668593449
+--------------------
+Timestamp: 14:38:09
+Time taken: 0:11:40.155741
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 15:02:21
+Time taken: 0:15:45.055377
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 6
+Golden size: 2081
+Alignments size: 2025
+Precision: 0.9150617283950617
+Recall: 0.8904372897645363
+F1: 0.9025815879201169
+--------------------
+Timestamp: 15:26:55
+Time taken: 0:15:30.304339
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 7
+Golden size: 2081
+Alignments size: 2025
+Precision: 0.9145679012345679
+Recall: 0.8899567515617491
+F1: 0.9020944958597175
+--------------------
+Timestamp: 15:53:14
+Time taken: 0:18:23.998217
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 8
+Golden size: 2081
+Alignments size: 2024
+Precision: 0.9150197628458498
+Recall: 0.8899567515617491
+F1: 0.90231425091352
+--------------------
+Timestamp: 16:24:00
+Time taken: 0:22:17.272715
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 9
+Golden size: 2081
+Alignments size: 2024
+Precision: 0.9150197628458498
+Recall: 0.8899567515617491
+F1: 0.90231425091352
+--------------------
+Timestamp: 18:18:12
+Time taken: 0:08:38.681329
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 18:32:08
+Time taken: 0:08:40.473022
+Model: distiluse-base-multilingual-cased-v2
+Top k: 3
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 18:46:11
+Time taken: 0:08:26.343885
+Model: distiluse-base-multilingual-cased-v2
+Top k: 4
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 19:00:01
+Time taken: 0:08:23.275700
+Model: distiluse-base-multilingual-cased-v2
+Top k: 5
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 19:14:04
+Time taken: 0:08:19.796063
+Model: distiluse-base-multilingual-cased-v2
+Top k: 6
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 19:28:02
+Time taken: 0:08:30.530807
+Model: distiluse-base-multilingual-cased-v2
+Top k: 7
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 22:30:04
+Time taken: 0:20:41.402214
+Model: paraphrase-multilingual-mpnet-base-v2
+Top k: 2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2161
+Precision: 0.7917630726515502
+Recall: 0.822200864968765
+F1: 0.8066949552098067
+--------------------
+Timestamp: 23:00:19
+Time taken: 0:13:09.489889
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 10:44:40
+Time taken: 0:09:26.000715
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 11:13:40
+Time taken: 0:09:57.011146
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 11:48:52
+Time taken: 0:08:53.915087
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------
+Timestamp: 12:08:49
+Time taken: 0:12:58.497628
+Model: distiluse-base-multilingual-cased-v2
+Top k: 10
+Max align param: 6
+Golden size: 2081
+Alignments size: 2024
+Precision: 0.916501976284585
+Recall: 0.8913983661701105
+F1: 0.9037758830694275
+--------------------
+Timestamp: 12:23:28
+Time taken: 0:07:15.209943
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 4
+Golden size: 2081
+Alignments size: 2071
+Precision: 0.9077740222114921
+Recall: 0.9034118212397886
+F1: 0.905587668593449
+--------------------
+Timestamp: 21:14:25
+Time taken: 0:12:41.911791
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2081
+Alignments size: 2036
+Precision: 0.9169941060903732
+Recall: 0.897164824603556
+F1: 0.9069710954578576
+--------------------

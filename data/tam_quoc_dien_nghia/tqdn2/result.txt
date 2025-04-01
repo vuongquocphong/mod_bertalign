@@ -1,0 +1,128 @@
+Timestamp: 19:23:09
+Time taken: 0:17:50.067032
+Model: LaBSE
+Max align param: 5
+Golden size: 2016
+Alignments size: 1997
+Precision: 0.985478217325989
+Recall: 0.9761904761904762
+F1: 0.9808123598305506
+--------------------
+Timestamp: 19:59:29
+Time taken: 0:26:51.739469
+Model: all-MPNet-base-v2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1358
+Precision: 0.26435935198821797
+Recall: 0.17807539682539683
+F1: 0.2128037937166568
+--------------------
+Timestamp: 20:32:02
+Time taken: 0:20:45.629232
+Model: paraphrase-multilingual-mpnet-base-v2
+Max align param: 5
+Golden size: 2016
+Alignments size: 2073
+Precision: 0.8229618909792571
+Recall: 0.8462301587301587
+F1: 0.834433846906334
+--------------------
+Timestamp: 20:53:08
+Time taken: 0:09:32.065579
+Model: distiluse-base-multilingual-cased-v2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1958
+Precision: 0.924923391215526
+Recall: 0.8983134920634921
+F1: 0.9114242576748868
+--------------------
+Timestamp: 22:09:24
+Time taken: 0:09:59.739884
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1958
+Precision: 0.924923391215526
+Recall: 0.8983134920634921
+F1: 0.9114242576748868
+--------------------
+Timestamp: 22:48:04
+Time taken: 0:17:47.861595
+Model: distiluse-base-multilingual-cased-v2
+Top k: 2
+Max align param: 6
+Golden size: 2016
+Alignments size: 1955
+Precision: 0.9248081841432225
+Recall: 0.8968253968253969
+F1: 0.9106018635104508
+--------------------
+Timestamp: 11:15:27
+Time taken: 0:08:32.585850
+Model: distiluse-base-multilingual-cased-v2
+Top k: 10
+Max align param: 5
+Golden size: 2016
+Alignments size: 1958
+Precision: 0.924923391215526
+Recall: 0.8983134920634921
+F1: 0.9114242576748868
+--------------------
+Timestamp: 14:55:27
+Time taken: 0:58:15.360576
+Model: intfloat/multilingual-e5-large
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1968
+Precision: 0.9395325203252033
+Recall: 0.9171626984126984
+F1: 0.9282128514056224
+--------------------
+Timestamp: 22:15:16
+Time taken: 1:04:26.302023
+Model: Alibaba-NLP/gte-modernbert-base
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 2792
+Precision: 0.11855300859598854
+Recall: 0.16418650793650794
+F1: 0.13768718801996674
+--------------------
+Timestamp: 21:05:37
+Time taken: 0:08:16.770543
+Model: sentence-transformers/clip-ViT-B-32-multilingual-v1
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 3317
+Precision: 0.17636418450406993
+Recall: 0.29017857142857145
+F1: 0.21938871179448713
+--------------------
+Timestamp: 21:49:19
+Time taken: 0:21:05.331335
+Model: Alibaba-NLP/gte-multilingual-base
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1992
+Precision: 0.9467871485943775
+Recall: 0.935515873015873
+F1: 0.9411177644710579
+--------------------
+Timestamp: 15:34:15
+Time taken: 0:03:27.054951
+Model: sentence-transformers/all-MiniLM-L6-v2
+Top k: 2
+Max align param: 5
+Golden size: 2016
+Alignments size: 1559
+Precision: 0.18473380372033354
+Recall: 0.14285714285714285
+F1: 0.16111888111888112
+--------------------
