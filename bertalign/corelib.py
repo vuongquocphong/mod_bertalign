@@ -44,8 +44,8 @@ def second_pass_align(src_vecs,
         src_vecs: numpy array of shape (max_align-1, num_src_sents, embedding_size).
         tgt_vecs: numpy array of shape (max_align-1, num_tgt_sents, embedding_size).
 
-        src_ner: numpy array of shape (max_align-1, num_src_sents).
-        tgt_ner: numpy array of shape (max_align-1, num_tgt_sents).
+        src_ner: array of shape (max_align-1, num_src_sents).
+        tgt_ner: array of shape (max_align-1, num_tgt_sents).
 
         src_lens: numpy array of shape (max_align-1, num_src_sents).
         tgt_lens: numpy array of shape (max_align-1, num_tgt_sents).

@@ -63,8 +63,8 @@ class Bertalign:
         tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1)
 
         # Extract NER entities from source and target text
-        src_ner = []
-        tgt_ner = []
+        src_ner = [[[] for _ in range(src_num)] for _ in range(self.max_align - 1)]
+        tgt_ner = [[[] for _ in range(tgt_num)] for _ in range(self.max_align - 1)]
         ########################################################################
 
         # Length ratio for further length penalty
