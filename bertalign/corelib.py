@@ -3,6 +3,7 @@ import faiss
 import numpy as np
 import numba as nb
 from sys import platform
+from utils import DICTIONARY
 
 def second_back_track(i, j, pointers, search_path, a_types):
     alignment = []
@@ -24,6 +25,8 @@ def second_back_track(i, j, pointers, search_path, a_types):
 @nb.jit(nopython=True, fastmath=True, cache=True)
 def second_pass_align(src_vecs,
                       tgt_vecs,
+                      src_ner,
+                      tgt_ner,
                       src_lens,
                       tgt_lens,
                       w,
@@ -31,20 +34,32 @@ def second_pass_align(src_vecs,
                       align_types,
                       char_ratio,
                       skip,
+                      alpha,
                       margin=False,
-                      len_penalty=False):
+                      len_penalty=False,
+                      ner_penalty=False):
     """
     Perform the second-pass alignment to extract m-n bitext segments.
     Args:
         src_vecs: numpy array of shape (max_align-1, num_src_sents, embedding_size).
         tgt_vecs: numpy array of shape (max_align-1, num_tgt_sents, embedding_size).
+
+        src_ner: numpy array of shape (max_align-1, num_src_sents).
+        tgt_ner: numpy array of shape (max_align-1, num_tgt_sents).
+
         src_lens: numpy array of shape (max_align-1, num_src_sents).
         tgt_lens: numpy array of shape (max_align-1, num_tgt_sents).
+
         w: int. Predefined window size for the second-pass alignment.
         search_path: numpy array. Second-pass alignment search path.
+
         align_types: numpy array. Second-pass alignment types.
+
         char_ratio: float. Source to target length ratio.
+
         skip: float. Cost for instertion and deletion.
+        alpha: float. Weight for ner penalty.
+
         margin: boolean. True if choosing modified cosine similarity score.
     Returns:
         pointers: numpy array recording best alignments for each DP cell.
@@ -90,6 +105,12 @@ def second_pass_align(src_vecs,
                         penalty = calculate_length_penalty(src_lens, tgt_lens, i, j,
                                                            a_1, a_2, char_ratio)
                         cur_score *= penalty
+
+                    # NER penalty
+                    if ner_penalty:
+                        penalty = calculate_ner_penalty(src_ner, tgt_ner, i, j, a_1, a_2)
+                        if penalty != -1:
+                            cur_score = alpha * cur_score + (1.0 - alpha) * penalty
         
                 score += cur_score
                 if score > best_score:
@@ -194,6 +215,35 @@ def calculate_length_penalty(src_lens,
 @nb.jit(nopython=True, fastmath=True, cache=True)
 def nb_dot(x, y):
     return np.dot(x,y)
+
+#################################################################################
+@nb.jit(nopython=False, fastmath=True, cache=True)
+def calculate_ner_penalty(src_ner, tgt_ner, src_idx, tgt_idx, src_overlap, tgt_overlap):
+    """
+    Calculate the ner-based similarity score of bitext segment.
+    Args:
+        src_ner: list of tuples. Source NER entities.
+        tgt_ner: list of tuples. Target NER entities.
+        src_idx: int. Source sentence index.
+        tgt_idx: int. Target sentence index.
+        src_overlap: int. Number of sentences in source segment.
+        tgt_overlap: int. Number of sentences in target segment.
+    """
+    
+    # Get the NER entities for the current source and target segments
+    src_ne = src_ner[src_overlap - 1][src_idx - 1]
+    tgt_ne = tgt_ner[tgt_overlap - 1][tgt_idx - 1]
+
+    # If there are no NER entities in either segment, return -1
+    if not src_ne and not tgt_ne:
+        return -1
+    
+    # If NER entities are empty in one side, return 0
+    if not src_ne or not tgt_ne:
+        return 0
+    
+    return DICTIONARY.calculate_matching(src_ne, tgt_ne)
+##################################################################################
 
 def find_second_search_path(align, w, src_len, tgt_len):
     """
