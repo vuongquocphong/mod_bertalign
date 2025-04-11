@@ -290,6 +290,10 @@ import pandas as pd
 
 def _load_dictionary(dictionary_path: str) -> dict:
 
+	if not dictionary_path or len(dictionary_path) == 0:
+		print('Dictionary path is empty.')
+		return {}
+
 	data = pd.read_excel(dictionary_path, usecols=[0, 1], header=0)
 
 	result_dict = {}
