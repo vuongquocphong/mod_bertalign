@@ -8,7 +8,8 @@ from eval_alignments import eval
 # list_model = ["sentence-transformers/clip-ViT-B-32-multilingual-v1"]
 # list_model = ["Alibaba-NLP/gte-multilingual-base"]
 # list_model = ["sentence-transformers/all-MiniLM-L6-v2"]
-list_model = ["sentence-transformers/sentence-t5-large"]
+# list_model = ["sentence-transformers/sentence-t5-large"]
+list_model = ["LaBSE"]
 
 def auto_eval_model(dir_name, num_overlaps, top_k):
     ner_dict = load_ner_json_to_dict("cn_sv_dict.json")

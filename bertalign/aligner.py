@@ -94,9 +94,7 @@ class Bertalign:
         D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
         first_alignment_types = get_alignment_types(2) # 0-1, 1-0, 1-1
         first_w, first_path = find_first_search_path(self.src_num, self.tgt_num)
-        src_keys = list(self.ner_dict.keys())
-        tgt_keys = list(self.ner_dict.values())
-        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents, src_keys=src_keys, tgt_keys=tgt_keys)
+        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I)
         first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
         
         print("Performing second-step alignment ...")

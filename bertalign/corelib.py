@@ -3,7 +3,7 @@ import faiss
 import numpy as np
 import numba as nb
 from sys import platform
-from utils import DICTIONARY
+from bertalign.utils import *
 
 def second_back_track(i, j, pointers, search_path, a_types):
     alignment = []
@@ -22,7 +22,7 @@ def second_back_track(i, j, pointers, search_path, a_types):
         if i == 0 and j == 0:
             return alignment[::-1]
 
-@nb.jit(nopython=True, fastmath=True, cache=True)
+# @nb.jit(nopython=False, fastmath=True, cache=True)
 def second_pass_align(src_vecs,
                       tgt_vecs,
                       src_ner,
@@ -67,8 +67,8 @@ def second_pass_align(src_vecs,
     # Intialize cost and backpointer matrix
     src_len = src_vecs.shape[1]
     tgt_len = tgt_vecs.shape[1]
-    cost = np.zeros((src_len + 1, w), dtype=nb.float32)
-    pointers = np.zeros((src_len + 1, w), dtype=nb.uint8)
+    cost = np.zeros((src_len + 1, w), dtype=np.float32)
+    pointers = np.zeros((src_len + 1, w), dtype=np.uint8)
   
     for i in range(src_len + 1):
         i_start = search_path[i][0]
@@ -217,7 +217,6 @@ def nb_dot(x, y):
     return np.dot(x,y)
 
 #################################################################################
-@nb.jit(nopython=False, fastmath=True, cache=True)
 def calculate_ner_penalty(src_ner, tgt_ner, src_idx, tgt_idx, src_overlap, tgt_overlap):
     """
     Calculate the ner-based similarity score of bitext segment.
@@ -324,10 +323,6 @@ def first_pass_align(src_len,
                      align_types,
                      dist,
                      index,
-                     src_sents,
-                     tgt_sents,
-                     src_keys,
-                     tgt_keys,
                      ):
     """
     Perform the first-pass alignment to extract only 1-1 bitext segments.
