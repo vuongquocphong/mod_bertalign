@@ -8,11 +8,11 @@ def get_ner_zh(sentence: str):
 
     prompt = f"""
     You are a Classical Chinese Named Entity Recognition (NER) model in historical domain.
-    Given the sentence below, identify the named entities and their types.
+    Given the sentence below, identify the named entities. Focus on PERSON, LOCATION, ORGANIZATION, and POSITION.
     THE OUTPUT FORMAT IS JSON.
     BELOW IS AN EXAMPLE:
     Sentence: "玄 德 曰 ： “ 不 如 走 樊 城 以 避 之 。 ”"
-    Output: {{"entities":  [["玄", "德"], ["樊", "城"]]}}
+    Output: {{"entities":  ["玄德", "樊城"]}}
     Each entity is a list of characters that form a named entity.
     NO OTHER TEXT, JUST THE JSON OUTPUT.
     Sentence: "{' '.join(sentence)}"
@@ -33,7 +33,13 @@ def get_ner_zh(sentence: str):
         response_dict = json.loads(response_text)
         # Check if 'entities' key exists in the response
         if 'entities' in response_dict:
-            return response_dict['entities']
+            res_list = []
+            for entity in response_dict['entities']:
+                char_list = []
+                for char in entity:
+                    char_list.append(char)
+                res_list.append(char_list)
+            return res_list
         else:
             raise ValueError("Invalid response format")
     except (ValueError, SyntaxError):
@@ -50,7 +56,7 @@ def get_ner_vn(sentence: str):
     THE OUTPUT FORMAT IS JSON.
     BELOW IS AN EXAMPLE:
     Sentence: "Đến khi nhà Tần mất, thì Hán Sở tranh hùng rồi sau thiên hạ lại hợp về tay nhà Hán."
-    Output: {{"entities":  [["Tần"], ["Hán", "Sở"], ["Hán"]]}}
+    Output: {{"entities":  ["Tần", "Hán Sở", "Hán"]}}
     Each entity is a list of words that form a named entity.
     NO OTHER TEXT, JUST THE JSON OUTPUT.
     Sentence: "{sentence}"
@@ -71,7 +77,11 @@ def get_ner_vn(sentence: str):
         response_dict = json.loads(response_text)
         # Check if 'entities' key exists in the response
         if 'entities' in response_dict:
-            return response_dict['entities']
+            res_list = []
+            for entity in response_dict['entities']:
+                char_list = entity.split(" ")
+                res_list.append(char_list)
+            return res_list
         else:
             raise ValueError("Invalid response format")
     except (ValueError, SyntaxError):
@@ -85,11 +95,11 @@ def get_ner_zh_deepseek(sentence: str):
     
     prompt = f"""
     You are a Classical Chinese Named Entity Recognition (NER) model in historical domain.
-    Given the sentence below, identify the named entities and their types.
+    Given the sentence below, identify the named entities. Focus on PERSON, LOCATION, ORGANIZATION, and POSITION.
     THE OUTPUT FORMAT IS JSON.
     BELOW IS AN EXAMPLE:
     Sentence: "玄 德 曰 ： “ 不 如 走 樊 城 以 避 之 。 ”"
-    Output: {{"entities":  [["玄", "德"], ["樊", "城"]]}}
+    Output: {{"entities":  ["玄德", "樊城"]}}
     Each entity is a list of characters that form a named entity.
     NO OTHER TEXT, JUST THE JSON OUTPUT.
     NO ``` MARKDOWN CODE BLOCKS.
@@ -109,7 +119,13 @@ def get_ner_zh_deepseek(sentence: str):
         response_dict = json.loads(response_text)
         # Check if 'entities' key exists in the response
         if 'entities' in response_dict:
-            return response_dict['entities']
+            res_list = []
+            for entity in response_dict['entities']:
+                char_list = []
+                for char in entity:
+                    char_list.append(char)
+                res_list.append(char_list)
+            return res_list
         else:
             raise ValueError("Invalid response format")
     except (ValueError, SyntaxError):
