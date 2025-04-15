@@ -1,6 +1,10 @@
 import os
 import openai
 import json
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 def get_ner_zh(sentence: str):
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
