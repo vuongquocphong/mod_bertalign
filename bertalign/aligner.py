@@ -1,6 +1,6 @@
 import numpy as np
 
-from bertalign import model
+from bertalign import model, translator
 from bertalign.corelib import *
 from bertalign.utils import *
 
@@ -50,6 +50,8 @@ class Bertalign:
         src_num = len(src_sents)
         tgt_num = len(tgt_sents)
         
+        translated_src_snts = []
+        
         # Detect language of source and target text
         src_lang = LANG.ISO[src_lang]
         tgt_lang = LANG.ISO[tgt_lang]
@@ -83,10 +85,17 @@ class Bertalign:
         self.char_ratio = char_ratio
         self.src_vecs = src_vecs
         self.tgt_vecs = tgt_vecs
-
+        
         # New NER attributes
         self.src_ner = src_ner
         self.tgt_ner = tgt_ner
+        
+        self.translated_src_sents = []
+    
+    def translate_src_snt(snt: str):
+        # Translate a sentence from Chinese to VNese using The Anh's API
+        # TODO: Implement the translation logic
+        return "Example of translated sentence"
 
     def align_sents(self):
         
