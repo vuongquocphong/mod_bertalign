@@ -11,7 +11,6 @@ class Encoder:
     def transform(self, sents, num_overlaps):
         overlaps = []
         for line in yield_overlaps(sents, num_overlaps):
-        for line in yield_overlaps(sents, num_overlaps):
             overlaps.append(line)
 
         sent_vecs = self.model.encode(overlaps)
