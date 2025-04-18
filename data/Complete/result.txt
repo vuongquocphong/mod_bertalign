@@ -9,7 +9,7 @@ Precision: 0.9234972677595629
 Recall: 0.9135135135135135
 F1: 0.9184782608695653
 --------------------
-==Translate the source then align and remap===
-Precision: 0.8978494623655914
-Recall: 0.9027027027027027
+Translate the source then align
+Precision 0.9459459459459459
+Recall 0.9459459459459459
 --------------------

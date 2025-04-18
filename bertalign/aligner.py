@@ -7,6 +7,7 @@ from bertalign.utils import *
 class Bertalign:
     def __init__(self,
                  src,
+                 translated_src,
                  tgt,
                  model = model,
                  max_align=5,
@@ -41,6 +42,7 @@ class Bertalign:
         # Split sentences in both source and target text
         if is_split:
             src_sents = src.splitlines()
+            translated_src_sents = translated_src.splitlines() 
             tgt_sents = tgt.splitlines()
         else:
             src_sents = split_sents(src, src_lang)
@@ -49,8 +51,6 @@ class Bertalign:
         # Get number of sentences in source and target text
         src_num = len(src_sents)
         tgt_num = len(tgt_sents)
-        
-        translated_src_snts = []
         
         # Detect language of source and target text
         src_lang = LANG.ISO[src_lang]
@@ -62,6 +62,7 @@ class Bertalign:
         # Transform sentences into vectors using the sentence embedding model
         print("Embedding source and target text using {} ...".format(self.model.model_name))
         src_vecs, src_lens = self.model.transform(src_sents, max_align - 1)
+        translated_src_vecs, translated_src_lens = self.model.transform(translated_src_sents, max_align - 1)
         tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1)
 
         # Extract NER entities from source and target text
@@ -77,30 +78,26 @@ class Bertalign:
         self.src_lang = src_lang
         self.tgt_lang = tgt_lang
         self.src_sents = src_sents
+        self.translated_src_sents = translated_src_sents
         self.tgt_sents = tgt_sents
         self.src_num = src_num
         self.tgt_num = tgt_num
         self.src_lens = src_lens
         self.tgt_lens = tgt_lens
+        self.translated_src_lens = translated_src_lens
         self.char_ratio = char_ratio
         self.src_vecs = src_vecs
+        self.translated_src_vecs = translated_src_vecs
         self.tgt_vecs = tgt_vecs
         
         # New NER attributes
         self.src_ner = src_ner
         self.tgt_ner = tgt_ner
-        
-        self.translated_src_sents = []
-    
-    def translate_src_snt(snt: str):
-        # Translate a sentence from Chinese to VNese using The Anh's API
-        # TODO: Implement the translation logic
-        return "Example of translated sentence"
 
     def align_sents(self):
         
         print("Performing first-step alignment ...")
-        D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
+        D, I = find_top_k_sents(self.translated_src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
         first_alignment_types = get_alignment_types(2) # 0-1, 1-0, 1-1
         first_w, first_path = find_first_search_path(self.src_num, self.tgt_num)
         first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I)
@@ -112,7 +109,7 @@ class Bertalign:
         # second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_lens, self.tgt_lens,
         #                                     second_w, second_path, second_alignment_types,
         #                                     self.char_ratio, self.skip, margin=self.margin, len_penalty=self.len_penalty)
-        second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_ner,  self.tgt_ner, self.src_lens, self.tgt_lens,
+        second_pointers = second_pass_align(self.translated_src_vecs, self.tgt_vecs, self.src_ner,  self.tgt_ner, self.translated_src_lens, self.tgt_lens,
                                             second_w, second_path, second_alignment_types,
                                             self.char_ratio, self.skip, self.alpha, margin=self.margin, len_penalty=self.len_penalty, ner_penalty=self.ner_penalty)
         second_alignment = second_back_track(self.src_num, self.tgt_num, second_pointers, second_path, second_alignment_types)
