@@ -4,110 +4,110 @@ from sentence_splitter import SentenceSplitter
 from underthesea import sent_tokenize
 
 def clean_text(text):
-	clean_text = []
-	text = text.strip()
-	lines = text.splitlines()
-	for line in lines:
-		line = line.strip()
-		if line:
-			line = re.sub('\s+', ' ', line)
-			clean_text.append(line)
-	return "\n".join(clean_text)
-	
+    clean_text = []
+    text = text.strip()
+    lines = text.splitlines()
+    for line in lines:
+        line = line.strip()
+        if line:
+            line = re.sub('\s+', ' ', line)
+            clean_text.append(line)
+    return "\n".join(clean_text)
+    
 def detect_lang(text):
-	translator = Translator(service_urls=[
-	  'translate.google.com.hk',
-	])
-	max_len = 200
-	chunk = text[0 : min(max_len, len(text))]
-	lang = translator.detect(chunk).lang
-	if lang.startswith('zh'):
-		lang = 'zh'
-	return lang
+    translator = Translator(service_urls=[
+      'translate.google.com.hk',
+    ])
+    max_len = 200
+    chunk = text[0 : min(max_len, len(text))]
+    lang = translator.detect(chunk).lang
+    if lang.startswith('zh'):
+        lang = 'zh'
+    return lang
 
 def split_sents(text, lang):
-	if lang in LANG.SPLITTER:
-		if lang == 'zh':
-			sents = _split_zh(text)
-		elif lang == 'vi':
-			sents = sent_tokenize(text)
-		else:
-			splitter = SentenceSplitter(language=lang)
-			sents = splitter.split(text=text) 
-			sents = [sent.strip() for sent in sents]
-		return sents
-	else:
-		raise Exception('The language {} is not suppored yet.'.format(LANG.ISO[lang]))
-	
+    if lang in LANG.SPLITTER:
+        if lang == 'zh':
+            sents = _split_zh(text)
+        elif lang == 'vi':
+            sents = sent_tokenize(text)
+        else:
+            splitter = SentenceSplitter(language=lang)
+            sents = splitter.split(text=text) 
+            sents = [sent.strip() for sent in sents]
+        return sents
+    else:
+        raise Exception('The language {} is not suppored yet.'.format(LANG.ISO[lang]))
+    
 def _split_zh(text, limit=1000):
-	sent_list = []
-	text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
-	text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
-	sent_list_ori = text.splitlines()
-	for sent in sent_list_ori:
-		sent = sent.strip()
-		if not sent:
-			continue
-		else:
-			while len(sent) > limit:
-				temp = sent[0:limit]
-				sent_list.append(temp)
-				sent = sent[limit:]
-			sent_list.append(sent)
-	return sent_list
-		
+    sent_list = []
+    text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
+    text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
+    sent_list_ori = text.splitlines()
+    for sent in sent_list_ori:
+        sent = sent.strip()
+        if not sent:
+            continue
+        else:
+            while len(sent) > limit:
+                temp = sent[0:limit]
+                sent_list.append(temp)
+                sent = sent[limit:]
+            sent_list.append(sent)
+    return sent_list
+        
 def yield_overlaps(lines, num_overlaps):
-	lines = [_preprocess_line(line) for line in lines]
-	for overlap in range(1, num_overlaps + 1):
-		for out_line in _layer(lines, overlap):
-			# check must be here so all outputs are unique
-			out_line2 = out_line[:10000]  # limit line so dont encode arbitrarily long sentences
-			yield out_line2
+    lines = [_preprocess_line(line) for line in lines]
+    for overlap in range(1, num_overlaps + 1):
+        for out_line in _layer(lines, overlap):
+            # check must be here so all outputs are unique
+            out_line2 = out_line[:10000]  # limit line so dont encode arbitrarily long sentences
+            yield out_line2
 
 def _layer(lines, num_overlaps, comb=' '):
-	if num_overlaps < 1:
-		raise Exception('num_overlaps must be >= 1')
-	out = ['PAD', ] * min(num_overlaps - 1, len(lines))
-	for ii in range(len(lines) - num_overlaps + 1):
-		out.append(comb.join(lines[ii:ii + num_overlaps]))
-	return out
-	
+    if num_overlaps < 1:
+        raise Exception('num_overlaps must be >= 1')
+    out = ['PAD', ] * min(num_overlaps - 1, len(lines))
+    for ii in range(len(lines) - num_overlaps + 1):
+        out.append(comb.join(lines[ii:ii + num_overlaps]))
+    return out
+    
 def _preprocess_line(line):
-	line = line.strip()
-	if len(line) == 0:
-		line = 'BLANK_LINE'
-	return line
-	
+    line = line.strip()
+    if len(line) == 0:
+        line = 'BLANK_LINE'
+    return line
+    
 class LANG:
-	SPLITTER = {
-		'ca': 'Catalan',
-		'zh': 'Chinese',
-		'cs': 'Czech',
-		'da': 'Danish',
-		'nl': 'Dutch',
-		'en': 'English',
-		'fi': 'Finnish',
-		'fr': 'French',
-		'de': 'German',
-		'el': 'Greek',
-		'hu': 'Hungarian',
-		'is': 'Icelandic',
-		'it': 'Italian',
-		'lt': 'Lithuanian',
-		'lv': 'Latvian',
-		'no': 'Norwegian',
-		'pl': 'Polish',
-		'pt': 'Portuguese',
-		'ro': 'Romanian',
-		'ru': 'Russian',
-		'sk': 'Slovak',
-		'sl': 'Slovenian',
-		'es': 'Spanish',
-		'sv': 'Swedish',
-		'tr': 'Turkish',
-		'vi': 'Vietnamese',
-	}
-	ISO = {
+    SPLITTER = {
+        'ca': 'Catalan',
+        'zh': 'Chinese',
+        'cs': 'Czech',
+        'da': 'Danish',
+        'nl': 'Dutch',
+        'en': 'English',
+        'fi': 'Finnish',
+        'fr': 'French',
+        'de': 'German',
+        'el': 'Greek',
+        'hu': 'Hungarian',
+        'is': 'Icelandic',
+        'it': 'Italian',
+        'lt': 'Lithuanian',
+        'lv': 'Latvian',
+        'no': 'Norwegian',
+        'pl': 'Polish',
+        'pt': 'Portuguese',
+        'ro': 'Romanian',
+        'ru': 'Russian',
+        'sk': 'Slovak',
+        'sl': 'Slovenian',
+        'es': 'Spanish',
+        'sv': 'Swedish',
+        'tr': 'Turkish',
+        'vi': 'Vietnamese',
+    }
+    ISO = {
 		'aa': 'Afar',
 		'ab': 'Abkhaz',
 		'af': 'Afrikaans',
@@ -284,60 +284,4 @@ class LANG:
 		'za': 'Zhuang',
 		'zh': 'Chinese',
 		'zu': 'Zulu',
-	}
-
-import pandas as pd
-
-def _load_dictionary(dictionary_path: str) -> dict:
-
-	if not dictionary_path or len(dictionary_path) == 0:
-		print('Dictionary path is empty.')
-		return {}
-
-	data = pd.read_excel(dictionary_path, usecols=[0, 1], header=0)
-
-	result_dict = {}
-	for _, row in data.iterrows():
-		key = row[0]
-		value = row[1]
-		if key not in result_dict:
-			result_dict[key] = []
-		result_dict[key].append(value)
-	
-	return result_dict
-
-
-dictionary_path = ''
-class DICTIONARY:
-	def __init__(self):
-		self.dictionary_path = dictionary_path
-		
-		# Load the dictionary from the specified path
-		self.ner_dict = _load_dictionary(self.dictionary_path)
-	
-	def check_matching(self, src: list, tgt: list ) -> bool:
-		"""
-		Check if the source and target NER entities match
-		"""
-		if len(src) != len(tgt):
-			return False
-		for src_ne, tgt_ne in zip(src, tgt):
-			if tgt_ne not in self.ner_dict[src_ne]:
-				return False
-		return True
-	
-	def calculate_matching(self, src_nes, tgt_nes):
-		result = 0.0
-		total = len(src_nes) + len(tgt_nes)
-		matched_indices = set()
-
-		for tgt_ne in tgt_nes:
-			for idx, scr_ne in enumerate(src_nes):
-				if idx not in matched_indices and self.check_matching(scr_ne, tgt_ne):
-					result += 2.0
-					matched_indices.add(idx)
-					break
-
-		return result / total if total > 0 else 0.0
-	
-		
+    }

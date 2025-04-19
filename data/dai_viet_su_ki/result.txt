@@ -1,0 +1,7 @@
+Original bertalign
+precision 0.9547244094488189
+recall 0.9509803921568627
+
+Translate src before align
+precision 0.9449901768172888
+recall 0.9431372549019608
