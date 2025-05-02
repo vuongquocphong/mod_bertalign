@@ -1,287 +1,246 @@
+from collections import defaultdict
+from itertools import chain
 import re
-from googletrans import Translator
+import requests
 from sentence_splitter import SentenceSplitter
 from underthesea import sent_tokenize
 
 def clean_text(text):
-    clean_text = []
-    text = text.strip()
-    lines = text.splitlines()
-    for line in lines:
-        line = line.strip()
-        if line:
-            line = re.sub('\s+', ' ', line)
-            clean_text.append(line)
-    return "\n".join(clean_text)
-    
-def detect_lang(text):
-    translator = Translator(service_urls=[
-      'translate.google.com.hk',
-    ])
-    max_len = 200
-    chunk = text[0 : min(max_len, len(text))]
-    lang = translator.detect(chunk).lang
-    if lang.startswith('zh'):
-        lang = 'zh'
-    return lang
-
+	clean_text = []
+	text = text.strip()
+	lines = text.splitlines()
+	for line in lines:
+		line = line.strip()
+		if line:
+			line = re.sub('\s+', ' ', line)
+			clean_text.append(line)
+	return "\n".join(clean_text)
+	
 def split_sents(text, lang):
-    if lang in LANG.SPLITTER:
-        if lang == 'zh':
-            sents = _split_zh(text)
-        elif lang == 'vi':
-            sents = sent_tokenize(text)
-        else:
-            splitter = SentenceSplitter(language=lang)
-            sents = splitter.split(text=text) 
-            sents = [sent.strip() for sent in sents]
-        return sents
-    else:
-        raise Exception('The language {} is not suppored yet.'.format(LANG.ISO[lang]))
-    
+	if lang == 'zh':
+		sents = _split_zh(text)
+	else:
+		sents = sent_tokenize(text)
+		sents = [sent.strip() for sent in sents]
+	return sents
+	
 def _split_zh(text, limit=1000):
-    sent_list = []
-    text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
-    text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
-    sent_list_ori = text.splitlines()
-    for sent in sent_list_ori:
-        sent = sent.strip()
-        if not sent:
-            continue
-        else:
-            while len(sent) > limit:
-                temp = sent[0:limit]
-                sent_list.append(temp)
-                sent = sent[limit:]
-            sent_list.append(sent)
-    return sent_list
-        
+	sent_list = []
+	text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
+	text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
+	sent_list_ori = text.splitlines()
+	for sent in sent_list_ori:
+		sent = sent.strip()
+		if not sent:
+			continue
+		else:
+			while len(sent) > limit:
+				temp = sent[0:limit]
+				sent_list.append(temp)
+				sent = sent[limit:]
+			sent_list.append(sent)
+	return sent_list
+		
 def yield_overlaps(lines, num_overlaps):
-    lines = [_preprocess_line(line) for line in lines]
-    for overlap in range(1, num_overlaps + 1):
-        for out_line in _layer(lines, overlap):
-            # check must be here so all outputs are unique
-            out_line2 = out_line[:10000]  # limit line so dont encode arbitrarily long sentences
-            yield out_line2
+	lines = [_preprocess_line(line) for line in lines]
+	for overlap in range(1, num_overlaps + 1):
+		for out_line in _layer(lines, overlap):
+			# check must be here so all outputs are unique
+			out_line2 = out_line[:10000]  # limit line so dont encode arbitrarily long sentences
+			yield out_line2
 
 def _layer(lines, num_overlaps, comb=' '):
-    if num_overlaps < 1:
-        raise Exception('num_overlaps must be >= 1')
-    out = ['PAD', ] * min(num_overlaps - 1, len(lines))
-    for ii in range(len(lines) - num_overlaps + 1):
-        out.append(comb.join(lines[ii:ii + num_overlaps]))
-    return out
-    
+	if num_overlaps < 1:
+		raise Exception('num_overlaps must be >= 1')
+	out = ['PAD', ] * min(num_overlaps - 1, len(lines))
+	for ii in range(len(lines) - num_overlaps + 1):
+		out.append(comb.join(lines[ii:ii + num_overlaps]))
+	return out
+	
 def _preprocess_line(line):
-    line = line.strip()
-    if len(line) == 0:
-        line = 'BLANK_LINE'
-    return line
-    
-class LANG:
-    SPLITTER = {
-        'ca': 'Catalan',
-        'zh': 'Chinese',
-        'cs': 'Czech',
-        'da': 'Danish',
-        'nl': 'Dutch',
-        'en': 'English',
-        'fi': 'Finnish',
-        'fr': 'French',
-        'de': 'German',
-        'el': 'Greek',
-        'hu': 'Hungarian',
-        'is': 'Icelandic',
-        'it': 'Italian',
-        'lt': 'Lithuanian',
-        'lv': 'Latvian',
-        'no': 'Norwegian',
-        'pl': 'Polish',
-        'pt': 'Portuguese',
-        'ro': 'Romanian',
-        'ru': 'Russian',
-        'sk': 'Slovak',
-        'sl': 'Slovenian',
-        'es': 'Spanish',
-        'sv': 'Swedish',
-        'tr': 'Turkish',
-        'vi': 'Vietnamese',
-    }
-    ISO = {
-		'aa': 'Afar',
-		'ab': 'Abkhaz',
-		'af': 'Afrikaans',
-		'ak': 'Akan',
-		'am': 'Amharic',
-		'an': 'Aragonese',
-		'ar': 'Arabic',
-		'as': 'Assamese',
-		'av': 'Avaric',
-		'ay': 'Aymara',
-		'az': 'Azerbaijani',
-		'ba': 'Bashkir',
-		'be': 'Belarusian',
-		'bg': 'Bulgarian',
-		'bh': 'Bihari',
-		'bi': 'Bislama',
-		'bm': 'Bambara',
-		'bn': 'Bengali',
-		'bo': 'Tibetan',
-		'br': 'Breton',
-		'bs': 'Bosnian',
-		'ca': 'Catalan',
-		'ce': 'Chechen',
-		'ch': 'Chamorro',
-		'co': 'Corsican',
-		'cr': 'Cree',
-		'cs': 'Czech',
-		'cv': 'Chuvash',
-		'cy': 'Welsh',
-		'da': 'Danish',
-		'de': 'German',
-		'dv': 'Divehi',
-		'dz': 'Dzongkha',
-		'ee': 'Ewe',
-		'el': 'Greek',
-		'en': 'English',
-		'es': 'Spanish',
-		'et': 'Estonian',
-		'eu': 'Basque',
-		'fa': 'Persian',
-		'ff': 'Fula',
-		'fi': 'Finnish',
-		'fj': 'Fijian',
-		'fo': 'Faroese',
-		'fr': 'French',
-		'fy': 'Western Frisian',
-		'ga': 'Irish',
-		'gd': 'Scottish Gaelic',
-		'gl': 'Galician',
-		'gn': 'Guaraní',
-		'gu': 'Gujarati',
-		'gv': 'Manx',
-		'ha': 'Hausa',
-		'he': 'Hebrew',
-		'hi': 'Hindi',
-		'ho': 'Hiri Motu',
-		'hr': 'Croatian',
-		'ht': 'Haitian',
-		'hu': 'Hungarian',
-		'hy': 'Armenian',
-		'hz': 'Herero',
-		'id': 'Indonesian',
-		'ig': 'Igbo',
-		'ii': 'Nuosu',
-		'ik': 'Inupiaq',
-		'io': 'Ido',
-		'is': 'Icelandic',
-		'it': 'Italian',
-		'iu': 'Inuktitut',
-		'ja': 'Japanese',
-		'jv': 'Javanese',
-		'ka': 'Georgian',
-		'kg': 'Kongo',
-		'ki': 'Kikuyu',
-		'kj': 'Kwanyama',
-		'kk': 'Kazakh',
-		'kl': 'Kalaallisut',
-		'km': 'Khmer',
-		'kn': 'Kannada',
-		'ko': 'Korean',
-		'kr': 'Kanuri',
-		'ks': 'Kashmiri',
-		'ku': 'Kurdish',
-		'kv': 'Komi',
-		'kw': 'Cornish',
-		'ky': 'Kyrgyz',
-		'lb': 'Luxembourgish',
-		'lg': 'Ganda',
-		'li': 'Limburgish',
-		'ln': 'Lingala',
-		'lo': 'Lao',
-		'lt': 'Lithuanian',
-		'lu': 'Luba-Katanga',
-		'lv': 'Latvian',
-		'mg': 'Malagasy',
-		'mh': 'Marshallese',
-		'mi': 'Māori',
-		'mk': 'Macedonian',
-		'ml': 'Malayalam',
-		'mn': 'Mongolian',
-		'mr': 'Marathi',
-		'ms': 'Malay',
-		'mt': 'Maltese',
-		'my': 'Burmese',
-		'na': 'Nauru',
-		'nb': 'Norwegian Bokmål',
-		'nd': 'North Ndebele',
-		'ne': 'Nepali',
-		'ng': 'Ndonga',
-		'nl': 'Dutch',
-		'nn': 'Norwegian Nynorsk',
-		'no': 'Norwegian',
-		'nr': 'South Ndebele',
-		'nv': 'Navajo',
-		'ny': 'Chichewa',
-		'oc': 'Occitan',
-		'oj': 'Ojibwe',
-		'om': 'Oromo',
-		'or': 'Oriya',
-		'os': 'Ossetian',
-		'pa': 'Panjabi',
-		'pl': 'Polish',
-		'ps': 'Pashto',
-		'pt': 'Portuguese',
-		'qu': 'Quechua',
-		'rm': 'Romansh',
-		'rn': 'Kirundi',
-		'ro': 'Romanian',
-		'ru': 'Russian',
-		'rw': 'Kinyarwanda',
-		'sa': 'Sanskrit',
-		'sc': 'Sardinian',
-		'sd': 'Sindhi',
-		'se': 'Northern Sami',
-		'sg': 'Sango',
-		'si': 'Sinhala',
-		'sk': 'Slovak',
-		'sl': 'Slovenian',
-		'sm': 'Samoan',
-		'sn': 'Shona',
-		'so': 'Somali',
-		'sq': 'Albanian',
-		'sr': 'Serbian',
-		'ss': 'Swati',
-		'st': 'Southern Sotho',
-		'su': 'Sundanese',
-		'sv': 'Swedish',
-		'sw': 'Swahili',
-		'ta': 'Tamil',
-		'te': 'Telugu',
-		'tg': 'Tajik',
-		'th': 'Thai',
-		'ti': 'Tigrinya',
-		'tk': 'Turkmen',
-		'tl': 'Tagalog',
-		'tn': 'Tswana',
-		'to': 'Tonga',
-		'tr': 'Turkish',
-		'ts': 'Tsonga',
-		'tt': 'Tatar',
-		'tw': 'Twi',
-		'ty': 'Tahitian',
-		'ug': 'Uighur',
-		'uk': 'Ukrainian',
-		'ur': 'Urdu',
-		'uz': 'Uzbek',
-		've': 'Venda',
-		'vi': 'Vietnamese',
-		'wa': 'Walloon',
-		'wo': 'Wolof',
-		'xh': 'Xhosa',
-		'yi': 'Yiddish',
-		'yo': 'Yoruba',
-		'za': 'Zhuang',
-		'zh': 'Chinese',
-		'zu': 'Zulu',
-    }
+	line = line.strip()
+	if len(line) == 0:
+		line = 'BLANK_LINE'
+	return line
+
+###########################################################################
+# UNION PREPARATION
+###########################################################################
+
+def _post_request_to_api( data: str ) -> list[str]:
+	"""
+	Sends a POST request to the specified API.
+
+	:param data: The text need to convert to sino-vietnamese.
+	:return: The list of sino-converted of each sentence.
+	"""
+	url = "https://tools.clc.hcmus.edu.vn/api/web/clc-sinonom/sinonom-transliteration"
+	headers = {"User-Agent":"transform"}
+	payload = {
+		"text": data,
+	}
+
+	try:
+		response = requests.post(url, json=payload, headers=headers, timeout=30)
+		response.raise_for_status()
+
+		response_data = response.json()
+
+		# Get the response data
+		result_text_transcription = response_data.get('data', None)
+
+		if result_text_transcription is None:
+			error_message = response_data.get('message', 'Unknown error')
+			raise ValueError(error_message)
+		
+		result_text_transcription = result_text_transcription.get('result_text_transcription', None)
+
+		# Remove empty strings from the list
+		result_text_transcription = [
+			cleaned_text
+			for text in result_text_transcription
+			if (cleaned_text := _clean_zh_text(text).strip())
+		]
+
+		return result_text_transcription
+	
+	except ValueError as e:
+		print(f"An error occurred: {e}")
+		return None
+
+	except requests.exceptions.RequestException as e:
+		print(f"An error occurred: {e}")
+		return None
+	
+def _clean_zh_text(text: str) -> str:
+    """
+    Cleans the input text by removing unwanted characters.
+
+    :param text: The input text to clean.
+    :return: The cleaned text.
+    """
+    # Define a regex pattern to remove unwanted characters
+    pattern = r"[。！？；：，—“”‘’《》【】（）；,;:.!?]"
+    return re.sub(pattern, '', text)
+
+def _clean_vietnamese_text(text: str) -> str:
+    """
+    Cleans the Vietnamese text by removing unwanted characters.
+
+    :param text: The input text to clean.
+    :return: The cleaned text.
+    """
+    # Define a regex pattern to match Vietnamese sentence marks
+    pattern = r"[.!?；：，—“”‘’\[\]\(\),:;\"]"
+    return re.sub(pattern, ' ', text)
+
+def convert_zh(text: str, overlaps: int):
+	"""
+	Convert the input text to sino-vietnamese using the API.
+
+	:param text: The input text to convert.
+	:return: A list of sino-converted sentences.
+	"""
+
+	converted_sentences = _post_request_to_api(text)
+	if converted_sentences is None:
+		raise Exception("Error in API response.")
+	
+	# Initiate the words list
+	words = [[] for _ in range(overlaps)]
+
+	# First layer
+	words[0].extend(
+		[
+			[word.strip() for word in _clean_zh_text(sentence).split() if word.strip()]
+			for sentence in converted_sentences
+		]
+	)
+
+	num_sent = len(words[0])
+
+	# Remaining layers	  
+	for layer in range(2, overlaps + 1):
+		index = layer - 1
+		for sent in words[layer - 2]:
+			if index >= num_sent: break
+			words[layer - 1].append(sent + words[0][index])
+			index += 1
+	
+	# Add PAD for all layers
+	for layer in range(2, overlaps + 1):
+		words[layer - 1] = [['PAD']] * min( layer - 1, num_sent) + words[layer - 1]
+
+	# Create words length list
+	src_words_len = [[] for _ in range(overlaps)]
+	for layer in range(overlaps):
+		src_words_len[layer] = [len(sent) for sent in words[layer]]
+	
+	return words, src_words_len
+
+def convert_vn(tgt: list[str], overlaps: int) -> list[list[str]]:
+	"""
+	Convert the input text to sino-vietnamese using the API.
+
+	:param text: The input text to convert.
+	:return: A list of sino-converted sentences.
+	"""
+	# Initiate the words list
+	result = [[] for _ in range(overlaps)]
+
+	# First layer
+	result[0].extend(
+		[
+			[word.strip() for word in _clean_vietnamese_text(sentence).split() if word.strip()]
+			for sentence in tgt
+		]
+	)
+
+	num_sent = len(result[0])
+
+	# Remaining layers	  
+	for layer in range(2, overlaps + 1):
+		index = layer - 1
+		for sent in result[layer - 2]:
+			if index >= num_sent: break
+			result[layer - 1].append(sent + result[0][index])
+			index += 1
+	
+	# Add PAD for all layers
+	for layer in range(2, overlaps + 1):
+		result[layer - 1] = [['PAD']] * min( layer - 1, num_sent) + result[layer - 1]
+
+	# Create words length list
+	tgt_words_len = [[] for _ in range(overlaps)]
+	for layer in range(overlaps):
+		tgt_words_len[layer] = [len(sent) for sent in result[layer]]
+	
+	return result, tgt_words_len
+
+def _create_dict_from_list(lst: list[str]) -> dict[str, list[int]]:
+	"""
+	Creates a dictionary from a list of words.
+
+	:param lst: The list of words.
+	:return: A dictionary with words as keys and their indices as values.
+	"""
+	reserve = defaultdict(list[int])
+	for index, word in enumerate(lst):
+		reserve[word].append(index)
+
+	for word in reserve:
+		reserve[word].reverse()
+
+	return reserve
+
+def convert_words_to_indexList(words: list[list[str]], overlaps: int) -> list[dict[str, list[int]]]:
+	"""
+	Convert the words to index list.
+
+	:param words: The list of words.
+	:return: A list of dictionaries with words as keys and their indices as values.
+	"""
+	result = [[] for _ in range(overlaps)]
+	for layer in range(overlaps):
+		result[layer] = [_create_dict_from_list(sent) for sent in words[layer]]
+	return result
