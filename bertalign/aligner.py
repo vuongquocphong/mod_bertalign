@@ -124,6 +124,7 @@ class Bertalign:
             print("Error: The number of converted source sentences does not match the number of source sentences.")
             print("Converted source sentences: {}".format(converted_zh_len))
             print("Source sentences: {}".format(self.src_num))
+            raise ValueError("The number of converted source sentences does not match the number of source sentences.")
 
         # Convert vn text to words list
         converted_tgt, tgt_word_len = convert_vn(self.tgt_sents, self.max_align - 1)

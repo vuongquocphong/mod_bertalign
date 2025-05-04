@@ -1,7 +1,7 @@
 from collections import defaultdict
 from itertools import chain
 import re
-import requests
+import xmlrpc.client
 from sentence_splitter import SentenceSplitter
 from underthesea import sent_tokenize
 
@@ -74,65 +74,70 @@ def _post_request_to_api( data: str ) -> list[str]:
 	:param data: The text need to convert to sino-vietnamese.
 	:return: The list of sino-converted of each sentence.
 	"""
-	url = "https://tools.clc.hcmus.edu.vn/api/web/clc-sinonom/sinonom-transliteration"
-	headers = {"User-Agent":"transform"}
-	payload = {
-		"text": data,
-	}
+	def batch_transliterate(sentences, server_url="http://localhost:8080/RPC2"):
+		server = xmlrpc.client.ServerProxy(server_url)
+		results = []
 
-	try:
-		response = requests.post(url, json=payload, headers=headers, timeout=30)
-		response.raise_for_status()
-
-		response_data = response.json()
-
-		# Get the response data
-		result_text_transcription = response_data.get('data', None)
-
-		if result_text_transcription is None:
-			error_message = response_data.get('message', 'Unknown error')
-			raise ValueError(error_message)
-		
-		result_text_transcription = result_text_transcription.get('result_text_transcription', None)
-
-		# Remove empty strings from the list
-		result_text_transcription = [
-			cleaned_text
-			for text in result_text_transcription
-			if (cleaned_text := _clean_zh_text(text).strip())
-		]
-
-		return result_text_transcription
+		for sentence in sentences:
+			params = {'text': sentence}
+			try:
+				response = server.translate(params)
+				results.append(response.get('text', ''))  # fallback to empty string if 'text' missing
+			except Exception as e:
+				results.append(f"[Error: {e}]")  # include error for debugging
+		return results
 	
-	except ValueError as e:
-		print(f"An error occurred: {e}")
-		return None
+	def preprocess_snt_for_transliteration(replace_dict, text: str):
+		# Preprocess the text if necessary (e.g., remove unwanted characters)
+		for char in text:
+			# Check if the character is in Basic Multilingual Plane (BMP)
+			if ord(char) <= 65535:
+				continue
+			# If not, check if it is in the replace dictionary
+			if char in replace_dict.keys():
+				text = text.replace(char, replace_dict[char])
+				print(replace_dict[char])
+			else:
+				# If the character is not in the replace dictionary, replace it with a space
+				text = text.replace(char, ' ')
+		return text
+	
+	lines = _split_zh(data, limit=1000)
 
-	except requests.exceptions.RequestException as e:
-		print(f"An error occurred: {e}")
-		return None
+	for line in lines:
+		line = ' '.join(line)
+	
+	nom_dict = {
+	    '𦏁': 'hi',
+	}
+	
+	preprocessed_lines = [preprocess_snt_for_transliteration(nom_dict, line) for line in lines]
+
+	transliterated_lines = batch_transliterate(preprocessed_lines)
+
+	return transliterated_lines
 	
 def _clean_zh_text(text: str) -> str:
-    """
-    Cleans the input text by removing unwanted characters.
+	"""
+	Cleans the input text by removing unwanted characters.
 
-    :param text: The input text to clean.
-    :return: The cleaned text.
-    """
-    # Define a regex pattern to remove unwanted characters
-    pattern = r"[。！？；：，—“”‘’《》【】（）；,;:.!?]"
-    return re.sub(pattern, '', text)
+	:param text: The input text to clean.
+	:return: The cleaned text.
+	"""
+	# Define a regex pattern to remove unwanted characters
+	pattern = r"[。！？；：，—“”‘’《》【】（）；,;:.!?]"
+	return re.sub(pattern, '', text)
 
 def _clean_vietnamese_text(text: str) -> str:
-    """
-    Cleans the Vietnamese text by removing unwanted characters.
+	"""
+	Cleans the Vietnamese text by removing unwanted characters.
 
-    :param text: The input text to clean.
-    :return: The cleaned text.
-    """
-    # Define a regex pattern to match Vietnamese sentence marks
-    pattern = r"[.!?；：，—“”‘’\[\]\(\),:;\"]"
-    return re.sub(pattern, ' ', text)
+	:param text: The input text to clean.
+	:return: The cleaned text.
+	"""
+	# Define a regex pattern to match Vietnamese sentence marks
+	pattern = r"[.!?；：，—“”‘’\[\]\(\),:;\"]"
+	return re.sub(pattern, ' ', text)
 
 def convert_zh(text: str, overlaps: int):
 	"""
