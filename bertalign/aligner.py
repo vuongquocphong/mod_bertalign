@@ -82,9 +82,7 @@ class Bertalign:
         D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
         first_alignment_types = get_alignment_types(2) # 0-1, 1-0, 1-1
         first_w, first_path = find_first_search_path(self.src_num, self.tgt_num)
-        src_keys = list(self.ner_dict.keys())
-        tgt_keys = list(self.ner_dict.values())
-        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents, src_keys=src_keys, tgt_keys=tgt_keys)
+        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents)
         first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
 
         print("Performing second-step alignment ...")
@@ -140,3 +138,56 @@ class Bertalign:
         if len(bead) > 0:
             line = ' '.join(lines[bead[0]:bead[-1]+1])
         return line
+
+
+class BertEvaluation:
+    def __init__(self, src, tgt, max_align = 5):
+        self.src = src
+        self.tgt = tgt
+        self.max_align = max_align
+
+        src = clean_text(src)
+        tgt = clean_text(tgt)
+        src_lang = 'zh'
+        tgt_lang = 'vi'
+
+        # Split into sentences
+        src_sents = src.splitlines()
+        tgt_sents = tgt.splitlines()
+
+        # Get the number of sentences
+        src_num = len(src_sents)
+        tgt_num = len(tgt_sents)
+
+        print("Source language: {}, Number of sentences: {}".format(src_lang, src_num))
+        print("Target language: {}, Number of sentences: {}".format(tgt_lang, tgt_num))
+
+        # Convert sentences into embeddings
+        print("Embedding source and target text using {} ...".format(model.model_name))
+        src_vecs, src_lens = model.transform(src_sents, 1)
+        tgt_vecs, tgt_lens = model.transform(tgt_sents, 1)
+
+        self.src_lang = src_lang
+        self.tgt_lang = tgt_lang
+        self.src_sents = src_sents
+        self.tgt_sents = tgt_sents
+        self.src_num = src_num
+        self.tgt_num = tgt_num
+        self.src_lens = src_lens
+        self.tgt_lens = tgt_lens
+        self.src_vecs = src_vecs
+        self.tgt_vecs = tgt_vecs
+
+    def evaluate_k(self, top_k = 3, win = 5):
+        print("Evaluating k-nearest neighbors ...")
+        print("Working on {}-nearest neighbors ...".format(top_k))
+        print("Window size: {}".format(win))
+
+        D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=top_k)
+        first_alignment_types = get_alignment_types(2)
+        first_w, first_path = find_first_search_path(self.src_num, self.tgt_num)
+        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents)
+        first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
+
+        second_w, second_path = find_second_search_path(first_alignment, win, self.src_num, self.tgt_num)
+        return second_w, second_path

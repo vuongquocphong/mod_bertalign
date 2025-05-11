@@ -6,6 +6,11 @@ import numpy as np
 import numba as nb
 from sys import platform
 
+from bertalign.argument import Argument as arg
+
+# Initialize the argument class
+coefficient = arg()
+
 def second_back_track(i, j, pointers, search_path, a_types):
 	alignment = []
 	while ( 1 ):
@@ -91,7 +96,7 @@ def second_pass_align(src_vecs,
 				score = cost[prev_i][prev_j_offset]
 
 				if a_1 == 0 or a_2 == 0:  # deletion or insertion
-					cur_score = skip
+					cur_score = coefficient["skip"]
 				else:
 					cur_score = calculate_similarity_score(src_vecs,
 														   tgt_vecs,
@@ -102,11 +107,11 @@ def second_pass_align(src_vecs,
 						union_score = calculate_union_score(converted_src, converted_tgt,
 															 src_word_len, tgt_word_len,
 															 i, j, a_1, a_2, second_loop=True)
-						cur_score += union_score * 0.6
+						cur_score += union_score * coefficient["union_score"]
 
 					if sentence_num_penalty:
 						sentence_penalty = a_1 + a_2
-						cur_score -= sentence_penalty * 0.06
+						cur_score -= sentence_penalty * coefficient["sentence_num_penalty"]
 					
 					if len_penalty:
 						penalty = calculate_length_penalty(src_lens, tgt_lens, i, j,
@@ -369,8 +374,6 @@ def first_pass_align(src_len,
 					 index,
 					 src_sents,
 					 tgt_sents,
-					 src_keys,
-					 tgt_keys,
 					 ):
 	"""
 	Perform the first-pass alignment to extract only 1-1 bitext segments.
