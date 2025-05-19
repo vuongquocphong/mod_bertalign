@@ -4,18 +4,17 @@ from bertalign import Encoder
 src_par = ""
 tgt_par = ""
 
-with open("./data/dai_viet_su_ki/chinese_snts.txt", "r", encoding="utf8") as f:
+with open("./data/Complete/chinese_val_snts.txt", "r", encoding="utf8") as f:
     lines = f.readlines()
     for line in lines:
         src_par += line.strip() + "\n"
 
-with open("./data/dai_viet_su_ki/translation_snts.txt", "r", encoding="utf8") as f:
+with open("./data/Complete/translation_val_snts.txt", "r", encoding="utf8") as f:
     lines = f.readlines()
     for line in lines:
         tgt_par += line.strip() + "\n"
 
-model = Encoder("LaBSE")
-aligner = bertalign.Bertalign(src=src_par, tgt=tgt_par, is_split=True, model=model)
+aligner = bertalign.Bertalign(src=src_par, tgt=tgt_par, is_split=True)
 
 aligner.align_sents()
 
@@ -27,7 +26,7 @@ for bead in (aligner.result):
     alignments.append((src_line, tgt_line))
 
 golden = []
-with open("./data/dai_viet_su_ki/golden.txt", "r", encoding="utf-8") as f:
+with open("./data/Complete/real_golden.txt", "r", encoding="utf-8") as f:
     data = f.readlines()
     for i in range(len(data)):
         data[i] = data[i].strip()
@@ -47,5 +46,12 @@ for alignment in alignments:
             match += 1
             break
 
-print("precision", match/len(alignments)) if len(alignments) > 0 else 0
-print("recall", match/len(golden)) if len(golden) > 0 else 0
+precision = match / len(alignments) if len(alignments) > 0 else 0
+recall = match / len(golden) if len(golden) > 0 else 0
+
+with open("./data/Complete/result.txt", "a", encoding="utf-8") as f:
+    f.write(f"Align with trans source snts using bertalign baseline" + "\n")
+    f.write("Precision: " + str(precision) + "\n")
+    f.write("Recall: " + str(recall) + "\n")
+    f.write("F1: " + str(2 * precision * recall / (precision + recall)) + "\n")
+    f.write("------------------\n")

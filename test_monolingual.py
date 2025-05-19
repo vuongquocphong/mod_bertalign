@@ -5,11 +5,16 @@ import bertalign_trans
 src_snts = []
 src_trans_snts = []
 
-with open("./data/dai_viet_su_ki/chinese_snts.txt", "r", encoding="utf-8") as f:
+if len(sys.argv) != 2:
+    print("Please provide model name")
+    sys.exit(1)
+trans_model_name = sys.argv[1]
+
+with open(f"./data/Complete/chinese_val_snts.txt", "r", encoding="utf-8") as f:
     for line in f:
         src_snts.append(line.strip())
 
-with open("./data/dai_viet_su_ki/trans_src_snts.txt", "r", encoding="utf-8") as f:
+with open(f"./data/Complete/chinese_val_snts_{trans_model_name}.txt", "r", encoding="utf-8") as f:
     for line in f:
         src_trans_snts.append(line.strip())
 
@@ -28,7 +33,7 @@ for src_trans_snt in src_trans_snts:
     src_trans_pars += src_trans_snt + "\n"
 
 trans_pars = ""
-with open("./data/dai_viet_su_ki/translation_snts.txt", "r", encoding="utf-8") as f:
+with open("./data/Complete/translation_val_snts.txt", "r", encoding="utf-8") as f:
     for line in f:
         trans_pars += line.strip() + "\n"
 
@@ -42,7 +47,7 @@ for bead in (aligner.result):
     alignments.append((src_line, tgt_line))
 
 golden = []
-with open("./Data/dai_viet_su_ki/golden.txt", "r", encoding="utf-8") as f:
+with open("./data/Complete/real_golden.txt", "r", encoding="utf-8") as f:
     data = f.readlines()
     for i in range(len(data)):
         data[i] = data[i].strip()
@@ -55,7 +60,7 @@ with open("./Data/dai_viet_su_ki/golden.txt", "r", encoding="utf-8") as f:
             first_part += char
         golden.append((first_part, second_part))
 
-with open("./Data/Complete/mono_alignments.txt", "w", encoding="utf-8") as f:
+with open(f"./data/Complete/mono_alignments_{trans_model_name}.txt", "w", encoding="utf-8") as f:
     for i in range(len(alignments)):
         f.write(alignments[i][0] + "\t" + alignments[i][1] + "\n")
 
@@ -67,5 +72,12 @@ for alignment in alignments:
             match += 1
             break
 
-print("precision", match/len(alignments)) if len(alignments) > 0 else 0
-print("recall", match/len(golden)) if len(golden) > 0 else 0
+precision = match/len(alignments) if len(alignments) > 0 else 0
+recall = match/len(golden) if len(golden) > 0 else 0
+
+with open("./data/Complete/result.txt", "a", encoding="utf-8") as f:
+    f.write(f"Align with trans source snts using {trans_model_name}" + "\n")
+    f.write("Precision: " + str(precision) + "\n")
+    f.write("Recall: " + str(recall) + "\n")
+    f.write("F1: " + str(2 * precision * recall / (precision + recall)) + "\n")
+    f.write("------------------\n")
