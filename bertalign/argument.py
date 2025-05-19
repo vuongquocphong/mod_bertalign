@@ -11,7 +11,7 @@ class Argument:
 
         self.args = dict()
         self.args["skip"] = -0.1
-        self.args["union_score"] = 0.6
+        self.args["union_score"] = 1.0
         self.args["sentence_num_penalty"] = 0.06
     
     def __getitem__(self, key):
