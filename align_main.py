@@ -41,7 +41,7 @@ def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
         aligner.align_sents()
         for bead in (aligner.result):
             src_line = aligner._get_line(bead[0], aligner.src_sents)
-            tgt_line = aligner._get_line(bead[1], aligner.tgt_sents)
+            tgt_line = aligner._get_line(bead[1], aligner.tgt_sents, ' ')
             # calculate similarity
             alignments.append((src_line, tgt_line))
     end_time = datetime.now()
@@ -92,9 +92,9 @@ def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
         f.write(f"Recall: {recall}\n")
         f.write(f"F1: {f1}\n")
         f.write("--------------------\n")
-    # with open(f"{dir_name}/mismatch_{model.model_name}.txt", "w", encoding="utf-8") as f:
-    #     for mismatch in mismatch_list:
-    #         f.write(mismatch[0] + "\t" + mismatch[1] + "\n")
+    with open(f"{dir_name}/mismatch_{model.model_name}.txt", "w", encoding="utf-8") as f:
+        for mismatch in mismatch_list:
+            f.write(mismatch[0] + "\t" + mismatch[1] + "\n")
 
 def align_pars_no_gold(dir_name, top_k, max_align, model, start_time, ner_dict):
     print(f"Aligning paragraphs in {dir_name} using {model.model_name} model...")

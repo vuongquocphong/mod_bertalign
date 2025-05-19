@@ -133,10 +133,10 @@ class Bertalign:
         return words_index, converted_tgt, src_word_len, tgt_word_len
 
     @staticmethod
-    def _get_line(bead, lines):
+    def _get_line(bead, lines, join_char=''):
         line = ''
         if len(bead) > 0:
-            line = ' '.join(lines[bead[0]:bead[-1]+1])
+            line = join_char.join(lines[bead[0]:bead[-1]+1])
         return line
 
 
