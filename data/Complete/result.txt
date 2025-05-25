@@ -13,3 +13,22 @@ Precision: 0.7773972602739726
 Recall: 0.7498820198206702
 F1: 0.7633917847705982
 ------------------
+Trial 2 finished with value: 0.960644007155635 and parameters: {'skip': -0.12746239864942988, 'snt_num_pen': 0.0036033282267109398, 'union_cor_val': 0.17660243143178916}. Best is trial 2 with value: 0.960644007155635.
+------------------
+Align with trans source snts using bertalign baseline
+Precision: 0.945438282647585
+Recall: 0.9531109107303878
+F1: 0.9492590929501572
+------------------
+Align with trans source snts using deepseek
+Precision: 0.782608695652174
+Recall: 0.7628494138863842
+F1: 0.7726027397260273
+------------------
+Align with trans source snts using phi4
+Precision: 0.8702892199824716
+Recall: 0.8954012623985572
+F1: 0.8826666666666667
+------------------
+Trial 2 finished with value: 0.9615384615384616 and parameters: {'skip': -0.14601706623943012, 'snt_num_pen': 0.01517994204115163, 'union_cor_val': 0.2586345161218464}. Best is trial 2 with value: 0.9615384615384616.
+------------------

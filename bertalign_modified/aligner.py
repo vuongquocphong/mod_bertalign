@@ -2,9 +2,10 @@ from concurrent.futures import ThreadPoolExecutor
 import time
 import numpy as np
 
-from bertalign import model
-from bertalign.corelib import *
-from bertalign.utils import *
+from bertalign_modified import model
+from bertalign_modified.corelib import *
+from bertalign_modified.utils import *
+from bertalign_modified.utils import convert_zh, convert_vn, convert_words_to_indexList
 
 class Bertalign:
     def __init__(self,
@@ -18,8 +19,11 @@ class Bertalign:
                  margin=True,
                  len_penalty=True,
                  sentence_num_penalty=True,
+                 snt_num_pen_val=0.06,
                  union_score=True,
+                 union_cor_val=0.6,
                  is_split=False,
+                 nom_dict_path=None,
                  ner_dict={}
                ):
         self.src = src
@@ -31,8 +35,15 @@ class Bertalign:
         self.margin = margin
         self.len_penalty = len_penalty
         self.sentence_num_penalty = sentence_num_penalty
+        self.snt_num_pen_val = snt_num_pen_val
         self.union_score = union_score
+        self.union_cor_val = union_cor_val
         self.ner_dict = ner_dict
+        
+        if nom_dict_path is not None:
+            self.nom_dict = load_nom_dict(nom_dict_path)
+        else:
+            self.nom_dict = {}
         
         src = clean_text(src)
         tgt = clean_text(tgt)
@@ -84,7 +95,7 @@ class Bertalign:
         first_w, first_path = find_first_search_path(self.src_num, self.tgt_num)
         src_keys = list(self.ner_dict.keys())
         tgt_keys = list(self.ner_dict.values())
-        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents, src_keys=src_keys, tgt_keys=tgt_keys)
+        first_pointers = first_pass_align(self.src_num, first_w, first_path, first_alignment_types, D, I)
         first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
 
         print("Performing second-step alignment ...")
@@ -96,7 +107,7 @@ class Bertalign:
         second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_lens, self.tgt_lens,
                                             converted_src, converted_tgt, src_word_len, tgt_word_len,
                                             second_w, second_path, second_alignment_types,
-                                            self.char_ratio, self.skip, margin=self.margin, len_penalty=self.len_penalty, sentence_num_penalty=self.sentence_num_penalty, union_score=self.union_score)
+                                            self.char_ratio, self.skip, margin=self.margin, len_penalty=self.len_penalty, sentence_num_penalty=self.sentence_num_penalty, snt_num_pen_val=self.snt_num_pen_val, union_score=self.union_score, union_cor_val=self.union_cor_val)
         second_alignment = second_back_track(self.src_num, self.tgt_num, second_pointers, second_path, second_alignment_types)
         
         print("Finished! Successfully aligning {} {} sentences to {} {} sentences\n".format(self.src_num, self.src_lang, self.tgt_num, self.tgt_lang))
@@ -113,7 +124,7 @@ class Bertalign:
         start_time = time.time()
 
         # Convert zh text to words list
-        converted_src, src_word_len = convert_zh(self.src, self.max_align - 1)
+        converted_src, src_word_len = convert_zh(self.src, self.max_align - 1, self.nom_dict)
         converted_zh_len = len(converted_src[0])
 
         # Prepare index dictionary of each words

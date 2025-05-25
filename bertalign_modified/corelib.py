@@ -40,7 +40,9 @@ def second_pass_align(src_vecs,
 					  margin=False,
 					  len_penalty=False,
 					  sentence_num_penalty=False,
-					  union_score=False):
+       				  snt_num_pen_val=0.06,
+					  union_score=False,
+       				  union_cor_val=0.6):
 	"""
 	Perform the second-pass alignment to extract m-n bitext segments.
 	Args:
@@ -99,14 +101,12 @@ def second_pass_align(src_vecs,
 														   src_len, tgt_len,
 														   margin=margin)
 					if union_score:
-						union_score = calculate_union_score(converted_src, converted_tgt,
-															 src_word_len, tgt_word_len,
-															 i, j, a_1, a_2, second_loop=True)
-						cur_score += union_score * 0.6
+						union_score = calculate_union_score(converted_src, converted_tgt, src_word_len, tgt_word_len,i, j, a_1, a_2, second_loop=True)
+						cur_score += union_score * union_cor_val
 
 					if sentence_num_penalty:
 						sentence_penalty = a_1 + a_2
-						cur_score -= sentence_penalty * 0.06
+						cur_score -= sentence_penalty * snt_num_pen_val
 					
 					if len_penalty:
 						penalty = calculate_length_penalty(src_lens, tgt_lens, i, j,
@@ -218,6 +218,7 @@ def calculate_length_penalty(src_lens,
 def nb_dot(x, y):
 	return np.dot(x,y)
 
+# @nb.jit(nopython=True, fastmath=True, cache=True)
 def calculate_union_score(src_converted, tgt_converted,
 						  src_word_len, tgt_word_len,
 						  src_idx, tgt_idx, 
@@ -361,16 +362,11 @@ def first_back_track(i, j, pointers, search_path, a_types):
 
 @nb.jit(nopython=True, fastmath=True, cache=True)
 def first_pass_align(src_len,
-					 tgt_len,
 					 w,
 					 search_path,
 					 align_types,
 					 dist,
-					 index,
-					 src_sents,
-					 tgt_sents,
-					 src_keys,
-					 tgt_keys,
+					 index
 					 ):
 	"""
 	Perform the first-pass alignment to extract only 1-1 bitext segments.
