@@ -58,7 +58,7 @@ def run_alignment_par(src_pars, tgt_pars, nom_dict_path, skip, snt_num_pen_val, 
         aligner.align_sents()
         for bead in aligner.result:
             src_line = aligner._get_line(bead[0], aligner.src_sents)
-            tgt_line = aligner._get_line(bead[1], aligner.tgt_sents)
+            tgt_line = aligner._get_line(bead[1], aligner.tgt_sents, ' ')
             alignments.append((src_line, tgt_line))
     return alignments
 
@@ -75,14 +75,19 @@ def evaluate(alignments, golden):
     return precision, recall, f1
 
 def objective(trial):
-    src_path = "/home/zrefalogia/mod_bertalign/data/Complete/chinese_val_pars.txt"
-    tgt_path = "/home/zrefalogia/mod_bertalign/data/Complete/translation_val_pars.txt"
-    gold_path = "/home/zrefalogia/mod_bertalign/data/Complete/real_golden.txt"
-    nom_dict_path = "/home/zrefalogia/mod_bertalign/data/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx"
+    # src_path = "/home/zrefalogia/mod_bertalign/data/Complete/chinese_val_pars.txt"
+    # tgt_path = "/home/zrefalogia/mod_bertalign/data/Complete/translation_val_pars.txt"
+    # gold_path = "/home/zrefalogia/mod_bertalign/data/Complete/real_golden.txt"
+    # nom_dict_path = "/home/zrefalogia/mod_bertalign/data/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx"
+
+    src_path = "/home/hoktro/mod_bertalign/data/Complete/chinese_val_pars.txt"
+    tgt_path = "/home/hoktro/mod_bertalign/data/Complete/translation_val_pars.txt"
+    gold_path = "/home/hoktro/mod_bertalign/data/Complete/real_golden.txt"
+    nom_dict_path = "/home/hoktro/mod_bertalign/data/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx"
     
-    skip = trial.suggest_float("skip", -0.5, -0.12746239864942988)
-    snt_num_pen_val = trial.suggest_float("snt_num_pen", 0.0036033282267109398, 0.06)
-    union_cor_val = trial.suggest_float("union_cor_val", 0.17660243143178916, 0.6)
+    skip = trial.suggest_float("skip", -1.0, 0.0)
+    snt_num_pen_val = trial.suggest_float("snt_num_pen", 0.0, 1.0)
+    union_cor_val = trial.suggest_float("union_cor_val", 0.0, 1.0)
 
     src_pars = load_data_par(src_path)
     tgt_pars = load_data_par(tgt_path)

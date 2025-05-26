@@ -12,7 +12,7 @@ class Bertalign:
                  src,
                  tgt,
                  model = model,
-                 max_align=5,
+                 max_align=6,
                  top_k=3,
                  win=5,
                  skip=-0.1,
@@ -121,7 +121,7 @@ class Bertalign:
 
     def _prepare_words_list(self):
 
-        start_time = time.time()
+        # start_time = time.time()
 
         # Convert zh text to words list
         converted_src, src_word_len = convert_zh(self.src, self.max_align - 1, self.nom_dict)
@@ -140,14 +140,14 @@ class Bertalign:
         # Convert vn text to words list
         converted_tgt, tgt_word_len = convert_vn(self.tgt_sents, self.max_align - 1)
 
-        end_time = time.time()
-        print("Time taken to convert sentences: {:.2f} seconds".format(end_time - start_time))
+        # end_time = time.time()
+        # print("Time taken to convert sentences: {:.2f} seconds".format(end_time - start_time))
 
         return words_index, converted_tgt, src_word_len, tgt_word_len
 
     @staticmethod
-    def _get_line(bead, lines):
+    def _get_line(bead, lines, split_char=''):
         line = ''
         if len(bead) > 0:
-            line = ' '.join(lines[bead[0]:bead[-1]+1])
+            line = split_char.join(lines[bead[0]:bead[-1]+1])
         return line
