@@ -23,8 +23,6 @@ class Bertalign:
                  union_score=True,
                  union_cor_val=0.6,
                  is_split=False,
-                 nom_dict_path=None,
-                 ner_dict={}
                ):
         self.src = src
         self.model = model
@@ -38,12 +36,6 @@ class Bertalign:
         self.snt_num_pen_val = snt_num_pen_val
         self.union_score = union_score
         self.union_cor_val = union_cor_val
-        self.ner_dict = ner_dict
-        
-        if nom_dict_path is not None:
-            self.nom_dict = load_nom_dict(nom_dict_path)
-        else:
-            self.nom_dict = {}
         
         src = clean_text(src)
         tgt = clean_text(tgt)
@@ -86,19 +78,17 @@ class Bertalign:
 
     def align_sents(self):
 
-        print("Preparing words list ...")
+        # print("Preparing words list ...")
         converted_src, converted_tgt, src_word_len, tgt_word_len = self._prepare_words_list()
 
-        print("Performing first-step alignment ...")
+        # print("Performing first-step alignment ...")
         D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
         first_alignment_types = get_alignment_types(2) # 0-1, 1-0, 1-1
         first_w, first_path = find_first_search_path(self.src_num, self.tgt_num)
-        src_keys = list(self.ner_dict.keys())
-        tgt_keys = list(self.ner_dict.values())
         first_pointers = first_pass_align(self.src_num, first_w, first_path, first_alignment_types, D, I)
         first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
 
-        print("Performing second-step alignment ...")
+        # print("Performing second-step alignment ...")
         second_alignment_types = get_alignment_types(self.max_align)
         second_w, second_path = find_second_search_path(first_alignment, self.win, self.src_num, self.tgt_num)
         # second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_lens, self.tgt_lens,
@@ -124,7 +114,7 @@ class Bertalign:
         # start_time = time.time()
 
         # Convert zh text to words list
-        converted_src, src_word_len = convert_zh(self.src, self.max_align - 1, self.nom_dict)
+        converted_src, src_word_len = convert_zh(self.src, self.max_align - 1)
         converted_zh_len = len(converted_src[0])
 
         # Prepare index dictionary of each words

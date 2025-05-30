@@ -285,7 +285,7 @@ def calculate_union_score(src_converted, tgt_converted,
 		longest_result += len(dp) - 1
 
 
-	longest_result = longest_result * 1.0 / max(src_words_len, tgt_words_len)
+	longest_result = longest_result * 2.0 / (src_words_len + tgt_words_len)
 
 	return longest_result
 

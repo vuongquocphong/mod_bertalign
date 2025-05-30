@@ -1,0 +1,555 @@
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.0
+Precision: 0.9684044233807267, Recall: 0.9684044233807267, F1 Score: 0.9684044233807269
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.05
+Precision: 0.9684044233807267, Recall: 0.9684044233807267, F1 Score: 0.9684044233807269
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.1
+Precision: 0.9684044233807267, Recall: 0.9684044233807267, F1 Score: 0.9684044233807269
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.15
+Precision: 0.9684044233807267, Recall: 0.9684044233807267, F1 Score: 0.9684044233807269
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.2
+Precision: 0.9684044233807267, Recall: 0.9684044233807267, F1 Score: 0.9684044233807269
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.2
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.25
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.3
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.35
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.4
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.45
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.5
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.55
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.6
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.65
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.7
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.75
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.8
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.85
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.9
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 0.95
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.0, Union Correlation Value: 1.0
+Precision: 0.9668508287292817, Recall: 0.9676145339652449, F1 Score: 0.967232530596131
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.0
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.05
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.1
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.15
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.2
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.25
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.3
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.35
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.4
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.45
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.5
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.55
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.6
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.65
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.7
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.75
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.8
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.85
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.9
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 0.95
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.02, Union Correlation Value: 1.0
+Precision: 0.9606299212598425, Recall: 0.9636650868878357, F1 Score: 0.9621451104100947
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.0
+Precision: 0.9460093896713615, Recall: 0.9549763033175356, F1 Score: 0.9504716981132075
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.05
+Precision: 0.9460093896713615, Recall: 0.9549763033175356, F1 Score: 0.9504716981132075
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.1
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.15
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.2
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.25
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.3
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.35
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.4
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.45
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.5
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.55
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.6
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.65
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.7
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.75
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.8
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.85
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.9
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 0.95
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.04, Union Correlation Value: 1.0
+Precision: 0.94679186228482, Recall: 0.9557661927330173, F1 Score: 0.9512578616352201
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.0
+Precision: 0.9407176287051482, Recall: 0.95260663507109, F1 Score: 0.9466248037676609
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.05
+Precision: 0.9407176287051482, Recall: 0.95260663507109, F1 Score: 0.9466248037676609
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.1
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.15
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.2
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.25
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.3
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.35
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.4
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.45
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.5
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.55
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.6
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.65
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.7
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.75
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.8
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.85
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.9
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 0.95
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.06, Union Correlation Value: 1.0
+Precision: 0.9414976599063962, Recall: 0.9533965244865719, F1 Score: 0.9474097331240188
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.0
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.05
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.1
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.15
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.2
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.25
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.3
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.35
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.4
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.45
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.5
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.55
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.6
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.65
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.7
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.75
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.8
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.85
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.9
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 0.95
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.08, Union Correlation Value: 1.0
+Precision: 0.9284046692607004, Recall: 0.9423380726698263, F1 Score: 0.9353194825558605
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.0
+Precision: 0.91284046692607, Recall: 0.9265402843601895, F1 Score: 0.9196393571148569
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.05
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.1
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.15
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.2
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.25
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.3
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.35
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.4
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.45
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.5
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.55
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.6
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.65
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.7
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.75
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.8
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.85
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.9
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 0.95
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.1, Union Correlation Value: 1.0
+Precision: 0.9151750972762646, Recall: 0.9289099526066351, F1 Score: 0.9219913759310074
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.0
+Precision: 0.8823529411764706, Recall: 0.8886255924170616, F1 Score: 0.885478158205431
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.05
+Precision: 0.8823529411764706, Recall: 0.8886255924170616, F1 Score: 0.885478158205431
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.1
+Precision: 0.8847058823529412, Recall: 0.8909952606635071, F1 Score: 0.8878394332939789
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.15
+Precision: 0.8847058823529412, Recall: 0.8909952606635071, F1 Score: 0.8878394332939789
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.2
+Precision: 0.8862745098039215, Recall: 0.8925750394944708, F1 Score: 0.889413616686344
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.25
+Precision: 0.8862745098039215, Recall: 0.8925750394944708, F1 Score: 0.889413616686344
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.3
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.35
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.4
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.45
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.5
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.55
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.6
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.65
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.7
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.75
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.8
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.85
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.9
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 0.95
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.12, Union Correlation Value: 1.0
+Precision: 0.8879310344827587, Recall: 0.8949447077409163, F1 Score: 0.8914240755310779
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.0
+Precision: 0.8216303470540759, Recall: 0.8041074249605056, F1 Score: 0.8127744510978044
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.05
+Precision: 0.8216303470540759, Recall: 0.8041074249605056, F1 Score: 0.8127744510978044
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.1
+Precision: 0.8216303470540759, Recall: 0.8041074249605056, F1 Score: 0.8127744510978044
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.15
+Precision: 0.8216303470540759, Recall: 0.8041074249605056, F1 Score: 0.8127744510978044
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.2
+Precision: 0.8240516545601292, Recall: 0.806477093206951, F1 Score: 0.8151696606786427
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.25
+Precision: 0.8240516545601292, Recall: 0.806477093206951, F1 Score: 0.8151696606786427
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.3
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.35
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.4
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.45
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.5
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.55
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.6
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.65
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.7
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.75
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.8
+Precision: 0.8285024154589372, Recall: 0.8127962085308057, F1 Score: 0.8205741626794258
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.85
+Precision: 0.8293075684380032, Recall: 0.8135860979462876, F1 Score: 0.8213716108452951
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.9
+Precision: 0.8293075684380032, Recall: 0.8135860979462876, F1 Score: 0.8213716108452951
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 0.95
+Precision: 0.8293075684380032, Recall: 0.8135860979462876, F1 Score: 0.8213716108452951
+
+Skip: -1.0, Snt Num Penalty: 0.14, Union Correlation Value: 1.0
+Precision: 0.8293075684380032, Recall: 0.8135860979462876, F1 Score: 0.8213716108452951
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.0
+Precision: 0.7587382779198636, Recall: 0.7030015797788309, F1 Score: 0.7298072980729807
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.05
+Precision: 0.75809199318569, Recall: 0.7030015797788309, F1 Score: 0.7295081967213114
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.1
+Precision: 0.7591489361702127, Recall: 0.7045813586097947, F1 Score: 0.7308480131093813
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.15
+Precision: 0.7591489361702127, Recall: 0.7045813586097947, F1 Score: 0.7308480131093813
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.2
+Precision: 0.7591489361702127, Recall: 0.7045813586097947, F1 Score: 0.7308480131093813
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.25
+Precision: 0.7610544217687075, Recall: 0.7069510268562401, F1 Score: 0.733005733005733
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.3
+Precision: 0.7651063829787234, Recall: 0.7101105845181674, F1 Score: 0.7365833674723474
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.35
+Precision: 0.766553480475382, Recall: 0.7132701421800948, F1 Score: 0.7389525368248773
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.4
+Precision: 0.766553480475382, Recall: 0.7132701421800948, F1 Score: 0.7389525368248773
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.45
+Precision: 0.7682512733446519, Recall: 0.7148499210110585, F1 Score: 0.7405891980360065
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.5
+Precision: 0.7682512733446519, Recall: 0.7148499210110585, F1 Score: 0.7405891980360065
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.55
+Precision: 0.7682512733446519, Recall: 0.7148499210110585, F1 Score: 0.7405891980360065
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.6
+Precision: 0.7682512733446519, Recall: 0.7148499210110585, F1 Score: 0.7405891980360065
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.65
+Precision: 0.7682512733446519, Recall: 0.7148499210110585, F1 Score: 0.7405891980360065
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.7
+Precision: 0.7682512733446519, Recall: 0.7148499210110585, F1 Score: 0.7405891980360065
+
+Skip: -1.0, Snt Num Penalty: 0.16, Union Correlation Value: 0.75
+Precision: 0.7682512733446519, Recall: 0.7148499210110585, F1 Score: 0.7405891980360065
+
