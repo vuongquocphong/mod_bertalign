@@ -88,6 +88,8 @@ class Bertalign:
         first_pointers = first_pass_align(self.src_num, first_w, first_path, first_alignment_types, D, I)
         first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
 
+        del D, I  # Free memory
+
         # print("Performing second-step alignment ...")
         second_alignment_types = get_alignment_types(self.max_align)
         second_w, second_path = find_second_search_path(first_alignment, self.win, self.src_num, self.tgt_num)
@@ -141,3 +143,11 @@ class Bertalign:
         if len(bead) > 0:
             line = split_char.join(lines[bead[0]:bead[-1]+1])
         return line
+    
+    def __del__(self):
+        print("Bertalign instance is being deallocated.")
+        # Explicitly delete large GPU tensors if they exist
+        if hasattr(self, 'src_vecs'): del self.src_vecs
+        if hasattr(self, 'tgt_vecs'): del self.tgt_vecs
+        # Release GPU memory
+        torch.cuda.empty_cache() 

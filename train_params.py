@@ -1,3 +1,4 @@
+import torch
 import optuna
 import bertalign_modified
 # from bertalign_modified.utils import load_nom_dict
@@ -47,8 +48,8 @@ def run_alignment(src_snts, tgt_snts, nom_dict_path, skip, snt_num_pen_val, unio
         alignments.append((src_line, tgt_line))
     return alignments
 
+model = bertalign_modified.Encoder("LaBSE")
 def run_alignment_par(src_pars, tgt_pars, nom_dict_path, skip, snt_num_pen_val, union_cor_val):
-    model = bertalign_modified.Encoder("LaBSE")
     alignments = []
     for i in range(len(src_pars)):
         print(f"Processing paragraph {i + 1}/{len(src_pars)}")
@@ -169,6 +170,8 @@ if __name__ == "__main__":
                 if precision > max_precision:
                     max_precision = precision
                     max_params = (skip_start, snt_num_pen_start, union_cor_start)
+                
+                torch.cuda.empty_cache()
                 
                 union_cor_start += union_cor_step
                 union_cor_start = round(union_cor_start, 2)
