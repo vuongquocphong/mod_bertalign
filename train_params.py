@@ -102,10 +102,10 @@ def calculate_results(skip_value, snt_num_pen_val, union_cor_val):
 
     return precision, recall, f1
 
-src_path = "/home/hoktro/mod_bertalign/data/Complete/chinese_val_pars.txt"
-tgt_path = "/home/hoktro/mod_bertalign/data/Complete/translation_val_pars.txt"
-gold_path = "/home/hoktro/mod_bertalign/data/Complete/real_golden.txt"
-nom_dict_path = "/home/hoktro/mod_bertalign/data/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx"
+src_path = "/home/zrefalogia/mod_bertalign/data/Complete/chinese_val_pars.txt"
+tgt_path = "/home/zrefalogia/mod_bertalign/data/Complete/translation_val_pars.txt"
+gold_path = "/home/zrefalogia/mod_bertalign/data/Complete/real_golden.txt"
+nom_dict_path = "/home/zrefalogia/mod_bertalign/data/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx"
 
 src_pars = load_data_par(src_path)
 tgt_pars = load_data_par(tgt_path)
@@ -135,8 +135,8 @@ if __name__ == "__main__":
     max_params = None
 
     skip_prev = -1.0
-    snt_num_pen_prev = 0.16
-    union_cor_prev = 0.8
+    snt_num_pen_prev = 0.2
+    union_cor_prev = 0.55
 
     while skip_start <= skip_end:
         if skip_start < skip_prev: 

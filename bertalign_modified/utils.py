@@ -93,7 +93,7 @@ def load_nom_dict(file_path: str) -> dict[str, str]:
 	
 	return nom_dict
 
-nom_dict_path = "/home/hoktro/mod_bertalign/data/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx"
+nom_dict_path = "/home/zrefalogia/mod_bertalign/data/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx"
 nom_dict = load_nom_dict(nom_dict_path)
 
 def _post_request_to_api( data: str ) -> list[str]:
