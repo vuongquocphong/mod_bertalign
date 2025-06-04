@@ -895,7 +895,8 @@
 第六镇，陈留太守张邈。	6. Trương Mặc, thái thú Trần Lưu.
 第七镇，东郡太守乔瑁。	7. Kiều Mạo, thái thú Đông Quận.
 第八镇，山阳太守袁遗。	8. Viên Di, thái thú Sơn Dương.
-第九镇，济北相鲍信。第十镇，北海太守孔融。	9. Pháo Tín, tướng ở Tế Bắc. 10. Khổng Dung, thái thú Bắc Hải. 11.
+第九镇，济北相鲍信。	9. Pháo Tín, tướng ở Tế Bắc.
+第十镇，北海太守孔融。	10. Khổng Dung, thái thú Bắc Hải. 11.
 第十一镇，广陵太守张超。	Trương Siêu, thái thú Quảng Lăng. 12.
 第十二镇，徐州刺史陶谦。	Đào Khiêm, thứ sử Từ Châu.
 第十三镇，西凉太守马腾。	13. Mã Đằng, thái thú Tây Lương.
@@ -960,7 +961,8 @@
 华雄遣人赍鲍忠首级来相府报捷，卓加雄为都督。	Hoa Hùng sai người đem đầu Pháo Trung về báo tiệp. Trác giao ngay cho Hùng làm đô đốc.
 却说孙坚引四将直至关前。	Đây nói chuyện Tôn Kiên dẫn bốn tướng đến trước cửa Dĩ Thủy.
 那四将？	Bốn tướng ấy là: Một.
-——第一个，右北平土垠人，姓程，名普，字德谋，使一条铁脊蛇矛；第二个，姓黄，名盖，字公覆，零陵人也，使铁鞭；第三个，姓韩，名当，字义公，辽西令支人也，使一口大刀；第四个，姓祖，名茂，字大荣，吴郡富春人也，使双刀。	Trình Phổ, tên chữ là Đức Mưu, người Thổ Ngân, ở Hữu Bắc Bình; Phổ cầm một ngọn xà mâu sắt. Hai. Hoàng Cái, tên chữ là Công Phúc, người ở Linh Lăng; Cái cầm một ngọn roi sắt. Ba. Hàn Đương, tên chữ là Công Nghĩa, người Linh Chi, tỉnh Liêu Tây; Đương cầm một con dao lớn. Bốn.
+——第一个，右北平土垠人，姓程，名普，字德谋，使一条铁脊蛇矛；第二个，姓黄，名盖，字公覆，零陵人也，使铁鞭；第三个，姓韩，名当，字义公，辽西令支人也，使一口大刀；第四个，姓祖，名茂，字大荣，吴郡富春人也，使双刀。	Trình Phổ, tên chữ là Đức Mưu, người Thổ Ngân, ở Hữu Bắc Bình; Phổ cầm một ngọn xà mâu sắt. Hai. Hoàng Cái, tên chữ là Công Phúc, người ở Linh Lăng; Cái cầm một ngọn roi sắt. Ba. Hàn Đương, tên chữ là Công Nghĩa, người Linh Chi, tỉnh Liêu Tây; Đương cầm một con dao lớn.
+	Bốn.
 	Tổ Mậu, tên chữ là Đại Vinh, người ở Phú Xuân, quận Ngô; Mậu hai tay cầm hai dao.
 孙坚披烂银铠，裹赤帻，横古锭刀，骑花鬃马，指关上而骂曰：“助恶匹夫，何不早降！”	Tôn Kiên mình mặc áo giáp bạc, đầu đội mũ chóp đỏ, cắp dao Cổ Dĩnh, cưỡi ngựa Hoa Tôn, trỏ tay lên trên cửa quan mà mắng rằng: - Thằng tiểu nhân đi phò giặc kia! Sao không mau mau xuống hàng?
 华雄副将胡轸引兵五千出关迎战。	Phó tướng của Hoa Hùng là Hồ Chẩn, dẫn năm nghìn quân xuống dưới cửa quan nghênh địch.
@@ -1971,8 +1973,9 @@
 李傕、郭汜曰：“臣等有功王室，未蒙赐爵，故不敢退军。”	Lý Thôi, Quách Dĩ thưa rằng: - Muôn tâu bệ hạ, chúng tôi có công với nhà vua, chưa được phong tước, cho nên chưa dám lui quân.
 帝曰：“卿欲封何爵？”	Vua phán hỏi: - Các người muốn được phong tước gì?
 李、郭、张、樊四人各自写职衔献上，勒要如此官品，帝只得从之。	Lý, Quách, Trương, Phàn bốn đứa cầu phong chức hàm gì, đều tự tay viết ra dâng lên, đòi vua phải phong như thế. Vua bắt buộc phải nghe theo: 1.
-封李傕为车骑将军池阳侯领司隶校尉假节钺，郭汜为后将军美阳侯假节钺，同秉朝政；樊稠为右将军万年侯，张济为骠骑将军平阳侯，领兵屯弘农。	Lý Thôi làm sa kỵ tướng quân, Trì dương hầu, lĩnh chức tư lệ hiệu úy, được dùng cờ tiết, lưỡi phủ việt. 2. Quách Dĩ, làm hậu tướng quân, Mỹ dương hầu cũng được dùng cờ tiết, lưỡi phủ việt. Hai người cùng giữ quyền chính trong triều. 3. Phàn Trù, làm hữu tướng quân, Vạn niên hầu.
-其余李蒙、王方等，各为校尉。然后谢恩，领兵出城。	4. Trương Tế, làm phiêu kỵ tướng quân, Binh dương hầu. Trương, Phàn hai người lĩnh binh ra đóng đồn ở Hoàng Nông. Còn lũ Lý Mông, Vương Phương đều được phong làm hiệu úy.
+封李傕为车骑将军池阳侯领司隶校尉假节钺，郭汜为后将军美阳侯假节钺，同秉朝政；樊稠为右将军万年侯，张济为骠骑将军平阳侯，领兵屯弘农。	Lý Thôi làm sa kỵ tướng quân, Trì dương hầu, lĩnh chức tư lệ hiệu úy, được dùng cờ tiết, lưỡi phủ việt. 2. Quách Dĩ, làm hậu tướng quân, Mỹ dương hầu cũng được dùng cờ tiết, lưỡi phủ việt. Hai người cùng giữ quyền chính trong triều.
+其余李蒙、王方等，各为校尉。	3. Phàn Trù, làm hữu tướng quân, Vạn niên hầu.
+然后谢恩，领兵出城。	4. Trương Tế, làm phiêu kỵ tướng quân, Binh dương hầu. Trương, Phàn hai người lĩnh binh ra đóng đồn ở Hoàng Nông. Còn lũ Lý Mông, Vương Phương đều được phong làm hiệu úy.
 又下令追寻董卓尸首，获得些零碎皮骨，以香木雕成形体，安凑停当，大设祭祀，用王者衣冠棺椁，选择吉日，迁葬郿坞。	Bọn ấy lại sai người đi tìm đầu và thây Đổng Trác. Tìm được ít nhiều da xương vụn nát, chúng lấy gỗ thơm, khắc thành hình thể, chắp ghép đâu vào đấy, cúng tế thực to, áo mũ quan quách, dùng theo đám ma nhà vua, chọn ngày tốt làm lễ cất đám rước sang táng ở My Ổ.
 临葬之期，天降大雷雨，平地水深数尺，霹雳震开其棺，尸首提出棺外。	Táng xong, bỗng nhiên trời nổi sấm sét, mưa to gió lớn, mặt đất ngập sâu vài thước. Một tiếng sét đánh vào áo quan Đổng Trác, đầu và thây bật cả ra ngoài.
 李傕候晴再葬，是夜又复如是。	Lý Thôi đợi tạnh mưa, lại đem táng lại.

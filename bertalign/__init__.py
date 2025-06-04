@@ -17,4 +17,4 @@ model_name = "LaBSE" # Default model
 model = Encoder(model_name)
 
 from bertalign.aligner import Bertalign
-from bertalign.aligner import BertEvaluation
+from bertalign.aligner_modified import BertalignModified

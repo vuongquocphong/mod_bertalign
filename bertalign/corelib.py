@@ -499,4 +499,5 @@ def find_top_k_sents(src_vecs, tgt_vecs, k=3):
 	index = faiss.IndexFlatIP(embedding_size)
 	index.add(tgt_vecs)
 	D, I = index.search(src_vecs, k)
+	del index
 	return D, I

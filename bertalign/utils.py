@@ -67,6 +67,34 @@ def _preprocess_line(line):
 # UNION PREPARATION
 ###########################################################################
 
+def load_nom_dict(file_path: str) -> dict[str, str]:
+	"""
+	Load the nom dictionary from a file.
+
+	:param file_path: The path to the dictionary file.
+	:return: A dictionary with characters as keys and their replacements as values.
+	"""
+	nom_dict = {}
+	# load the excel file
+	import pandas as pd
+	df = pd.read_excel(file_path)
+ 
+	# extract the first and the second columns
+	chinese = df.iloc[:, 0].tolist()
+	vietnamese = df.iloc[:, 1].tolist()
+	# create a dictionary from the two columns
+ 
+	if len(chinese) != len(vietnamese):
+		raise ValueError("The two columns must have the same length.")
+	for i in range(len(chinese)):
+		if chinese[i] in nom_dict:
+			continue
+		nom_dict[chinese[i]] = vietnamese[i]
+	
+	return nom_dict
+
+nom_dict = load_nom_dict('bertalign/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx')
+
 def _post_request_to_api( data: str ) -> list[str]:
 	"""
 	Sends a POST request to the specified API.
@@ -103,15 +131,14 @@ def _post_request_to_api( data: str ) -> list[str]:
 		return text
 	
 	lines = _split_zh(data, limit=1000)
-
+ 
+	spaced_lines = []
+	
 	for line in lines:
 		line = ' '.join(line)
-	
-	nom_dict = {
-	    '𦏁': 'hi',
-	}
-	
-	preprocessed_lines = [preprocess_snt_for_transliteration(nom_dict, line) for line in lines]
+		spaced_lines.append(line)
+
+	preprocessed_lines = [preprocess_snt_for_transliteration(nom_dict, line) for line in spaced_lines]  
 
 	transliterated_lines = batch_transliterate(preprocessed_lines)
 
