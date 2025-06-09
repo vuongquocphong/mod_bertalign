@@ -37,6 +37,8 @@ def second_pass_align(src_vecs,
 					  align_types,
 					  char_ratio,
 					  skip,
+					  sentence_num_penalty_factor,
+					  union_score_factor,
 					  margin=False,
 					  len_penalty=False,
 					  sentence_num_penalty=False,
@@ -56,7 +58,11 @@ def second_pass_align(src_vecs,
 		search_path: numpy array. Second-pass alignment search path.
 		align_types: numpy array. Second-pass alignment types.
 		char_ratio: float. Source to target length ratio.
-		skip: float. Cost for instertion and deletion.
+		skip: float. Cost for insertion and deletion.
+		sentence_num_penalty_factor: float. Penalty factor for sentence number.
+		union_score_factor: float. Factor for union score.
+		sentence_num_penalty: boolean. True if applying sentence number penalty.
+		union_score: boolean. True if applying union score.
 		margin: boolean. True if choosing modified cosine similarity score.
 	Returns:
 		pointers: numpy array recording best alignments for each DP cell.
@@ -98,16 +104,16 @@ def second_pass_align(src_vecs,
 														   i, j, a_1, a_2, 
 														   src_len, tgt_len,
 														   margin=margin)
+					if sentence_num_penalty:
+						sentence_penalty = a_1 + a_2
+						cur_score -= sentence_penalty * sentence_num_penalty_factor
+					
 					if union_score:
 						union_score = calculate_union_score(converted_src, converted_tgt,
 															 src_word_len, tgt_word_len,
 															 i, j, a_1, a_2, second_loop=True)
-						cur_score += union_score * 0.6
+						cur_score = union_score * union_score_factor + ( 1 - union_score_factor ) * cur_score
 
-					if sentence_num_penalty:
-						sentence_penalty = a_1 + a_2
-						cur_score -= sentence_penalty * 0.06
-					
 					if len_penalty:
 						penalty = calculate_length_penalty(src_lens, tgt_lens, i, j,
 														   a_1, a_2, char_ratio)
@@ -284,7 +290,7 @@ def calculate_union_score(src_converted, tgt_converted,
 		longest_result += len(dp) - 1
 
 
-	longest_result = longest_result * 1.0 / max(src_words_len, tgt_words_len)
+	longest_result = longest_result * 2.0 / (src_words_len + tgt_words_len)
 
 	return longest_result
 
@@ -369,8 +375,6 @@ def first_pass_align(src_len,
 					 index,
 					 src_sents,
 					 tgt_sents,
-					 src_keys,
-					 tgt_keys,
 					 ):
 	"""
 	Perform the first-pass alignment to extract only 1-1 bitext segments.
@@ -486,14 +490,14 @@ def find_top_k_sents(src_vecs, tgt_vecs, k=3):
 		I: numpy array. Target index matrix of shape (num_src_sents, k).
 	"""
 	embedding_size = src_vecs.shape[1]
-	# if torch.cuda.is_available() and platform == 'linux': # GPU version
-	#     res = faiss.StandardGpuResources() 
-	#     index = faiss.IndexFlatIP(embedding_size)
-	#     gpu_index = faiss.index_cpu_to_gpu(res, 0, index)
-	#     gpu_index.add(tgt_vecs) 
-	#     D, I = gpu_index.search(src_vecs, k)
+	if torch.cuda.is_available() and platform == 'linux': # GPU version
+		res = faiss.StandardGpuResources() 
+		index = faiss.IndexFlatIP(embedding_size)
+		gpu_index = faiss.index_cpu_to_gpu(res, 0, index)
+		gpu_index.add(tgt_vecs) 
+		D, I = gpu_index.search(src_vecs, k)
 	# else: # CPU version
-	index = faiss.IndexFlatIP(embedding_size)
-	index.add(tgt_vecs)
-	D, I = index.search(src_vecs, k)
+	# index = faiss.IndexFlatIP(embedding_size)
+	# index.add(tgt_vecs)
+	# D, I = index.search(src_vecs, k)
 	return D, I

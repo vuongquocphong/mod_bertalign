@@ -19,10 +19,26 @@ def clean_text(text):
 def split_sents(text, lang):
 	if lang == 'zh':
 		sents = _split_zh(text)
-	else:
-		sents = sent_tokenize(text)
-		sents = [sent.strip() for sent in sents]
-	return sents
+		return sents
+	
+	# For Vietnamese, we use underthesea's sent_tokenize
+	sents = sent_tokenize(text)
+	sents = [sent.strip() for sent in sents]
+
+	# There are some sentences that are not split correctly, so we need to refine them (e.g., "1.", "2.", etc.)
+	refine_sents = [sents[-1]] 
+	index = len(sents) - 2
+	while index >= 0:
+		if not re.match(r'^\d+\s*\.$', sents[index]):
+			refine_sents.append(sents[index])
+			index -= 1
+			continue
+
+		refine_sents[-1] = sents[index] + ' ' + refine_sents[-1]
+		index -= 1
+	
+	refine_sents.reverse()
+	return refine_sents
 	
 def _split_zh(text, limit=1000):
 	sent_list = []
@@ -67,6 +83,35 @@ def _preprocess_line(line):
 # UNION PREPARATION
 ###########################################################################
 
+def load_nom_dict(file_path: str) -> dict[str, str]:
+	"""
+	Load the nom dictionary from a file.
+
+	:param file_path: The path to the dictionary file.
+	:return: A dictionary with characters as keys and their replacements as values.
+	"""
+	nom_dict = {}
+	# load the excel file
+	import pandas as pd
+	df = pd.read_excel(file_path)
+ 
+	# extract the first and the second columns
+	chinese = df.iloc[:, 0].tolist()
+	vietnamese = df.iloc[:, 1].tolist()
+	# create a dictionary from the two columns
+ 
+	if len(chinese) != len(vietnamese):
+		raise ValueError("The two columns must have the same length.")
+	for i in range(len(chinese)):
+		if chinese[i] in nom_dict:
+			continue
+		nom_dict[chinese[i]] = vietnamese[i]
+	
+	return nom_dict
+
+# nom_dict = load_nom_dict('bertalign/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx')
+nom_dict = load_nom_dict('bertalign/dictionary/D_204_single_char_thi_vien_sino_vietnamese_dict_update.xlsx')
+
 def _post_request_to_api( data: str ) -> list[str]:
 	"""
 	Sends a POST request to the specified API.
@@ -103,15 +148,14 @@ def _post_request_to_api( data: str ) -> list[str]:
 		return text
 	
 	lines = _split_zh(data, limit=1000)
-
+ 
+	spaced_lines = []
+	
 	for line in lines:
 		line = ' '.join(line)
-	
-	nom_dict = {
-	    '𦏁': 'hi',
-	}
-	
-	preprocessed_lines = [preprocess_snt_for_transliteration(nom_dict, line) for line in lines]
+		spaced_lines.append(line)
+
+	preprocessed_lines = [preprocess_snt_for_transliteration(nom_dict, line) for line in spaced_lines]  
 
 	transliterated_lines = batch_transliterate(preprocessed_lines)
 
@@ -125,7 +169,7 @@ def _clean_zh_text(text: str) -> str:
 	:return: The cleaned text.
 	"""
 	# Define a regex pattern to remove unwanted characters
-	pattern = r"[。！？；：，—“”‘’《》【】（）；,;:.!?]"
+	pattern = r"[。！？；：，—、“”‘’《》【】（）；,;:.!?\[\]\"'、]"
 	return re.sub(pattern, '', text)
 
 def _clean_vietnamese_text(text: str) -> str:

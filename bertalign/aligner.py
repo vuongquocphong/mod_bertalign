@@ -11,16 +11,17 @@ class Bertalign:
                  src,
                  tgt,
                  model = model,
-                 max_align=5,
-                 top_k=3,
-                 win=5,
-                 skip=-0.1,
-                 margin=True,
-                 len_penalty=True,
-                 sentence_num_penalty=True,
-                 union_score=True,
-                 is_split=False,
-                 ner_dict={}
+                 max_align = 7,
+                 top_k = 2,
+                 win = 5,
+                 skip = -0.1,
+                 sentence_num_penalty_factor = 0.01,
+                 union_score_factor = 0.15,
+                 margin = True,
+                 len_penalty = True,
+                 sentence_num_penalty = True,
+                 union_score = True,
+                 is_split = False,
                ):
         self.src = src
         self.model = model
@@ -28,11 +29,12 @@ class Bertalign:
         self.top_k = top_k
         self.win = win
         self.skip = skip
+        self.sentence_num_penalty_factor = sentence_num_penalty_factor
+        self.union_score_factor = union_score_factor
         self.margin = margin
         self.len_penalty = len_penalty
         self.sentence_num_penalty = sentence_num_penalty
         self.union_score = union_score
-        self.ner_dict = ner_dict
         
         src = clean_text(src)
         tgt = clean_text(tgt)
@@ -90,9 +92,6 @@ class Bertalign:
         print("Performing second-step alignment ...")
         second_alignment_types = get_alignment_types(self.max_align)
         second_w, second_path = find_second_search_path(first_alignment, self.win, self.src_num, self.tgt_num)
-        # second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_lens, self.tgt_lens,
-        #                                     second_w, second_path, second_alignment_types,
-        #                                     self.char_ratio, self.skip, margin=self.margin, len_penalty=self.len_penalty)
         second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_lens, self.tgt_lens,
                                             converted_src, converted_tgt, src_word_len, tgt_word_len,
                                             second_w, second_path, second_alignment_types,
@@ -109,8 +108,6 @@ class Bertalign:
             print(src_line + "\n" + tgt_line + "\n")
 
     def _prepare_words_list(self):
-
-        start_time = time.time()
 
         # Convert zh text to words list
         converted_src, src_word_len = convert_zh(self.src, self.max_align - 1)
@@ -129,14 +126,11 @@ class Bertalign:
         # Convert vn text to words list
         converted_tgt, tgt_word_len = convert_vn(self.tgt_sents, self.max_align - 1)
 
-        end_time = time.time()
-        print("Time taken to convert sentences: {:.2f} seconds".format(end_time - start_time))
-
         return words_index, converted_tgt, src_word_len, tgt_word_len
 
     @staticmethod
-    def _get_line(bead, lines):
+    def _get_line(bead, lines, join_char=''):
         line = ''
         if len(bead) > 0:
-            line = ' '.join(lines[bead[0]:bead[-1]+1])
+            line = join_char.join(lines[bead[0]:bead[-1]+1])
         return line
