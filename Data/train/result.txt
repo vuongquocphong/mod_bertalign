@@ -1,0 +1,44 @@
+Timestamp: 17:16:50
+Time taken: 0:00:23.392018
+Model: LaBSE
+Top k: 2
+Max align param: 7
+Golden size: 600
+Alignments size: 594
+Precision: 0.8922558922558923
+Recall: 0.8833333333333333
+F1: 0.8877721943048577
+--------------------
+Timestamp: 17:20:01
+Time taken: 0:00:12.246399
+Model: LaBSE
+Top k: 2
+Max align param: 5
+Golden size: 600
+Alignments size: 594
+Precision: 0.8922558922558923
+Recall: 0.8833333333333333
+F1: 0.8877721943048577
+--------------------
+Timestamp: 17:22:10
+Time taken: 0:00:23.714170
+Model: LaBSE
+Top k: 2
+Max align param: 7
+Golden size: 600
+Alignments size: 594
+Precision: 0.8922558922558923
+Recall: 0.8833333333333333
+F1: 0.8877721943048577
+--------------------
+Timestamp: 17:24:01
+Time taken: 0:00:12.034857
+Model: LaBSE
+Top k: 2
+Max align param: 5
+Golden size: 600
+Alignments size: 594
+Precision: 0.8922558922558923
+Recall: 0.8833333333333333
+F1: 0.8877721943048577
+--------------------

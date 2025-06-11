@@ -17,6 +17,8 @@ class Bertalign:
                  skip = -0.1,
                  sentence_num_penalty_factor = 0.01,
                  union_score_factor = 0.15,
+                #  sentence_num_penalty_factor = 0.0,
+                #  union_score_factor = 0.0,
                  margin = True,
                  len_penalty = True,
                  sentence_num_penalty = True,
@@ -84,9 +86,7 @@ class Bertalign:
         D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
         first_alignment_types = get_alignment_types(2) # 0-1, 1-0, 1-1
         first_w, first_path = find_first_search_path(self.src_num, self.tgt_num)
-        src_keys = list(self.ner_dict.keys())
-        tgt_keys = list(self.ner_dict.values())
-        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents, src_keys=src_keys, tgt_keys=tgt_keys)
+        first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents)
         first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
 
         print("Performing second-step alignment ...")
@@ -95,7 +95,7 @@ class Bertalign:
         second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_lens, self.tgt_lens,
                                             converted_src, converted_tgt, src_word_len, tgt_word_len,
                                             second_w, second_path, second_alignment_types,
-                                            self.char_ratio, self.skip, margin=self.margin, len_penalty=self.len_penalty, sentence_num_penalty=self.sentence_num_penalty, union_score=self.union_score)
+                                            self.char_ratio, self.skip, self.sentence_num_penalty_factor, self.union_score_factor, margin=self.margin, len_penalty=self.len_penalty, sentence_num_penalty=self.sentence_num_penalty, union_score=self.union_score)
         second_alignment = second_back_track(self.src_num, self.tgt_num, second_pointers, second_path, second_alignment_types)
         
         print("Finished! Successfully aligning {} {} sentences to {} {} sentences\n".format(self.src_num, self.src_lang, self.tgt_num, self.tgt_lang))
