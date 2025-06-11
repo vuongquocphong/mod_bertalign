@@ -53,7 +53,7 @@ if __name__ == "__main__":
                     f"{total_match:<8}{total_alignments:<12}{total_gold:<10}\n")
             
     # Sort the final results by F1 score in descending order
-    sorted_results = sorted(final_result.items(), key=lambda x: x[1][0], reverse=True)
+    sorted_results = sorted(final_result.items(), key=lambda x: x[1][2], reverse=True)
 
     # Write the sorted results to a file
     with open("sorted_final_results.txt", "w") as f:
@@ -63,6 +63,7 @@ if __name__ == "__main__":
         for key, values in sorted_results:
             skip_val, snt_num_pen_val, union_cor_val = key
             precision, recall, f1, total_match, total_alignments, total_gold = values
+            if float(skip_val) < -0.5: continue
             f.write(f"{skip_val:<8}{snt_num_pen_val:<12}{union_cor_val:<12}"
                     f"{precision:<10.4f}{recall:<10.4f}{f1:<10.4f}"
                     f"{total_match:<8}{total_alignments:<12}{total_gold:<10}\n")

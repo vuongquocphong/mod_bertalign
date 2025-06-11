@@ -103,15 +103,15 @@ def second_pass_align(src_vecs,
 														   i, j, a_1, a_2, 
 														   src_len, tgt_len,
 														   margin=margin)
+					if sentence_num_penalty:
+						sentence_penalty = a_1 + a_2
+						cur_score -= sentence_penalty * coefficient["sentence_num_penalty"]
+
 					if union_score:
 						union_score = calculate_union_score(converted_src, converted_tgt,
 															 src_word_len, tgt_word_len,
 															 i, j, a_1, a_2, second_loop=True)
-						cur_score += union_score * coefficient["union_score"]
-
-					if sentence_num_penalty:
-						sentence_penalty = a_1 + a_2
-						cur_score -= sentence_penalty * coefficient["sentence_num_penalty"]
+						cur_score = cur_score * ( 1.0 - coefficient["union_score"] ) + union_score * coefficient["union_score"]
 					
 					if len_penalty:
 						penalty = calculate_length_penalty(src_lens, tgt_lens, i, j,
@@ -289,7 +289,7 @@ def calculate_union_score(src_converted, tgt_converted,
 		longest_result += len(dp) - 1
 
 
-	longest_result = longest_result * 1.0 / max(src_words_len, tgt_words_len)
+	longest_result = longest_result * 2.0 / (src_words_len + tgt_words_len)
 
 	return longest_result
 
@@ -490,11 +490,12 @@ def find_top_k_sents(src_vecs, tgt_vecs, k=3):
 	"""
 	embedding_size = src_vecs.shape[1]
 	# if torch.cuda.is_available() and platform == 'linux': # GPU version
-	#     res = faiss.StandardGpuResources() 
-	#     index = faiss.IndexFlatIP(embedding_size)
-	#     gpu_index = faiss.index_cpu_to_gpu(res, 0, index)
-	#     gpu_index.add(tgt_vecs) 
-	#     D, I = gpu_index.search(src_vecs, k)
+	# 	res = faiss.StandardGpuResources() 
+	# 	index = faiss.IndexFlatIP(embedding_size)
+	# 	gpu_index = faiss.index_cpu_to_gpu(res, 0, index)
+	# 	gpu_index.add(tgt_vecs) 
+	# 	D, I = gpu_index.search(src_vecs, k)
+	# 	del gpu_index
 	# else: # CPU version
 	index = faiss.IndexFlatIP(embedding_size)
 	index.add(tgt_vecs)

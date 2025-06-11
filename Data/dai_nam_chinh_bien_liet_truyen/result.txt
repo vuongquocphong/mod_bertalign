@@ -86,3 +86,25 @@ Precision: 0.9747474747474747
 Recall: 0.965
 F1: 0.9698492462311558
 --------------------
+Timestamp: 02:47:02
+Time taken: 0:00:07.866662
+Model: LaBSE
+Top k: 2
+Max align param: 5
+Golden size: 200
+Alignments size: 198
+Precision: 0.9747474747474747
+Recall: 0.965
+F1: 0.9698492462311558
+--------------------
+Timestamp: 03:02:39
+Time taken: 0:00:07.029460
+Model: LaBSE
+Top k: 2
+Max align param: 5
+Golden size: 200
+Alignments size: 198
+Precision: 0.9747474747474747
+Recall: 0.965
+F1: 0.9698492462311558
+--------------------

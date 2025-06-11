@@ -19,10 +19,24 @@ def clean_text(text):
 def split_sents(text, lang):
 	if lang == 'zh':
 		sents = _split_zh(text)
-	else:
-		sents = sent_tokenize(text)
-		sents = [sent.strip() for sent in sents]
-	return sents
+		return sents
+	
+	sents = sent_tokenize(text)
+	sents = [sent.strip() for sent in sents]
+
+	refine_sents = [sents[-1]] 
+	index = len(sents) - 2
+	while index >= 0:
+		if not re.match(r'^\d+\s*\.$', sents[index]):
+			refine_sents.append(sents[index])
+			index -= 1
+			continue
+
+		refine_sents[-1] = sents[index] + ' ' + refine_sents[-1]
+		index -= 1
+	
+	refine_sents.reverse()
+	return refine_sents
 	
 def _split_zh(text, limit=1000):
 	sent_list = []
@@ -93,7 +107,8 @@ def load_nom_dict(file_path: str) -> dict[str, str]:
 	
 	return nom_dict
 
-nom_dict = load_nom_dict('bertalign/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx')
+# nom_dict = load_nom_dict('bertalign/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx')
+nom_dict = load_nom_dict('bertalign/dictionary/D_204_single_char_thi_vien_sino_vietnamese_dict_update.xlsx')
 
 def _post_request_to_api( data: str ) -> list[str]:
 	"""
@@ -152,7 +167,7 @@ def _clean_zh_text(text: str) -> str:
 	:return: The cleaned text.
 	"""
 	# Define a regex pattern to remove unwanted characters
-	pattern = r"[。！？；：，—“”‘’《》【】（）；,;:.!?]"
+	pattern = r"[。！？；：，—、“”‘’《》【】（）；,;:.!?\[\]\"'、]"
 	return re.sub(pattern, '', text)
 
 def _clean_vietnamese_text(text: str) -> str:
