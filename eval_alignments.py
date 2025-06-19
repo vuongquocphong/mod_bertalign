@@ -30,7 +30,6 @@ def eval(dir_name, num_overlaps, model):
     sum_weight = 0
     results = []
     for alignment in alignments:
-        print(f"Calculating similarity for {alignment[0]} and {alignment[1]}...")
         json_data = {}
         json_data['source'] = alignment[0]
         json_data['target'] = alignment[1]
@@ -54,4 +53,4 @@ def eval(dir_name, num_overlaps, model):
         f.write("\n")
 
 if __name__ == "__main__":
-    eval("tqdn3", 5, model)
+    eval("/home/hoktro/mod_bertalign/Data/tam_quoc_dien_nghia", 5, model)
