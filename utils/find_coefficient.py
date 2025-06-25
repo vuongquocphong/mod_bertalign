@@ -31,7 +31,7 @@ def calculate_scores():
 if __name__ == "__main__":
     
     # Read all the file from the specified directory
-    directory = "../Evaluation_results/Training"
+    directory = "../Evaluation_results/Evaluation"
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
             file_path = os.path.join(directory, filename)
@@ -41,7 +41,7 @@ if __name__ == "__main__":
     calculate_scores()
     
     # Write the final results to a file and align for better readability
-    with open("final_result.txt", "w") as f:
+    with open( directory + "/.final_result.re", "w") as f:
         f.write(f"{'Skip':<8}{'SntNumPen':<12}{'UnionScore':<12}"
                 f"{'Precision':<10}{'Recall':<10}{'F1':<10}"
                 f"{'Match':<8}{'Alignments':<12}{'Gold':<10}\n")
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     sorted_results = sorted(final_result.items(), key=lambda x: (-x[1][2], -float(x[0][0]), float(x[0][1]), float(x[0][2])))
 
     # Write the sorted results to a file
-    with open("sorted_final_results.txt", "w") as f:
+    with open( directory + "/.sorted_final_results.re", "w") as f:
         f.write(f"{'Skip':<8}{'SntNumPen':<12}{'UnionScore':<12}"
                 f"{'Precision':<10}{'Recall':<10}{'F1':<10}"
                 f"{'Match':<8}{'Alignments':<12}{'Gold':<10}\n")

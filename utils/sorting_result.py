@@ -34,7 +34,7 @@ def write_sorted_results_to_file(sorted_results, output_filename):
 if __name__ == "__main__":
     
     # Read all the file from the specified directory
-    directory = "../Evaluation_results/Training"
+    directory = "../Evaluation_results/Evaluation"
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
             file_path = os.path.join(directory, filename)
