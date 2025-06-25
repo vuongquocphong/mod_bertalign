@@ -16,16 +16,15 @@ class BertalignModified:
                  src,
                  tgt,
                  model = model,
-                 max_align=7,
+                 max_align=8,
                  top_k=2,
                  win=5,
                  skip=-0.1,
                  margin=True,
                  len_penalty=True,
-                 sentence_num_penalty=True,
-                 union_score=True,
+                 sentence_num_penalty=False,
+                 union_score=False,
                  is_split=False,
-                 ner_dict={}
                ):
         self.src = src
         self.model = model
@@ -37,7 +36,6 @@ class BertalignModified:
         self.len_penalty = len_penalty
         self.sentence_num_penalty = sentence_num_penalty
         self.union_score = union_score
-        self.ner_dict = ner_dict
         
         src = clean_text(src)
         tgt = clean_text(tgt)
@@ -79,8 +77,8 @@ class BertalignModified:
         self.tgt_vecs = tgt_vecs
 
         # Shared procedure for alignment
-        print("Preparing words list ...")
-        self.converted_src, self.converted_tgt, self.src_word_len, self.tgt_word_len = self._prepare_words_list()
+        # print("Preparing words list ...")
+        # self.converted_src, self.converted_tgt, self.src_word_len, self.tgt_word_len = self._prepare_words_list()
 
         print("Performing first-step alignment ...")
         D, I = find_top_k_sents(self.src_vecs[0,:], self.tgt_vecs[0,:], k=self.top_k)
@@ -95,7 +93,7 @@ class BertalignModified:
 
         del D, I
 
-    def align_sents(self, input_skip, input_union_score, input_sentence_num_penalty):
+    def align_sents(self, input_skip, input_union_score = 0, input_sentence_num_penalty = 0):
 
         # Modified argument values
         coefficient["skip"] = input_skip
@@ -105,10 +103,13 @@ class BertalignModified:
         print("Aligning sentences with skip: {}, sentence_num_penalty: {}, union_score: {}".format(
             coefficient["skip"], coefficient["sentence_num_penalty"], coefficient["union_score"]))
         
+        # second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_lens, self.tgt_lens,
+        #                                     self.converted_src, self.converted_tgt, self.src_word_len, self.tgt_word_len,
+        #                                     self.second_w, self.second_path, self.second_alignment_types,
+        #                                     self.char_ratio, self.skip, margin=self.margin, len_penalty=self.len_penalty, sentence_num_penalty=self.sentence_num_penalty, union_score=self.union_score)
         second_pointers = second_pass_align(self.src_vecs, self.tgt_vecs, self.src_lens, self.tgt_lens,
-                                            self.converted_src, self.converted_tgt, self.src_word_len, self.tgt_word_len,
-                                            self.second_w, self.second_path, self.second_alignment_types,
-                                            self.char_ratio, self.skip, margin=self.margin, len_penalty=self.len_penalty, sentence_num_penalty=self.sentence_num_penalty, union_score=self.union_score)
+                                    self.second_w, self.second_path, self.second_alignment_types,
+                                    self.char_ratio, self.skip, margin=self.margin, len_penalty=self.len_penalty, sentence_num_penalty=self.sentence_num_penalty, union_score=self.union_score)
         second_alignment = second_back_track(self.src_num, self.tgt_num, second_pointers, self.second_path, self.second_alignment_types)
         
         # print("Finished! Successfully aligning {} {} sentences to {} {} sentences\n".format(self.src_num, self.src_lang, self.tgt_num, self.tgt_lang))

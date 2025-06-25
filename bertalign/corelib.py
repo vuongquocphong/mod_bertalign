@@ -33,10 +33,10 @@ def second_pass_align(src_vecs,
 					  tgt_vecs,
 					  src_lens,
 					  tgt_lens,
-					  converted_src,
-					  converted_tgt,
-					  src_word_len,
-					  tgt_word_len,
+					#   converted_src,
+					#   converted_tgt,
+					#   src_word_len,
+					#   tgt_word_len,
 					  w,
 					  search_path,
 					  align_types,
@@ -103,15 +103,15 @@ def second_pass_align(src_vecs,
 														   i, j, a_1, a_2, 
 														   src_len, tgt_len,
 														   margin=margin)
-					if sentence_num_penalty:
-						sentence_penalty = a_1 + a_2
-						cur_score -= sentence_penalty * coefficient["sentence_num_penalty"]
+					# if sentence_num_penalty:
+					# 	sentence_penalty = a_1 + a_2
+					# 	cur_score -= sentence_penalty * coefficient["sentence_num_penalty"]
 
-					if union_score:
-						union_score = calculate_union_score(converted_src, converted_tgt,
-															 src_word_len, tgt_word_len,
-															 i, j, a_1, a_2, second_loop=True)
-						cur_score = cur_score * ( 1.0 - coefficient["union_score"] ) + union_score * coefficient["union_score"]
+					# if union_score:
+					# 	union_score = calculate_union_score(converted_src, converted_tgt,
+					# 										 src_word_len, tgt_word_len,
+					# 										 i, j, a_1, a_2, second_loop=True)
+					# 	cur_score = cur_score * ( 1.0 - coefficient["union_score"] ) + union_score * coefficient["union_score"]
 					
 					if len_penalty:
 						penalty = calculate_length_penalty(src_lens, tgt_lens, i, j,
