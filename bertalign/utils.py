@@ -40,8 +40,10 @@ def split_sents(text, lang):
 	
 def _split_zh(text, limit=1000):
 	sent_list = []
-	text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
-	text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
+	# text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
+	# text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
+	text = re.sub('(?P<quotation_mark>([。.？?！!](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
+	text = re.sub('(?P<quotation_mark>([。.？?！!]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
 	sent_list_ori = text.splitlines()
 	for sent in sent_list_ori:
 		sent = sent.strip()
