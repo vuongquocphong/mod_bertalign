@@ -16,7 +16,7 @@ class BertalignModified:
                  src,
                  tgt,
                  model = model,
-                 max_align=8,
+                 max_align=6,
                  top_k=2,
                  win=5,
                  skip=-0.1,

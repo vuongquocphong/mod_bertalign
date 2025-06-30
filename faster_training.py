@@ -87,7 +87,7 @@ def run_alignment_par(src_pars, tgt_pars, golden_par, name):
                 precision, recall, f1, match, total_align, total_gold = evaluate(alignments, golden_par)
                 # print(f"Results - Precision: {precision:.4f}, Recall: {recall:.4f}, F1: {f1:.4f}")
                 # Save the results to a file
-                with open(f"Evaluation_results/Origin_method/Result(8, 2)/{name}.txt", "a", encoding="utf-8") as f:
+                with open(f"Evaluation_results/Origin_method/newRegEx/{name}.txt", "a", encoding="utf-8") as f:
                     f.write(
                         f"{skip_val:<8}{snt_num_pen_val:<12}{union_cor_val:<12}"
                         f"{precision:<10.4f}{recall:<10.4f}{f1:<10.4f}"
