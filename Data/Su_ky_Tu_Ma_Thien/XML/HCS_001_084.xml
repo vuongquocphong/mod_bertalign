@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.084">
+			<PAGE ID="HCS_001.084.001">
+				<STC ID="HCS_001.084.001.001">
+					<C>屈原者，名平，楚之同姓也。 为楚怀王左徒。</C>
+					<V>Khuất Nguyên Khuất Nguyên tên là Bình, cùng họ vua Sở, làm chức Tả đồ thời Sở Hoài vương.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.002">
+					<C>博闻彊志，明於治乱，嫺 於辞令。</C>
+					<V>Ông biết rộng nhớ nhiều, hiểu rõ lẽ trị loạn, giỏi về từ lệnh.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.003">
+					<C>入则与王图议国事，以出号令；出则接遇宾客，应对 诸侯。</C>
+					<V>Khi vào triều thì cùng Sở vương bàn việc nước, ban hiệu lệnh; khi ra ngoài thì tiếp đãi tân khách, ứng đối chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.004">
+					<C>王甚任之。</C>
+					<V>Sở vương rất tín nhiệm.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.005">
+					<C>上官大夫与之同列，争宠而心害其能。</C>
+					<V>Thượng Quan Đại Phu ngang hàng, tranh sủng nên trong lòng ghét tài ông.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.006">
+					<C>怀王使屈原造为宪令，屈 平属草(cid:0) 未定。 上官大夫见而欲夺之，屈平不 与，因谗之曰：“王使屈平为令，众莫不知，每一令出，平伐其功， 以为‘非我莫能为’也。”</C>
+					<V>Hoài vương sai Khuất Nguyên chế định pháp lệnh, Khuất Bình mới làm bản thảo, chưa xong, Thượng Quan Đại Phu thấy vậy muốn cướp lấy, Khuất Bình không cho, nhân đó gièm rằng: “Đại vương sai Khuất Bình chế định pháp lệnh, mọi người không ai không biết, mỗi lệnh ban ra, Bình tự khoe công minh, cho là ngoài ta không ai làm nổi!”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.007">
+					<C>王怒而疏屈平。</C>
+					<V>Sở vương giận rồi xa lánh Khuất Bình.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.008">
+					<C>屈平疾王听之不聪也，谗谄之蔽明也，邪曲之害公也，方正之不 容也，故忧愁幽思而作离骚。</C>
+					<V>Khuất Bình giận vua nghe không sáng suốt, để lời sàm nịnh che lấp trí sáng, khiến kẻ gian tà hại đến việc công, không dung nạp người chính trực, cho nên ưu sầu u uẩn rồi làm sách Ly tao.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.009">
+					<C>夫天者，人之始也；父 母者，人之本也。</C>
+					<V>Trời là khởi đầu của người; cha mẹ là gốc của người.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.010">
+					<C>人穷则反本，故劳苦倦极，未尝不呼天也；疾痛惨 怛，未尝不呼父母也。</C>
+					<V>Người cùng quẫn thì trở về gốc, vì thế khi khốn khổ, mệt mỏi cùng cực, chẳng ai không gọi trời; khi gặp bi thương thống khổ, chẳng ai không gọi cha mẹ.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.011">
+					<C>屈平正道直行，竭忠尽智以事其君，谗人间之，可谓穷 矣。</C>
+					<V>Khuất Bình đi thẳng theo chính đạo, kiệt trung tận trí phụng sự vua mình, bị kẻ sàm nịnh ly gián, có thể gọi là cùng quẫn vậy.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.012">
+					<C>信而见疑，忠而被谤，能无怨乎？</C>
+					<V>Tín mà bị ngờ, trung mà bị báng, há không oán chăng?</V>
+				</STC>
+				<STC ID="HCS_001.084.001.013">
+					<C>国风好色而不淫，小雅怨诽而不乱。</C>
+					<V>Thơ “Quốc phong” hiếu sắc mà không dâm, thơ “Tiểu nhã” ai oán mà không loạn.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.014">
+					<C>上称帝喾，下道齐桓，中述汤武，以刺世事。</C>
+					<V>Trên xưng tụng Đế Cốc, dưới nói Tề Hoàn Công, giữa thuật việc Thành Thang, Vũ vương, để phúng thích sự đời.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.015">
+					<C>明道德之广 崇，治乱之条贯，靡不毕见。</C>
+					<V>Nêu rõ sự lớn lao của đạo đức, cái quán xuyến trong đạo lý trị loạn, không gì không thấu triệt.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.016">
+					<C>其文约，其辞微，其志絜，其行廉，其 称文小而其指极大，举类迩而见义远。</C>
+					<V>Văn rất gọn, lời lại sâu, chí thuần khiết, đức hạnh liêm, văn tả việc nhỏ mà hàm nghĩa lớn lao, dẫn việc gần gũi mà ý nghĩa sâu rộng.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.017">
+					<C>其志絜，故其称物芳。 其行 廉，故死而不容自疏。</C>
+					<V>Chí ông thuần khiết, nên hay nói những loài hoa thơm; đức hạnh thanh liêm, nên chết rồi vẫn không được dung.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.018">
+					<C>濯淖汙泥 之中，蝉蜕於浊秽， 以浮游尘埃之外，不获世之滋垢，皭然 泥而不滓者也。</C>
+					<V>Thân ở chốn sình lầy, như con ve lột xác thoát khỏi nhơ bẩn, ngao du ngoài chốn bụi trần, không bị dính bùn nhơ của thế tục, thanh bạch trong trẻo không nhiễm hôi tanh.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.019">
+					<C>推此志也，虽与日月争光可也。</C>
+					<V>Suy từ chí ấy, có thể rạng tỏ cùng nhật nguyệt vậy.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.020">
+					<C>屈平既绌，其後秦欲伐齐，齐与楚从亲，惠王患 之，乃令张仪详去秦，厚币委质事楚，曰：“秦甚憎齐，齐与楚从 亲，楚诚能绝齐，秦原献商、於之地六百里。”</C>
+					<V>Khuất Bình bị truất, sau đó Tần muốn đánh Tề, Tề với Sở hợp tung, Huệ vương lo lắng, bèn lệnh Trương Nghi vờ bỏ Tần, mang nhiều tiền của sang hạ mình thờ Sở, nói: “Tần rất ghét Tề, nhưng Tề và Sở hợp tung, nếu Sở có thể tuyệt giao với Tề, Tần nguyện dâng sáu mươi dặm đất Thương, Ư”.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.021">
+					<C>楚怀王贪而信张仪， 遂绝齐，使使如秦受地。</C>
+					<V>Sở Hoài vương tham lam tin lời Trương Nghi, liền tuyệt giao với Tề, sai sứ đến Tần nhận đất.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.022">
+					<C>张仪诈之曰：“仪与王约六里，不闻六百 里。”</C>
+					<V>Trương Nghi lừa rằng: “Nghi và Sở vương giao ước sáu dặm, chứ không nghe sáu trăm dặm.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.023">
+					<C>楚使怒去，归告怀王。</C>
+					<V>Sứ giả nước Sở tức giận trở về báo với Hoài vương.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.024">
+					<C>怀王怒，大兴师伐秦。</C>
+					<V>Hoài vương nổi giận, dấy đại quân đánh Tần.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.025">
+					<C>怀王乃 悉发国中兵以深入击秦，战於蓝田。</C>
+					<V>Hoài vương đem hết quân trong nước tiến sâu vào đánh Tần, giao chiến tại Lam Điền.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.026">
+					<C>魏闻之，袭楚至邓。</C>
+					<V>Ngụy hay tin, đánh úp Sở, kéo đến đất Đặng.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.027">
+					<C>楚兵惧，自秦归。</C>
+					<V>Quân Sở sợ, từ Tần rút về.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.028">
+					<C>而齐竟怒不救楚，楚大 困。</C>
+					<V>Còn Tề rốt cuộc vì giận nên không cứu Sở, Sở cực kỳ nguy khốn.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.029">
+					<C>明年，秦割汉中地与楚以和。</C>
+					<V>Năm sau, Tần cắt đất Hán Trung cho Sở để cầu hòa.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.030">
+					<C>楚王曰：“不原得地，原得张仪而 甘心焉。”</C>
+					<V>Sở vương nói: “Không cần được đất, chỉ cần Trương Nghi là hả dạ rồi.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.031">
+					<C>张仪闻，乃曰：“以一仪而当汉中地，臣请往如楚。”</C>
+					<V>Trương Nghi nghe vậy, bèn nói: “Dùng một Nghi mà được đất Hán Trung, thần xin sang Sở.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.032">
+					<C>如 楚，又因厚币用事者臣靳尚，而设诡辩於怀王之宠姬郑袖。</C>
+					<V>Trương Nghi sang Sở, lại dùng hậu lễ đút lót bề tôi đương quyền là Cận Thượng, rồi bày quỷ kế lung lạc sủng thiếp Trịnh Tụ của Hoài vương.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.033">
+					<C>怀王竟听 郑袖，复释去张仪。</C>
+					<V>Hoài vương lại nghe theo Trịnh Tụ, thả Trương Nghi về.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.034">
+					<C>是时屈平既疏，不复在位，使於齐，顾反，谏怀 王曰：“何不杀张仪？”</C>
+					<V>Bấy giờ Khuất Bình đã bị xa lánh, không được phục chức, đi sứ sang Tề, trở về can Hoài vương: “Sao không giết Trương Nghi?”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.035">
+					<C>怀王悔，追张仪不及。</C>
+					<V>Hoài vương hối hận, đuổi theo Trương Nghi nhưng không kịp.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.036">
+					<C>其後诸侯共击楚，大破之，杀其将唐眛。</C>
+					<V>Về sau, chư hầu cùng đánh Sở, đại phá được, giết tướng Sở là Đường Muội.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.037">
+					<C>时秦昭王与楚婚，欲与怀王会。</C>
+					<V>Bấy giờ Tần Chiêu vương kết thông gia với Sở vương, muốn gặp mặt Hoài vương.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.038">
+					<C>怀王欲行，屈平曰：“秦虎狼之 国，不可信，不如毋行。”</C>
+					<V>Hoài vương định đi, Khuất Bình nói: “Tần là nước hổ lang, không thể tin được, không đi thì hơn.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.039">
+					<C>怀王卒 行。</C>
+					<V>Hoài vương quyết đi.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.040">
+					<C>入武关，秦伏兵绝其後，因留怀王， 以求割地。</C>
+					<V>Vào Vũ Quan, Tần phục quân cắt đường lui, nhân đó giữ Hoài vương để đòi cắt đất.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.041">
+					<C>怀王怒，不听。</C>
+					<V>Hoài vương giận, không chịu.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.042">
+					<C>复之秦，竟死於 秦而归葬。</C>
+					<V>Trở lại Tần, cuối cùng chết ở Tần, được mang về Sở mai táng.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.043">
+					<C>楚人既咎子兰以 劝怀王入秦而不反也。</C>
+					<V>Người Sở đổ lỗi cho Tử Lan trong việc khuyện Hoài vương sang Tần để rồi không về được.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.044">
+					<C>屈平既嫉之，虽放流，睠顾楚国，系心怀王，不忘欲反，冀幸君 之一悟，俗之一改也。</C>
+					<V>Khuất Bình ghét việc đó, tuy bị xua đuổi, nhưng luôn nghĩ đến Sở, lòng lo cho Hoài vương, không sao quên được, muốn trở về, hy vọng nhà vua tỉnh ngộ, phong tục được thay đổi.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.045">
+					<C>其存君兴国而欲反覆之，一篇之中三致志焉。</C>
+					<V>Ông muốn bảo vệ nhà vua, chấn hưng đất nước, nên muốn xoay chuyển cục diện, trong một thiên ba lần nhắc đến chí hướng đó.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.046">
+					<C>然终无可柰何，故不可以反，卒以此见怀王之终不悟也。</C>
+					<V>Cuối cùng không biết làm sao, nên không thể về được, từ đó có thể thấy sau rốt Hoài vương vẫn không tỉnh ngộ.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.047">
+					<C>人君无愚智 贤不肖，莫不 欲求忠以自为，举贤以自佐，然亡国破家相随属，而圣君治国累世而 不见者，其所谓忠者不忠，而所谓贤者不贤也。</C>
+					<V>Người làm vua dù tài trí hay ngu muội, hiền năng hay kém cỏi, không ai không muốn có trung thần phụ giúp, cất nhắc người hiền năng phò tá, nhưng chuyện nước mất nhà tan cứ nối tiếp, còn bậc vua thánh trị nước nhiều đời không thấy, vì cái gọi là trung mà không phải trung, cái gọi là hiền mà không phải hiền vậy.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.048">
+					<C>怀王以不知忠臣之 分，故内惑於郑袖，外欺於张仪，疏屈平而信上官大夫、令尹子兰。</C>
+					<V>Hoài vương không biết trung thần, cho nên trong bị Trịnh Tụ mê hoặc, ngoài bị Trương Nghi dối lừa, xa lánh Khuất Bình, tin tưởng Thượng Quan Đại Phu và Lệnh doãn Tử Lan.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.049">
+					<C>兵挫地削，亡其六郡，身客死於秦，为天下笑。 此不知人之祸也。</C>
+					<V>Quân thua cắt đất, mất liền sáu quận, thân làm khách rồi chết ở Tần, bị thiên hạ chê cười, là họa của việc không biết người vậy.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.050">
+					<C>易 曰：“井泄不食， 为我心恻， 可以汲。 王明，并受其福。”</C>
+					<V>[Kinh] Dịch viết: “Giếng trong mà chẳng ăn, để lòng ta thương xót, có thể múc nước mà dùng. Vua sáng, thảy đều được phúc.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.051">
+					<C>王之不明，岂足福哉！</C>
+					<V>Vua không sáng, há được phúc ru?</V>
+				</STC>
+				<STC ID="HCS_001.084.001.052">
+					<C>令尹子兰闻之大怒，卒使上官大夫短屈原於顷襄王，顷襄王怒而 迁之。</C>
+					<V>Lệnh doãn Tử Lan hay chuyện cả giận, sai Thượng Quan Đại Phu bài xích Khuất Nguyên với khoảnh Tương vương, Khoảnh Tương vương giận, đày đi xa.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.053">
+					<C>渔父 见而问之曰：“子非三闾大夫欤？ 何故而至 此？”</C>
+					<V>Ông chài trông thấy thì hỏi: “Ngài chẳng phải Tam Lư đại phu đấy ư? Sao lại đến nông nỗi này?”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.054">
+					<C>屈原曰：“举世混浊而我独清，众人皆醉而我独醒，是以见 放。”</C>
+					<V>Khuất Nguyên đáp: “Đời đục cả riêng mình ta trong, người say cả riêng mình ta tỉnh, nên bị xua đuổi.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.055">
+					<C>渔父曰：“夫圣人者，不凝滞於物而能与世推移。举世混浊， 何不随其流而扬其波？众人皆醉，何不餔 其糟而啜其醨？何故怀瑾握瑜 而自令见放为？”</C>
+					<V>Ông chài nói: “Bậc thánh nhân, không bị ngưng trệ vào vật mà có thể thay đổi theo đời. Đời đục cả, sao không nương dòng mà dâng sóng? Người say cả, sao không ăn bã húp rượu nhạt? Cớ sao ôm ngọc cẩn, cầm ngọc du, tự khiến người ta đuổi đi?”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.056">
+					<C>乃作怀沙之赋。 其 辞曰： 陶陶孟夏兮，草木莽莽。</C>
+					<V>Bèn làm bài phú “Hoài sa”, lời như sau: [Phiên âm:] Đào đào mạnh hạ hề, thảo mộc mãng mãng.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.057">
+					<C>玄文幽处 兮，矇谓之不章； 离娄微睇兮，瞽以为无明。</C>
+					<V>Huyền văn u xứ hề, mông vị chi bất chương; Ly Lâu vị đệ hề, cổ dĩ vị vô minh.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.058">
+					<C>变白而为黑兮，倒上以 为下。</C>
+					<V>Biến bạch nhi vi hắc hề, đảo thượng dĩ vi hạ.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.059">
+					<C>文质疏内兮，众不知吾之异采； 材朴委积兮，莫知余之所有。</C>
+					<V>Văn chất sơ nội hề, chúng bất tri ngô chi dị thái; Tài phác ủy tích hề, mạc tri dư chi sở hữu.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.060">
+					<C>重仁袭义兮， 谨厚以为丰；重华不可牾兮， 孰知余之从容！</C>
+					<V>Trọng nhân tập nghĩa hề, cẩn hậu dĩ vi phong; Trùng Hoa bất khả ngộ hề, thục tri dư chi thung dung!</V>
+				</STC>
+				<STC ID="HCS_001.084.001.061">
+					<C>古固有不并兮，岂知其故也？</C>
+					<V>Cổ cố hữu bất tịnh hề, khởi tri kỳ cố dã?</V>
+				</STC>
+				<STC ID="HCS_001.084.001.062">
+					<C>汤禹久远兮，邈不可慕也。</C>
+					<V>Thang, Vũ cửu viễn hề, mạc bất khả mộ dã.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.063">
+					<C>惩违改忿兮，抑心 而自彊；离湣而不迁兮，原志之有象。</C>
+					<V>Trừng vi cải phẫn hề, ức tâm nhi tự cường; Ly mẫn nhi bất thiên hề, nguyện chí chi hữu tượng.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.064">
+					<C>世既莫吾知兮，人心不可谓兮。</C>
+					<V>Đời đã chẳng biết ta chừ, lòng người chẳng thể nói chừ.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.065">
+					<C>定心广志，馀何畏 惧兮？</C>
+					<V>Định tâm lập chí, còn chi lo sợ chừ?</V>
+				</STC>
+				<STC ID="HCS_001.084.001.066">
+					<C>世溷不吾知，心不可谓兮。</C>
+					<V>Đời đục chẳng biết ta, lòng không thể dò chừ.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.067">
+					<C>知死不可让兮，原勿爱 兮。</C>
+					<V>Biết chết không thể tránh chừ, xin chớ tiếc chừ.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.068">
+					<C>於是怀石遂自汨罗以死。</C>
+					<V>Thế rồi ôm đá tự trầm mà chết ở sông Mịch La.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.069">
+					<C>屈原既死之後，楚有宋玉、唐勒、景差 之徒者，皆好辞而以 赋见称；然皆祖屈原之从容辞令，终莫敢直谏。</C>
+					<V>Sau khi Khuất Nguyên chết, Sở có bọn Tống Ngọc, Đường Lặc, Cảnh Sai, đều thích văn từ, nổi tiếng thi phú, tuy đều theo ngôn từ uyển chuyển hàm súc của Khuất Nguyên, song rốt cuộc không ai dám thẳng thắn can gián.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.070">
+					<C>其後楚日以削，数十 年竟为秦所灭。</C>
+					<V>Về sau, Sở ngày càng yếu, mấy chục năm nữa thì bị Tần diệt.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.071">
+					<C>贾生名谊，雒阳人也。</C>
+					<V>Giả Nghị Giả sinh tên là Nghị, người Lạc Dương.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.072">
+					<C>年十八，以 能诵诗属书闻於郡中。</C>
+					<V>Mười tám tuổi, làu thông thi thư, nổi tiếng khắp quận.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.073">
+					<C>孝文皇帝初立，闻河南守吴公 治平为天下第一，故与李斯同邑而常学事焉，乃徵为廷尉。</C>
+					<V>Lúc Hiếu Văn hoàng đế mới lên ngôi, nghe nói Thái thú Hà Nam Ngô công giỏi cai trị bậc nhất thiên hạ, vốn là đồng hương với Lý Tư nên thường theo học, bèn trưng dụng làm Đình úy.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.074">
+					<C>文帝召以为博士。</C>
+					<V>Văn đế triệu vào triều cho làm quan Bác sĩ.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.075">
+					<C>每诏令议下，诸老先生不能言，贾 生尽为之对，人人各如其意所欲出。</C>
+					<V>Mỗi khi chiếu lệnh nghị bàn, các lão tiên sinh không biết trả lời ra sao, Giả sinh ứng đối được hết, ai nấy đều thấy giống ý mình muốn nói.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.076">
+					<C>孝 文帝说之，超迁，一岁中至太中大夫。</C>
+					<V>Hiếu Văn để yêu quý, cất nhắc vượt cấp, trong một năm lên đến chức Thái trung đại phu.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.077">
+					<C>贾生以为汉兴至孝文二十馀年，天下和洽，而固当改正朔，易服 色，法制度，定官名，兴礼乐，乃悉草具其事仪法，色尚黄，数用 五，为官名，悉更秦之法。</C>
+					<V>Giả sinh cho nhà Hán hưng khởi tính đến Hiếu Văn đế đã hơn hai mươi năm, thiên hạ hòa hợp, cần thay lịch pháp, đổi màu sắc phục, định rõ pháp chế, xác lập chức quan, chấn hưng lễ nhạc, bèn thảo hết thảy nghi thức, pháp độ, màu chuộng vàng, dùng số năm, định rõ tên các chức quan, thay đổi toàn bộ pháp độ của triều Tần.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.078">
+					<C>诸律令所更定，及列侯悉就国，其说皆自 贾生发之。</C>
+					<V>Việc thay đổi và chế định luật lệnh, cùng quy định bắt các chư hầu thảy đều phải đến nước phong, chủ trương đều do Giả sinh đề xuất.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.079">
+					<C>於是天子议以为贾生任公卿之位。</C>
+					<V>Thế nên thiên tử nghị bàn, cho Giả sinh ở tước vị công khanh.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.080">
+					<C>绛、灌、东阳侯、冯敬 之属尽害之， 乃短贾生曰：“雒阳之人，年少初学，专欲擅权，纷乱诸 事。”</C>
+					<V>Bọn Giang, Quán, Đông Dương hầu, Phùng Kính thảy đều ganh ghét, bèn gièm Giả sinh rằng: “Người ở Lạc Dương, tuổi nhỏ học sơ, ý muốn chuyên quyền, làm rối mọi sự.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.081">
+					<C>於是天子後亦疏之，不用其议，乃以贾生为长沙王太傅。</C>
+					<V>Vì thế, thiên tử sau cũng xa lánh, không theo kiến nghị của Giả sinh, rồi cho Giả sinh làm Thái phó cho Trường Sa vương.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.082">
+					<C>贾生既辞往行，闻长沙卑湿，自以寿不得长，又以適去， 意不自得。</C>
+					<V>Giả sinh từ biệt lên đường, nghe nói Trường Sa trũng ẩm, tự cho mình thọ không được lâu, lại bị biển trích đến đó, trong lòng không vui.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.083">
+					<C>侧闻屈原 兮，自沈汨罗。</C>
+					<V>Trắc văn Khuất Nguyên hề, tự trầm Mịch La.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.084">
+					<C>讯曰： 已矣， 国其莫我知，独堙郁兮其谁语？</C>
+					<V>Tấn viết: Dĩ hĩ, quốc kỳ mạc ngã tri, Độc nhân uất hề kỳ thùy ngữ?</V>
+				</STC>
+				<STC ID="HCS_001.084.001.085">
+					<C>凤漂漂 其高遰兮，夫固自缩而远去。</C>
+					<V>Phượng phiêu phiêu kỳ cao thệ hề, Phù cố tự súc nhi viễn khứ.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.086">
+					<C>所贵圣人之神德兮，远浊世而自藏。</C>
+					<V>Sở quý thánh nhân chi thần đức hề, Viễn trọc thế nhi tự tàng.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.087">
+					<C>楚人命鸮曰“服”。</C>
+					<V>Người Sở gọi con quạ là “phục”.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.088">
+					<C>曰“野 鸟入处兮，主人将去”。</C>
+					<V>Viết: “Dã điểu nhập xứ hề, chủ nhân tương khứ.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.089">
+					<C>服 乃叹息，举首奋翼，口不能言，请对以意。</C>
+					<V>Phục nãi thán tức, cử thủ phấn dực, Khẩu bất năng ngôn, thỉnh đối dĩ ý.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.090">
+					<C>命不可说兮，孰知其极？</C>
+					<V>Mệnh bất khả thuyết hề, thục tri kỳ cực?</V>
+				</STC>
+				<STC ID="HCS_001.084.001.091">
+					<C>天不可与虑 兮，道不可与谋。</C>
+					<V>Thiên bất khả dữ lự hề, đạo bất khả dữ mưu.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.092">
+					<C>且夫天地为炉兮，造化为工；阴阳为炭兮，万物 为铜。</C>
+					<V>*** Thả phù thiên địa vị lô đề, tạo hóa vi công; Âm dương vị thán hề, vạn vật vị đồng.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.093">
+					<C>小知 自私兮，贱彼贵我；通人大 观兮，物无不可。</C>
+					<V>Tiểu tri tự tư hề, tiện bỉ quý ngã; Thông nhân đại quan hề, vật vô bất khả.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.094">
+					<C>述迫之徒兮，或趋西东； 大人不曲兮， 亿变齐同。</C>
+					<V>Truột bách chi đồ hề, hoặc xu tây đông; Đại nhân bất khúc hề, ức biến tề đồng.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.095">
+					<C>其生若浮兮，其死若休； 澹乎若深渊之静，氾乎若不系之舟。</C>
+					<V>Sống tựa nổi trôi chừ, chết như ngơi nghỉ. Bình lặng như vực tĩnh thẳm sâu chừ, Nổi trội như con thuyền không buộc.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.096">
+					<C>不以生 故自宝兮，养空而浮； 德人无累 兮，知命不忧。</C>
+					<V>Không vì sống mà thấy quý chừ, chuộng rỗng mà nổi. Có đức không lụy chừ, biết mệnh không lo.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.097">
+					<C>後岁馀，贾生徵见。</C>
+					<V>Hơn một năm sau, Giả sinh được triệu kiến.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.098">
+					<C>上因感鬼神事，而问鬼神之 本。</C>
+					<V>Vua nhân cảm kích việc quỷ thần, bèn hỏi về gốc của quỷ thần.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.099">
+					<C>既罢，曰：“吾久 不见贾生，自以为过之，今不及也。”</C>
+					<V>Tiếp kiến xong, Văn đế nói: “Ta lâu không gặp Giả sinh, tự cho mình giỏi hơn, nay mới hay là không bằng.”</V>
+				</STC>
+				<STC ID="HCS_001.084.001.100">
+					<C>居顷之，拜贾生为梁怀王太 傅。</C>
+					<V>Không lâu sau, phong Giả sinh làm Thái phó cho Lương Hoài vương.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.101">
+					<C>梁怀王，文帝之少子，爱，而好书，故 令贾生傅之。</C>
+					<V>Lương Hoài vương là con nhỏ của Văn đế, được sủng ái, thích sách vở, nên Văn đế sai Giả sinh làm thầy dạy.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.102">
+					<C>文帝复封淮南厉王子四人皆为列侯。</C>
+					<V>Văn đế lại phong bốn người con của Hoài Nam Lệ vương đều được tước hầu.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.103">
+					<C>贾生谏，以为患之兴自此起 矣。</C>
+					<V>Giả sinh can, cho là họa dấy từ đấy.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.104">
+					<C>贾生数上疏，言诸侯或连数郡，非古之制，可稍削之。</C>
+					<V>Giả sinh nhiều lần dâng sớ, nói có chư hầu được phong liền mấy quận, đó không phải chế độ thời cổ, có thể bớt đi.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.105">
+					<C>文帝不 听。</C>
+					<V>Văn đế không nghe.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.106">
+					<C>居数年，怀王骑，堕马而死，无 後。</C>
+					<V>Được mấy năm, Hoài vương cưỡi ngựa, ngã ngựa chết, không người nối dõi.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.107">
+					<C>贾生之死时年三十三矣。</C>
+					<V>Giả sinh chết khi ba mươi ba tuổi.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.108">
+					<C>及孝文崩，孝武皇帝立，举贾生之孙二人至郡守，而贾嘉最好学，世 其家，与余通书。</C>
+					<V>Đến khi Hiếu Văn đế băng hà, Hiếu Vũ hoàng đế lên ngôi, cất nhắc hai cháu nội của Giả sinh làm đến Quận thú, trong đó Giả Gia ham học nhất, kế thừa gia nghiệp, có thư qua lại với ta.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.109">
+					<C>適长沙，观 屈原所自沈渊， 未尝不垂涕，想见其为人。</C>
+					<V>Đến Trường Sa, xem nơi Khuất Nguyên tự trầm, chưa từng không sa nước mắt, ngỡ như thấy người xưa.</V>
+				</STC>
+				<STC ID="HCS_001.084.001.110">
+					<C>及见贾生吊之，又 怪屈原以彼其材，游诸侯，何国不容，而自令若是。 读服乌赋，同死 生，轻去就，又爽然自失矣。 屈平行正，以事怀王。 瑾瑜比洁，日月争光。</C>
+					<V>Đến khi xem lời Giả sinh điếu, lại thấy lạ vì với tài như Khuất Nguyên, du thuyết chư hầu, nước nào chẳng dung, đâu đến nỗi thế?</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.084.002">
+				<STC ID="HCS_001.084.002.001">
+					<C>秦发兵击之，大 破楚师於丹、淅， 斩首八万，虏楚 将屈匄，遂取楚之汉中地。</C>
+					<V>Tần phát binh đánh Sở, cả phá quân Sở ở sông Đan, sông Tích, chém tám vạn thủ cấp, bắt sống tướng Sở là Khuất Cái, chiếm đất Hán Trung của Sở.</V>
+				</STC>
+				<STC ID="HCS_001.084.002.002">
+					<C>怀王稚子子兰劝王行：“柰何绝秦欢！”</C>
+					<V>Con nhỏ của Hoài vương là Tử Lan khuyên đi: “Sao có thể khiến Tần không vui.”</V>
+				</STC>
+				<STC ID="HCS_001.084.002.003">
+					<C>亡走赵，赵不内。</C>
+					<V>Trốn sang Triệu, Triệu không chứa.</V>
+				</STC>
+				<STC ID="HCS_001.084.002.004">
+					<C>长子顷襄王立，以其弟子兰为令尹。</C>
+					<V>Con trưởng là Khoảnh Tương vương lên ngôi, phong cho em là Tử Lan làm Lệnh doãn.</V>
+				</STC>
+				<STC ID="HCS_001.084.002.005">
+					<C>屈原曰：“吾闻之，新沐者必弹冠，新浴 者必振衣，人又谁能以身之察察，受物之汶 汶者乎！ 宁赴常流而葬乎江鱼腹中耳，又安能以皓皓之白 而蒙世俗之温蠖乎！”</C>
+					<V>Khuất Nguyên đáp: “Ta nghe nói, người mới gội đầu ắt phủi mũ, người mới tắm ắt phủi quần áo, con người đâu chịu đem tấm thân trong sạch cho vật làm nhơ bẩn đâu! Thà gieo mình xuống sông, chôn thây bụng cá chứ không để phẩm cách thanh cao bị đời vấy bẩn!”</V>
+				</STC>
+				<STC ID="HCS_001.084.002.006">
+					<C>夫党人之鄙妒兮，羌不知吾所臧。</C>
+					<V>Phù đảng nhân chi bỉ đố hề, khương bất tri ngô sở tang.</V>
+				</STC>
+				<STC ID="HCS_001.084.002.007">
+					<C>自屈原沈汨罗後百有馀年，汉有贾生，为长沙王太傅，过湘水， 投书以吊屈原。</C>
+					<V>Hơn trăm năm từ sau khi Khuất Nguyên tự trầm ở sông Mịch La, nhà Hán có Giả sinh, làm Thái phó cho Trường Sa vương, qua Tương Thủy, viết văn ném xuống sông để điếu Khuất Nguyên.</V>
+				</STC>
+				<STC ID="HCS_001.084.002.008">
+					<C>廷尉 乃言贾生年少，颇通诸子百家之书。</C>
+					<V>Đình úy bèn nói Giả sinh tuổi trẻ, tinh thông các sách của bách gia chư tử.</V>
+				</STC>
+				<STC ID="HCS_001.084.002.009">
+					<C>及渡湘水，为赋以吊屈原。 其辞 曰： 共承嘉惠兮，俟罪长沙。</C>
+					<V>Đến khi qua sông Tương Thủy, làm bài phú điếu Khuất Nguyên, lời như sau: [Phiên âm:] Cộng thừa gia huệ hề, sĩ tội Trường Sa.</V>
+				</STC>
+				<STC ID="HCS_001.084.002.010">
+					<C>请问于服兮： “予去何之？吉乎告我，凶言其菑。 淹数之度兮，语予其期。”</C>
+					<V>Thỉnh vấn vu phục hồ: “Dư khứ hà chi? Cát hồ cáo ngã, hung ngôn kỳ tai. Yêm số chi độ hề, ngữ dư kỳ kỳ.”</V>
+				</STC>
+				<STC ID="HCS_001.084.002.011">
+					<C>夫祸之与福兮，何异纠纆。</C>
+					<V>Phù họa chi dữ phúc hề, hà dị củ triền.</V>
+				</STC>
+				<STC ID="HCS_001.084.002.012">
+					<C>至孝昭时，列为九卿。</C>
+					<V>Đến thời Hiếu Chiêu đế, được liệt vào hàng Cửu khanh.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.084.003">
+				<STC ID="HCS_001.084.003.001">
+					<C>伤怀永哀兮，汩徂南土。</C>
+					<V>Thương hoài vĩnh ai hề, cốt tồ nam thổ.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.002">
+					<C>眴兮窈窈， 孔静幽墨。</C>
+					<V>Huyễn hề yểu yểu, khổng tĩnh u mặc.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.003">
+					<C>冤结纡轸兮，离愍之长鞠； 抚情效志兮，俯诎 以自抑。</C>
+					<V>Oan kết vu chẩn hề, ly mẫn chi trường cúc; Phủ tình hiệu chí hề, phủ truất dĩ tự ức.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.004">
+					<C>刓方以为圜兮，常度未替； 易初本由兮，君子所鄙。</C>
+					<V>*** Ngoan phương dĩ vi viên hề, thường độ vị thế; Dịch sơ bản do hề, quân tử sở bỉ.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.005">
+					<C>章画职墨兮，前度未改； 内直质重兮，大人所盛。</C>
+					<V>Chương hoạch chức mặc hề, tiến độ vị cải; Nội trực chất trong hề, đại nhân sở thịnh.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.006">
+					<C>巧匠不斫兮，孰察其揆正？</C>
+					<V>Xảo tượng bất chước hề, thục sát kỳ quỹ chính?</V>
+				</STC>
+				<STC ID="HCS_001.084.003.007">
+					<C>任重载盛兮，陷滞而不济； 怀瑾握瑜兮，穷不得余所示。</C>
+					<V>*** Nhậm trọng tải thịnh hề, hãm trệ nhi bất tế; Hoàn cẩn ác du hề, cùng bất đắc dư sở thị.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.008">
+					<C>怀情抱质兮，独 无匹兮。</C>
+					<V>Ôm ấp nỗi niềm chừ, riêng khôn sánh chừ.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.009">
+					<C>人生 禀命兮，各有所错兮。</C>
+					<V>Nhân sinh có mệnh chừ, thảy có sắp đặt chừ.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.010">
+					<C>曾伤爰哀，永叹喟兮。</C>
+					<V>Đau thương chồng chất, mãi thở than chừ.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.011">
+					<C>呜呼哀哉，逢时不祥！</C>
+					<V>Ô hô ai tai, phùng thì bất tường!</V>
+				</STC>
+				<STC ID="HCS_001.084.003.012">
+					<C>章甫荐屦兮， 渐不可久；嗟苦先生兮， 独离此咎！</C>
+					<V>Chương phủ tiến lũ hề, tiệm bất khả cửu; Ta khổ tiên sinh hề, độc ly thử cữu!</V>
+				</STC>
+				<STC ID="HCS_001.084.003.013">
+					<C>弥 融爚以隐处兮， 夫岂从螘与蛭螾？</C>
+					<V>Di dung được dĩ ẩn xứ hề, Phù khởi tòng nghĩ dữ điệt dẫn?</V>
+				</STC>
+				<STC ID="HCS_001.084.003.014">
+					<C>贾生既以適居长沙，长沙卑湿，自以为寿不 得长，伤悼之，乃为赋以自广。 其辞 曰： 单阏之岁兮， 四月孟夏，庚子 日施兮，服集予舍， 止于坐隅，貌甚间暇。</C>
+					<V>Giả sinh đã bị biếm trích đến Trường Sa, Trường Sa ẩm thấp, tự cho mình sống không được thọ, bi thương ai oán, bèn làm phú để tự khuây, lời phú như sau: [Phiên âm:] Đan át chi tuế hề, tứ nguyệt mạnh hạ, Canh Tý nhật thi hề, phục tập dư xá, Chỉ vu tọa ngung, mạo thậm nhàn hạ.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.015">
+					<C>异物来集兮，私怪 其故，发书占之兮，筴言其度。</C>
+					<V>Dị vật lai tập hề, tư quái kỳ cố, Phát thư chiêm chi hề, sách ngôn kỳ độ.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.016">
+					<C>斡流而迁兮， 或推而还。</C>
+					<V>Oát lưu nhi thiên hề, hoặc thôi nhi hoàn.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.017">
+					<C>忽然为人兮，何足控抟； 化为异物 兮，又何足患！</C>
+					<V>Hốt nhiên vi nhân hề, hà túc khống bác; Hóa vi dị vật hề, hựu hà túc hoạn!</V>
+				</STC>
+				<STC ID="HCS_001.084.003.018">
+					<C>拘士系俗兮，羖如囚拘； 至人遗物兮，独与道俱。</C>
+					<V>Câu sĩ hệ tục hề, hoản như tù câu; Chí nhân di vật hề, độc dữ đạo câu. Chúng nhân hoặc hoặc hề, hiếu ổ tích ý; Chân nhân đàm mạc hà, độc dữ đạo tức. Thích trí di hình nề, siêu nhiên tự táng; Liêu khoách hốt hoang hề, dữ đạo cao tường. Thừa lưu tắc thể hề, đắc để tắc chỉ; Túng khu ủy mệnh hề, bất tư dữ kỷ.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.019">
+					<C>细故䎬粦兮，何足以疑！</C>
+					<V>Vướng vất nhỏ bé chừ, sao đủ để nghi.</V>
+				</STC>
+				<STC ID="HCS_001.084.003.020">
+					<C>至夜半，文帝前席。</C>
+					<V>Đến nửa đêm, Văn để tiến đến trước chiếu.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.084.004">
+				<STC ID="HCS_001.084.004.001">
+					<C>凤皇在笯兮， 鸡雉翔舞。</C>
+					<V>Phượng hoàng tại nô hề, kê trĩ tường vũ.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.002">
+					<C>同糅玉石兮，一■而 相量。</C>
+					<V>Đồng nhu ngọc thạch hề, nhất khái nhi tương lượng.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.003">
+					<C>邑犬群吠兮，吠所怪也；诽骏疑桀兮，固庸 态也。</C>
+					<V>Ấp khuyển quần phệ hề, phệ sở quái dã; Phỉ tuấn nghi kiệt hề, cố dung thái dã.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.004">
+					<C>进路 北次兮，日昧昧其将暮；含忧虞哀兮， 限之以大故。</C>
+					<V>Tiến lộ bắc thứ hề, nhật muội muội kỳ tương mộ; Hàm ưu ngu ai hề, hạn chi dĩ đại cố.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.005">
+					<C>乱曰： 浩浩沅、湘兮， 分流汨兮。</C>
+					<V>Loạn viết: Hạo hạo Nguyên, Tương hề, phân lưu cốt hề. Tu lộ u phất hề, đạo viễn hốt hề.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.006">
+					<C>伯乐既殁兮，骥将焉程兮？</C>
+					<V>Bá Nhạc đã chết chừ, ký ruổi được chăng chừ?</V>
+				</STC>
+				<STC ID="HCS_001.084.004.007">
+					<C>于嗟嚜嚜兮，生 之无故！</C>
+					<V>Hu ta mặc mặc hề, sinh chi vô cố!</V>
+				</STC>
+				<STC ID="HCS_001.084.004.008">
+					<C>使骐骥可 得系羁兮，岂云异夫犬羊！ 般纷纷其离此尤兮， 亦 夫子之辜也！</C>
+					<V>Sử kỳ ký khả đắc hệ ky hề, Khởi vân dị phù khuyển dương! Ban phân phân kỳ ly thử vưu hề, Diệc phu tử chi cô dã! Si cửu châu nhi tương quân hề, Hà tất hoài thử đô dã?</V>
+				</STC>
+				<STC ID="HCS_001.084.004.009">
+					<C>万物变化兮，固无休息。</C>
+					<V>*** Vạn vật biến hóa hề, cố vô hưu tức.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.010">
+					<C>沕穆无穷兮， 胡可胜言！</C>
+					<V>Vật mục vô cùng hề, hồ khả thăng ngôn!</V>
+				</STC>
+				<STC ID="HCS_001.084.004.011">
+					<C>彼吴彊大兮，夫差以败；越栖会稽兮，句践霸世。</C>
+					<V>Bỉ Ngô cường đại hề, Phù Sai dĩ bại; Việt thê Cối Kê hề, Câu Tiễn bá thế.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.012">
+					<C>迟数有命兮，恶识其时？</C>
+					<V>Trị số hữu mệnh hề, ô thức kỳ thì?</V>
+				</STC>
+				<STC ID="HCS_001.084.004.013">
+					<C>乘流则逝兮，得坻则止； 纵躯委命 兮，不私与己。</C>
+					<V>Kẻ mắc tục lụy chừ, khác nào tù nhân; Chí nhân bỏ vật chừ, riêng noi theo đạo. Chúng nhân u mê chừ, yêu ghét chứa chất; Chân nhân đạm bạc chừ, riêng theo đạo đức. Bỏ trí bỏ hình chừ, tự quên, siêu thoát; Xa rộng mênh mang chừ, cùng đạo bay liệng. Nương dòng mà trôi chừ, tới bờ dừng nghỉ, Buông thân tùy mệnh chừ, mình không thiên vị.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.014">
+					<C>贾生自伤为傅无状，哭泣岁馀，亦死。</C>
+					<V>Giả sinh tự thương vì mình làm thầy không vẹn chức phận, khóc lóc hơn một năm, cũng chết.</V>
+				</STC>
+				<STC ID="HCS_001.084.004.015">
+					<C>太史公曰：余读离骚、天问、招魂、哀郢，悲其志。</C>
+					<V>Thái sử công bàn rằng: Ta đọc Ly tao, Thiên vấn, Chiêu hồn, Ai Dĩnh, buồn với chí hướng của Khuất Nguyên.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.084.005">
+				<STC ID="HCS_001.084.005.001">
+					<C>吴廷尉为河南守，闻其秀才， 召置门下，甚幸 爱。</C>
+					<V>Ngô Đình úy lúc làm Thái thú Hà Nam, nghe danh ông tài giỏi, triệu làm môn hạ, rất được yêu quý.</V>
+				</STC>
+				<STC ID="HCS_001.084.005.002">
+					<C>是时贾生年二十馀，最为少。</C>
+					<V>Bấy giờ Giả sinh hơn hai mươi tuổi, là người trẻ nhất [trong các Bác sĩ].</V>
+				</STC>
+				<STC ID="HCS_001.084.005.003">
+					<C>孝 文帝初即位，谦让未遑也。</C>
+					<V>Hiếu Văn đế mới lên ngôi, tỏ ra khiêm nhượng, chưa thi hành ngay.</V>
+				</STC>
+				<STC ID="HCS_001.084.005.004">
+					<C>贾生为长沙王太傅 三年，有鸮飞入贾生舍， 止于坐隅。</C>
+					<V>Giả sinh làm Thái phó cho Trường Sa vương được ba năm, có con quạ bay vào nhà Giả sinh, đậu ở góc nhà.</V>
+				</STC>
+				<STC ID="HCS_001.084.005.005">
+					<C>贪夫徇财兮，烈士徇名； 夸者死权兮， 品庶冯生。</C>
+					<V>Tham phù tuẫn tài hề, liệt sĩ tuẫn danh; Khoa giả tử quyền hề, phẩm thứ phùng sinh.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.084.006">
+				<STC ID="HCS_001.084.006.001">
+					<C>造讬湘流兮，敬吊先生。 遭世罔极 兮，乃陨厥身。</C>
+					<V>Tháo thác Tương lưu hề, kính điếu tiên sinh. Tào thế võng cực hề, nãi vẫn quyết thân.</V>
+				</STC>
+				<STC ID="HCS_001.084.006.002">
+					<C>鸾凤伏窜兮， 鸱枭翱翔。</C>
+					<V>Loan phượng phục thoán hề, si kiêu cao tường.</V>
+				</STC>
+				<STC ID="HCS_001.084.006.003">
+					<C>阘茸尊显兮， 谗谀得志；贤圣逆曳兮，方正倒植。 世谓伯夷贪兮，谓盗跖 廉； 莫邪为顿兮， 铅刀为銛。</C>
+					<V>Tháp nhung tôn hiển hề, sàm du đắc chí; Hiền thánh nghịch duệ hề, phương chính đảo thực. Thế vị Bá Di tham hề, vị Đạo Chích liêm; Mạc da vị đốn hề, diên đao vi tiêm.</V>
+				</STC>
+				<STC ID="HCS_001.084.006.004">
+					<C>斡弃 周鼎兮宝康瓠， 腾驾罢牛兮骖蹇驴， 骥垂两耳兮服盐车。</C>
+					<V>Oát khí Chu đỉnh hề, bảo khang hồ, Đằng giá bãi ngưu hề, tham kiển lư; Ký thùy lưỡng nhĩ hề, phục diêm xa.</V>
+				</STC>
+				<STC ID="HCS_001.084.006.005">
+					<C>袭九渊之神龙兮， 沕深潜以自珍。</C>
+					<V>Tập cửu uyên chi thần long hề, Vật thêm tiềm dĩ tự trân.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.084.008">
+				<STC ID="HCS_001.084.008.001">
+					<C>形气转续兮，变化而嬗。</C>
+					<V>Hình khí chuyển tục hề, biến hóa nhi thiện.</V>
+				</STC>
+				<STC ID="HCS_001.084.008.002">
+					<C>祸兮福所倚，福兮祸所伏； 忧喜聚门兮，吉凶同域。</C>
+					<V>Họa hề phúc sở ỷ, phúc hề họa sở phục; Ưu hỉ tụ môn hề, cát hung đồng vực.</V>
+				</STC>
+				<STC ID="HCS_001.084.008.003">
+					<C>斯游遂 成兮，卒被五刑；傅说胥靡兮， 乃相武丁。</C>
+					<V>Tư du toại thành hề, tốt bị ngũ hình; Phó Duyệt tà mị hề, nãi tướng Vũ Đinh.</V>
+				</STC>
+				<STC ID="HCS_001.084.008.004">
+					<C>水激则旱 兮，矢激则远。</C>
+					<V>Thủy kích tắc hạn hề, thỉ kích tắc viễn.</V>
+				</STC>
+				<STC ID="HCS_001.084.008.005">
+					<C>万物回薄兮，振荡相 转。</C>
+					<V>Vạn vật hồi bạc hề, chẩn đãng tương chuyển.</V>
+				</STC>
+				<STC ID="HCS_001.084.008.006">
+					<C>大专槃物兮， 坱轧无垠。</C>
+					<V>Đại chuyên bán vật hề, dưỡng loát vô ngân.</V>
+				</STC>
+				<STC ID="HCS_001.084.008.007">
+					<C>合散消息兮， 安有常则； 千变万化兮，未始有极。</C>
+					<V>Hợp tán tiêu tức hề, an hữu thường tắc; Thiên biến vạn hóa hề, vị thủy hữu cực.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.084.007">
+				<STC ID="HCS_001.084.007.001">
+					<C>云蒸雨降兮，错缪相纷。</C>
+					<V>Vân chưng vũ giáng hề, thác mậu tương phân.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.084.010">
+				<STC ID="HCS_001.084.010.001">
+					<C>孝文帝方受釐， 坐 宣室。</C>
+					<V>Hiếu Văn đế đang thụ lộc tế thần, ngồi ở điện Tuyên Thất [để tiếp kiến].</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

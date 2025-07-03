@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.118">
+			<PAGE ID="HCS_001.118.001">
+				<STC ID="HCS_001.118.001.001">
+					<C>淮南厉王长者，高祖少子也，其母故赵王张敖美人。</C>
+					<V>Hoài Nam Lệ vương Lưu Trường Hoài Nam Lệ vương Trường là con nhỏ của Cao tổ, mẹ vốn là mỹ nhân của Triệu vương Trương Ngao.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.002">
+					<C>高祖八年， 从东垣过赵，赵王献之美人。</C>
+					<V>Cao tổ năm thứ tám, Cao tổ từ Đông Viên qua nước Triệu, Triệu vương đem mỹ nhân dâng hiến.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.003">
+					<C>厉王母得 幸焉，有身。</C>
+					<V>Mẹ của Lệ vương được sủng ái, rồi có mang.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.004">
+					<C>赵王敖弗敢内宫，为筑外宫而舍之。</C>
+					<V>Triệu vương Ngao không dám nạp nàng vào cung, mà dựng cung thất bên ngoài cung cho nàng ở.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.005">
+					<C>及贯高等谋反柏人 事发觉，并逮治王，尽收捕王母兄弟美人，系之河内。</C>
+					<V>Đến khi bọn Quản Cao mưu phản ở Bách Nhân, bị phát giác, Triệu vương cũng bị bắt trị tội, mẹ, anh em, mỹ nhân của Triệu vương đều bị bắt trói, giải đến Hà Nội.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.006">
+					<C>厉王母亦系， 告吏曰：“得幸上，有身。”</C>
+					<V>Mẹ của Lệ vương cũng bị trói, nói với ngục quan rằng: “Ta được hoàng thượng sủng ái, đang có mang.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.007">
+					<C>吏以闻上，上方怒赵王，未理厉王母。</C>
+					<V>Ngục quan đem việc ấy tâu lên, hoàng thượng đang giận Triệu vương, chưa xử lý đến việc của mẹ Lệ vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.008">
+					<C>厉王母弟赵兼因辟阳侯言吕后，吕后妒，弗肯白，辟阳侯不彊争。</C>
+					<V>Em trai mẹ Triệu vương là Triệu Kiếm thông qua Tịch Dương hầu nói với Lã hậu, Lã hậu đố kỵ, không chịu làm rõ sự việc, Tịch Dương hầu cũng không dám cố nài.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.009">
+					<C>及 厉王母已生厉王，恚，即自杀。</C>
+					<V>Khi mẹ Lệ vương sinh Lệ vương, phẫn uất rồi tự sát.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.010">
+					<C>吏奉厉王诣上，上悔， 令吕后母之，而葬厉王母真定。</C>
+					<V>Ngục quan dâng Lệ vương lên cho hoàng thượng, hoàng thượng hối hận, sai Lã hậu làm mẹ, rồi táng mẹ Lệ vương ở Chân Định.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.011">
+					<C>真定，厉王母之家在焉，父世 县也。</C>
+					<V>Chân Định là quê nhà của mẹ Lệ vương, cũng là huyện đời đời tổ phụ ở đó.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.012">
+					<C>高祖十一年月，淮南王黥布反，立子长为淮南王，王黥布故地， 凡四郡。</C>
+					<V>Tháng Bảy, Cao tổ năm thứ mười một, Hoài Nam vương là Kình Bố làm phản, Cao tổ lập con là Trường làm Hoài Nam vương, làm vua ở đất cũ của Kình Bố, gồm bốn quận.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.013">
+					<C>上自将兵击灭 布，厉王遂即位。</C>
+					<V>Hoàng thượng đích thân cầm quân đến diệt Bố, Lệ vương liền lên ngôi.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.014">
+					<C>厉王蚤失母，常附吕后，孝惠、吕后时以故得幸无 患害，而常心怨辟阳侯，弗敢发。</C>
+					<V>Lệ vương sớm mất mẹ, thường dựa vào Lã hậu, vì thế thời Hiếu Huệ đế và Lã hậu được sủng ái, không bị tai họa, song trong lòng luôn oán Tịch Dương hầu, nhưng không dám thể hiện.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.015">
+					<C>及孝文帝初即位，淮南王自以为最 亲，骄蹇，数不奉法。</C>
+					<V>Đến khi Hiếu Văn đế mới lên ngôi, Hoài Nam vương tự cho mình là người thân thiết nhất, kiêu căng bất phục, nhiều lần không theo pháp luật.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.016">
+					<C>上以亲故，常宽赦之。</C>
+					<V>Hoàng thượng cho là chỗ thân tình, thường khoan dung miễn xá cho.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.017">
+					<C>从 上入苑囿猎，与上同车，常谓上“大兄”。</C>
+					<V>Theo hoàng thượng vào ngự uyển săn bắn, ngồi cùng xe hoàng thượng, thường gọi hoàng thượng là “đại huynh”.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.018">
+					<C>厉王有材力，力能扛鼎， 乃往请辟阳侯。</C>
+					<V>Lệ vương có tài năng và dũng lực, sức nhấc nổi đỉnh, rồi đến bái kiến Tịch Dương hầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.019">
+					<C>辟阳侯出见之，即自袖铁椎椎辟阳侯， 令从者魏敬 刭之。</C>
+					<V>Tịch Dương hầu ra gặp, liền dùng chùy sắt giấu trong ống tay áo đánh Tịch Dương hầu, lệnh cho tùy tòng là Ngụy Kính cắt đầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.020">
+					<C>厉王乃驰走阙下，肉袒谢曰：“臣 母不当坐赵事，其时辟阳侯力能得之吕后，弗争，罪一也。赵王如意 子母无罪，吕后杀之，辟阳侯弗争，罪二也。吕后王诸吕，欲以危刘 氏，辟阳侯弗争，罪三也。臣谨为天下诛贼臣辟阳侯，报母之仇，谨 伏阙下请罪。”</C>
+					<V>Lệ vương liền phi ngựa đến dưới cửa khuyết, cởi trần tạ tội rằng: “Mẹ thần không liên quan đến việc Triệu vương phản nghịch, bấy giờ Tịch Dương hầu có thể khiến Lã hậu nghe theo, lại không chịu khuyên nhủ, đó là một tội. Mẹ con Triệu vương Như Ý vô tội, Lã hậu giết đi, Tịch Dương hầu không can ngăn, đó là hai tội. Lã hậu phong vương cho người họ Lã, muốn làm nguy hại đến họ Lưu, Tịch Dương hầu không can ngăn, đó là ba tội. Thần kính cẩn vì thiên hạ giết tặc thần Tịch Dương hầu, báo thù cho mẹ, xin kính cần quỳ dưới cửa khuyết để thỉnh tội.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.021">
+					<C>孝文伤其志，为亲故，弗治，赦厉王。</C>
+					<V>Hiếu Văn đế cảm thương trước tâm trí của Lệ vương lại vì là người thân, không trị tội, xá miễn cho Lệ vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.022">
+					<C>当是时，薄太 后及太子诸大臣皆惮厉王，厉王以此归国益骄恣，不用汉法，出入称 警跸，称制，自为法令，拟於天子。</C>
+					<V>Bấy giờ, Bạc thái hậu cùng thái tử và các đại thần đều sợ Lệ vương, vì thế Lệ vương về nước càng thêm kiêu căng càn rỡ, không theo pháp luật nhà Hán, ra vào đều cấm đường, mệnh lệnh ban ra đều xưng “chế”, tự lập pháp lệnh riêng, sánh ngang thiên tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.023">
+					<C>六年，令男子但等七十人与棘蒲侯柴武太子奇谋，以輂车四十乘 反谷口， 令人使闽越、匈奴。</C>
+					<V>Văn đế năm thứ sáu, [Lệ vương] sai con trai là bọn Đãn gồm bảy chục người cùng thái tử của Cức Bồ hầu Sài Vũ tên là Kỳ bàn mưu, đem bốn chục cỗ xe làm phản ở Cốc Khẩu, sai người đi sứ Mân Việt, Hung Nô.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.024">
+					<C>事觉，治之， 使使召淮南王。</C>
+					<V>Việc bị phát giác, triều đình truy cứu, sai sứ triệu Hoài Nam vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.025">
+					<C>淮南王至长安。</C>
+					<V>Hoài Nam vương về Trường An.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.026">
+					<C>“丞相臣张仓、典客臣冯敬、行御史大夫事宗正臣逸、廷尉臣 贺、备盗贼中尉臣福昧死言：淮南王长废先帝法，不听天子诏，居处 无度，为黄屋盖乘舆，出入拟於天子，擅为法令，不用汉法。及所置 吏，以其郎中春为丞相，聚收汉诸侯人及有罪亡者，匿与居，为治家 室，赐其财物爵禄田宅，爵或至关内侯，奉以二千石， 所不 当得，欲以有为。大夫但、 士五开章等七十人 与棘蒲侯太子奇谋 反， 欲以危宗庙社稷。使开章阴告长，与谋使闽越及匈奴发其 兵。开章之淮南见长，长数与坐语饮食，为家室娶妇，以二千石俸奉 之。开章使人告但，已言之王。春使使报但等。吏觉知，使长安尉奇 等往捕开章。长匿不予，与故中尉蕑忌 谋，杀以闭口。 为棺椁衣衾，葬之肥陵邑， 谩吏曰‘不知安 在’。又详 聚土，树表其上，曰‘开章死，埋此下’。及长身自贼杀无罪者一 人；令吏论杀无罪者六人；为亡命弃市罪诈捕命者以除罪； 擅 罪人，罪人无告劾，系治城旦舂以上十四人；赦免罪人，死罪十八 人，城旦舂以下五十八人；赐人爵关内侯以下九十四人。前日长病， 陛下忧苦之，使使者赐书、枣脯。长不欲受赐，不肯见拜使者。南海 民处庐江界中者反，淮南吏卒击之。陛下以淮南民贫苦，遣使者赐长 帛五千匹，以赐吏卒劳苦者。长不欲受赐，谩言曰‘无劳苦者’。南 海民王织上书献璧皇帝，忌擅燔其书，不以闻。 吏请召治忌，长不遣，谩言曰‘忌病’。春又请长，原入 见，长怒曰‘女欲离我自附汉’。长当弃市，臣请论如法。”</C>
+					<V>“Thần, Thừa tướng Trương Thương, thần Điển khách Phòng Kính, thần Hành ngự sử đại phu sự Tông chính là Dật, thần Đình úy là Hạ, thần Bị đạo tặc trung úy là Phúc liều chết dâng lời: Hoài Nam vương là Trường phế bỏ pháp lệnh của tiên đế, không nghe chiếu chỉ của thiên tử, cư xử không có pháp độ, làm xe che lọng vàng, ra vào giống như thiên tử, tự ý chế định pháp lệnh, không theo quy pháp nhà Hán. Đến việc thiết đặt quan lại, lấy Lang trung của mình là Xuân làm Thừa tướng, tụ tập, thu nhận chư hầu nhà Hán cùng đám phạm tội bỏ trốn, lén lút cho ở cùng, giúp cai quản nhà cửa, ban cho của cải, tước lộc, điền trạch, tước có người lên đến Quan nội hầu, bổng lên đến ba nghìn thạch, điều không được làm mà vẫn muốn làm. Bọn đại phu là Đãn, Sĩ ngũ là Khai Chương bảy mươi người, cùng thái tử của Cức Bồ hầu là Kỳ mưu phản, suýt nguy cho tông miếu xã tắc. Họ sai Khai Chương ngầm báo với Trường, cùng bàn mưu khiến Mân Việt và Hung Nô phát binh. Khai Chương đến Hoài Nam gặp Trường, Trường nhiều lần cùng ngồi nói chuyện, ăn uống, cấp nhà cửa, lấy vợ cho, dùng bổng lộc của quan hai nghìn thạch để tôn phụng Trường. Khai Chương sai người báo với Đãn, đã nói với Hoài Nam vương. Xuân sai sứ đến báo cho bọn Đãn. Quan lại phát hiện được, sai bọn Huyện úy ở Trường An là Kỳ đến bắt Khai Chương. Trường giấu không cho bắt, cùng viên Trung úy trước đây là Gian Kỵ bàn mưu, giết người bịt miệng. Chuẩn bị quan quách áo chăn, táng họ ở ấp Phì Lăng, lừa dối các quan lại rằng: 'Không biết ở đâu.' Lại vờ đắp đất, dựng bia ở trên, ghi là: 'Khai Chương chết, chôn dưới chỗ này.' Còn Trường tự tay giết một người vô tội; sai quan lại khép tội giết sáu người vô tội; để xóa tội cho tội nhân bỏ trốn phải chém ngoài chợ liền giả bắt người không bỏ trốn nhằm thay thế; tự ý định tội người khác, định tội mà không báo triều đình, bắt rồi xử mười bốn người vào mức thành đán thung trở lên; xá miễn cho tội nhân, xá cho mười tám tử tội, năm mươi tám người ở mức thành đán thung trở xuống; ban tước Quan nội hầu trở xuống cho chín mươi tư người. Ngày trước Trường có bệnh, bệ hạ lo lắng buồn phiền, sai sứ ban cho sách và táo khô. Trường không muốn nhận, không chịu gặp sứ giả. Dân Nam Hải ở trong địa giới Lô Giang làm phản, quan binh Hà Nam đến đánh. Bệ hạ cho là dân Hoài Nam nghèo khổ, sai sứ ban cho Trường năm nghìn xấp lụa trắng, để thưởng cho quan quân đã chịu vất vả. Trường không muốn nhận, nói dối rằng: 'Không ai vất vả.' Dân Nam Hải là Vương Chức dâng thư muốn hiến ngọc bích lên Hoàng đế, Gian Kỵ tự ý đốt thư, không tâu lên. Quan lại xin triệu Kỵ đến trị tội, Trường không cho đi, nói dối rằng: 'Kỵ ốm.’ Xuân lại thỉnh cầu Trường, muốn vào triều kiến, Trường giận nói: 'Ngươi muốn rời ta, tự mình quy phụ triều Hán.' Trường đáng tội chém ngoài chợ, chúng thần xin hãy xử theo pháp chế.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.027">
+					<C>制曰：“朕不忍致法於王，其与列侯二千石议。”</C>
+					<V>Hoàng thượng hạ chế rằng: “Trẫm không nỡ dùng pháp luật xử Hoài Nam vương, hãy cùng liệt hầu và hạng quan hai nghìn thạch thượng nghị.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.028">
+					<C>“臣仓、臣敬、臣逸、臣福、臣贺昧死言：臣谨与列侯吏二千石 臣婴等四十三人议，皆曰‘长不奉法度，不听天子诏，乃阴聚徒党及 谋反者，厚养亡命，欲以有为’。臣等议论如法。”</C>
+					<V>“Thần là Thương, thần là Kính, thần là Dật, thần là Phúc, thần là Hạ liều chết dâng lời: Chúng thần kính cận cùng liệt hầu và các quan hạng hai nghìn thạch là bọn Anh gồm bốn mươi ba người bàn định, đều nói: 'Trường không theo pháp độ, không tuân chiếu của thiên tử, lại ngầm kết bè đảng cùng bọn mưu phản, hậu dưỡng bọn trốn tránh, âm mưu hành sự.' Bọn thần bàn luận, xin xử theo phép.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.029">
+					<C>制曰：“朕不忍致法於王，其赦长死罪，废勿王。”</C>
+					<V>Ban chế rằng: “Trẫm không nỡ dùng pháp với Hoài Nam vương, hãy xá tội chết cho Trường, phế bỏ tước vương.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.030">
+					<C>“臣仓等昧死言：长有大死罪，陛下不忍致法，幸赦，废勿王。 臣请处蜀郡严道邛邮， 遣其子母从居， 县为筑盖家室，皆廪食给薪菜盐 豉炊食器席蓐。臣等昧死请，请布告天下。”</C>
+					<V>“Bọn thần là Thương liều chết dâng lời: Trường có tội lớn, đáng chết, bệ hạ không nỡ xử theo phép nước, gia ơn xá miễn, phế bỏ tước vương. Bọn thần xin đày Trường an trí ở dịch trạm Cung tại Nghiêm Đạo, Thục Quận, sai vợ con theo ra, huyện đó sẽ dựng nhà cửa, kho lương sẽ cấp lương thực, củi, rau, muối, đậu, nồi niêu, chiếu nệm. Bọn thần liều chết thỉnh cầu, xin bố cáo thiên hạ biết.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.031">
+					<C>制曰：“计食长给肉日五斤，酒二斗。令故美人才人得幸者十人 从居。他可。”</C>
+					<V>Ban chế rằng: “Cấp cho Trường mỗi ngày năm cân thịt, hai đấu rượu. Cho mười mỹ nhân, tài nhân được sủng ái theo đến ở đó. Các việc khác đều chấp nhận.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.032">
+					<C>尽诛所与谋者。</C>
+					<V>Giết hết những kẻ tham gia mưu phản.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.033">
+					<C>於是乃遣淮南王，载以辎车，令县以次传。</C>
+					<V>Thế rồi sai Hoài Nam vương đi, chở bằng xe lớn, lệnh các huyện lần lượt chuyển đi.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.034">
+					<C>是时 袁盎谏上曰：“上素骄淮南王，弗为置严傅相，以故至此。且淮南王 为人刚，今暴摧折之。臣恐卒逢雾露病死。陛下为有杀弟之名，柰 何！”</C>
+					<V>Bấy giờ Viên Áng can hoàng thượng rằng: “Hoàng thượng vốn để Hoài Nam vương kiêu căng, không lập Thái phó, Thừa tướng nghiêm khắc phù tá, cho nên mới đến nỗi này. Vả Hoài Nam vương là người cương cường, nay bỗng bị chế áp, thần e rốt cuộc gặp bệnh sương gió mà chết, bệ hạ mang tiếng giết em, vậy phải làm sao?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.035">
+					<C>上曰：“吾特苦之耳，今复之。”</C>
+					<V>Hoàng thượng nói: “Ta rất khổ tâm về việc đó, nay cho gọi về.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.036">
+					<C>县传淮南王者皆不敢发车 封。</C>
+					<V>Các huyện thay nhau đưa Hoài Nam vương đi đều không dám bỏ niêm phong xe.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.037">
+					<C>淮南王乃谓侍者曰：“谁谓 乃公勇者？吾安能勇！吾以骄故 不闻吾过至此。人生一世间，安能邑邑如此！”</C>
+					<V>Hoài Nam vương liền nói với người hầu: “Ai bảo ông mày đây dũng mãnh? Ta sao mà dũng mãnh được! Ta vì kiêu căng, không chịu nghe ai nên mới đến nỗi này. Người ta sống một đời, sao có thể bí bức thế này?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.038">
+					<C>乃不食死。</C>
+					<V>Rồi tuyệt thực mà chết.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.039">
+					<C>上哭甚悲，谓袁盎曰：“吾不 听公言，卒亡淮南王。”</C>
+					<V>Hoàng thượng khóc lóc thảm thiết, bảo Viên Áng rằng: “Ta không nghe lời ông, rốt cuộc khiến Hoài Nam vương phải chết.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.040">
+					<C>盎曰：“不可柰何，原陛下自宽。”</C>
+					<V>Áng nói: “Biết làm sao được, xin bệ hạ bớt đau buồn.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.041">
+					<C>上 曰：“为之柰何？”</C>
+					<V>Hoàng thượng nói: “Biết làm sao đây?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.042">
+					<C>盎曰：“独斩丞相、御史以谢天下乃可。”</C>
+					<V>Áng đáp: “Chỉ có cách chém Thừa tướng, Ngự sử để tạ tội với thiên hạ thôi.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.043">
+					<C>上即令丞相、御史逮考诸县传送淮 南王不发封餽侍者，皆弃市。</C>
+					<V>Hoàng thượng liền lệnh cho Thừa tướng, Ngự sử khảo tra người các huyện phụ trách việc đưa Hoài Nam vương đi đã không mở niêm phong và cấp đồ ăn, đều đưa ra chém ngoài chợ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.044">
+					<C>乃以列侯葬淮南王於雍，守冢三十户。</C>
+					<V>Rồi dùng lễ dành cho liệt hầu táng Hoài Nam vương ở huyện Ung, cho ba mươi hộ trông giữ phần mộ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.045">
+					<C>孝文八年，上怜淮南王，淮南王有子四人，皆七八岁，乃封子安 为阜陵侯，子勃为安阳侯，子赐为阳周侯，子良为东成侯。</C>
+					<V>Văn đế năm thứ tám, hoàng thượng thương Hoài Nam vương, Hoài Nam vương có bốn người con, đều bảy tám tuổi, bèn phong con là An làm Phụ Lăng hầu, con là Bột làm An Dương hầu, con là Tứ làm Dương Chu hầu, con là Lương làm Đông Thành hầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.046">
+					<C>孝文十二年，民有作歌歌淮南厉王曰：“一尺布，尚可缝；一斗 粟，尚可舂。兄弟二人不能相容。”</C>
+					<V>Hiếu Văn đế năm thứ mười hai, người dân làm bài ca về Hoài Nam Lệ vương rằng: “Một thước vải, có thể vá; một đấu thóc, có thể giã. Anh em hai người không thể dung nhau.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.047">
+					<C>上闻之，乃叹曰：“尧舜放逐骨 肉， 周公杀管蔡，天下称圣。何者？不以私害公。天下 岂以我为贪淮南王地邪？”</C>
+					<V>Hoàng thượng nghe bài đó, bèn than rằng: “Nghiêu, Thuấn lưu đày cốt nhục, Chu công giết Quản Thúc, Sái Thúc, thiên hạ khen là bậc thánh. Tại sao vậy? Do không vì chuyện riêng mà hại đến việc công. Thiên hạ há cho ta tham đất của Hoài Nam vương ư?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.048">
+					<C>乃徙城阳王王淮南故地， 而追尊谥淮南王为厉王， 置园复如诸侯仪。</C>
+					<V>Bèn chuyển Thành Dương hầu làm vương ở đất cũ của Hoài Nam vương rồi truy tôn thụy hiệu Hoài Nam vương là Lệ vương, thiết đặt lăng mộ theo nghi thức cho chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.049">
+					<C>孝文十六年，徙淮南王喜复故城阳。</C>
+					<V>Hiếu Văn đế năm thứ mười sáu, dời Hoài Nam vương là Hỷ về đất cũ của Thành Dương Vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.050">
+					<C>上怜 淮南厉王废法不轨，自使失国蚤死，乃立其三子：阜陵侯安为淮南 王，安阳侯勃为衡山王，阳周侯赐为庐江王，皆复得厉王时地，参分 之。</C>
+					<V>Hoàng thượng thương Hoài Nam vương phế bỏ pháp lệnh, toan việc không theo khuôn phép, tự khiến nước mất, chết sớm, bèn lập ba người con của Hoài Nam vương: Phụ Lăng hầu là An làm Hoài Nam vương, An Dương hầu là Bột làm Hành Sơn vương, Dương Chu hầu là Tứ làm Lô Lăng vương, đều được trở lại đất phong thời Lệ vương, chia nhau cai trị.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.051">
+					<C>东城侯良前薨，无後也。</C>
+					<V>Đông Thành hầu là Lương mất từ trước, không người nối dõi.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.052">
+					<C>孝景三年，吴楚七国反，吴使者至淮南，淮南王欲发兵应之。</C>
+					<V>Hiếu Cảnh đế năm thứ ba, bảy nước vùng Ngô, Sở làm phản, nước Ngô sai sứ đến Hoài Nam, Hoài Nam vương muốn phát binh hưởng ứng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.053">
+					<C>其 相曰：“大王必欲发兵应吴，臣原为将。”</C>
+					<V>Tướng của Hoài Nam vương nói: “Đại vương ắt muốn phát binh hưởng ứng nước Ngô, thần xin làm tướng.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.054">
+					<C>王乃属相兵。</C>
+					<V>Hoài Nam vương liền giao quân cho.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.055">
+					<C>淮南相已将 兵，因城守，不听王而为汉；汉亦使曲城侯 将兵救淮南：淮南以故得完。</C>
+					<V>Tướng quốc của Hoài Nam vương đã nắm quân đội, liền giữ chắc thành trì, không nghe Hoài Nam vương mà theo nhà Hán; nhà Hán cũng sai Khúc Thành hầu đem quân cứu viện Hoài Nam: Hoài Nam vì thế được vẹn toàn.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.056">
+					<C>吴使者至庐 江，庐江王弗应，而往来使越。</C>
+					<V>Sử Ngô đến Lô Giang, Lô Giang vương không theo, phái sứ giả qua lại nước Việt.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.057">
+					<C>吴使者至衡山，衡山王坚守无二心。</C>
+					<V>Sứ Ngô đến Hành Sơn, Hành Sơn vương giữ chắc không hai lòng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.058">
+					<C>孝景四年，吴楚已破，衡山王朝，上以为贞信，乃劳苦之曰：“南方 卑湿。”</C>
+					<V>Hiếu Cảnh đế năm thứ tư, Ngô, Sở bị phá, Hành Sơn vương vào chầu, hoàng thượng cho là kiên trinh thủ tín, liền uý lạo rằng: “Phương nam là nơi ẩm thấp.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.059">
+					<C>及薨，遂赐谥为贞王。</C>
+					<V>Đến khi mất, liền ban thụy là Trinh vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.060">
+					<C>庐江王 边越，数使使相交，故徙为衡山王，王江北。</C>
+					<V>Lô Giang vương giáp biên nước Việt, nhiều lần sai sứ sang nhau, cho nên dời Hành Sơn vương làm vương ở Giang Bắc.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.061">
+					<C>淮南王如故。</C>
+					<V>Hoài Nam vương vẫn giữ như cũ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.062">
+					<C>淮南王安为人好读书鼓琴，不喜弋猎狗马驰骋，亦欲以行阴德拊 循百姓，流誉天下。</C>
+					<V>Hoài Nam vương Lưu An Hoài Nam vương Lưu An là người thích đọc sách, đánh đàn cầm, không thích rong ruổi săn bắn, chơi cùng chó ngựa; cũng muốn ngầm thi ân đức vỗ về trăm họ, khiến thanh danh lưu truyền thiên hạ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.063">
+					<C>时时怨望厉王死，时欲畔逆，未有因也。</C>
+					<V>Thường oán trách về cái chết của Lệ vương, luôn muốn bội nghịch, chỉ chưa có cớ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.064">
+					<C>及建元 二年，淮南王入朝。</C>
+					<V>Đến năm Kiến Nguyên thứ nhất, Hoài Nam vương vào chầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.065">
+					<C>素善武安侯，武安侯时为太尉，乃逆王霸上，与 王语曰：“方今上无太子，大王亲高皇帝孙， 行仁义，天下莫不闻。即宫车一日晏驾，非大王当谁立 者！”</C>
+					<V>Vốn thân với Vũ An hầu, bấy giờ Vũ An hầu làm Thái úy, Thái úy bèn đến Bái Thượng đón Hoài Nam vương, nói với Hoài Nam vương rằng: “Nay hoàng thượng không có thái tử, đại vương vốn là cháu nội của Cao hoàng đế, thi hành nhân nghĩa, thiên hạ không ai không biết. Nếu xe trong cung một sớm không ra, không đại vương thì ai lên ngôi.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.066">
+					<C>淮南王大喜，厚遗武安侯金财物。</C>
+					<V>Hoài Nam vương cả mừng, tặng nhiều vàng bạc của cải cho Vũ An hầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.067">
+					<C>建元六年，彗星见，淮南 王心怪之。</C>
+					<V>Năm Kiến Nguyên thứ sáu, sao chổi xuất hiện, Hoài Nam vương trong lòng lấy làm lạ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.068">
+					<C>或说王曰：“先吴军起时，彗星出长数尺，然尚流血千 里。今彗星长竟天，天下兵当大起。”</C>
+					<V>Có người nói với Hoài Nam vương: “Trước đây, lúc quân Ngô nổi dậy, sao chổi xuất hiện dài mấy thước, thế mà còn máu chảy ngàn dặm. Nay sao chổi dài ngang bầu trời, thiên hạ sẽ xảy ra một cuộc đại chiến.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.069">
+					<C>王心以为上无太子，天下有 变，诸侯并争，愈益治器械攻战具，积金钱赂遗郡国诸侯游士奇材。</C>
+					<V>Hoài Nam vương cho là hoàng thượng không có thái tử, thiên hạ có biến, chư hầu sẽ tranh đoạt, lại càng chuẩn bị khí giới chiến cụ, tích tiền vàng hối lộ các du sĩ kỳ tài ở các quận trong nước và chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.070">
+					<C>诸辨士为方略者，妄作妖言，谄谀王，王喜，多赐金钱，而谋反滋 甚。</C>
+					<V>Các biện sĩ vạch phương sách, dấy lời yêu hoặc, nịnh bợ Hoài Nam vương, vương mừng, càng thưởng nhiều tiền vàng, rồi ngày càng muốn mưu phản.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.071">
+					<C>淮南王有女陵，慧，有口辩。</C>
+					<V>Hoài Nam vương có người con gái tên là Lăng, thông tuệ, có tài biện bác.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.072">
+					<C>王爱陵，常多予金钱，为中诇 长安，约结上左 右。</C>
+					<V>Hoài Nam vương cưng yêu Lăng, thường ban nhiều tiền vàng, cho vào Trường An thám thính, kết nối cận thần bên cạnh hoàng thượng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.073">
+					<C>元朔三年，上赐淮南王几杖，不朝。</C>
+					<V>Năm Nguyên Sóc thứ ba, hoàng thượng ban cho Hoài Nam vương mấy cây gậy, cho phép không cần vào chầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.074">
+					<C>淮南王王后荼，王爱幸之。</C>
+					<V>Vương hậu của Hoài Nam vương là Đồ, được vương sủng ái.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.075">
+					<C>王后生太子迁，迁取王皇太后外孙修成君女为妃。</C>
+					<V>Vương hậu sinh thái tử là Thiên, Thiên lấy con gái Tu Thành quân, cháu ngoại Vương hoàng thái hậu làm phi.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.076">
+					<C>王谋为反具，畏太子妃知而内泄事，乃与太子 谋，令诈弗爱，三月不同席。 王乃详为怒太子，闭太子使与妃同内三 月，太子终不近妃。</C>
+					<V>Hoài Nam vương âm mưu chuẩn bị làm phản, sợ thái tử phi biết rồi tiết lộ chuyện ra ngoài, bèn bàn với thái tử, sai vờ không sủng ái, ba tháng không chung chiếu. Hoài Nam vương bèn vờ giận thái tử, đóng cửa cung thái tử, bắt ở chung thái tử phi ba tháng, trước sau thái tử vẫn không gần gũi thái tử phi.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.077">
+					<C>妃求去，王乃上书谢归去之。</C>
+					<V>Thái tử phi xin đi, Hoài Nam vương dâng thư tạ lỗi rồi cho về.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.078">
+					<C>王后荼、太子迁及 女陵得爱幸王，擅国权，侵夺民田宅，妄致系人。</C>
+					<V>Vương hậu là Đồ, thái tử là Thiên cùng con gái là Lăng được Hoài Nam vương sủng ái, thao túng quyền hành trong nước, chiếm đoạt điền trạch của dân, tự tiện giam cầm người khác.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.079">
+					<C>元朔五年，太子学用剑，自以为人莫及，闻郎中雷被巧， 乃召与戏。</C>
+					<V>Năm Nguyên Sóc thứ năm, thái tử học dùng kiếm, tự cho không ai theo kịp, nghe nói Lang trung Lôi Bị kiếm thuật tinh xảo, bèn triệu đến đấu chơi.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.080">
+					<C>被一再辞让， 误中太子。</C>
+					<V>Lôi Bị một hai lần nhường nhịn, rồi lỡ tay đánh trúng thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.081">
+					<C>太子怒，被恐。</C>
+					<V>Thái tử giận, Bị sợ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.082">
+					<C>此 时有欲从军者辄诣京师，被即原奋击匈奴。</C>
+					<V>Bấy giờ ai muốn tòng quân thì lên kinh đô, Bị xin ra sức đi đánh Hung Nô.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.083">
+					<C>太子迁数恶被於王，王使 郎中令斥免，欲以禁後，被遂 亡至长安，上书自明。</C>
+					<V>Thái tử Thiên nhiều lần nói xấu Bị với Hoài Nam vương, vương sai Lang trung lệnh bãi chức Bị, muốn cấm đoán người sau, Bị liền trốn đến Trường An, dâng thư tự bạch.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.084">
+					<C>诏下其事廷尉、河南。</C>
+					<V>Hoàng thượng hạ chiếu cho Đình úy và quận Hà Nam xử lý vụ việc.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.085">
+					<C>河南治，逮淮南太子，王、王后计 欲无遣太子，遂发兵反，计犹豫，十馀日未定。</C>
+					<V>Quận Hà Nam tra xét, bắt thái tử của Hoài Nam vương, vương và vương hậu tính kế không muốn cho thái tử đi, liền dấy binh làm phản, kế còn do dự, hơn chục ngày vẫn chưa quyết.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.086">
+					<C>当 是时，淮南相怒寿春丞留太子逮不遣， 劾不敬。</C>
+					<V>Bấy giờ, Tướng quốc Hoài Nam giận huyện thừa Thọ Xuân, giữ thái tử lại, không cho bắt đi, đàn hặc về tội bất kính.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.087">
+					<C>王以请相，相弗听。</C>
+					<V>Hoài Nam vương đề nghị với Tướng quốc, Tướng quốc không nghe.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.088">
+					<C>王使人上书 告相，事下廷尉治。</C>
+					<V>Vương sai sử dâng thư vu khống Tướng quốc, việc được giao cho Đình úy phân xử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.089">
+					<C>踪迹连王，王使人候伺汉公卿，公卿请逮捕治 王。</C>
+					<V>Có rất nhiều việc liên quan đến Hoài Nam vương, vương sai người nghe ngóng các công khanh nhà Hán, các công khanh yêu cầu bắt trị tội Hoài Nam vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.090">
+					<C>王恐事发，太子迁谋曰：“汉使即逮王，王令人衣卫士衣，持戟 居庭中，王旁有非是，则刺杀之，臣亦使人刺杀淮南中尉，乃举兵， 未晚。”</C>
+					<V>Hoài Nam vương sợ việc bại lộ, thái tử Thiên bàn mưu rằng: “Nếu sứ nhà Hán đến bắt đại vương, đại vương sai người mặc đồ vệ sĩ, cầm kích đứng trong triều, bên cạnh đại vương, nếu xảy chuyện thị phi, thì hãy giết sứ giả, thần cũng sai người giết Trung úy Hoài Nam, rồi cất quân, cũng chưa muộn.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.091">
+					<C>是时上不许公卿请，而遣汉中尉宏 即讯验王。</C>
+					<V>Bấy giờ hoàng thượng không đồng ý trước đề nghị của công khanh, mà sai Trung úy nhà Hán là Hoành kíp đến thẩm vấn, tra xét Hoài Nam vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.092">
+					<C>王闻汉使来，即如太子谋计。 汉中尉至，王视其颜色和， 讯王以斥雷被事耳，王自度无何，不发。</C>
+					<V>Hoài Nam vương nghe tin sứ Hán đến, liền theo kế của thái tử. Quan Trung úy nhà Hán đến, Hoài Nam vương thấy nét mặt sứ giả khoan hòa, hỏi vương về việc Lôi Bị tố cáo, vương tự cho là không có việc gì, không ra tay.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.093">
+					<C>公卿治者曰：“淮南王安拥阏奋击匈奴者雷被等，废格 明诏， 当弃市。”</C>
+					<V>Các công khanh xử lý vụ việc nói: “Hoài Nam vương là An ngăn trở ý nguyện đánh Hung Nô của những người như Lôi Bị, phế bỏ cả minh chiếu, đáng chém ở ngoài chợ.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.094">
+					<C>诏弗 许。</C>
+					<V>Hoàng đế hạ chiếu không cho.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.095">
+					<C>公卿请废勿王，诏弗许。</C>
+					<V>Công khanh xin phế bỏ tước vương, hạ chiếu không đồng ý.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.096">
+					<C>公卿请削五县，诏削二县。</C>
+					<V>Công khanh xin tước bớt năm huyện phong, Hoàng đế hạ chiếu cho tước hai huyện.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.097">
+					<C>使中尉宏赦 淮南王罪，罚以削地。</C>
+					<V>Sai Trung úy là Hoành đến xá tội cho Hoài Nam vương, chỉ phạt cắt đất.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.098">
+					<C>中尉入淮南界，宣言赦王。</C>
+					<V>Trung uý vào địa giới Hoài Nam, tuyên bố xá tội cho Hoài Nam vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.099">
+					<C>王初闻汉公卿请诛 之，未知得削地，闻汉使来，恐其捕之，乃与太子谋刺之如前计。</C>
+					<V>Ban đầu Hoài Nam vương nghe các công khanh nhà Hán đề nghị giết mình, chưa biết là chỉ bị cắt đất, nghe tin sứ giả đến, sợ sứ đến bắt mình, bèn cùng thái tử mưu giết sứ như kế hoạch trước đây.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.100">
+					<C>及 中尉至，即贺王，王以故不发。</C>
+					<V>Trung úy đến, liền chúc mừng Hoài Nam vương, vương vì thế không ra tay.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.101">
+					<C>其後自伤曰：“吾行仁义见削，甚耻 之。”</C>
+					<V>Sau đó tự thương cảm nói: “Ta thi hành nhân nghĩa mà bị tước bớt đất phong, thực quá nhục nhã.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.102">
+					<C>然淮南王削地之後，其为反谋益甚。</C>
+					<V>Hoài Nam vương sau khi bị tước đất, càng muốn mưu phản.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.103">
+					<C>诸使道从长安来， 为妄妖言，言上无男，汉不治，即喜；即言汉廷治，有 男，王怒，以为妄言，非也。</C>
+					<V>Các sứ giả từ Trường An đến, nói lời xằng bậy, cho là hoàng thượng không có con trai, nhà Hán không được yên trị, Hoài Nam vương liền mừng; nếu nói triều đình nhà Hán yên trị, có con trai thì vương giận, cho là nói xằng, không đúng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.104">
+					<C>王曰：“上无太子，宫车即 晏驾，廷臣必徵胶东王，不即常山王， 诸侯并争，吾可以无备乎！且吾高祖孙，亲行仁义，陛下遇我 厚，吾能忍之；万世之後，吾宁能北面臣事竖子乎！”</C>
+					<V>Hoài Nam vương nói: “Hoàng thượng không có thái tử, nếu xe trong cung một sớm không ra, triều thần ắt đón Giao Đông vương về, nếu không sẽ là Thường Sơn vương, chư hầu tranh giành, ta có thể không phòng bị ư? Vả lại ta là cháu nội Cao tổ, đích thân thi hành nhân nghĩa, bệ hạ đãi ngộ với ta rất hậu, ta có thể nhẫn nhịn việc đó; sau khi bệ hạ băng hà, ta há có thể quay mặt về bắc xưng thần phụng sự đứa trẻ ranh ư!”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.105">
+					<C>王坐东宫，召伍被与谋，曰：“将军上。”</C>
+					<V>Hoài Nam vương ngồi ở đông cung, triệu Ngũ Bị vào cùng bàn mưu, nói: “Tướng quân hãy lên điện.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.106">
+					<C>被怅然曰：“上宽赦 大王，王复安得此亡国之语乎！臣闻子胥谏吴王，吴王不用，乃 曰‘臣今见麋鹿游姑苏之台也’。今臣亦见宫中生荆棘，露霑衣 也。”</C>
+					<V>Ngũ Bị buồn bã nói: “Hoàng thượng khoan thứ cho đại vương, sao đại vương lại thốt ra những lời mất nước như thế! Thần nghe nói Tử Tư can Ngô vương, Ngô vương không nghe, bèn nói: 'Nay thần thấy hươu nai đùa chơi ở đài Cô Tô đó.' Nay thần cũng thấy trong cung mọc gai góc, sương móc thấm ướt áo vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.107">
+					<C>王怒，系伍被父母，囚之三月。</C>
+					<V>Hoài Nam vương giận, bắt trói cha mẹ Ngũ Bị, bỏ tù ba tháng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.108">
+					<C>复召曰：“将军许寡人 乎？”</C>
+					<V>Lại triệu Ngũ Bị vào hỏi: “Tướng quân có đồng ý với quả nhân không?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.109">
+					<C>被曰：“不，直来为大王画耳。臣闻聪者听於无声，明者见於 未形，故圣人万举万全。昔文王一动而功显于千世，列为三代，此所 谓因天心以动作者也，故海内不期而随。此千岁之可见者。夫百年之 秦，近世之吴楚，亦足以喻国家之存亡矣。臣不敢避子胥之诛，原大 王毋为吴王之听。昔秦绝圣人之道，杀术士，燔诗书，弃礼义，尚诈 力，任刑罚，转负海之粟致之西河。当是之时，男子疾耕不足於糟 (cid:0)，女子纺绩不足於盖形。遣蒙恬筑长城，东西数千里，暴兵露师常 数十万，死者不可胜数，僵尸千里，流血顷亩，百姓力竭，欲为乱者 十家而五。又使徐福入海求神异物，还为伪辞曰：‘臣见海中大神， 言曰：“汝西皇之使邪？” 臣答曰：“然。” “汝何求？” 曰：“原 请延年益寿药。”</C>
+					<V>Bị đáp: “Không, chỉ muốn đến trù tính cho đại vương thôi. Thần nghe người thông minh nghe ở chỗ không thanh âm, người sáng suốt thấy ở chỗ chưa thành hình, cho nên thánh nhân làm muôn việc thì muôn việc đều thành công. Xưa Văn vương một lần ra tay mà công lao tỏ rạng nghìn đời, được liệt vào hàng Tam đại, đó gọi là dựa vào lòng trời để hành động vậy, cho nên bốn bể chẳng hẹn mà cùng theo. Đó là việc ngàn năm còn thấy. Xét, nước Tần trăm năm trước, đời gần như Ngô và Sở, cũng đủ để nói rõ lẽ tồn vong của quốc gia. Thần không dám tránh kết cục như Ngũ Tử Tư, xin đại vương đừng như Ngô vương, không nghe lời can gián. Xưa, nhà Tần đoạn tuyệt với đạo của thánh nhân, giết thuật sĩ, đốt Thi, Thư, bỏ lễ nghĩa, chuộng dối trá, ưa bạo lực, trọng dùng hình, chuyển thóc lúa vùng ven biển đến Tây Hà. Bấy giờ con trai vất vả cày cấy mà không đủ tấm cám mà ăn, con gái tết sợi dệt vải mà không đủ để che thân. Sai Mông Điềm đắp Trường thành, từ đông sang tây mấy nghìn dặm, mấy chục vạn quân thường phải dãi nắng dầm sương, người chết nhiều không kể xiết, phơi thây nghìn dặm, máu chảy muôn khoảnh mẫu, trăm họ kiệt sức, trong mười nhà thì có đến năm nhà muốn làm loạn. Lại sai Từ Phúc ra biển tìm vật lạ của thần tiên, Phúc về nói xằng là: 'Thần thấy thần lớn ngoài biển nói: 'Ngươi là sứ giả của Hoàng đế ở phương tây phải không?' Thần đáp rằng: 'Phải.' Hỏi: 'Ngươi cần tìm gì?' Đáp: 'Xin thuốc để kéo dài tuổi thọ.' Thần nói: 'Lễ của Tần vương ngươi quá bạc, chỉ được xem mà không được lấy.' Rồi cho thần theo hướng đông nam, tới núi Bồng Lai, thấy cung khuyết làm bằng linh chi, có sứ giả mặt như đồng, dáng tựa rồng, ánh sáng chiếu lên tận trời. Thế rồi thần lại bái lạy hỏi rằng: 'Phải dùng lễ vật gì dâng hiến?' Hải thần đáp: 'Hãy lấy con trai con gái nhà lành, cùng sản phẩm của trăm nghề, thì được lấy.' Tần hoàng đế cả mừng, sai đưa ba nghìn nam nữ, ban cho các giống ngũ cốc, cùng sản phẩm trăm nghề rồi sai đi. Từ Phúc tìm được đồng bằng đầm lớn, dừng lại xưng vương không đi. Thế là trăm họ đau buồn nhớ nhung, chục nhà có đến sáu nhà muốn làm loạn. Lại sai Úy Đà vượt Ngũ Lĩnh tấn công Bách Việt. Úy Đà biết Trung nguyên đã quá mỏi mệt, dừng lại xưng vương không đi nữa, sai người dâng thư lên, xin ba vạn phụ nữ không chồng, để may vá quần áo cho binh sĩ. Hoàng đế nhà Tần cho một vạn năm nghìn người. Thế rồi lòng trăm họ ly tán như ngói xô, trong mười nhà có đến bảy nhà muốn làm loạn. Môn khách nói với Cao hoàng đế rằng: 'Đến lúc rồi.' Cao hoàng đế nói: 'Đợi đã, thánh nhân đang dấy phía đông nam.' Không đầy một năm, Trần Thắng, Ngô Quảng phát binh. Cao hoàng đế bắt đầu ở đất Phong-Bái, một phen khởi xướng mà thiên hạ không hẹn đều hưởng ứng, nhiều không kể xiết. Đó gọi là đợi kẽ hở thời cơ, nhân lúc Tần sắp diệt vong mà khởi sự vậy. Trăm họ mong chờ, như nắng hạn trông mưa, cho nên dấy từ trong chiến trận mà lên làm thiên tử, công cao vượt Tam vương, đức truyền đến vô cùng. Nay đại vương thấy Cao hoàng đế dễ dàng thu được thiên hạ, riêng không xem Ngô, Sở đời gần đây ư? Xét, Ngô vương được ban hiệu là Tế tửu của họ Lưu, lại không phải vào chầu, làm vương dân chúng bốn quận, đất mấy nghìn dặm vuông, bên trong thì nấu đồng đúc tiền, phía đông thì nấu nước biển làm muối, trên thì lấy gỗ ở Giang Lăng làm thuyền, một thuyền chở được mấy chục chiếc xe của Trung nguyên, nước giàu dân đông. Dùng châu ngọc vàng lụa lót tay chư hầu, tông thất, đại thần, chỉ không cho họ Đậu. Định mưu tính kế xong, cất quân kéo sang tây. Bị đánh tan ở Đại Lương, thua trận ở Hồ Phụ, chạy sang đông, đến Đan Đồ, bị người Việt bắt sống, bản thân bị chết, không được tế tự, bị thiên hạ chê cười. Xét, Ngô, Sở đông mà không thành công là vì sao? Do trái đạo trời và không biết thời thế vậy. Nay quân binh của đại vương không bằng một phần mười của Ngô, Sở, thiên hạ yên ổn gấp vạn lần thời Tần, xin đại vương hãy theo kế của thần. Đại vương không nghe kế của thần, thần thấy việc đại vương làm nhất định không thành và chỉ ra trước rồi. Thần nghe nói Vi Tử qua nước cũ mà đau buồn, liền làm bài Mạch tú chi ca, đó là nỗi đau vì vua Trụ không nghe lời vương tử Tỷ Can vậy. Cho nên sách Mạnh tử viết: 'Vua Trụ là thiên tử cao quý mà chết không bằng kẻ thất phu.' Ấy vì từ trước vua Trụ đã tự để mất thiên hạ lâu rồi, không phải đến lúc chết mới bị thiên hạ bỏ rơi. Nay thần cũng trộm buồn vì đại vương vứt bỏ ngôi vị vua của nước nghìn cỗ xe, nhất định sẽ ban thư tuyệt mệnh, trước mặt quần thần, chết ở đông cung vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.110">
+					<C>尉佗知中国劳极，止王不来，使人上书，求女无夫家者三 万人，以为士卒衣补。 秦皇帝可其万五千人。 於是百姓离心瓦解，欲 为乱者十家而七。 客谓高皇帝曰：‘时可矣。</C>
+					<V>Bất Hại có con là Kiến, tài cao có chí khí, thường oán trách thái tử không ngó ngàng đến cha mình; lại oán bấy giờ con em chư hầu đều được phân phong tước hầu, Hoài Nam vương chỉ có hai con trai, một làm thái tử, riêng cho Kiến không được phong hầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.111">
+					<C>方今大王之兵众不能十分吴楚之一，天 下安宁有万倍於秦之时，原大王从臣之计。 大王不从臣之计，今见大 王事必不成而语先泄也。 臣闻微子过故国而悲，於是作麦秀之歌，是 痛纣之不用王子比干也。 故孟子曰‘纣贵为天子，死曾不若匹夫’。</C>
+					<V>Kiến biết rõ mưu của thái tử muốn giết quan Trung úy nhà Hán, năm Nguyên Sóc thứ sáu, liền phái bạn thân là Trang Chỉ ở Thọ Xuân dâng thư lên thiên tử nói rằng: “Thuốc tốt đắng miệng nhưng lại cho trị bệnh, lời trung trái tai nhưng lại cho việc làm. Nay cháu nội của Hoài Nam vương là Kiến, tài năng vượt trội, vương hậu của Hoài Nam vương là Đồ và con của Đồ là thái tử Thiên thường ganh ghét làm hại Kiến. Cha Kiến là Bất Hại không có tội mà nhiều lần bị bắt giam, định giết hại. Nay Kiến còn đấy, có thể triệu đến hỏi, sẽ biết rõ những việc ngầm của Hoài Nam vương.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.112">
+					<C>不害有子建，材高有气，常怨 望太子不省其父；又怨时诸侯皆 得分子弟为侯，而淮南独二子，一为太子，建父独不得为侯。 建阴结 交，欲告败太子，以其父代之。 太子知之，数捕系而榜笞建。 建具知 太子之谋欲杀汉中尉，即使所善寿春庄芷以元 朔六年上书於天子曰：“毒药苦於口利於病，忠言逆於耳利於行。今 淮南王孙建，材能高，淮南王王后荼、荼子太子迁常疾害建。建父不 害无罪，擅数捕系，欲杀之。今建在，可徵问，具知淮南阴事。”</C>
+					<V>Bấy giờ cháu nội của Tịch Dương hầu khi trước là Thẩm Khanh thân thiết với Thừa tướng Công Tôn Hoằng, oán Hoài Nam Lệ vương giết cha ông mình, bèn ra sức nói việc của Hoài Nam vương với Hoằng, Hoằng bèn ngờ Hoài Nam vương đang ủ mưu tạo phản, tra xét thật kỹ vụ án.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.113">
+					<C>书 闻，上以其事下廷尉，廷尉下河南治。 是时故辟阳侯孙审卿善丞相公 孙弘，怨淮南厉王杀其大父，乃深购淮南事於弘，弘乃疑淮南有畔逆 计谋，深穷治其狱。 河南治建，辞引淮南太子及党与。</C>
+					<V>Quận Hoài Nam thẩm xét Kiến, Kiến liền khai việc liên quan đến thái tử của Hoài Nam vương và chuyện bè đảng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.114">
+					<C>淮南王患之， 欲发，问伍被曰：“汉廷治乱？”</C>
+					<V>Hoài Nam vương lo lắng, định khởi sự, hỏi Ngũ Bị rằng: “Triều đình nhà Hán trị hay loạn?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.115">
+					<C>伍被曰：“天下治。”</C>
+					<V>Ngũ Bị đáp: “Thiên hạ yên trị.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.116">
+					<C>王意不说， 谓伍被曰：“公何以言天下治也？” 被曰：“被窃观朝廷之政，君臣 之义，父子之亲，夫妇之别，长幼之序，皆得其理，上之举错遵古之 道，风俗纪纲未有所缺也。重装富贾，周流天下，道无不通，故交易 之道行。南越宾服，羌僰入献，东瓯入降，广长榆， 开朔方，匈奴 折翅伤翼，失援不振。虽未及古太平之时，然犹为治也。”</C>
+					<V>Hoài Nam vương tỏ ý không vui, bảo Ngũ Bị rằng: “Ông dựa vào đâu mà nói thiên hạ yên trị” Bị đáp: “Bị trộm xem, chính sự triều đình, đạo nghĩa vua tôi, thân tình cha con, biện biệt chồng vợ, thứ bậc lớn nhỏ, đều thuận đạt lý, hoàng thượng làm việc tuân theo đạo cổ, phong tục kỷ cương không chỗ nào thiếu khuyết. Phú thương chở đầy hàng hóa, đi khắp thiên hạ, đường không chỗ nào không thông, nên việc trao đổi qua lại được thực thi. Nam Việt làm tân khách đến thần phục, người Khương người đức vào dâng hiến, Đông Âu vào xin hàng, mở rộng ải Trường Du, khai mở quận Sóc Phương, Hung Nô tróc vây gãy cánh, mất chỗ cứu trợ không chấn khởi được. Dẫu chưa theo kịp thời thái bình thuở xưa, cũng vẫn là một thời yên trị vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.117">
+					<C>王怒，被 谢死罪。</C>
+					<V>Hoài Nam vương tức giận, Bị xin lấy cái chết tạ tội.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.118">
+					<C>王又谓被曰：“山东即有兵，汉必使大将军将而制山东，公 以为大将军何如人也？”</C>
+					<V>Hoài Nam vương bảo Bị rằng: “Phía đông Hào Sơn nếu có quân đến, nhà Hán ắt sai đại tướng quân đến khống chế phía đông Hào Sơn, ông cho đại tướng quân là người thế nào?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.119">
+					<C>被曰：“被所善者黄义，从大将军击匈奴， 还，告被曰：‘大将军遇士大夫有礼，於士卒有恩，众皆乐为之用。 骑上下山若蜚，材幹绝人。’被以为材能如此，数将习兵，未易当 也。及谒者曹梁使长安来，言大将军号令明，当敌勇敢，常为士卒 先。休舍，穿井未通，须士卒尽得水，乃敢饮。军罢，卒尽已度河， 乃度。皇太后所赐金帛，尽以赐军吏。虽古名将弗过也。”</C>
+					<V>Bị đáp: “Bạn thân của Bộ là Hoàng Nghĩa, theo đại tướng quân đi đánh Hung Nô, trở về, nói với Bị rằng: 'Đại tướng quân dùng lễ đối đãi sĩ đại phu, có ơn với quân sĩ, mọi người đều vui khi được dùng. Cưỡi ngựa lên xuống núi nhanh như bay, tài cán hơn người.' Bị cho là tài năng như thế, nhiều lần làm tướng luyện quân, chưa dễ gì chống được. Cả Yết giả Tào Lương đi sứ Trường An về, nói đại tướng quân hiệu lệnh nghiêm minh, đánh địch dũng cảm, thường tiến lên trước quân lính. Nghỉ ở quân doanh, đào giếng chưa xong, quân lính thảy đều có nước uống, đại tướng quân mới dám uống. Khi bãi binh, quân lính qua sông Hà hết, đại tướng quân mới qua sông. Được Hoàng thái hậu tặng vàng lụa, đem chia hết cho tiểu lại trong quân. Dẫu các danh tướng thời xưa cũng không hơn được vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.120">
+					<C>王默然。</C>
+					<V>Hoài Nam vương im lặng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.121">
+					<C>淮南王见建已徵治，恐国阴事且觉，欲发，被又以为难，乃复问 被曰：“公以为吴兴兵是邪非也？”</C>
+					<V>Hoài Nam vương thấy Lưu Kiến được triệu đi tra khảo, sợ âm mưu trong nước bị phát giác, định hành động, Bị cho là khó, bèn hỏi lại Bị rằng: “Ông cho nước Ngô dấy binh là đúng hay sai?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.122">
+					<C>被曰：“以为非也。吴王至富贵 也，举事不当，身死丹徒，头足异处，子孙无遗 类。臣闻吴王悔之甚。原王孰虑之，无为吴王 之所悔。”</C>
+					<V>Bị đáp: “Cho là sai vậy. Ngô vương giàu sang tột cùng, làm việc không chính đáng, đến nỗi chết ở Đan Đồ, đầu một nơi chân một nẻo, con cháu chẳng còn một ai. Thần nghe Ngô vương vô cùng hối hận. Xin đại vương suy nghĩ kỹ việc đó, đừng để phải hối hận như Ngô vương.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.123">
+					<C>王曰：“男子之所死者一言耳。 且吴何知反， 汉将一日过成皋者四十馀人。 今我令楼缓 先要成皋之口，周被下颍川兵 塞轘辕、伊阙之道， 陈定发南阳兵守武关。 河南太守独有雒阳耳，何足忧。然此北尚有临晋 关、河东、上党与河内、赵国。人言曰‘绝成皋之口，天下不通’。 据三川之险，招山东之兵，举事如此，公以为何 如？”</C>
+					<V>Hoài Nam vương nói: “Nam nhi chết chỉ vì một câu nói thôi. Huống hồ Ngô vương đâu biết làm phản, một ngày tướng nhà Hán qua Thành Cao đến hơn bốn mươi người. Nay ta lệnh cho Lâu Hoãn cắt đứt cửa khẩu Thành Cao trước; sai Chu Bị hạ Dĩnh Xuyên, quân binh chặn đường Hoàn Viên, Y Khuyết; sai Trần Định phát binh Nam Dương giữ Vũ Quan. Thái thú Hà Nam chỉ có Lạc Dương thôi, đâu đáng lo. Như thế, mạn bắc còn có cửa quan Lâm Tấn, quận Hà Đông, quận Thượng Đảng, quận Hà Nội và nước Triệu. Người ta nói: 'Cắt đứt cửa khẩu Thành Cao, thiên hạ không thể đi qua.' Dựa vào sự hiểm yếu của Tam Xuyên, chiêu tập quân binh phía đông Hào Sơn, hành động như thế, ông thấy thế nào?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.124">
+					<C>被曰：“臣见其祸，未见其福也。”</C>
+					<V>Bị đáp: “Thần chỉ thấy họa, chưa thấy điều phúc.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.125">
+					<C>王曰：“左吴、赵贤、硃 骄如皆以为有福，什事九成，公独以为有祸无福，何也？”</C>
+					<V>Hoài Nam vương hỏi: “Tả Ngô, Triệu Hiền, Chu Kiêu Như đều cho là có phúc, mười phần thì chín phần thành công, riêng ông cho là chỉ họa không phúc, tại sao?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.126">
+					<C>被 曰：“大王之群臣近幸素能使众者，皆前系诏狱，馀无可用者。”</C>
+					<V>Bị đáp: “Trong các bề tôi được đại vương gần gũi tin yêu, người có thể sai sử được quần chúng, đều bị hạ ngục từ trước, còn lại đều không dùng được.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.127">
+					<C>王 曰：“陈胜、吴广无立锥之地，千人之聚，起於大泽，奋臂大呼而天 下响应，西至於戏而兵百二十万。今吾国虽小，然而胜兵者可得十馀 万，非直適戍之众，釠凿 棘矜也，公何以言有祸无福？”</C>
+					<V>Hoài Nam vương hỏi: “Trần Thắng, Ngô Quảng không tấc đất cắm dùi, tụ họp được nghìn người, dấy lên từ đầm lớn, vung tay hô lớn mà thiên hạ ứng theo, kéo sang tây đến đất Hý mà quân đông đến trăm hai mươi vạn. Nay nước ta tuy nhỏ, nhưng người có thể sung vào lính cũng hơn chục vạn, không chỉ những kẻ lưu đày, làm lính thú, tay cầm cung nỏ, cán kích, sao ông cho là chỉ có họa mà không có phúc?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.128">
+					<C>被曰：“往 者秦为无道，残贼天下。兴万乘之驾，作阿房之宫，收太半之赋，发 闾左之戍，父不宁子，兄不便弟， 政苛刑峻，天下熬然若焦，民皆引领而望，倾耳 而听，悲号仰天，叩心而怨上，故陈胜大呼，天下响应。当今陛下临 制天下，一齐海内，汎爱蒸庶，布德施惠。口虽未言，声疾雷霆，令 虽未出，化驰如神，心有所怀，威动万里，下之应上，犹影响也。而 大将军材能不特章邯、杨熊也。大王以陈胜、吴广谕之，被以为过 矣。”</C>
+					<V>Bị đáp: “Trước đây, triều Tần vô đạo, tàn hại thiên hạ. Phát động muôn cỗ xe xuất hành, dựng cung A Phòng, thu thuế quá nửa nguồn thu của bách tính, khiến người nghèo khổ đi làm lính thú, cha không thể khiến con an lành, anh không thể làm em yên ổn, chính trị hà khắc, hình phạt tàn khốc, thiên hạ nháo nhác như bị rang khô, dân đều ngỏng cổ mà trông, lắng tai mà nghe, ngẩng lên trời mà gào khóc, vỗ ngực mà oán người trên, cho nên Trần Thắng hô lớn, thiên hạ hưởng ứng. Nay bệ hạ cai trị thiên hạ, bốn bể quy về một mối, yêu khắp chúng dân, ban đức thi ân. Miệng tuy chưa nói, âm thanh đã như sấm rền, hiệu lệnh dẫu chưa ban ra, đức hóa đã lan như thần, trong lòng có điều suy nghĩ, uy động muôn dặm, người dưới nghe theo người trên, như bóng theo hình vậy. Còn đại tướng quân tài năng không chỉ như bọn Chương Hàm, Dương Hùng. Đại vương lấy Trần Thắng, Ngô Quảng ra so sánh, Bị cho là nhầm vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.129">
+					<C>王曰：“苟如公言，不可徼幸邪？”</C>
+					<V>Hoài Nam vương hỏi: “Như lời ông nói thì không thể cầu may chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.130">
+					<C>被曰：“被有愚计。”</C>
+					<V>Bị đáp: “Bị có ngu kế.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.131">
+					<C>王 曰：“柰何？”</C>
+					<V>Hoài Nam vương hỏi: “Kế thế nào?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.132">
+					<C>被曰：“当今诸侯无异心，百姓无怨气。朔方之郡田 地广，水草美，民徙者不足以实其地。臣之愚计，可伪为丞相御史请 书，徙郡国豪桀任侠及有耐罪以上， 赦令除其罪，产五十万以上者，皆徙其家属朔方之郡，益发甲 卒，急其会日。又伪为左右都司空上林中都官诏狱书，诸侯太子幸 臣。 如此则民怨，诸侯惧，即使辩武 随而说之，傥可徼幸什得一乎？”</C>
+					<V>Bị đáp: “Ngày nay chư hầu không có bụng khác, trăm họ không có lòng oán. Quận Sóc Phương ruộng đất rộng, nước nhiều cỏ tốt, dân dời đến không đủ để lấp đầy đất đó. Ngu kế của thần, có thể ngụy tạo thư của Thừa tướng và Ngự sử, dời các bậc hào kiệt, hào hiệp ở các quận trong nước cho đến những kẻ có tội phải chịu hình trở lên, xá miễn của họ, ai có gia sản từ năm mươi vạn trở lên, đều chuyển gia thuộc đến quận Sóc Phương, phái giáp sĩ đốc thúc họ đến đúng hạn. Lại ngụy tạo văn thư ngục tụng của Tả, Hữu tư không, Đô ty không, cùng các quan trong Thượng lâm, truy bắt các thái tử và bề tôi sủng ái của chư hầu. Như thế thì dân oán, chư hầu sợ, liền sai biện sĩ theo đó du thuyết, họa chẳng cầu may được một phần mười chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.133">
+					<C>王曰：“此可也。虽然，吾 以为不至若此。”</C>
+					<V>Hoài Nam vương nói: “Thế cũng được. Có điều, ta cho là không đến nỗi thế.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.134">
+					<C>於是王乃令官奴入宫，作皇帝玺，丞相、御史、大 将军、军吏、中二千石、都官令、丞印，及旁近郡太守、都尉印，汉 使节法冠， 欲如伍被计。</C>
+					<V>Thế rồi Hoài Nam vương sai đám nô lệ của quan phủ vào cung, làm ngọc tỷ của Hoàng đế, làm ấn tín của Thừa tướng, Ngự sử, đại tướng quân, quân lại, Trúng nhị thiên thạch, Đô quan lệnh, Thừa, cùng ấn tín của các Thái thú, Đô úy những quận kề bên, làm cờ tiết mũ mạo nhà Hán, muốn theo kế của Ngũ Bị.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.135">
+					<C>使人伪得罪而西， 事大将军、丞相；一日发兵， 使人即刺杀大将军 青，而说丞相下之，如发蒙耳。</C>
+					<V>Sai người vờ phạm tội chạy sang tây, phụng sự đại tướng quân, Thừa tướng; một ngày kia phát binh, sai người giết đại tướng quân Vệ Thanh, rồi thuyết Thừa tướng quy hàng, việc đó dễ như xòe chiếc lọng vậy.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.136">
+					<C>王欲发国中兵，恐其相、二千石不听。</C>
+					<V>Hoài Nam vương định phát động quân trong nước, sợ Tướng quốc và các quan hàng hai nghìn thạch không nghe.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.137">
+					<C>王乃与伍被谋，先杀相、 二千石；伪失火宫中，相、二千石救火，至即杀之。</C>
+					<V>Vương liền bàn mưu với Ngũ Bị, trước tiên giết Tướng quốc, các quan hàng hai nghìn thạch; vờ trong cung có cháy, Tướng quốc và các quan hàng hai nghìn thạch đến chữa cháy, đến sẽ giết ngay.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.138">
+					<C>计未决，又欲令 人衣求盗衣，持羽檄，从东方来，呼 曰“南越兵入界”，欲因以发兵。</C>
+					<V>Bàn tính chưa quyết, lại định sai người mặc quần áo quân sĩ bắt trộm, cầm bịch báo nguy cấp, từ phương đông đến, hô lên rằng: “Quân Nam Việt xâm phạm biên giới”, muốn nhân đó để phát binh.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.139">
+					<C>乃使人至庐江、会稽为求盗，未 发。</C>
+					<V>Bèn sai người đến Lô Giang, Cối Kê đi bắt trộm, chưa phát binh.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.140">
+					<C>被曰：“南收衡山以击庐江，有寻阳之船，守下雉之城， 结九江之浦，绝豫章之口， 彊弩临江而守，以禁南郡之下，东收江都、会稽， 南通劲越，屈彊江淮间，犹可得延岁月之 寿。”</C>
+					<V>Bị đáp: “Phía nam thu lấy Hành Sơn để đánh vào Lô Giang, chiếm thuyền ở Tầm Dương, phòng thủ thành Hạ Trĩ, giữ bến Cửu Giang, chặn cửa Dự Chương, mang nỏ cứng đến Trường Giang phòng giữ, để quân Nam Quận xuôi xuống, phía đông thu lấy Giang Đô, Cối Kê, phía nam liên kết với Nam Việt quân mạnh, cố thủ ở khoảng Trường Giang và sông Hoài, có thể kéo dài được một thời gian.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.141">
+					<C>王曰：“善，无以易此。急则走越耳。”</C>
+					<V>Hoài Nam vương nói: “Tốt, không cần thay đổi gì nữa. Nếu nguy cấp thì chạy sang Nam Việt.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.142">
+					<C>於是廷尉以王孙建辞连淮南王太子迁闻。</C>
+					<V>Thế rồi Đình úy đem những lời của Kiến, cháu nội Hoài Nam vương liên quan đến thái tử Thiên của Hoài Nam vương tâu lên triều đình.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.143">
+					<C>上遣廷尉监因拜淮南中 尉，逮捕太子。</C>
+					<V>Hoàng thượng sai Đình úy giám nhân đó bái kiến Trung úy Hoài Nam, đến bắt thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.144">
+					<C>至淮南，淮南王闻，与太子谋召相、二千石，欲杀而 发兵。</C>
+					<V>Đình úy giám đến Hoài Nam, Hoài Nam vương biết tin, cùng thái tử bàn mưu triệu Tướng quốc và các quan hàng hai nghìn thạch, định giết rồi phát binh.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.145">
+					<C>中尉曰：“臣受诏使，不得见 王。”</C>
+					<V>Trung úy nói: “Thần nhận chiếu làm sứ giả, không thể đi yết kiến vương được.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.146">
+					<C>王念独杀相而内史中尉不来，无益也，即罢相。</C>
+					<V>Hoài Nam vương nghĩ chỉ giết Tướng quốc còn quan Nội sử và Trung úy không đến thì cũng vô ích, liền để Tướng quốc đi.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.147">
+					<C>王犹豫，计未 决。</C>
+					<V>Hoài Nam vương còn do dự, kế hoạch chưa quyết.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.148">
+					<C>太子念所坐者谋刺汉中尉，所与谋者已死，以为口绝，乃谓王 曰：“群臣可用者皆前系，今无足与举事者。王以非时发，恐无功， 臣原会逮。”</C>
+					<V>Thái tử nghĩ tội phạm phải là mưu sát quan Trung úy nhà Hán, người mưu tính với mình đã chết, không còn ai để đối chất, bèn nói với Hoài Nam vương: “Quần thần, người có thể dùng được đều bị bắt giam từ trước, nay không còn ai đủ khả năng khởi sự nữa. Đại vương phát binh không đúng lúc chỉ e không thành công, thần xin đến cho họ bắt.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.149">
+					<C>王亦偷欲休，即许太子。</C>
+					<V>Hoài Nam vương cũng muốn dừng mọi chuyện, liền đồng ý với thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.150">
+					<C>伍被自诣吏，因告 与淮南王谋反，反踪迹具如此。</C>
+					<V>Ngũ Bị tự đến chỗ quan, nhân đó khai toàn bộ chuyện liên quan đến việc mưu phản với Hoài Nam vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.151">
+					<C>吏因捕太子、王后，围王宫，尽求捕王所与谋反宾客在国中者， 索得反具以闻。</C>
+					<V>Đám quan lại nhân đó bắt thái tử, vương hậu, bao vây vương cung, lùng bắt hết các tân khách trong nước cùng mưu phản với Hoài Nam vương, tìm được đồ dùng để mưu phản, tâu lên triều đình.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.152">
+					<C>上下公卿治，所连引与淮南王谋反列侯二千石豪杰数 千人，皆以罪轻重受诛。</C>
+					<V>Hoàng thượng giao cho các công khanh xử trí; các liệt hầu, quan viên hàng hai nghìn thạch, cùng hào kiệt liên đới đến việc mưu phản của Hoài Nam vương lên tới mấy nghìn người, đều luận theo tội nặng nhẹ để xử lý.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.153">
+					<C>衡山王赐，淮南王弟也，当坐收，有司请逮 捕衡山王。</C>
+					<V>Hành Sơn vương Tử, là em trai của Hoài Nam vương đáng bị bắt, hữu ty xin bắt Hành Sơn vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.154">
+					<C>天子曰：“诸侯各以其国为本，不当相坐。与诸侯王列侯 会肄丞相诸侯议。”</C>
+					<V>Thiên tử nói: “Chư hầu ai nấy lấy nước phong làm gốc, không đáng xử liên lụy. Hãy cùng các chư hầu vương, liệt hầu cùng Thừa tướng và các bề tôi bàn nghị.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.155">
+					<C>赵王彭祖、列侯臣让等四十三人议，皆 曰：“淮南王安甚大逆无道，谋反明白，当伏诛。”</C>
+					<V>Bọn Triệu vương là Bành Tổ, liệt hầu là Nhượng gồm bốn mươi ba người bàn bạc, đều nói: “Hoài Nam vương là An thực đại nghịch vô đạo, mưu phản đã rõ, đáng tội chết.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.156">
+					<C>胶西王臣端议 曰：“淮南王安废法行邪，怀诈伪心，以乱天下，荧惑百姓，倍畔宗 庙，妄作妖言。春秋曰‘臣无将，将而诛’。安罪重於将，谋反形已 定。臣端所见其书节印图及他逆无道事验明白，甚大逆无道，当伏其 法。而论国吏二百石以上及比者，宗室 近幸臣不在法中者，不能相教，当皆免官削爵为士伍，毋得宦为吏。 其非吏，他赎死金二斤八两。以章臣 安之罪，使天下明知臣子之道，毋敢复有邪僻倍畔之意。”</C>
+					<V>Giao Tây vương là Đoan bàn rằng: “Hoài Nam vương là An, phế bỏ pháp chế, làm điều gian tà, mang lòng dối trá, làm loạn thiên hạ, mê hoặc trăm họ, phản bội tông miếu, nói điều xằng bậy. Sách Xuân thu viết: Bề tôi không được phản nghịch, phản nghịch thì giết.' Tội của An nặng hơn phản nghịch, việc mưu phản đã định rõ. Thần là Đoan thấy văn thư, phù tiết, ấn tỷ, địa đồ công việc phản nghịch vô đạo của y, tra xét rõ ràng, thật là đại nghịch vô đạo, đáng xử theo phép nước. Còn luận đến quan viên hàng hai trăm thạch trở lên trong nước phong của Hoài Nam vương, bề tôi được gần gũi tin yêu trong tông thất không bị xử theo pháp chế, nhưng không bảo ban được nhau, đáng bị bãi quan, cắt bỏ tước phong, phạt xuống làm lính, không được làm quan nữa. Người không phải quan lại, sẽ phải nộp hai cân tám lạng vàng để chuộc tội chết. Cần tỏ rõ tội trạng của An, khiến thiên hạ biết rõ đạo thần tử, không dám có ý gian tà bội bạn nữa.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.157">
+					<C>丞相弘、 廷尉汤等以闻，天子使宗正以符节治王。</C>
+					<V>Bọn Thừa tướng là Hoằng, Đình úy là Thang tâu lên, Thiên tử sai quan Tông chính đem phù tiết đến trị tội Hoài Nam vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.158">
+					<C>未至，淮南王安自刭杀。</C>
+					<V>Chưa đến nơi, Hoài Nam vương đã cắt cổ chết.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.159">
+					<C>王后荼、太子迁诸所 与谋反者皆族。</C>
+					<V>Vương hậu là Đồ, thái tử là Thiên cùng những người tham dự âm mưu làm phản đều bị giết cả họ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.160">
+					<C>天子以伍被雅辞多引汉之美，欲勿诛。</C>
+					<V>Do Ngũ Bị nhiều lần dẫn chính giáo tốt đẹp của nhà Hán nên thiên tử không muốn giết.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.161">
+					<C>廷尉汤 曰：“被首为王画反谋，被罪无赦。”</C>
+					<V>Đình úy là Thang nói: “Bị vạch mưu làm phản cho Hoài Nam vương đầu tiên, tội không thể tha.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.162">
+					<C>遂诛被。</C>
+					<V>Bèn giết Bị.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.163">
+					<C>国除为九江郡。</C>
+					<V>Nước phong của Hoài Nam vương bị phế thành quận Cửu Giang.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.164">
+					<C>衡山王赐，王后乘舒生子三人，长男爽为太 子，次男孝，次女无采。</C>
+					<V>Hành Sơn vương Lưu Tứ Hành Sơn vương là Tứ, vương hậu Thừa Thư sinh được ba người con, trưởng nam là Sảng làm thái tử, thứ nam là Hiếu, con gái út là Vô Thái.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.165">
+					<C>又姬徐来生子男女四人，美人厥姬生子二 人。</C>
+					<V>Lại có người thiếp là Từ Lai sinh được con trai con gái bốn người, mỹ nhân Quyết Cơ sinh được hai người con.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.166">
+					<C>衡山王、淮南王兄弟相责望礼节，间不相能。</C>
+					<V>Anh em Hành Sơn vương, Hoài Nam vương dùng lễ tiết trách cứ nhau, đôi bên xa cách, không thể hòa hợp.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.167">
+					<C>衡山王闻淮南王作 为畔逆反具，亦心结宾客以应之，恐为所并。</C>
+					<V>Hành Sơn vương nghe nói Hoài Nam vương chuẩn bị làm việc phản nghịch, trong lòng cũng muốn kết giao tân khách để ứng phó, sợ bị thôn tính.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.168">
+					<C>元光六年，衡山王入朝，其谒者卫庆有方术，欲上书事天子，王 怒，故劾庆死罪，彊榜服之。</C>
+					<V>Năm Nguyên Quang thứ sáu, Hành Sơn vương vào triều, Yết giả là Vệ Khánh có phương thuật, muốn dâng thư xin phụng sự thiên tử, Hành Sơn vương giận, cố ý đàn hặc Vệ Khánh tội chết, ra sức đánh đòn bắt Khánh nhận tội.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.169">
+					<C>衡山内史以为非是，卻其狱。 王使人上 书告内史，内史治，言王不直。</C>
+					<V>Quan Nội sử của Hành Sơn vương cho việc đó không đúng, không chịu xử lý vụ ngục tụng đó, Hành Sơn vương sai người dâng thư tố cáo Nội sử, Nội sử xử lý vụ án, nói vương không công bằng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.170">
+					<C>王又数侵夺人田，坏人冢以为田。</C>
+					<V>Hành Sơn vương lại nhiều lần xâm chiếm ruộng của người, hủy hoại mồ mả người ta để làm ruộng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.171">
+					<C>有 司请逮治衡山王。</C>
+					<V>Hữu ty đề nghị bắt xử Hành Sơn vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.172">
+					<C>天子不许，为置吏二百石以上。</C>
+					<V>Thiên tử không chấp thuận, thiết đặt các quan lại hàng hai trăm thạch trở lên.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.173">
+					<C>衡山王以此恚， 与奚慈、张广昌谋，求能为兵法候星气者，日夜从容王密谋反事。</C>
+					<V>Hành Sơn vương vì thế oán hận, cùng bàn mưu với Hề Từ, Trương Quảng Xương, tìm người giỏi binh pháp, xem tinh tượng, thông tường khí hậu, ngày đêm xúi giục Hành Sơn vương bí mật bàn mưu làm phản.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.174">
+					<C>王后乘舒死，立徐来为王后。</C>
+					<V>Vương hậu Thừa Thư chết, lập Từ Lai làm vương hậu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.175">
+					<C>两人相妒，厥姬乃恶王 后徐来於太子曰：“徐来使婢蛊道杀太子母。”</C>
+					<V>Hai người đố kỵ nhau, Quyết Cơ liền nói xấu vương hậu Từ Lai với thái tử rằng: “Từ Lai sai tỳ nữ dùng thuốc độc giết mẹ của thái tử.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.176">
+					<C>太子心怨徐来。</C>
+					<V>Thái tử trong lòng oán Từ Lai.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.177">
+					<C>徐来 兄至衡山，太子与饮，以刃刺伤王后兄。</C>
+					<V>Anh trai Từ Lai đến Hành Sơn, thái tử cùng uống rượu, dùng dao đâm anh trai vương hậu bị thương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.178">
+					<C>王后怨怒，数毁恶太子於 王。</C>
+					<V>Vương hậu oán giận, nhiều lần nói xấu thái tử với Hành Sơn vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.179">
+					<C>太子女弟无采，嫁弃归，与奴奸，又与客奸。</C>
+					<V>Em gái thái tử là Vô Thái, sau khi xuất giá bỏ nhà chồng về, thông gian với nô bộc, lại thông gian với tân khách.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.180">
+					<C>太子数让无采，无 采怒，不与太子通。</C>
+					<V>Thái tử nhiều lần trách mắng Vô Thái, Vô Thái giận, không qua lại với thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.181">
+					<C>王后闻之，即善遇无采。</C>
+					<V>Vương hậu biết việc đó, liền đối xử tốt với Vô Thái.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.182">
+					<C>无采及中兄孝少失母， 附王后，王后以计爱之，与共毁太子，王以故数击笞太子。</C>
+					<V>Vô Thái cùng anh giữa là Hiếu từ nhỏ mất mẹ, nương cậy vương hậu, vương hậu bày kế yêu quý họ, để cùng hủy báng thái tử, Hành Sơn vương vì thế nhiều lần đánh đòn thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.183">
+					<C>元朔四年 中，人有贼伤王后假母者，王疑太子使 人伤之，笞太子。</C>
+					<V>Trong năm Nguyên Sóc thứ tư, có người làm dưỡng mẫu của vương hậu bị thương, Hành Sơn vương ngờ thái tử sai người làm việc đó, đánh đòn thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.184">
+					<C>後王病，太子时称病不侍。</C>
+					<V>Sau, vương bị ốm, bấy giờ thái tử thác bệnh không hầu hạ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.185">
+					<C>孝、王后、无采恶太 子：“太子实不病，自言病，有喜色。”</C>
+					<V>Hiếu cùng vương hậu và Vô Thái nói xấu thái tử: “Thái tử thực ra không bị bệnh, tự thác bệnh, nét mặt có vẻ vui mừng.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.186">
+					<C>王大怒，欲废太子，立其弟 孝。</C>
+					<V>Vương cả giận, định phế thái tử, lập em thái tử là Hiếu lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.187">
+					<C>王后知王决废太子，又欲并废孝。</C>
+					<V>Vương hậu biết vương quyết ý phế truất thái tử, lại muốn phế luôn cả Hiếu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.188">
+					<C>王后有侍者，善舞，王幸之， 王后欲令侍者与孝乱以汙之，欲并废兄弟而立其子广代太子。</C>
+					<V>Vương hậu có con hầu, giỏi múa, vương sủng ái, vương hậu muốn sai con hầu dâm loạn với Hiếu để bôi nhọ, định phế luôn cả anh em rồi lập con mình là Quảng thay làm thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.189">
+					<C>太子爽 知之，念后数恶己无已时，欲与乱以止其口。</C>
+					<V>Thái tử Sảng biết việc đó, nghĩ vương hậu nhiều lần nói xấu mình, muốn dâm loạn với vương hậu để bịt miệng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.190">
+					<C>王后饮，太子前为寿， 因据王后股，求与王后卧。</C>
+					<V>Vương hậu uống rượu, thái tử tiến đến trước mặt chúc thọ, nhân đó rờ đùi vương hậu, xin ngủ với vương hậu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.191">
+					<C>王后怒，以告王。</C>
+					<V>Vương hậu giận, tố cáo với Hành Sơn vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.192">
+					<C>王乃召，欲缚而笞之。</C>
+					<V>Vương bèn triệu thái tử đến, muốn trói lại đánh đòn.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.193">
+					<C>太子知王常欲废己立其弟孝，乃谓王曰：“孝与王御者奸，无采与奴 奸，王彊食，请上书。”</C>
+					<V>Thái tử biết vương luôn muốn phế mình để lập em mình là Hiếu lên thay, liền nói với vương rằng: “Hiếu thông gian với thị nữ của đại vương, Vô Thái thông gian với nô bộc, đại vương gắng ăn uống, xin được dâng thư lên triều đình.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.194">
+					<C>王使人止之，莫能禁，乃自驾追 捕太子。</C>
+					<V>Vương sai người ngăn lại, không ai cản được, bèn đích thân ngồi xe ngựa đuổi bắt thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.195">
+					<C>太子妄恶言，王械系太子宫中。</C>
+					<V>Thái tử nói lời hủy báng, bị Hành Sơn vương đóng cùm giam trong cung.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.196">
+					<C>孝日益亲幸。</C>
+					<V>Hiếu ngày càng được gần gũi sủng ái.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.197">
+					<C>王奇孝材能， 乃佩之王印，号曰将军，令居外宅，多给金钱，招致宾客。</C>
+					<V>Hành Sơn vương cho Hiếu có tài lạ, bèn ban vương ấn, hiệu là tướng quân, sai ở nhà phía ngoài cung, cấp cho nhiều tiền vàng, được chiêu tập tân khách.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.198">
+					<C>王乃使孝客江都人救 赫、陈喜作輣车 镞矢，刻天子玺，将相军吏 印。</C>
+					<V>Hành Sơn vương bèn sai tân khách của Hiếu là Cứu Hách và Trần Hỷ người Giang Đô chế tạo chiến xa, tên sắt, khắc ngọc tỷ thiên tử, cùng ấn tín tướng võ tướng văn, các quan trong quân.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.199">
+					<C>衡山王 非敢效淮南王求即天子位，畏淮南起并其国，以为淮南已西，发兵定 江淮之间而有之，望如是。</C>
+					<V>Hành Sơn vương không dám bắt chước Hoài Nam vương mong được lên ngôi thiên tử, sợ Hoài Nam vương nổi dậy chiếm nước phong của mình, cho là sau khi Hoài Nam vương kéo sang tây, sẽ phát binh bình định chiếm vùng Giang Hoài, chỉ mong như thế.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.200">
+					<C>元朔五年秋，衡山王当朝，过淮南，淮南王乃昆弟语，除前卻， 约束反具。</C>
+					<V>Mùa thu năm Nguyên Sóc thứ năm, đáng lẽ Hành Sơn vương phải vào triều, qua Hoài Nam, Hoài Nam vương bèn nói chuyện anh em, trừ bỏ hiềm khích trước đây, hẹn chuẩn bị mọi thứ để làm phản.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.201">
+					<C>衡山王即上书谢病，上赐书不朝。</C>
+					<V>Hành Sơn vương liền dâng thư thác bệnh, hoàng thượng ban thư không phải vào chầu.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.202">
+					<C>元朔六年中，衡山王使人上书请废太子爽，立孝为太子。</C>
+					<V>Trong năm Nguyên Sóc thứ sáu, Hành Sơn vương sai người dâng thư xin phế thái tử Sảng, lập Hiếu lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.203">
+					<C>爽闻， 即使所善白嬴之长安上书，言孝作輣车镞矢， 与王御者奸，欲以败孝。</C>
+					<V>Sảng hay tin, liền phái bạn thân là Bạch Doanh đi Trường An dâng thư, nói Hiếu làm chiến xa, tên sắt, thông gian với thị nữ của Hành Sơn vương, muốn Hiếu phải thân bại danh liệt.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.204">
+					<C>白嬴至长安，未及上书，吏捕嬴，以淮南事 系。</C>
+					<V>Bạch Doanh đến Trường An, chưa kịp dâng thư, quan lại bắt Doanh, cho là có liên quan đến việc mưu phản của Hoài Nam vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.205">
+					<C>王闻爽使白嬴上书，恐言国阴事，即上书反告太子爽所为不道弃 市罪事。</C>
+					<V>Hành Sơn vương nghe tin Sảng phái Bạch Doanh dâng thư lên triều đình, sợ y nói những việc ngầm trong nước phong, liền dâng thư tố ngược thái tử Sảng có tội đại nghịch bất đạo đáng chém ngoài chợ thị chúng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.206">
+					<C>事下沛郡治。</C>
+					<V>Việc giao xuống cho quận Bái xử lý.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.207">
+					<C>元年冬，有司公卿下沛郡求捕所与淮南谋反者 未得，得陈喜於衡山王子孝家。</C>
+					<V>Mùa đông năm đầu niên hiệu Nguyên Thú, quan công khanh ở hữu ty giao cho quận Bái tìm bắt những kẻ mưu phản với Hoài Nam vương chưa bị bắt, bắt được Trần Hỷ ở nhà Hiếu, con trai Hành Sơn vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.208">
+					<C>孝以为陈喜雅数与王 计谋反，恐其发之，闻律先自告除其罪，又疑太子使白嬴上书发其 事，即先自告，告所与谋反者救赫、陈喜等。</C>
+					<V>Hiếu cho là Trần Hỷ đã nhiều lần cùng Hành Sơn vương tính mưu làm phản, sợp cáo giác mình, nghe nói theo luật tự thú trước sẽ được miễn tội, lại ngờ thái tử sai Bạch Doanh dâng thư các giác chuyện mưu phản, liền tự thú trước, cáo giác những kẻ tham gia mưu phản là bọn Cứu Hách, Trần Hỷ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.209">
+					<C>廷尉治验，公卿请逮捕 衡山王治之。</C>
+					<V>Đình úy tra án, các công khanh đề nghị bắt Hành Sơn vương trị tội.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.210">
+					<C>天子曰：“勿捕。”</C>
+					<V>Thiên tử nói: “Chớ bắt.”</V>
+				</STC>
+				<STC ID="HCS_001.118.001.211">
+					<C>遣中尉安、 大行息即问王，王具以情实对。</C>
+					<V>Sai quan Trung úy là An, quan Đại hành là Tức kíp đến hỏi Hành Sơn vương, vương đem tình thực nói lại tất cả.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.212">
+					<C>吏皆围王 宫而守之。</C>
+					<V>Quan lại bao vây vương cung rồi phòng giữ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.213">
+					<C>中尉大行还，以闻，公卿请遣宗正、大行与沛郡杂治王。</C>
+					<V>Trung úy và Đại hành trở về triều báo tin, các công khanh đề nghị sai quan Tông chính, Đại hành cùng quận Bái tham gia xử lý vụ việc của Hành Sơn vương.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.214">
+					<C>王闻，即自刭杀。</C>
+					<V>Hành Sơn vương nghe tin, liền cắt cổ tự sát.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.215">
+					<C>孝先自告反，除其罪；坐与王御婢奸，弃市。</C>
+					<V>Hiếu đầu thú trước việc mưu phản, được miễn tội; nhưng liên quan đến việc thông gian với thị nữ của Hành Sơn vương, bị chém ngoài chợ thị chúng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.216">
+					<C>王后 徐来亦坐蛊杀前王后乘舒，及太子爽坐王告不孝，皆弃市。</C>
+					<V>Vương hậu Từ Lai cũng liên quan đến việc hạ độc giết vương hậu trước đây là Thừa Thư, thái tử Sảng bị Hành Sơn vương tố cáo tội bất hiếu, cũng bị chém ngoài chợ thị chúng.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.217">
+					<C>诸与衡山 王谋反者皆族。</C>
+					<V>Những người mưu phản cùng Hành Sơn vương đều bị giết cả họ.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.218">
+					<C>国除为衡山郡。</C>
+					<V>Nước phong bị phế, thành quận Hành Sơn.</V>
+				</STC>
+				<STC ID="HCS_001.118.001.219">
+					<C>太史公曰：诗之所谓“戎狄是膺，荆舒是惩”，信哉是言也。 淮 南、衡山亲为骨肉，疆土千里，列为诸侯，不务遵蕃臣职以承辅天 子，而专挟邪僻之计，谋为畔逆，仍父子再亡国，各不终其身，为天 下笑。 此非独王过也，亦其俗薄，臣下渐靡使然也。 夫荆楚僄勇轻 悍，好作乱，乃自古记之矣。</C>
+					<V>Thái sử công bàn rằng: Điều Kinh Thi ghi: “Phải đánh Nhung, Địch; trừng trị Kinh, Thư, lời ấy đáng tin thay! Hoài Nam vương và Hành Sơn vương tình thân cốt nhục, đất đai ngàn dặm, liệt hàng chư hầu, không chuộng noi chức phận của phiên thần đặng phụ giúp thiên tử, mà lại chăm chăm tính kế gian tà, mưu toan phản nghịch, cha con hai lần mất nước, ai nấy đều không có kết cục tốt, bị thiên hạ chê cười. Đó không chỉ là lỗi lầm của vua, mà còn do phong tục mỏng bạc, đám bề tôi dần bị nhiễm, khiến nên như vậy. Xét, người Kinh Sở dũng mãnh hung tợn, thích làm loạn, từ xưa đã ghi thế rồi.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.118.002">
+				<STC ID="HCS_001.118.002.001">
+					<C>徙衡山王王济北，所以襃之。</C>
+					<V>Dời Hành Sơn vương đến làm vương ở Tế Bắc để khen thưởng.</V>
+				</STC>
+				<STC ID="HCS_001.118.002.002">
+					<C>王日夜与伍被、左 吴等案舆地图， 部署兵所从入。</C>
+					<V>Hoài Nam vương ngày đêm cùng bọn Ngũ Bị, Tả Ngô tra xem địa đồ, tính toán xem quân vào từ chỗ nào.</V>
+				</STC>
+				<STC ID="HCS_001.118.002.003">
+					<C>王问伍被曰：“吾举兵西乡，诸侯必有应我者；即无应，柰 何？”</C>
+					<V>Hoài Nam vương hỏi Ngũ Bị: “Ta cất quân sang tây, chư hầu ắt có người hưởng ứng theo; nếu không theo thì phải làm sao?”</V>
+				</STC>
+				<STC ID="HCS_001.118.002.004">
+					<C>宾客来 者，微知淮南、衡山有逆计，日夜从容劝之。</C>
+					<V>Tân khách đến, lờ mờ biết Hoài Nam vương và Hành Sơn vương có mưu làm phản, ngày đêm xúi giục kích động.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.118.004">
+				<STC ID="HCS_001.118.004.001">
+					<C>阴结宾客， 拊循百姓，为畔逆事。</C>
+					<V>Ngầm giao kết tân khách, vỗ về trăm họ, làm việc bội nghịch.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.118.003">
+				<STC ID="HCS_001.118.003.001">
+					<C>王日夜求壮士如周丘等，数称引吴楚反时计画，以约束。</C>
+					<V>Hành Sơn vương ngày đêm cầu tìm tráng sĩ như bọn Chu Khâu, nhiều lần vạch kế thời Ngô, Sở làm phản để ước thúc thuộc hạ.</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

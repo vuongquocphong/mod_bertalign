@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.077">
+			<PAGE ID="HCS_001.077.001">
+				<STC ID="HCS_001.077.001.001">
+					<C>魏公子无忌者，魏昭王子少子而魏安釐王异母弟也。</C>
+					<V>Công tử nước Ngụy là Vô Kỵ, con út Ngụy Chiêu vương, em khác mẹ của An Ly vương nước Ngụy.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.002">
+					<C>昭王薨，安 釐王即位，封公子为信陵君。</C>
+					<V>Chiêu vương chết, An Ly vương lên ngôi, phong công tử làm Tín Lăng quân.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.003">
+					<C>是时范睢亡魏相秦，以怨魏齐故，秦兵围大梁，破魏华阳下军，走芒 卯。</C>
+					<V>Bấy giờ Phạm Thư trốn khỏi Ngụy, sang làm Tể tướng nước Tần, vì oán Ngụy Tề, đem quân Tần bao vây Đại Lương, phá quân Ngụy dưới núi Hoa Dương, đuổi tướng Mang Mão.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.004">
+					<C>魏王及公子患之。</C>
+					<V>Ngụy vương cùng công tử rất lo lắng.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.005">
+					<C>公子为人仁而下士，士无贤不肖皆谦而礼交之，不敢以其富贵骄 士。</C>
+					<V>Công tử là người nhân ái, khiêm hạ với kẻ sĩ, kẻ sĩ dù không hiền năng cũng khiêm nhường dùng lễ để giao kết, không dám cho mình giàu sang mà kiêu căng.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.006">
+					<C>士以此方数千里争往归之，致食客三千人。</C>
+					<V>Vì thế, mấy ngàn kẻ sĩ tranh nhau theo về, thực khách lên đến ba nghìn.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.007">
+					<C>当是时，诸侯以公子 贤，多客，不敢加兵谋魏十馀年。</C>
+					<V>Bấy giờ chư hầu cho Công tử là hiền năng, nhiều môn khách, hơn chục năm không dám đem quân đánh Ngụy.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.008">
+					<C>公子与魏王博，而北境传举烽，言“赵寇至，且入界”。</C>
+					<V>Công tử đánh cờ cùng Ngụy vương, biên giới phía bắc nổi lửa truyền tin cấp báo: “Cướp nước Triệu đến, sắp vào biên cảnh”.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.009">
+					<C>魏王释博，欲召大臣谋。</C>
+					<V>Ngụy vương ngừng đánh cờ, muốn triệu đại thần để thương nghị.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.010">
+					<C>公子止王曰：“赵 王田猎耳，非为寇也。”</C>
+					<V>Công tử ngăn lại, nói: “Triệu vương đi săn, không phải đến cướp.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.011">
+					<C>复博如故。</C>
+					<V>Lại đánh cờ như trước.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.012">
+					<C>王恐，心不在 博。</C>
+					<V>Nhà vua sợ, không để tâm vào việc đánh cờ.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.013">
+					<C>居顷，复从北方来传言曰：“赵王猎耳，非为寇也。”</C>
+					<V>Lát sau, từ phương bắc lại truyền tin báo: “Triệu vương đi săn, không phải đến cướp.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.014">
+					<C>魏王大 惊，曰：“公子何以知之？”</C>
+					<V>Ngụy vương kinh ngạc, hỏi: “Sao công tử biết?”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.015">
+					<C>公子曰：“臣之客有能深得赵王阴事 者，赵王所为，客辄以报臣，臣以此 知之。”</C>
+					<V>Công tử đáp: “Môn khách của thần có người thám sát được những việc riêng của Triệu vương, Triệu vương làm gì liền báo cho thần, cho nên thần biết.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.016">
+					<C>是後魏王畏公子之贤能，不敢任公子以国政。</C>
+					<V>Từ đấy về sau, Ngụy vương sợ công tử hiền năng, không dám để công tử nắm chính sự.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.017">
+					<C>魏有隐士曰侯嬴，年七十， 家贫，为大梁夷门监者。</C>
+					<V>Ngụy có ẩn sĩ là Hầu Doanh, tuổi đã bảy mươi, nhà nghèo, coi cổng Di Môn ở Đại Lương.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.018">
+					<C>公子闻之，往请，欲厚遗之。</C>
+					<V>Công tử biết chuyện, qua thăm, muốn tặng hậu lễ.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.019">
+					<C>不肯受， 曰：“臣脩身絜行数十年，终不以监门困故而受公子财。”</C>
+					<V>Hầu Doanh không nhận, nói: “Thần sửa mình giữ tiết mấy mươi năm, trước sau không cho làm coi cổng là khốn khổ mà nhận tiền của công tử.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.020">
+					<C>公子於是 乃置酒大会宾客。</C>
+					<V>Thế là công tử bày tiệc rượu lớn khoản đãi tân khách.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.021">
+					<C>坐定，公子从车骑，虚左，自迎夷门侯生。 侯生摄 敝衣冠，直上载公子上坐，不让，欲以观公子。</C>
+					<V>Mọi người an tọa, công tử dong xe, để trống chỗ bên trái, đích thân đi đón Hầu sinh ở cổng Di Môn. Hầu sinh chỉnh lại áo mũ rách nát, leo thẳng lên xe, ngồi trên công tử, không hề khiêm nhường, có ý xem thái độ công tử thế nào.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.022">
+					<C>公子执辔愈恭。</C>
+					<V>Công tử cầm cương càng thêm cung kính.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.023">
+					<C>侯生 又谓公子曰：“臣有客在市屠中，原枉车骑过之。”</C>
+					<V>Hầu sinh bảo Công tử: “Tôi có người khách làm đồ tể trong chợ, xin đưa xe đến thăm ông ta.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.024">
+					<C>公子引车入巿， 侯生下见其客硃亥，俾倪 故久立，与其客语，微察公子。</C>
+					<V>Công tử đánh xe vào chợ, Hầu sinh xuống xe gặp đồ tể là Chu Hợi, liếc nhìn, cố ý đừng nói chuyện thật lâu, ngầm quan sát công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.025">
+					<C>公 子颜色愈和。</C>
+					<V>Vẻ mặt công tử càng nhu hòa.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.026">
+					<C>当是时，魏将相宗室宾客满堂，待公子举酒。</C>
+					<V>Bấy giờ các tướng văn tướng võ, tông thất, môn khách ngồi đầy nhà, chờ công tử về nâng chén.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.027">
+					<C>巿人皆观 公子执辔。</C>
+					<V>Người trong chợ đều thấy công tử cầm cương ngựa.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.028">
+					<C>从骑皆窃骂侯生。</C>
+					<V>Đám cưỡi ngựa đi theo thảy thầm chửi Hầu sinh.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.029">
+					<C>侯生视公子色终不变，乃谢客就车。</C>
+					<V>Hầu sinh nhìn công tử, vẻ mặt trước sau không đổi, bèn từ biệt khách lên xe.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.030">
+					<C>至 家，公子引侯生坐上坐，遍赞宾客， 宾客皆惊。</C>
+					<V>Đến nhà, công tử dẫn Hầu sinh ngồi lên trên, khen ngợi trước tân khách, tân khách thảy kinh ngạc.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.031">
+					<C>酒酣，公子起，为寿侯生前。</C>
+					<V>Rượu mềm môi, công tử đứng dậy, đến trước mặt chúc thọ Hầu sinh.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.032">
+					<C>侯生因谓公子 曰：“今日嬴之为公子亦足矣。嬴 乃夷门抱关者也，而公子亲枉车骑，自迎嬴於众人广坐之中，不宜有 所过，今公子故过之。然嬴欲就公子之名，故久立公子车骑巿中，过 客以观公子，公子愈恭。巿人皆以嬴为小人，而以公子为长者能下士 也。”</C>
+					<V>Hầu sinh nhân đó nói với công tử: “Hôm nay Doanh làm khó công tử đủ rồi. Doanh giữ cổng Di Môn mà công tử đích thân đem xe đến đón, cho Doanh được ngồi trước đông đảo mọi người, lẽ ra không nên quá lễ, nay công tử cố ý quá lễ. Nhưng Doanh muốn công tử được tiếng, cố ý để công tử ngựa xe đứng ở chợ hồi lâu, khách qua lại đều thấy công tử, công tử càng thêm cung kính. Người ở chợ đều xem Doanh là tiểu nhân, coi công tử là trưởng thượng khiêm hạ với kẻ sĩ vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.033">
+					<C>於是罢酒，侯生遂为上客。</C>
+					<V>Công tử bãi tiệc, Hầu sinh được tôn làm thượng khách.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.034">
+					<C>侯生谓公子曰：“臣所过屠者硃亥，此子贤者，世莫能知，故隐 屠间耳。”</C>
+					<V>Hầu sinh nói với công tử: “Doanh qua chỗ đồ tể Chu Hợi, hắn hiền năng, người đời không ai biết, nên ẩn mình ở phường đồ tể.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.035">
+					<C>公子往数请之，硃亥故不复谢，公子怪之。</C>
+					<V>Công tử qua mời nhiều lần, Chu Hợi cố ý không đáp lễ, công tử lấy làm lạ.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.036">
+					<C>魏安釐王二十年，秦昭王已破赵长平军，又进兵围邯郸。</C>
+					<V>Ngụy An Ly vương năm thứ hai mươi, Tần Chiêu vương đã phá quân Triệu ở Trường Bình, lại tiến quân bao vây Hàm Đan.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.037">
+					<C>公子姊 为赵惠文王弟平原君夫人，数遗魏王及公子书，请救於魏。</C>
+					<V>Chị của công tử là phu nhân của Bình Nguyên quân, em trai Huệ Văn vương nước Triệu, nhiều lần gửi thư cho Ngụy vương và công tử, xin cứu Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.038">
+					<C>魏王使将 军晋鄙将十万众救赵。</C>
+					<V>Ngụy vương sai tướng quân Tấn Bỉ, đem mười vạn quân cứu Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.039">
+					<C>秦王使使者告魏王曰：“吾 攻赵旦暮且下，而诸侯敢救者，已拔赵，必移兵先击之。”</C>
+					<V>Tần vương sai sứ báo với Ngụy vương rằng: “Ta đánh Triệu chỉ sớm tối hạ được, chư hầu ai dám cứu viện, hạ xong Triệu, ắt đem quân đánh nước đó trước.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.040">
+					<C>魏王恐， 使人止晋鄙，留军壁鄴，名为救赵，实持两端以观望。</C>
+					<V>Ngụy vương sợ, sai người ngăn Tấn Bỉ, đóng quân lại Nghiệp Thành, danh nghĩa cứu Triệu, kỳ thực tính nước đôi để xem xét tình hình.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.041">
+					<C>平原君使者冠 盖相属於魏，让魏公子曰：“胜所以自附为婚姻者，以公子之高义， 为能急人之困。今邯郸旦暮降秦而魏救不至，安在公子能急人之困 也！且公子纵轻胜，弃之降秦，独不怜公子姊邪？”</C>
+					<V>Bình Nguyên quân sai sứ giả liên tục sang Ngụy, trách công tử rằng: “Thắng sở dĩ trông cậy ngài vì quan hệ hôn nhân, cho công tử nghĩa khí cao, có thể giúp người lúc nguy khốn. Nay Hàm Đan sớm tối sắp hàng Tần, Ngụy lại không đến cứu, công tử đâu có cứu người trong lúc hoạn nạn! Vả công tử nếu khinh Thắng, bỏ mặc để phải hàng Tần, lại há không thương xót chị gái công tử ư?”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.042">
+					<C>公子患之，数请 魏王，及宾客辩士说王万端。</C>
+					<V>Công tử lo lắng về việc đó, nhiều lần thỉnh cầu Ngụy vương, lại cùng tân khách, biện sĩ dùng trăm phương nghìn cách thuyết phục Ngụy vương.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.043">
+					<C>魏王畏秦，终不听公子。</C>
+					<V>Ngụy vương sợ Tần, cuối cùng không nghe công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.044">
+					<C>公子自度终不 能得之於王，计不独生而令赵亡，乃请宾客，约车骑百馀乘，欲以客 往赴秦军，与赵俱死。</C>
+					<V>Công tử cho rằng không thể thuyết phục Ngụy vương, nghĩ mình chẳng thể sống một mình mà để Triệu bị diệt vong, bèn đề nghị môn khách, chuẩn bị hơn trăm cỗ chiến xa, muốn cùng môn khách qua đánh Tần, sống chết với Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.045">
+					<C>行过夷门，见侯生，具告所以欲死秦军状。</C>
+					<V>Qua cổng Di Môn, gặp Hầu sinh, nói đủ lý do muốn liều chết cùng quân Tần.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.046">
+					<C>辞决而行，侯生 曰：“公子勉之矣，老臣不能从。”</C>
+					<V>Nói xong từ biệt lên đường, Hầu sinh nói: “Công tử gắng lên, tôi già yếu không theo được.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.047">
+					<C>公子行数里，心不快，曰：“吾 所以待侯生者备矣，天下莫不闻，今吾且死而侯生曾无一言半辞送 我，我岂有所失哉？”</C>
+					<V>Công tử đi được mấy dặm, trong lòng không vui, nói: “Ta đối đãi với Hầu sinh rất chu đáo, thiên hạ không ai không biết, nay ta sắp chết mà Hầu Doanh không có nửa lời từ biệt, ta có điều thất thố chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.048">
+					<C>复引车还，问侯生。</C>
+					<V>Bèn dẫn xe quay lại, hỏi Hầu sinh.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.049">
+					<C>侯生笑曰：“臣固知公子 之还也。”</C>
+					<V>Hầu sinh cười nói: “Thần vốn biết công tử sẽ quay lại.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.050">
+					<C>曰：“公子喜士，名闻天下。今有难，无他端而欲赴秦 军，譬若以肉投馁虎，何功之有哉？尚安事客？然公子遇臣厚，公子 往而臣不送，以是知公子恨之复返也。”</C>
+					<V>Nói tiếp: “Công tử chuộng kẻ sĩ, nổi tiếng thiên hạ. Nay gặp nạn, không có cách khác nên muốn đánh quân Tần, cũng như ném thịt cho hổ đói, chẳng ích gì đâu. Vậy chuộng tân khách làm gì? Công tử đối đãi với tôi rất hậu, công tử đi mà tôi không đưa tiễn, vì thế biết công tử hận sẽ quay lại vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.051">
+					<C>公子再拜，因问。</C>
+					<V>Công tử vái lạy mấy lượt, nhân lại hỏi han.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.052">
+					<C>侯生乃屏 人间语，曰：“嬴闻晋鄙之兵符常在王卧 内，而如姬最幸，出入王卧内，力能窃之。嬴闻如姬父为人所杀，如 姬资之三年， 自王以下欲求报其父仇，莫能得。如姬为公 子泣，公子使客斩其仇头，敬进如姬。如姬之欲为公子死，无所辞， 顾未有路耳。公子诚一开口请如姬，如姬必许诺，则得虎符夺晋鄙 军，北救赵而西卻秦，此五霸之伐也。”</C>
+					<V>Hầu sinh bèn đuổi mọi người ra, rồi nói: “Doanh nghe nói binh phù của Tấn Bỉ thường để ở chỗ đại vương nằm, còn Như Cơ được sủng ái nhất, ra vào phòng ngủ của đại vương, có thể lấy trộm được. Doanh nghe cha của Như Cơ bị người ta giết, Như Cơ ôm phẫn uất ba năm nay, từ đại vương trở xuống đều muốn báo thù cha cho Như Cơ, nhưng không làm được. Như Cơ khóc nhờ công tử, công tử sai môn khách chém được đầu kẻ đó, cung kính dâng cho Như Cơ. Như Cơ dẫu chết vì công tử cũng cam lòng, chỉ là chưa có cơ hội thôi. Công tử chỉ cần mở miệng thỉnh cầu Như Cơ, Như Cơ ắt đồng ý, lấy được hổ phù đoạt quân Tấn Bỉ, bắc cứu được Triệu, tây đẩy lui Tần, là cách chinh phạt của Ngũ bá vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.053">
+					<C>公子从其计，请如姬。</C>
+					<V>Công tử theo kế đó, thỉnh cầu Như Cơ.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.054">
+					<C>公子行，侯生曰：“将在外，主令有所不受，以便国家。公子即 合符，而晋鄙不授公子兵而复请之，事必危矣。臣客屠者硃亥可与 俱，此人力士。晋鄙听，大善；不听，可使击之。”</C>
+					<V>Công tử lên đường, Hầu sinh nói: “Tướng ở ngoài, lệnh chúa có khi không nghe, cốt sao lợi cho quốc gia. Công tử khớp lệnh phù, Tấn Bỉ không chịu giao quân lại đề nghị thỉnh thị Ngụy vương, việc ắt nguy. Bạn tôi là đồ tể Chu Hợi có thể cùng đi, người này là dũng sĩ. Tấn Bỉ nghe thì việc quá tốt; không nghe, có thể sai Chu Hợi giết đi.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.055">
+					<C>於是公子泣。</C>
+					<V>Công tử nghe vậy liền khóc.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.056">
+					<C>侯 生曰：“公子畏死邪？何泣也？”</C>
+					<V>Hầu sinh hỏi: “Công tử sợ chết chăng? Sao lại khóc?”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.057">
+					<C>公子曰：“晋鄙嚄唶 宿将，往恐不听，必当杀之，是以泣 耳，岂畏死哉？”</C>
+					<V>Công tử đáp: “Tấn Bỉ là lão tướng uy thanh hiển hách, qua đó e không nghe, ắt phải giết đi, vì thế ta khóc, há vì sợ chết ru?”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.058">
+					<C>於是公子请硃亥。</C>
+					<V>Thế rồi công tử xin gặp Chu Hợi.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.059">
+					<C>硃亥笑曰：“臣乃市井鼓刀屠 者，而公子亲数存之，所以不报谢者，以为小礼无所用。今公子有 急，此乃臣效命之秋也。”</C>
+					<V>Chu Hợi cười nói: “Tôi là đồ tể huơ dao ở chợ, công tử đích thân đến nhiều lần, sở dĩ không đáp tạ, vì cho đó là chút lễ nghĩa vô dụng. Nay công tử gặp nguy, chính là lúc tôi đem tính mạng báo đáp vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.060">
+					<C>遂与公子俱。</C>
+					<V>Bèn cùng công tử lên đường.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.061">
+					<C>公子过谢侯生。 侯生 曰：“臣宜从，老不能。请数公子行日，以至晋鄙军之日，北乡自 刭，以送公子。”</C>
+					<V>Công tử qua cảm tạ Hầu sinh, Hầu sinh nói: “Tôi nên theo, nhưng già rồi không đi được. Tôi xin tính ngày công tử đi, khi nào đến chỗ quân Tấn Bỉ, tôi quay về bắc cắt cổ tự vẫn, để tiễn công tử.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.062">
+					<C>公子遂行。</C>
+					<V>Công tử bèn lên đường.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.063">
+					<C>晋鄙合符，疑之，举手视公子曰：“今 吾拥十万之众，屯於境上，国之重任，今单车来代之，何如哉？”</C>
+					<V>Tấn Bỉ khớp binh phù, lấy làm ngờ, giơ tay nhìn công tử nói: “Nay tôi cầm mười vạn quân, đồn trú ở biên giới, giữ nhiệm vụ quan trọng của nước, ngài lại đi một chiếc xe đến thay, vậy là sao?”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.064">
+					<C>欲 无听。</C>
+					<V>Ý không muốn nghe theo.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.065">
+					<C>硃亥袖四十斤铁椎，椎杀晋鄙，公子遂将晋鄙军。</C>
+					<V>Chu Hợi giấu sẵn chùy nặng bốn mươi cân trong tay áo, vung chùy giết Tấn Bỉ.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.066">
+					<C>勒兵下令军 中曰：“父子俱在军中，父归；兄弟俱在军中，兄归；独子无兄弟， 归养。”</C>
+					<V>Công tử bèn cầm quân của Tấn Bỉ, hạ lệnh trong quân rằng: “Ai cha con cùng ở trong quân, cha được về; anh em cùng ở trong quân, anh được về; chỉ có một mình, không anh em thì được về phụng dưỡng cha mẹ.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.067">
+					<C>得选兵八万人，进兵击秦军。</C>
+					<V>Chọn được tám vạn quân, tiến quân đánh quân Tần.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.068">
+					<C>赵王及平原君自迎公子於界，平原君负籣矢 为公子先引。</C>
+					<V>Triệu vương cùng Bình Nguyên quân đích thân nghênh đón công tử ở biên giới, Bình Nguyên quân mang bao đựng tên đi trước dẫn đường cho công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.069">
+					<C>赵王再拜曰：“自古贤人未有及公子者 也。”</C>
+					<V>Triệu vương vái lạy nói: “Hiền nhân từ xưa chưa ai bằng công tử vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.070">
+					<C>当此之时，平原君不敢自比於人。</C>
+					<V>Bấy giờ, Bình Nguyên quân không dám sánh với công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.071">
+					<C>公子与侯生决，至军，侯生 果北乡自刭。</C>
+					<V>Công tử cùng Hầu sinh chia tay, đến chỗ quân Tấn Bỉ, Hầu sinh quả quay mặt về bắc cắt cổ tự vẫn.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.072">
+					<C>魏王怒公子之盗其兵符，矫杀晋鄙，公子亦自知也。</C>
+					<V>Ngụy vương giận công tử trộm binh phù của mình, giả lệnh giết Tấn Bỉ, Công tử cũng tự biết.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.073">
+					<C>已卻秦存 赵，使将将其军归魏，而公子独与客留赵。</C>
+					<V>Khi đã đẩy lui Tần, bảo tồn Triệu, liền sai tướng đem quân về Ngụy, còn một mình công tử lại làm khách nước Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.074">
+					<C>赵孝成王德公子之矫夺晋 鄙兵而存赵，乃与平原君计，以五城封公子。</C>
+					<V>Hiếu Thành vương nước Triệu cảm ân đức công tử giả lệnh vua đoạt binh quyền của Tấn Bỉ để bảo tồn nước Triệu, nên bàn với Bình Nguyên quân, đem năm thành phong cho.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.075">
+					<C>公子闻之，意骄矜而有 自功之色。</C>
+					<V>Công tử biết việc đó, có ý kiêu ra vẻ mình có công.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.076">
+					<C>客有说公子曰：“物有不可忘，或有不可不忘。夫人有德 於公子，公子不可忘也；公子有德於人，原公子忘之也。且矫魏王 令，夺晋鄙兵以救赵，於赵则有功矣，於魏则未为忠臣也。公子乃自 骄而功之，窃为公子不取也。”</C>
+					<V>Môn khách có người nói với công tử: “Có việc không thể quên, có việc không thể không quên. Phàm người có đức với công tử, công tử không thể quên, công tử có đức với người khác, xin công tử quên đi. Vả giả lệnh Ngụy vương, đoạt binh quyền của Tấn Bỉ để cứu Triệu, với Triệu thì đó là công, nhưng với Ngụy thì không phải tôi trung vậy. Công tử tự kiêu mà nhận công, tôi trộm vì công tử không cho là phải.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.077">
+					<C>於是公子立自责，似若无所容者。</C>
+					<V>Thế rồi công tử tự trách, làm vẻ như không có chỗ dung thân.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.078">
+					<C>赵 王埽除自迎，执主人之礼，引公子就西阶。</C>
+					<V>Triệu vương quét thềm đích thân nghênh đón, lấy lễ chủ nhân, đưa công tử lên thềm phía tây.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.079">
+					<C>公子侧行辞让，从东阶 上。 自言罪过，以负於魏，无功於赵。</C>
+					<V>Công tử đi nghiêng từ tạ, lên theo bậc thềm phía đông, tự nói mình có tội, phụ bạc Ngụy, không công với Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.080">
+					<C>赵王侍酒至 暮，口不忍献五城，以公子退让也。</C>
+					<V>Triệu vương đãi rượu đến chiều tối, miệng không nỡ nói dâng năm thành, vì cho rằng công tử sẽ không nhận.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.081">
+					<C>公子竟留赵。</C>
+					<V>Cuối cùng công tử ở lại Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.082">
+					<C>赵王以鄗 为公子汤沐邑，魏亦复以信陵奉公子。</C>
+					<V>Triệu vương lấy ấp Hoắc cho công tử làm ấp thang mộc. Ngụy lại lấy ấp Tín Lăng phong cho công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.083">
+					<C>公子留 赵。</C>
+					<V>Công tử vẫn ở lại Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.084">
+					<C>公子闻赵有处士毛公藏於博徒，薛公藏於卖浆家， 公子欲 见两人，两人自匿不肯见公子。</C>
+					<V>Công tử nghe nói Triệu có ẩn sĩ Mao Công giấu mình ở phường cờ bạc, Tiết công giấu mình ở nhà bán tương, muốn gặp nhưng hai người trốn tránh không chịu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.085">
+					<C>公子闻所在，乃间步往从此两人游， 甚欢。</C>
+					<V>Công tử hay biết chỗ họ, bèn lén đi bộ đến giao du cùng, rất tâm đắc.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.086">
+					<C>平原君闻之，谓其夫人曰：“始吾闻夫人弟公子天下无双，今 吾闻之，乃妄从博徒卖浆者游，公子妄人耳。”</C>
+					<V>Bình Nguyên quân biết chuyện, nói với phu nhân: “Khi trước nghe nói công tử em trai phu nhân thiên hạ vô song, nay nghe nói ông ta giao du bừa bãi với đám cờ bạc bán tương, công tử là kẻ hoang đàng vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.087">
+					<C>夫人以告公子。 公子 乃谢夫人去，曰：“始吾闻平原君贤，故负魏王而救赵，以称平原 君。平原君之游，徒豪举耳，不求士 也。无忌自在大梁时，常闻此两人贤，至赵，恐不得见。以无忌从之 游，尚恐其不我欲也，今平原君乃以为羞，其不足从游。”</C>
+					<V>Phu nhân nói lại với công tử, công tử liền từ biệt phu nhân ra đi, nói: “Ban đầu nghe nói Bình Nguyên quân hiền năng, nên giúp Ngụy vương mà cứu Triệu, để xứng với Bình Nguyên quân. Bình Nguyên quân giao du, đều tỏ ra hào phóng, không phải cầu kẻ sĩ. Vô Kỵ từ hồi ở Đại Lương, thường nghe hai người này hiền năng, tới Triệu, sợ không được gặp. Lấy ý muốn giao du của Vô Kỵ còn sợ họ không muốn gặp, nay Bình Nguyên quân lại cho là xấu hổ, ông ta không đáng để giao du.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.088">
+					<C>夫人具以语平原君。</C>
+					<V>Phu nhân nói lại với Bình Nguyên quân.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.089">
+					<C>平原君乃免冠谢，固留公子。</C>
+					<V>Bình Nguyên quân bỏ mũ tạ lỗi, cố giữ công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.090">
+					<C>平原君门下闻 之，半去平原君归公子，天下士复往归公子，公子倾平原君客。</C>
+					<V>Môn hạ của Bình Nguyên quân nghe chuyện, phân nửa bỏ theo công tử, kẻ sĩ trong thiên hạ cũng theo công tử, môn khách của công tử đông hơn cả môn khách của Bình Nguyên quân.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.091">
+					<C>公子留赵十年不归。</C>
+					<V>Công tử lưu lại Triệu mười năm không về.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.092">
+					<C>秦闻公子在赵，日夜出兵东伐魏。</C>
+					<V>Tần nghe công tử Triệu, ngày đêm đem quân sang đông đánh Ngụy.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.093">
+					<C>魏王患 之，使使往请公子。</C>
+					<V>Ngụy vương lo sợ, sai sứ thỉnh công tử về.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.094">
+					<C>公子恐其怒之，乃诫门下：“有敢为魏王使通 者，死。”</C>
+					<V>Công tử sợ vua giận mình, bèn răn môn hạ: “Ai dám truyền đạt với sứ giả của Ngụy vương, xử tử.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.095">
+					<C>宾客皆背魏之赵，莫敢劝公子归。</C>
+					<V>Tân khách đều quay lưng với Ngụy sang Triệu, không ai dám khuyên công tử trở về.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.096">
+					<C>毛公、薛公 两人往见公子曰：“公子所以重於赵，名闻诸侯者，徒以有魏 也。今秦攻魏，魏急而公子不恤，使秦破大梁而夷先王之宗庙，公子 当何面目立天下乎？”</C>
+					<V>Mao công, Tiết công cùng yết kiến công tử, nói: “Công tử sở dĩ được trọng ở Triệu, nổi danh chư hầu đều nhờ có Ngụy. Nay Tần đánh Ngụy, Ngụy nguy cấp mà công tử không xót, để Tần phá được Đại Lương rồi san phẳng tông miếu tiên vương, công tử còn mặt mũi nào đứng trong thiên hạ nữa?”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.097">
+					<C>语未及卒，公子立变色，告车趣驾归救魏。</C>
+					<V>Chưa nói cạn lời, công tử bật dậy, mặt mày biến sắc, gọi người mau đánh xe về cứu Ngụy.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.098">
+					<C>魏王见公子，相与泣，而以上将军印授公子，公子遂将。</C>
+					<V>Ngụy vương gặp công tử, cả hai cùng khóc, rồi trao cho công tử ấn thượng tướng quân, công tử bèn cầm quân.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.099">
+					<C>魏安釐 王三十年，公子使使遍告诸侯。</C>
+					<V>Ngụy An Ly vương năm thứ ba mươi, công tử phái sứ giả thông báo chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.100">
+					<C>诸侯闻公子将，各遣将将兵救魏。</C>
+					<V>Chư hầu nghe nói công tử làm tướng, thảy đều sai tướng cầm quân đến cứu Ngụy.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.101">
+					<C>公 子率五国之兵破秦军於河外，走蒙骜。</C>
+					<V>Công tử thống lĩnh quân năm nước, phá quân Tần ở Hà Ngoại, tướng Tần là Mông Ngao tháo chạy.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.102">
+					<C>遂乘胜逐秦军至函谷关，抑秦 兵，秦兵不敢出。</C>
+					<V>Bèn thừa thắng đuổi quân Tần đến cửa Hàm Cốc, khống chế quân Tần, quân Tần không dám ra ngoài.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.103">
+					<C>当是时，公子威振 天下，诸侯之客进兵法，公子皆名之， 故世俗称魏公子兵法。</C>
+					<V>Bấy giờ công tử danh lừng thiên hạ, tân khách chư hầu tiến dâng binh pháp, công tử đều đề tên, nên tục gọi là Ngụy công tử binh pháp.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.104">
+					<C>秦王患之，乃行金万斤於魏，求晋鄙客，令毁公子於魏王 曰：“公子亡在外十年矣，今为魏将，诸侯将皆属，诸侯徒闻魏公 子，不闻魏王。公子亦欲因此时定南面而王，诸侯畏公子之威，方欲 共立之。”</C>
+					<V>Tần vương lo lắng việc đó, bèn đem vạn cân vàng đến Ngụy, tìm môn khách của Tấn Bỉ, sai hủy báng công tử với Ngụy vương: “Công tử lưu vong bên ngoài mười năm, nay làm tướng Ngụy, tướng chư hầu đều quy thuận, chư hầu chỉ nghe Ngụy công tử, không nghe Ngụy vương. Công tử cũng muốn nhân lúc này ngoảnh mặt về nam xưng vương, chư hầu sợ oai công tử, muốn lập công tử làm vua.”</V>
+				</STC>
+				<STC ID="HCS_001.077.001.105">
+					<C>秦数使反间，伪贺公子得立为魏王未也。</C>
+					<V>Tần nhiều lần sai người ly gián, và chúc mừng công tử, hỏi đã được lập làm Ngụy vương chưa.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.106">
+					<C>魏王日闻其毁， 不能不信，後果使人代公子将。</C>
+					<V>Hằng ngày Ngụy vương nghe lời hủy báng, không thể không tin, sau quả sai người làm tướng thay công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.107">
+					<C>公子自知再以毁废，乃谢病不朝，与 宾客为长夜饮，饮醇酒，多近妇女。</C>
+					<V>Công tử tự biết lại vì lời hủy báng mà bị phế, bèn thác bệnh không vào chầu, cùng tân khách chìm đắm trong rượu, lại gần gũi nữ sắc quá độ.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.108">
+					<C>日夜为乐饮者四岁，竟病酒而 卒。</C>
+					<V>Ngày đêm uống rượu làm vui được bốn năm, cuối cùng bị bệnh vì rượu mà chết.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.109">
+					<C>其岁，魏安釐王亦薨。</C>
+					<V>Năm đó, An Ly vương nước Ngụy cũng qua đời.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.110">
+					<C>秦闻公子死，使蒙骜攻魏，拔二十城，初置东郡。</C>
+					<V>Tần hay tin công tử chết, sai Mông Ngao đánh Ngụy, hạ được hai mươi thành, đặt làm Đông Quận.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.111">
+					<C>其後秦稍蚕食 魏，十八岁而虏魏王，屠大梁。</C>
+					<V>Sau, Tần dần chiếm Ngụy như tằm ăn lá dâu, mười tám năm sau bắt sống Ngụy vương, làm cỏ thành Đại Lương.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.112">
+					<C>高祖始微少时，数闻公子贤。</C>
+					<V>Cao tổ thuở còn hàn vi, nhiều lần nghe nói công tử hiền năng.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.113">
+					<C>及即天子位，每过大梁，常祠公 子。</C>
+					<V>Đến khi lên ngôi thiên tử, mỗi khi qua Đại Lương, thường tế tự công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.114">
+					<C>高祖十二年，从击黥布还，为公子置守冢五家，世世岁以四时奉 祠公子。</C>
+					<V>Cao tổ năm thứ mười hai, đi đánh Kinh Bố về, vì công tử mà đặt năm nhà giữ phần mộ, đời đời bốn mùa hằng năm phụng thờ công tử.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.115">
+					<C>太史公曰：吾过大梁之墟，求问其所谓夷门。</C>
+					<V>Thái sử công bàn rằng: Ta qua gò Đại Lương, tìm hỏi chỗ gọi là cổng Di Môn.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.116">
+					<C>夷门者，城之东门 也。</C>
+					<V>Di Môn là cửa phía đông thành.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.117">
+					<C>天下诸公子亦有喜士者矣，然信陵君之接岩穴隐者，不耻下交， 有以也。</C>
+					<V>Các công tử trong thiên hạ cũng có người chuộng kẻ sĩ, nhưng việc Tín Lăng quân tiếp đãi những người ẩn cư nơi núi hang, không xấu hổ khi giao du với người dưới, là chỗ khả thủ.</V>
+				</STC>
+				<STC ID="HCS_001.077.001.118">
+					<C>名冠诸侯，不虚耳。</C>
+					<V>Ông nổi danh chư hầu, không phải vô cớ vậy.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.077.002">
+				<STC ID="HCS_001.077.002.001">
+					<C>至鄴，矫魏王令代晋鄙。</C>
+					<V>Đến đất Nghiệp, giả lệnh Ngụy vương thay Tấn Bỉ.</V>
+				</STC>
+				<STC ID="HCS_001.077.002.002">
+					<C>秦军解去，遂救邯郸，存赵。</C>
+					<V>Quân Tần giải vây rút về, cứu được Hàm Đan, bảo tồn Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.077.002.003">
+					<C>高祖每过之而令民奉祠不绝也。</C>
+					<V>Cao tổ mỗi khi đi qua, sai dân phụng thờ không dứt.</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

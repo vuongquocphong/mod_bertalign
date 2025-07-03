@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.099">
+			<PAGE ID="HCS_001.099.001">
+				<STC ID="HCS_001.099.001.001">
+					<C>刘敬 者，齐人也。</C>
+					<V>Lưu Kính Lưu Kính, người Tề.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.002">
+					<C>汉五年，戍陇西，过洛阳，高帝在焉。</C>
+					<V>Hán vương năm thứ năm, làm lính ở Lũng Tây, qua Lạc Dương, Cao đế ở đó.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.003">
+					<C>娄敬脱輓辂， 衣其羊裘，见齐人虞将军曰：“臣原见上言便事。”</C>
+					<V>Lâu Kính bỏ xe nhỏ, mặc áo da dê, gặp Ngu tướng quân người Tề, nói: “Tôi muốn yết kiến hoàng thượng để nói điều lợi.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.004">
+					<C>虞将 军欲与之鲜衣，娄敬曰：“臣衣帛，衣帛 见；衣褐，衣褐见：终不敢易衣。”</C>
+					<V>Ngu tướng quân muốn cho áo đẹp, Lâu Kinh nói: “Tôi mặc áo lụa, thì áo lụa đi yết kiến; mặc áo vải thô thì áo vải thô đi yết kiến. Quyết không dám thay áo khác.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.005">
+					<C>於是虞将军入言上。</C>
+					<V>Thế rồi Ngu tướng quân vào nói với hoàng thượng.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.006">
+					<C>上召入见， 赐食。</C>
+					<V>Hoàng thượng triệu vào gặp, cho ăn uống.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.007">
+					<C>已而问娄敬，娄敬说曰：“陛下都洛阳，岂欲与周室比隆 哉？”</C>
+					<V>Sau đó hỏi Lâu Kính, Lâu Kính nói: “Bệ hạ đóng đô ở Lạc Dương, há muốn hưng thịnh ngang nhà Chu chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.008">
+					<C>上曰：“然。”</C>
+					<V>Hoàng thượng đáp: “Phải.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.009">
+					<C>娄敬曰：“陛下取天下与周室异。周之先自后 稷，尧封之邰， 积德累善十有馀世。公刘避桀居豳。 太王以狄伐故，去豳，杖马箠居岐，国 人争随之。及文王为西伯，断虞芮之讼，始受命，吕望、伯夷自海滨 来归之。 武王伐纣，不期而会孟津之上八百诸侯，皆曰纣可伐矣，遂灭 殷。成王即位，周公之属傅相焉，乃营成周洛邑， 以此为天下之中也，诸侯四 方纳贡职，道里均矣，有德则易以王，无德则易以亡。凡居此者，欲 令周务以德致人，不欲依阻险，令後世骄奢以虐民也。及周之盛时， 天下和洽，四夷乡风，慕义怀德，附离 而并事天子，不屯一卒， 不战一士，八夷大国之民莫不宾服，效其贡职。及周之衰也，分而为 两， 天下 莫朝，周不能制也。非其德薄也，而形势弱也。今陛下起丰沛，收卒 三千人，以之径往而卷蜀汉，定三秦，与项羽战荥阳，争成皋之口， 大战七十，小战四十，使天下之民肝脑涂地，父子暴骨中野，不可胜 数，哭泣之声未绝，伤痍者未起，而欲比隆於成康之时，臣窃以为不 侔也。且夫秦地被山带河，四塞以为固，卒然有急，百万之众可具 也。因秦之故，资甚美膏腴之地，此所谓天府 者 也。陛下入关而都之，山东虽乱，秦之故地可全而有也。夫与人斗， 不搤其亢， 拊其背，未能全其 胜也。今陛下入关而都，案秦之故地，此亦搤天下之亢而拊其背 也。”</C>
+					<V>Lâu Kính nói: “Cách bệ hạ lấy thiên hạ khác nhà Chu. Tổ tiên nhà Chu từ Hậu Tắc, được đế Nghiêu phong đất Thai, tích đức tích thiện hơn mười đời. Công Lưu tránh Kiệt nên ra đất Bân. Thái vương vì Địch đánh cướp, bỏ đất Bân, ruổi ngựa đến đất Kỳ, người trong nước tranh nhau theo. Đến khi Văn vương làm Tây bá, phân xử việc kiện tụng của Ngu, Nhuế, bắt đầu nhận mệnh, Lã Vọng, Bá Di từ bãi biển đến quy phụ. Vũ Vương đánh Trụ, chẳng hẹn mà hội được tám trăm chư hầu ở trên Mạnh Tân, đều nói Trụ đáng đánh, rồi diệt Ân. Thành vương lên ngôi, bọn Chu công phụ tá, xây Thành Chu, Lạc Ấp, lấy đó làm trung tâm thiên hạ, chư hầu bốn phương vào dâng cống, lộ trình ngang nhau, có đức sẽ dễ làm vua, không đức ắt dễ diệt vong. Phàm người chốn này, muốn khiến Chu chuộng đức để người ta đến, không muốn nương chỗ hiểm khiến đời sau kiêu sa bạo ngược với dân. Đến khi Chu hưng thịnh, thiên hạ hòa hợp, người Di bốn phương đều theo phong hóa, mộ nghĩa chuộng đức, thành tâm quy phục, phụng sự thiên tử, không phải dùng một sĩ tốt đóng đồn, một binh sĩ đi đánh, dân chúng nước lớn ngoại di không ai không thần phục, dâng cống thiên tử. Đến khi Chu suy vi, bị chia làm hai, thiên hạ không ai vào chầu, Chu cũng không thể khống chế. Không phải đức họ mỏng đâu, mà hình thế suy yếu vậy. Nay bệ hạ nổi lên từ đất Phong, Bái, thu được ba nghìn người, theo lối tắt đến chiếm Thục, Hán, bình định Tam Tần, giao chiến với Hạng Vũ ở Huỳnh Dương, tranh đoạt cửa khẩu Thành Cao, đánh lớn bảy mươi trận, đánh nhỏ bốn mươi trận, khiến dân chúng thiên hạ gan óc lầy đất, cha con phơi xương trắng ngoài đồng, nhiều không kể xiết, tiếng khóc lóc chưa nguôi, vết thương chưa lành, lại muốn hưng thịnh như thời Thành, Khang, thần trộm cho không bằng được. Vả lại đất Tần lắm núi có Hoàng Hà bao bọc, biên tái bốn phía hiểm trở, thình lình nguy cấp, quân trăm vạn có thể tập hợp đủ. Dựa vào thế của Tần, lại thêm đất đai màu mỡ, đó là kho trời vậy. Bệ hạ vào Quan Trung rồi đóng đô. Sơn Đông dễu loạn, đất cũ của Tần vẫn có thể bảo toàn. Xét lẽ, đấu với người, không chen yết hầu, đánh vào sau lưng, không chắc toàn thắng. Nay bệ hạ vào Quan Trung đóng đô, chiếm đất cũ nước Tần, là chẹn yết hầu thiên hạ rồi đánh úp sau lưng đấy.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.010">
+					<C>高帝问群臣，群臣皆山东人，争言周王数百年，秦二世即亡，不 如都周。</C>
+					<V>Cao đế hỏi quần thần, quần thần đều người Sơn Đông, tranh nói nhà Chu mấy trăm năm, nhà Tần hai đời đã diệt vong, chẳng bằng đóng đô ở Chu.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.011">
+					<C>上疑未能决。</C>
+					<V>Hoàng thượng do dự chưa quyết.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.012">
+					<C>及留侯明言入关便，即日车驾西都关中。</C>
+					<V>Đến khi Lưu hầu nói rõ điểm lợi nếu vào Quan Trung, ngay hôm ấy đánh xe sang tây đóng đô ở Quan Trung.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.013">
+					<C>於是上曰：“本言都秦地者娄敬，‘娄’者乃‘刘’也。”</C>
+					<V>Thế rồi Hoàng thượng nói: “Người ban đầu nói đóng đô đất Tần là Lâu Kính, Lâu tức là Lưu vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.014">
+					<C>赐姓 刘氏，拜为郎中，号为奉春君。</C>
+					<V>Bèn ban họ Lưu, phong làm Lang trung, hiệu là Phùng Xuân quân.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.015">
+					<C>汉七年，韩王信反，高帝自往击之。</C>
+					<V>Hán Cao tổ năm thứ bảy, Hàn vương Tín làm phản, Cao đế tự cầm quân đánh.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.016">
+					<C>使者十辈来，皆言匈奴可击。</C>
+					<V>Sứ giả qua lại mười lần, đều nói có thể đánh Hung Nô.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.017">
+					<C>上使刘敬复往 使匈奴，还报曰：“两国相击，此宜夸矜见所长。 今臣往，徒见羸瘠 老弱，此必欲见短，伏 奇兵以争利。愚以为匈奴不可击也。”</C>
+					<V>Hoàng thượng sai Lưu Kính lại đi sứ Hung Nô, về báo rằng: “Hai nước giao tranh, đáng lý phải khoa trương thế mạnh. Nay thần sang đó, chỉ thấy gia súc gầy còm, người già trẻ nhỏ, ắt muốn ta thấy chỗ yếu, mai phục kỳ binh để tranh lợi. Ngu thần cho là không thể đánh Hung Nô.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.018">
+					<C>是时汉兵已逾句注， 二十馀万兵已业行。</C>
+					<V>Lúc ấy quân Hán đã qua Câu Chú, hơn hai mươi vạn quân đã xuất phát.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.019">
+					<C>上怒，骂刘敬 曰：“齐虏！以口舌得官，今乃妄言沮吾军。”</C>
+					<V>Hoàng thượng giận, mắng Lưu Kính: “Thằng mọi nước Tề! Nhờ miệng lưỡi được làm quan, nay lại nói xằng ngăn trở quân ta.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.020">
+					<C>高帝至广武，赦敬，曰：“吾不用公言，以困平城。吾 皆已斩前使十辈言可击者矣。”</C>
+					<V>Cao đế đến Quảng Vũ, xá tội Kính, nói: “Ta không nghe lời ông, nên bị vây khốn ở Bình Thành. Ta đã chém mười sứ giả trước đây nói có thể đánh.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.021">
+					<C>乃封敬二千户，为关内侯，号为建信 侯。</C>
+					<V>Bèn phong Kính hai nghìn hộ, làm quan Nội hầu, hiệu Kiến Tín hầu.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.022">
+					<C>高帝罢平城归，韩王信亡入胡。</C>
+					<V>Cao đế bãi binh từ Bình Thành về, Hàn vương Tín trốn vào đất Hồ.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.023">
+					<C>上患之，问刘敬。</C>
+					<V>Hoàng thượng lo lắng, hỏi Lưu Kính.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.024">
+					<C>刘敬曰：“天下初定，士卒罢於兵，未可以武服也。冒顿杀父代立， 妻群母，以力为威，未可以仁义说也。独可以计久远子孙为臣耳，然 恐陛下不能为。”</C>
+					<V>Lưu Kính đáp: “Thiên hạ mới yên, sĩ tốt buông binh khí, chưa thể dùng vũ lực chế phục. Mặc Đốn giết cha cướp ngôi, lấy các vợ của cha, cậy sức ra oai, chưa thể dùng nhân nghĩa thuyết phục. Chỉ có thể tính kế lâu dài để con cháu hắn xưng thần thôi, e là bệ hạ không làm được.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.025">
+					<C>上曰：“诚可，何为不能！顾为柰何？”</C>
+					<V>Hoàng thượng nói: “Nếu có thể, sao ta không làm! Vậy phải làm sao?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.026">
+					<C>刘敬对 曰：“陛下诚能以適长公主妻之，厚奉遗之，彼知汉適女送厚，蛮夷 必慕以为阏氏，生子必为太子。代单于。何者？贪汉重币。陛下以岁 时汉所馀彼所鲜数问遗，因使辩士风谕以礼节。冒顿在，固为子婿； 死，则外孙为单于。岂尝闻外孙敢与大父抗礼者哉？兵可无战以渐臣 也。若陛下不能遣长公主，而令宗室及後宫诈称公主，彼亦知，不肯 贵近，无益也。”</C>
+					<V>Lưu Kinh đáp: “Nếu bệ hạ đem công chúa dòng đích gả cho hắn, đem nhiều của cải tặng cho, hắn biết nhà Hán gả con gái đích lại đưa lễ hậu, man di ắt thích phong làm Yên chi, sinh con ắt làm Thái tử, thay làm Thiền vu. Tại sao? Tham nhiều của cải nhà Hán. Hằng năm bệ hạ đem những thứ nhà Hán thừa họ thiếu, tặng cho nhiều lần, nhân đó sai biện sĩ dùng lễ tiết khuyên dụ. Mặc Đốn còn thì vốn là con rể; chết đi thì cháu ngoại bệ hạ làm Thiền vu. Há từng nghe cháu ngoại dám chống lễ tiết của ông ngoại chăng? Dùng binh có thể không đánh lại dần khiến thần phục. Nếu bệ hạ không thể sai trưởng công chúa, lại sai người trong tông thất hoặc hậu cung giả danh công chúa, hắn mà biết được, không chịu gần gũi, vậy chẳng ích gì.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.027">
+					<C>高帝曰：“善。”</C>
+					<V>Cao để nói: “Phải.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.028">
+					<C>欲遣长公主。 吕后日夜泣， 曰：“妾唯太子、一女，柰何弃之匈奴！”</C>
+					<V>Định sai trưởng công chúa đi, Lã hậu ngày đêm khóc lóc, nói: “Thiếp chỉ có Thái tử và một con gái, sao lại bỏ cho Hung Nô?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.029">
+					<C>上竟不能遣长公主，而取 家人子名为长公主，妻单于。</C>
+					<V>Hoàng thượng không thể sai trưởng công chúa đi, bèn lấy con gái nhà khác giả danh trưởng công chúa, gả cho Thiền vu.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.030">
+					<C>使刘敬往结和亲约。</C>
+					<V>Sai Lưu Kính sang kết minh ước hòa thân.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.031">
+					<C>刘敬从匈奴来，因言“匈奴河南白羊、楼烦王， 去长安近者七百 里，轻骑一日一夜可以至秦中。秦中新破，少民，地肥饶，可益实。 夫诸侯初起时，非齐诸田，楚昭、屈、景莫能兴。今陛下虽都关中， 实少人。北近胡寇，东有六国之族，宗彊，一日有变，陛下亦未得高 枕而卧也。臣原陛下徙齐诸田，楚昭、屈、景，燕、赵、韩、魏後， 及豪桀名家居关中。无事，可以备胡；诸侯有变，亦足率以东伐。此 彊本弱末之术也”。</C>
+					<V>Lưu Kính từ Hung Nô về, nhân nói: “Bạch Dương Vương, Lâu Phiền vương ở Hà Nam, Hung Nô, cách Trường An gần bảy trăm dặm, khinh kỵ đi một ngày một đêm có thể đến Tần Trung. Tần Trung mới bị phá, dân ít, đất phì nhiêu, cần tăng lực lượng. Lúc chư hầu mới nổi, không phải họ Điền ở Tề, họ Chiêu, Khuất, Cảnh ở Sở, chẳng thể hứng khởi được. Nay bệ hạ dẫu đóng đô ở Quan Trung, kỳ thực ít người. Phía bắc gần giặc Hồ, phía đông có tông tộc của sáu nước, tông tộc mạnh, ngày kia có biến, bệ hạ cũng chưa kê cao gối mà nằm được đâu. Thần xin bệ hạ dời họ Điền ở Tề, họ Chiêu, Khuất, Cảnh ở Sở, cùng hậu duệ Yên, Triệu, Hàn, Ngụy, cho tới hào kiệt danh gia đến ở Quan Trung. Vô sự, có thể phòng giặc Hồ; chư hầu có biến, cũng đủ sức dẫn quân chinh phạt phía đông. Đó là thuật gốc mạnh ngọn yếu vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.032">
+					<C>上曰：“善。”</C>
+					<V>Hoàng thượng nói: “Phải.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.033">
+					<C>乃使刘敬徙所言关中十馀万口。</C>
+					<V>Bèn sai Lưu Kính dời các họ gồm hơn mười vạn khẩu đến Quan Trung.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.034">
+					<C>叔孙通者，薛人也。</C>
+					<V>Thúc Tôn Thông Thúc Tôn Thông, người đất Tiết.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.035">
+					<C>秦时以文学徵，待诏博士。</C>
+					<V>Thời Tần, nhờ văn tài được trưng dụng, làm Đãi chiếu bác sĩ.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.036">
+					<C>数岁，陈 胜起山东，使者以闻，二世召博士诸儒生问曰：“楚戍卒攻蕲入陈， 於公如何？”</C>
+					<V>Mấy năm sau, Trần Thắng dấy Sơn Đông, sứ giả báo tin, Nhị thế triệu Bác sĩ cùng các nho sinh đến hỏi: “Lính thú Sở đánh đất Kỳ vào đất Trần, các ông nói xem phải làm sao?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.037">
+					<C>博士诸生三十馀人前曰：“人臣无将，将即反，罪死无 赦。原陛 下急发兵击之。”</C>
+					<V>Bác sĩ cùng các nho sinh hơn ba mươi người tiến đến nói: “Bề tôi không được mang lòng loạn nghịch, loạn nghịch tức làm phản, tội chết không thể tha. Xin bệ hạ kíp phát binh đến đánh.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.038">
+					<C>二世怒，作色。</C>
+					<V>Nhị thế giận, biến sắc.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.039">
+					<C>二世喜 曰：“善。”</C>
+					<V>Nhị thế mừng nói: “Phải.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.040">
+					<C>尽问诸生，诸生或言反，或言盗。</C>
+					<V>Hỏi khắp lượt nho sinh, các nho sinh đều nói làm phản, có người nói bọn trộm.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.041">
+					<C>於是二世令御史案诸 生言反者下吏，非所宜言。</C>
+					<V>Nhị thế liền lệnh Ngự sử đem các nho sinh nói là làm phản giao pháp quan trị tội, vì nói điều không nên nói.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.042">
+					<C>诸言盗者皆罢之。</C>
+					<V>Các nho sinh nói là bọn trộm đều bãi miễn.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.043">
+					<C>乃赐叔孙通帛二十匹， 衣一袭， 拜为博士。</C>
+					<V>Bèn ban cho Thúc Tôn Thông hai mươi xấp lụa trắng, một bộ quần áo, phong làm Bác sĩ.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.044">
+					<C>叔孙通已出 宫，反舍，诸生曰：“先生何言之谀也？”</C>
+					<V>Thúc Tôn Thông đã ra khỏi cung, về nhà riêng, các nho sinh hỏi: “Tiên sinh sao nói nịnh bợ thế?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.045">
+					<C>通曰：“公不知也，我几 不脱於虎口！”</C>
+					<V>Thông đáp: “Các ông không biết đấy thôi, ta suýt không thoát khỏi miệng cọp!”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.046">
+					<C>乃亡去，之薛，薛已降楚矣。</C>
+					<V>Bèn trốn đi, đến đất Tiết, đất Tiết đã hàng Sở.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.047">
+					<C>及项梁之 薛，叔孙通从之。</C>
+					<V>Khi Hạng Lương đến đất Tiết, Thúc Tôn Thông theo.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.048">
+					<C>败於定陶，从怀王。</C>
+					<V>[Hạng Lương] thua ở Định Đào, theo Hoài vương.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.049">
+					<C>怀王为义帝，徙长沙，叔孙通 留事项王。</C>
+					<V>Hoài vương làm Nghĩa đế, dời đến Trường Sa, Thúc Tôn Thông ở lại thờ Hạng vương.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.050">
+					<C>汉二年，汉王从五诸侯入彭城，叔孙通降汉王。</C>
+					<V>Hán vương năm thứ hai, Hán vương thống lĩnh năm chư hầu vào Bành Thành, Thúc Tôn Thông hàng Hán vương.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.051">
+					<C>汉王败而 西，因竟从汉。</C>
+					<V>Hán vương thua rồi về tây, nhân đó lại theo Hán.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.052">
+					<C>叔孙通儒服，汉王憎之；乃变其服，服短衣，楚制， 汉王喜。</C>
+					<V>Thúc Tôn Thông mặc nho phục, Hán vương rất ghét. Bèn đổi y phục, mặc áo ngắn, may kiểu Sở, Hán vương thích.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.053">
+					<C>叔孙通之降汉，从儒生弟子百馀人，然通无所言进，专言诸故群 盗壮士进之。</C>
+					<V>Thúc Tôn Thông hàng Hán, nho sinh đệ tử hơn trăm người đi theo, nhưng Thông không tiến cử ai, chuyên tiến cử những người trước là trộm cắp, tráng sĩ.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.054">
+					<C>弟子皆窃骂曰：“事先生数岁，幸得从降汉，今不能进 臣等，专言大猾，何也？”</C>
+					<V>Đệ tử đều chửi thầm: “Thờ tiên sinh mấy năm, may được theo hàng Hán, nay không thể tiến cử bọn tôi, chỉ tiến cử bọn gian hoạt, là sao?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.055">
+					<C>叔孙 通闻之，乃谓曰：“汉王方蒙矢石争天下， 诸生宁能斗乎？故先言斩将搴旗 之士。诸生且待我，我不忘 矣。”</C>
+					<V>Thúc Tôn Thông nghe được, bèn bảo rằng: “Hán vương đang xông pha tên đạn tranh đoạt thiên hạ, các trò đi đánh giết được không? Nên trước hết tiến cử dũng sĩ chém tướng đoạt cờ. Các trò hãy chờ ta, ta không quên đâu.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.056">
+					<C>汉五年，已并天下，诸侯共尊汉王为皇帝於定陶，叔孙通就其仪 号。</C>
+					<V>Hán vương năm thứ năm, đã thôn tính thiên hạ, chư hầu cùng tôn Hán vương làm hoàng đế tại Định Đào, Thúc Tôn Thông chế định lễ nghi danh hiệu.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.057">
+					<C>高帝悉去秦苛仪法，为简易。</C>
+					<V>Cao đế bỏ hết lễ nghi pháp luật hà khắc của Tần, đổi cho đơn giản.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.058">
+					<C>叔孙通知上益厌之也，说上曰：“夫儒者难与进取， 可与守成。臣原徵鲁诸生，与臣弟子共起朝仪。”</C>
+					<V>Thúc Tôn Thông biết hoàng thượng ngày càng ghét cảnh đó, nói với hoàng thượng rằng: “Đám nhà nho khó có thể cùng giành thiên hạ, nhưng có thể cùng giữ thành quả. Thần xin trưng dụng nho sinh nước Lỗ, cùng đệ tử của thần thiết lập triều nghi.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.059">
+					<C>高帝曰：“得无难 乎？”</C>
+					<V>Cao đế hỏi: “Có khó lắm không?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.060">
+					<C>叔孙通曰：“五帝异乐，三王不同礼。礼者，因时世人情为之 节文者也。故夏、殷、周之礼所因损益可知者，谓不相复也。臣原颇 采古礼与秦仪杂就之。”</C>
+					<V>Thúc Tôn Thông đáp: “Nhạc thời Ngũ đế khác nhau, lễ hội Tam vương không giống nhau. Lễ, theo thời thế nhân tình điều chỉnh cho phù hợp. Cho nên lễ nhà Hạ, Ân, Chu dựa vào chỗ thêm bớt có thể biết được, vì không trùng lặp. Thần xin chọn rộng lễ thời cổ cùng nghi nhà Tần chế định lễ nghi mới.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.061">
+					<C>上曰：“可试为之，令易知，度吾所能行为 之。”</C>
+					<V>Hoàng thượng nói: “Hãy làm thử, nếu dễ hiểu, xét xem điều ta thi hành được mới làm.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.062">
+					<C>於是叔孙通使徵鲁诸生三十馀人。</C>
+					<V>Thế là Thúc Tôn Thông sai trưng dụng hơn ba mươi nho sinh nước Lỗ.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.063">
+					<C>鲁有两生不肯行，曰：“公所 事者且十主，皆面谀以得亲贵。今天下初定，死者未葬，伤者未起， 又欲起礼乐。礼乐所由起，积德百年而後可兴也。吾不忍为公所为。 公所为不合古，吾不行。公往矣，无汙我！”</C>
+					<V>Có hai nho sinh nước Lỗ không chịu đi, nói: “Ông thờ hàng chục chủ, đều ra mặt nịnh để được thân quý. Nay thiên hạ mới yên định, người chết chưa chôn, người thương chưa lành, lại muốn xướng lễ nhạc. Khởi điểm của lễ nhạc là tích đức trăm năm sau mới thực hiện. Bọn tôi không đành lòng vì ông làm việc đó. Việc ông làm không hợp lễ chế cổ, chúng tôi không làm. Ông đi đi, đừng vấy bẩn đến chúng tôi?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.064">
+					<C>遂与所徵三十人西，及上左右为学者与其弟子百馀人为绵蕞 野外。</C>
+					<V>Bèn dẫn ba mươi người trưng dụng được sang tây, cùng tả hữu của hoàng thượng theo học và các đệ tử gồm hơn trăm người luyện tập lễ nghi ngoài đồng.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.065">
+					<C>习之月馀，叔孙通曰：“上可试观。”</C>
+					<V>Tập được hơn tháng, Thúc Tôn Thông nói: “Hoàng thượng có thể xem thử.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.066">
+					<C>上既 观，使行礼，曰：“吾能为此。”</C>
+					<V>Hoàng thượng đến xem, sai hành lễ, nói: “Ta có thể theo lễ này.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.067">
+					<C>乃令群臣习肄， 会十月。</C>
+					<V>Bèn lệnh quần thần luyện tập, tháng Mười hội triều.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.068">
+					<C>汉七年，长乐宫成，诸侯群臣皆朝十月。</C>
+					<V>Hán Cao tổ năm thứ bảy, xây xong cung Trường Lạc, chư hầu quần thần đến chầu tháng Mười.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.069">
+					<C>传言“趋”。 殿下郎中侠陛，陛数百人。</C>
+					<V>Truyền rằng “Rảo bước”, Lang trung dưới điện chạy đến hai bên thềm, mỗi bên mấy trăm người.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.070">
+					<C>功臣列侯诸将军军吏以次陈西 方，东乡；文官丞相以下陈东方，西乡。</C>
+					<V>Công thần, liệt hầu, tướng quân, quan lại trong quân, theo thứ bậc đứng phía tây, quay mặt về đông; quan văn, Thừa tướng trở xuống đứng phía đông, quay mặt về tây.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.071">
+					<C>自诸侯王 以下莫不振恐肃敬。</C>
+					<V>Từ vương hầu trở xuống không ai không sợ sệt kính cẩn.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.072">
+					<C>觞九行，谒者言“罢酒”。</C>
+					<V>Dâng chén đủ chín lần, yết giả nói “Thôi rượu”.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.073">
+					<C>於是高帝曰：“吾乃今日知为皇帝之贵 也。”</C>
+					<V>Xong xuôi, Cao đế nói: “Hôm nay ta mới biết sự tôn quý của hoàng đế.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.074">
+					<C>乃拜叔孙通为太常，赐金五百斤。</C>
+					<V>Bèn phong Thúc Tôn Thông làm Thái thường, ban năm trăm cân vàng.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.075">
+					<C>叔孙通因进曰：“诸弟子儒生随臣久矣，与臣共为仪，原陛下官 之。”</C>
+					<V>Thúc Tôn Thông nhân đó tâu: “Các nho sinh đệ tử theo thần đã lâu, cùng thần chế định lễ nghi, xin bệ hạ cho họ làm quan.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.076">
+					<C>高帝悉以为郎。</C>
+					<V>Cao đế cho hết thảy làm quan lang.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.077">
+					<C>叔孙通出，皆以五百斤金赐诸生。</C>
+					<V>Thúc Tôn Thông ra về, đem năm trăm cân vàng thưởng các học trò.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.078">
+					<C>诸生乃皆喜 曰：“叔孙生诚圣人也，知当世之要务。”</C>
+					<V>Các học trò đều vui mừng nói: “Thầy Thúc Tôn thực là thánh nhân, biết việc quan trọng đời nay cần.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.079">
+					<C>汉九年，高帝徙叔孙通为太子太傅。</C>
+					<V>Hán Cao tổ năm thứ chín, Cao đế chuyển Thúc Tôn Thông làm Thái tử thái phó.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.080">
+					<C>汉十二年，高祖欲以赵王如 意易太子，叔孙通谏上曰：“昔者晋献公以骊姬之故废太子，立奚 齐，晋国乱者数十年，为天下笑。秦以不蚤定扶苏，令赵高得以诈立 胡亥，自使灭祀，此陛下所亲见。今太子仁孝，天下皆闻之；吕后与 陛下攻苦食啖， 其可背哉！陛下必欲废適而 立少，臣原先伏诛，以颈血汙地。”</C>
+					<V>Hán Cao tổ năm thứ mười hai, Cao đế muốn cho Triệu vương Như Ý thay Thái tử, Thúc Tôn Thông can rằng: “Xưa kia, Tấn Hiến công vì nàng Ly Cơ phế Thái tử, lập Hề Tề thay, khiến Tấn loạn mấy chục năm, bị thiên hạ chê cười. Tần không sớm lập Phù Tô, khiến Triệu Cao giả chiếu lập Hồ Hợi, tự mình dứt tuyệt tế tự tông miếu, đều là việc bệ hạ chính mắt thấy. Nay Thái tử nhân hậu hiếu thuận, thiên hạ đều biết; Lã hậu cùng bệ hạ qua bao khổ cực, lẽ nào lại quay lưng? Nếu bệ hạ muốn phế đích lập thứ, thần xin chịu chết trước, lấy máu trên cổ tưới đất này.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.081">
+					<C>高 帝曰：“公罢矣，吾直戏耳。”</C>
+					<V>Cao đế nói: “Ông đừng nói nữa, ta chỉ đùa thôi.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.082">
+					<C>叔孙通曰：“太子天下本，本一摇天 下振动，柰何以天下为戏！”</C>
+					<V>Thúc Tôn Thông nói: “Thái tử là gốc thiên hạ, gốc lung lay thiên hạ chấn động, sao coi thiên hạ như trò đùa được!”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.083">
+					<C>高帝曰：“吾听公言。”</C>
+					<V>Cao đế nói: “Ta nghe lời ông.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.084">
+					<C>及上置酒，见 留侯所招客从太子入见，上乃遂无易太子志矣。</C>
+					<V>Đến khi Hoàng thượng bày tiệc rượu, thấy tân khách Lưu hầu vời về theo Thái tử vào yết kiến, Hoàng thượng bèn bỏ ý định thay Thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.085">
+					<C>高帝崩，孝惠即位，乃谓叔孙生曰：“先帝园陵寝庙，群臣莫 习。”</C>
+					<V>Cao đế băng, Hiếu Huệ đế lên ngôi, bèn nói với Thúc Tôn sinh rằng: “Lễ nghi nơi lăng miếu tiên đế, quần thần không ai thông hiểu.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.086">
+					<C>及稍定汉诸仪法，皆叔孙生为太常所 论箸也。</C>
+					<V>Nghi thức pháp chế nhà Hán đều do Thúc Tôn Thông soạn khi làm Thái thường vậy.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.087">
+					<C>叔孙生奏事，因请间曰：“陛下何自筑衤复道高寝，衣 冠月出游高庙？高庙，汉太祖，柰何令後世子孙乘宗庙道上行 哉？”</C>
+					<V>Thúc Tôn Thông tấu việc, nhân xin gặp riêng, nói: “Sao bệ hạ tự ý làm cầu chỗ Cao tẩm vậy? Tiên đế hằng tháng áo mũ xuất du ra Cao miếu, Cao miếu là tông miếu của Thái tổ nhà Hán, sao lại cho con cháu đời sau đi đường phía trên tông miếu được?”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.088">
+					<C>孝惠帝大惧，曰：“急坏之。”</C>
+					<V>Hiếu Huệ đế cả sợ, nói: “Hủy bỏ ngay!”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.089">
+					<C>叔孙生 曰：“人主无过举。今已 作，百姓皆知之，今坏此，则示有过举。原陛下原庙渭北，衣冠月出 游之，益广多宗庙，大孝之本也。”</C>
+					<V>Thúc Tôn Thông nói: “Làm vua không thi hành việc sai lầm. Nay đã trót làm, trăm họ đều biết cả, nếu hủy đi, chứng tỏ mình làm sai. Xin bệ hạ làm Nguyên miếu ở bắc sông Vị, hằng tháng Cao tổ mũ áo xuất du ra đó. Mở rộng thêm tông miếu, là gốc của đại hiếu vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.090">
+					<C>原庙起，以 衤复道故。</C>
+					<V>Khởi dựng Nguyên miếu, là do trót làm cầu nối hai cung vậy.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.091">
+					<C>上乃许之。</C>
+					<V>Hoàng thượng bèn đồng ý.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.092">
+					<C>太史公曰：语曰“千金之裘，非一狐之腋也；台榭之榱，非一木 之枝也；三代之际，非一士之智也”。</C>
+					<V>Thái sử công bàn rằng: Tục ngữ có câu: “Áo cừu nghìn vàng, chẳng phải chỉ từ da nách con cáo; xà cột đài tạ, không phải chỉ từ một cành cây; thời Tam đại, không phải chỉ dựa trí tuệ một kẻ sĩ.”</V>
+				</STC>
+				<STC ID="HCS_001.099.001.093">
+					<C>夫高祖起微细，定海 内，谋计用兵，可谓尽之矣。</C>
+					<V>Xét lẽ, Cao tổ dấy từ thuở hàn vi, bình định bốn biển, định kế dùng binh, có thể nói hết mức rồi.</V>
+				</STC>
+				<STC ID="HCS_001.099.001.094">
+					<C>然而刘敬脱輓辂一说，建万世之安，智 岂可专邪！</C>
+					<V>Thế nhưng Lưu Kính bỏ xe nói một lần, tạo sự yên định muôn đời, trí tuệ há có thể chỉ một người ư!</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.099.002">
+				<STC ID="HCS_001.099.002.001">
+					<C>至晋阳，闻信与匈奴欲共击 汉，上大怒，使人使匈奴。</C>
+					<V>Tới Tấn Dương, nghe tin Tín cùng Hung Nô muốn hợp sức đánh Hán, Hoàng thượng cả giận, sai người đi sứ Hung Nô.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.002">
+					<C>匈奴匿其壮士肥牛马，但见老弱及羸畜。</C>
+					<V>Hung Nô giấu tráng sĩ khỏe, trâu ngựa béo, chỉ cho thấy người già trẻ nhỏ, gia súc gầy.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.003">
+					<C>遂往，至平城，匈奴果出奇兵围高帝白登，七 日然後得解。</C>
+					<V>Cao đế lên đường, đến Bình Thành, Hung Nô quả nhiên xuất kỳ binh bao vây Cao đế ở Bạch Đằng, bảy ngày sau mới thoát được.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.004">
+					<C>当是时，冒顿为单于，兵彊，控 弦三十万，数苦北边。</C>
+					<V>Bấy giờ, Mặc Đốn làm Thiền vu, quân mạnh, cung nỏ có ba mươi vạn, nhiều lần đánh phá biên giới phía bắc.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.005">
+					<C>叔孙通前曰：“诸生言皆非也。夫 天下合为一家，毁郡县城，铄其兵，示天下不复用。且明主在其上， 法令具於下，使人人奉职，四方辐輳，安敢有反者！此特群盗鼠窃狗 盗耳，何足置之齿牙间。郡守尉今捕论，何足忧。”</C>
+					<V>Thúc Tôn Thông tiến lên nói: “Lời các nho sinh đều không đúng. Thiên hạ hợp thành một nhà, hủy bỏ thành lũy ở quận huyện, nấu chảy binh khí, để tỏ cho thiên hạ sẽ không dùng nữa. Vả trên có minh chúa, dưới có pháp lệnh đầy đủ, khiến ai nấy giữ chức phận, bốn phương hướng về, sao dám làm phản! Đó chỉ là lũ trộm gà bắt chó thôi, đâu cần nói đến. Nay Quận thú, Huyện úy bắt chúng luận tội, không đáng lo ngại.”</V>
+				</STC>
+				<STC ID="HCS_001.099.002.006">
+					<C>汉王拜叔孙通为博士，号稷嗣君。</C>
+					<V>Hán vương phong Thúc Tôn Thông làm Bác sĩ, hiệu Tắc Tự quân.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.007">
+					<C>群臣饮酒争功，醉或妄呼，拔剑击 柱，高帝患之。</C>
+					<V>Quần thần uống rượu tranh công, có người uống say hô hoán, tuốt kiếm chém cột, Cao đế lo lắng việc đó.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.008">
+					<C>叔孙通笑曰：“若真鄙 儒也，不知时变。”</C>
+					<V>Thúc Tôn Thông cười nói: “Các ông đúng là nhà nho thiển cận, không biết biến đổi theo thời.”</V>
+				</STC>
+				<STC ID="HCS_001.099.002.009">
+					<C>於是皇帝辇出房， 百官执职 传警， 引诸侯王以下至吏六百石以次奉贺。</C>
+					<V>Thế rồi hoàng đế ngồi xe từ trong phòng đi ra, trăm quan cầm cờ xí, truyền hô chuẩn bị, dẫn các vương hầu xuống đến các quan hạng sáu trăm thạch theo thứ bậc lên chúc mừng.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.010">
+					<C>至礼毕，复置法酒。</C>
+					<V>Khi lễ xong, lại bày nghi lễ dâng rượu.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.011">
+					<C>孝惠帝为东朝长乐宫， 及间往，数跸 烦人，乃作衤 复道，方筑武库南。</C>
+					<V>Thái hậu ở cung Trường Lạc, khi thanh nhàn Hiếu Huệ đế thường sang, nhiều lần cấm đường gây phiền người khác, bèn làm cầu nối hai cung, đang xây ở phía nam kho quân giới.</V>
+				</STC>
+				<STC ID="HCS_001.099.002.012">
+					<C>孝惠帝曾春出游离宫，叔孙生曰：“古者有春尝果，方今樱桃 孰，可献， 原陛下出，因取樱桃献宗 庙。”</C>
+					<V>Hiếu Huệ đế từng nhân ngày xuân du ngoạn ly cung, Thúc Tôn Thông nói: “Thời cổ có lệ mùa xuân tiến dâng quả mới, nay đang lúc anh đào chín, có thể đem dâng, xin bệ hạ xuất du, nhân đó lấy anh đào dâng tông miếu.”</V>
+				</STC>
+				<STC ID="HCS_001.099.002.013">
+					<C>信哉！</C>
+					<V>Đáng tin thay!</V>
+				</STC>
+				<STC ID="HCS_001.099.002.014">
+					<C>“大直若诎，道固委蛇”，盖谓是乎？</C>
+					<V>“Cực thẳng tựa cong, đạo vốn khuất khúc”, là nói về việc đó chăng?</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.099.003">
+				<STC ID="HCS_001.099.003.001">
+					<C>仪：先平明，谒者治礼，引以 次入殿门，廷中陈车骑步卒卫宫，设兵张旗志。</C>
+					<V>Nghi chế: trước trời sáng, yết giả phụ trách lễ nghi, theo thứ tự dẫn vào Cổng điện, trong sân đình, sắp xe ngựa lính bộ bảo vệ cung điện theo hàng lối, bày binh lính giương cờ xí.</V>
+				</STC>
+				<STC ID="HCS_001.099.003.002">
+					<C>御史执法举不如仪者辄引去。</C>
+					<V>Ngự sử chấp pháp, ai dâng không đúng nghi thức liền bị đưa đi.</V>
+				</STC>
+				<STC ID="HCS_001.099.003.003">
+					<C>竟朝置酒，无敢讙譁失礼者。</C>
+					<V>Triều hội xong bày tiệc rượu, không ai dám ồn ào thất lễ.</V>
+				</STC>
+				<STC ID="HCS_001.099.003.004">
+					<C>徙为太常，定宗庙仪法。</C>
+					<V>Liền đổi sang chức Thái thường, lập nghi lễ chốn tông miếu.</V>
+				</STC>
+				<STC ID="HCS_001.099.003.005">
+					<C>诸果献由此兴。</C>
+					<V>Việc dâng tiến các loại quả bắt đầu từ đây.</V>
+				</STC>
+				<STC ID="HCS_001.099.003.006">
+					<C>叔孙通希世度务，制礼进退，与时变化，卒为汉家儒 宗。</C>
+					<V>Thúc Tôn Thông chế định pháp độ, lễ nghi tiến lùi, biến đổi theo thời, cuối cùng trở thành tông sư các nho sinh thời Hán.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.099.004">
+				<STC ID="HCS_001.099.004.001">
+					<C>大行设九宾，胪传。</C>
+					<V>Bày chín người làm dẫn tiến, truyền gọi theo thứ bậc.</V>
+				</STC>
+				<STC ID="HCS_001.099.004.002">
+					<C>诸侍坐殿上皆伏抑首，以尊卑 次起上寿。</C>
+					<V>Các quan ngồi trên điện đều phủ phục cúi đầu, theo thứ bậc cao thấp đứng lên chúc thọ Hoàng thượng.</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

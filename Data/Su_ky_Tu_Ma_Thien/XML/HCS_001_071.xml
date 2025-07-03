@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.071">
+			<PAGE ID="HCS_001.071.001">
+				<STC ID="HCS_001.071.001.001">
+					<C>樗里子者，名疾，秦惠王之弟也， 与惠王异母。</C>
+					<V>Sư Lý tử Sư Lý tử tên Tật, là em khác mẹ với Tần Huệ vương.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.002">
+					<C>母，韩女也。</C>
+					<V>Mẹ ông người Hàn.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.003">
+					<C>樗里子滑稽多 智， 秦人号曰“智囊”。</C>
+					<V>Sư Lý tử là người khôi hài, tài trí, người Tần gọi là “túi khôn”.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.004">
+					<C>秦惠王八年，爵樗里子右更，使 将而伐曲沃，尽出其人， 取其城，地入秦。</C>
+					<V>Tần Huệ vương năm thứ tám, ban cho Sư Lý tử tước Hữu cánh, sai làm tướng đi đánh Khúc Ốc. Sư Lý tử đuổi hết người đó, chiếm lấy thành, sáp nhập vào Tần.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.005">
+					<C>秦惠王二十 五年，使樗里子为将伐赵，虏赵将军庄豹，拔蔺。</C>
+					<V>Tần Huệ vương năm thứ hai mươi lăm, sai Sư Lý tử cầm quân đánh Triệu, bắt sống tướng Triệu là Trang Báo, hạ được đất Lận.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.006">
+					<C>明年，助魏章攻楚，败楚将屈丐，取汉中地。</C>
+					<V>Năm sau, giúp Ngụy Chương tấn công Sở, đánh bại tướng Sở là Khuất Cái, chiếm đất Hán Trung.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.007">
+					<C>秦封樗里子，号为严 君。</C>
+					<V>Tần gia phong cho Sư Lý tử, hiệu là Nghiêm quân.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.008">
+					<C>秦惠王卒，太子武王立，逐张仪、魏章，而以樗里子、甘茂为左 右丞相。</C>
+					<V>Tần Huệ vương chết, Thái tử Vũ vương lên ngôi, đuổi Trương Nghi, Ngụy Chương, rồi phong Sư Lý tử và Cam Mậu làm Tả hữu thừa tướng.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.009">
+					<C>秦使甘茂攻韩，拔宜阳。</C>
+					<V>Tần sai Cam Mậu đánh Hàn, hạ được Nghi Dương.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.010">
+					<C>使樗里子以车百乘入周。</C>
+					<V>Sai Sư Lý tử đem trăm cỗ xe vào Chu.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.011">
+					<C>周以卒迎 之，意甚敬。</C>
+					<V>Nhà Chu đem quân nghênh đón, tỏ ra hết sức cung kính.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.012">
+					<C>楚王怒，让周，以其重秦客。</C>
+					<V>Sở vương giận, trách nhà Chu, cho nhà Chu coi trọng khách Tần.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.013">
+					<C>游腾 为周说楚王曰：“知伯之伐仇犹，遗之广车， 因随之以兵，仇犹遂亡。何则？无备故也。齐桓公伐蔡，号 曰诛楚，其实袭蔡。今秦，虎狼之国，使樗里子以车百乘入周，周以 仇犹、蔡观焉，故使长戟居前，彊弩在後，名曰卫疾， 而实囚之。且夫周岂能无忧其社稷哉？恐一旦亡国以忧大 王。”</C>
+					<V>Du Đằng vì Chu nói với Sở vương: “Trí bá đánh Cừu Do, tặng Cừu Do xe lớn, nhân đó đem quân đuổi theo, Cừu Do bèn bị diệt. Vì sao? Vì khiến Cừu Do không có phòng bị vậy. Tề Hoàn công đánh đất Thái, hô hào là diệt Sở, kỳ thực đánh úp Sái. Nay Tần là nước hổ lang, sai Sư Lý tử đem trăm cỗ xe vào Chu, Chu lấy chuyện Cừu Do và đất Sài ra suy xét, cho nên sai kích dài phía trước, nỏ mạnh đằng sau, danh nghĩa bảo vệ Tật, kỳ thực bắt bỏ tù. Vả nhà Chu há không lo lắng cho xã tắc ư? Chỉ e một sớm mất nước sẽ khiến đại vương lo lắng.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.014">
+					<C>秦武王卒，昭王立，樗里子又益尊重。</C>
+					<V>Tần Vũ vương chết, Chiêu vương lên ngôi, Sư Lý tử càng được trọng dụng.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.015">
+					<C>昭王元年，樗里子将伐蒲。</C>
+					<V>Chiêu vương năm đầu, Sư Lý tử cầm quân đánh đất Bồ.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.016">
+					<C>胡衍为蒲谓樗里子曰：“公之攻蒲， 为秦乎？为魏乎？为魏则善矣，为秦则不为赖矣。夫 卫之所以为卫者，以蒲也。今伐蒲入於魏，卫 必折而从之。 魏亡西河之外而无以取者，兵弱也。今并卫 於魏，魏必彊。魏彊之日，西河之外必危矣。且秦王将观公之事，害 秦而利魏，王必罪公。”</C>
+					<V>Hồ Diễn vì Bồ nói với Sư Lý tử: “Ngài đánh đất Bồ, là vì Tần hay vì Ngụy? Vì Ngụy thì tốt rồi, vì Tần thì không đáng trông cậy đâu. Xét lẽ, nước Vệ sở dĩ tồn tại là nhà đất Bồ. Nay ngài đánh đất Bồ rồi vào Ngụy, nước Vệ ắt cũng nhún mình mà theo. Ngụy mất vùng phía ngoài Tây Hà mà không lấy lại được, tất quân yếu. Nay gộp Vệ và Ngụy, Ngụy sẽ mạnh lên. Khi Ngụy mạnh lên, vùng phía ngoài Tây Hà ắt nguy. Và Tần vương sẽ xem việc ngài làm, hại cho Tần lợi cho Ngụy, Tần vương ắt bắt tội ngài.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.017">
+					<C>樗里子曰：“柰何？”</C>
+					<V>Sư Lý tử nói: “Phải làm thế nào?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.018">
+					<C>胡衍曰：“公释蒲勿 攻，臣试为公入言之，以德卫君。”</C>
+					<V>Hồ Diễn đáp: “Ngài giải vây đất Bồ, chớ có tấn công, tôi xin vì ngài vào nói với họ, tạo ân đức cho vua Vệ.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.019">
+					<C>樗里子曰：“善。”</C>
+					<V>Sư Lý tử nói: “Được.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.020">
+					<C>胡衍入蒲， 谓其守曰：“樗里子知蒲之病矣，其言曰必拔蒲。衍能令释蒲勿 攻。”</C>
+					<V>Hồ Diễn vào đất Bồ, nói với tướng giữ đất ấy: “Sư Lý tử biết đất Bồ đã suy yếu, ông ta nói nhất định hạ đất Bồ. Diễn này có thể khiến họ giải vây không đánh.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.021">
+					<C>蒲守恐，因再拜曰：“原以请。”</C>
+					<V>Tướng giữ đất Bồ sợ, nhân đó vái hai vái, nói: “Xin theo lời ngài.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.022">
+					<C>因效金三百斤，曰：“秦兵 苟退，请必言子於卫君，使子为南面。”</C>
+					<V>Nhân đó dâng ba trăm cân vàng, nói: “Nếu quân Tần rút, xin báo công của ngài với vua Vệ, khiến ngài làm quan khanh.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.023">
+					<C>昭王七年，樗里子卒，葬于渭南章台之东。</C>
+					<V>Chiêu vương năm thứ bảy, Sư Lý tử chết, táng ở phía đông Chương Đài, phía nam sông Vị.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.024">
+					<C>曰：“後百岁，是当有天子之宫夹我墓。”</C>
+					<V>[Sư Lý tử] từng nói: “Trăm năm sau, chỗ này sẽ có thiên tử lập cung ngay cạnh.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.025">
+					<C>樗里子疾室在於 昭王庙西渭南阴乡樗里，故俗谓之樗里子。</C>
+					<V>Sư Lý tử là Tật, nhà ở làng Sư, hương Âm, phía nam sông Vị, phía tây miếu Chiêu vương, cho nên tục gọi là Sư Lý tử.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.026">
+					<C>秦人谚 曰：“力则任鄙，智则樗里。”</C>
+					<V>Người Tần có ngạn ngữ rằng: “Sức thì Nhậm Bỉ, trí thì Sư Lý.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.027">
+					<C>甘茂者，下蔡人也。 事下蔡史举先生，学 百家之术。</C>
+					<V>Cam Mậu Cam Mậu người Hạ Thái, thờ Sử Cử tiên sinh ở Hạ Thái, theo học thuyết bách gia.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.028">
+					<C>因张仪、樗里子而求见秦惠王。</C>
+					<V>Nhờ Trương Nghi, Sư Lý tử để cầu kiến Tần Huệ vương.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.029">
+					<C>王见而说之，使将，而佐 魏章略定汉中地。</C>
+					<V>Huệ vương vừa gặp liền thích, sai làm võ tướng, rồi giúp Ngụy Chương bình định đất Hán Trung.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.030">
+					<C>惠王卒，武王立。</C>
+					<V>Huệ vương chết, Vũ vương lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.031">
+					<C>张仪、魏章去，东之魏。</C>
+					<V>Trương Nghi và Ngụy Chương bỏ đi, sang Ngụy ở phía đông.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.032">
+					<C>蜀侯煇、相壮反， 秦使甘茂定蜀。</C>
+					<V>Thục hầu là Huy, Tướng quốc là Tráng làm phản, Tần sai Cam Mậu bình định đất Thục.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.033">
+					<C>还，而以甘茂为左丞相，以樗里子为右丞 相。</C>
+					<V>Trở về, được phong làm Tả thừa tướng, phong Sư Lý tử làm Hữu thừa tưởng.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.034">
+					<C>秦武王三年，谓甘茂曰：“寡人欲容车通三川，以窥周室，而寡 人死不朽矣。”</C>
+					<V>Tần Vũ vương năm thứ ba, Tần Vũ vương nói với Cam Mậu: “Quả nhân muốn mở đường, xe thông đến Tam Xuyên, để thám xét nhà Chu, làm được thế quả nhân dẫu chết cũng bất hủ.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.035">
+					<C>甘茂曰：“请之魏，约以伐韩，而令向寿 辅行。”</C>
+					<V>Cam Mậu nói: “Cho thần đến Ngụy, hẹn họ đánh Hàn, rồi lệnh Hướng Thọ theo giúp.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.036">
+					<C>甘茂至，谓向寿曰：“子归，言之於王曰‘魏听 臣矣，然原王勿伐’。事成，尽以为子功。”</C>
+					<V>Cam Mậu đến, nói với Hướng Thọ: “Ngài về nói với vua rằng: Nước Ngụy đã theo lời tôi, nhưng xin đại vương đừng đánh? Việc thành, thảy đều là công của ngài.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.037">
+					<C>向寿归，以告王，王迎 甘茂於息壤。</C>
+					<V>Hướng Thọ trở về, bảo với Tần vương, vua đón Cam Mậu ở Tức Nhưỡng.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.038">
+					<C>甘茂至，王问其故。</C>
+					<V>Cam Mậu tới, vua hỏi nguyên do.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.039">
+					<C>对曰：“宜阳，大县也，上 党、南阳积之久矣。 名曰县，其实郡也。今王倍数险， 行千里攻之，难。昔曾参之处 费，鲁人有与曾参同姓名者杀人，人告其母曰‘曾参杀 人’，其母织自若也。顷之，一人又告之曰‘曾参杀人’，其母尚织 自若也。顷又一人告之曰‘曾参杀人’，其母投杼下机，逾墙而走。 夫以曾参之贤与其母信之也，三人疑之，其母惧焉。今臣之贤不若曾 参，王之信臣又不如曾参之母信著参也，疑臣者非特三人，臣恐大王 之投杼也。始张仪西并巴蜀之地，北开西河之外，南取上庸，天下不 以多张子而以贤先王。魏文侯令乐羊将而攻中山，三年而拔之。乐羊 返而论功，文侯示之谤书一箧。乐羊再拜稽首曰：‘此非臣之功也， 主君之力也。’今臣，羁旅之臣也。樗里子、公孙奭 二人者挟韩而议之，王必听之，是王欺魏王 而臣受公仲侈之怨也。”</C>
+					<V>Mậu nói: “Nghi Dương là huyện lớn, Thượng Đảng và Nam Dương tích trữ đã lâu. Danh nghĩa là huyện, thực lại là quận. Nay đại vương xiết bao nguy hiểm, đi xa ngàn dặm để đánh, khó lắm! Xưa Tăng Sâm ở đất Phí, người Lỗ có kẻ cùng họ tên Tăng Sâm giết người, có người báo với mẹ Tăng Sâm rằng 'Tăng Sâm giết người'. Bà điềm nhiên ngồi dệt vải. Lát sau, người khác lại báo 'Tăng Sâm giết người'. Bà mẹ vẫn điềm nhiên ngồi dệt. Lại sau đó có người đến báo 'Tăng Sâm giết người'. Mẹ Tăng Sâm ném con thoi, trèo tường mà trốn. Xét lẽ, Tăng Sâm là người hiền, mẹ ông tin tưởng thế, có ba người nghi ngờ, mà mẹ cũng kinh sợ. Nay thần hiển năng không bằng Tăng Sâm, đại vương tin thần chẳng bằng mẹ Tăng Sâm tin Tăng Sâm, người nghi ngờ thần không chỉ có ba, thần sợ đại vương ném con thoi thôi. Trước đây Trương Nghi phía tây thôn tính đất Ba và Thục, phía bắc khai mở vùng ngoài Tây Hà, nam lấy Thượng Dung, thiên hạ không khen Trương Nghi mà cho tiên vương hiền năng. Ngụy Văn hầu sai Lạc Dương cầm quân đánh Trung Sơn, ba năm thì hạ được. Lạc Dương trở về luận công, Văn hầu đưa cho hòm thư gièm pha. Lạc Dương với hai lần, dập đầu nói: 'Đó không phải công của thần, mà là sức của chúa công.' Nay thần, bề tôi ở đợ. Hai vị Sư Lý tử và Công Tôn Thích cậy Hàn nên bàn nghị điều gì, đại vương ắt nghe theo, là đại vương dối Ngụy vương còn thần bị Công Trọng Xỉ oán vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.040">
+					<C>王曰：“寡人 不听也，请与子盟。”</C>
+					<V>Tần vương nói: “Quả nhân không nghe họ đâu, xin lập ước thề với ông.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.041">
+					<C>卒使丞相甘茂将兵伐宜阳。</C>
+					<V>Sau sai Thừa tướng Cam Mậu cầm quân đánh Nghi Dương.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.042">
+					<C>五月而不拔，樗里 子、公孙奭果争之。</C>
+					<V>Năm tháng không hạ được, Sư Lý tử và Công Tôn Thích quả nhiên tranh nhau.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.043">
+					<C>武王召甘茂，欲罢兵。</C>
+					<V>Vũ vương triệu Cam Mậu về, muốn bãi binh.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.044">
+					<C>甘茂曰：“息壤在 彼。”</C>
+					<V>Cam Mậu nói: “Tức Nhưỡng còn kia.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.045">
+					<C>王曰：“有之。”</C>
+					<V>Vua nói: “Có đó.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.046">
+					<C>因大悉 起兵，使甘茂击之。</C>
+					<V>Nhân đấy dốc hết quân binh, sai Cam Mậu đi đánh.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.047">
+					<C>斩首六万，遂拔宜阳。</C>
+					<V>Chém được sáu vạn thủ cấp, hạ được Nghi Dương.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.048">
+					<C>韩襄王使公仲侈入谢，与 秦平。</C>
+					<V>Hàn Tương vương sai Công Trọng Xỉ vào tạ lỗi, xin hòa với Tần.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.049">
+					<C>武王竟至周，而卒於周。</C>
+					<V>Sau Vũ vương tới Chu, rồi chết ở đó.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.050">
+					<C>其弟立，为昭王。</C>
+					<V>Em lên thay, là Chiêu vương.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.051">
+					<C>王母宣太后，楚女也。</C>
+					<V>Mẹ Chiêu vương là Tuyên thái hậu, người Sở.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.052">
+					<C>楚怀王怨前秦败楚於丹阳而 韩不救，乃以兵围韩雍氏。</C>
+					<V>Sở Hoài vương oán vì trước đây Tần đánh bại Sở ở Đan Dương mà Hàn không cứu viện, bèn mang quân bao vây đất Ung Thị của Hàn.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.053">
+					<C>韩使 公仲侈告急於秦。</C>
+					<V>Hàn sai Công Trọng Xỉ cáo cấp với Tần.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.054">
+					<C>秦昭王新立，太后楚人，不肯救。</C>
+					<V>Tần Chiêu vương mới lên ngôi, Thái hậu là người Sở, nên không cứu.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.055">
+					<C>公仲因甘茂，茂 为韩言於秦昭王曰：“公仲方有得秦救，故敢扞楚也。今雍氏围，秦 师不下殽，公仲且仰首而不朝，公叔且以国南合於楚。楚、韩为一， 魏氏不敢不听，然则伐秦之形成矣。不识坐而待伐孰与伐人之 利？”</C>
+					<V>Công Trọng nhờ Cam Mậu, Cam Mậu vì Hàn nên nói với Tần Chiêu vương: “Công Trọng cho là sẽ được nước Tần cứu mới dám chống Sở. Nay Ung Thị bị bao vây, quân Tần không xuống đất Hào, Công Trọng đang ngẩng đầu mà không vào chầu, Công Thúc sẽ đem phía nam đất nước liên hợp với Sở. Sở và Hàn hợp nhất, Ngụy không dám không nghe, theo đó cái thế đánh Tần đã hình thành. Không biết ngồi đợi bị đánh với việc đem quân đi đánh, đằng nào lợi hơn?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.056">
+					<C>秦王曰：“善。”</C>
+					<V>Tần vương đáp: “Phải.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.057">
+					<C>楚兵去。</C>
+					<V>Quân Sở rút lui.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.058">
+					<C>秦使向寿平宜阳，而使樗里子、甘茂伐魏皮氏。</C>
+					<V>Tần sai Hướng Thọ bình định Nghi Dương, rồi sai Sư Lý tử và Cam Mậu đánh Bì Thị nước Ngụy.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.059">
+					<C>向寿者，宣太后 外族也，而与昭王少相长，故任用。</C>
+					<V>Hướng Thọ có quan hệ đằng ngoại với Tuyên thái hậu, lớn lên cùng Chiêu vương, nên được trọng dụng.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.060">
+					<C>向寿为秦守宜阳，将以 伐韩。</C>
+					<V>Hướng Thọ vì Tần giữ đất Nghi Dương, định đánh nước Hàn.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.061">
+					<C>韩公仲使苏代谓向寿曰：“禽困覆车。 公破韩，辱公仲，公仲收国复事秦，自以为必可以 封。今公与楚解口地， 封小令尹以杜阳。 秦楚合，复攻韩，韩必 亡。韩亡，公仲且躬率其私徒以阏於秦。 原公孰虑之也。”</C>
+					<V>Công Trọng nước Hàn sai Tô Đại nói với Hướng Thọ: “Cầm thú nguy khốn làm lật úp xe. Ngài phá nước Hàn, làm nhục Công Trọng, Công Trọng nắm quốc sự sẽ lại thờ Tần, tự cho ắt được gia phong. Nay ngài dâng đất Giải Khẩu cho Sở, lấy đất Đỗ Dương phong cho tên Lệnh doãn nhỏ. Tần và Sở liên hợp, lại đánh Hàn, Hàn ắt mất. Hàn mất, Công Trọng sẽ thống suất người của mình để chống Tần. Xin ngài nghĩ cho kỹ.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.062">
+					<C>向寿曰：“吾合秦楚 非以当韩也，子为寿谒之公仲， 曰秦韩之交可合也。”</C>
+					<V>Hướng Thọ nói: “Ta liên hợp Tần, Sở không phải để chống Hàn, ngài vì Thọ này yết kiến Công Trọng, nói: Tần, Hàn có thể liên hợp.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.063">
+					<C>苏代对曰：“原有谒 於公。 人曰贵其所以贵者贵。王之爱习公也，不如公孙奭；其智能公也，不 如甘茂。今二人者皆不得亲於秦事，而公独与王主断於国者何？彼有 以失之也。 公孙奭党於韩，而甘茂 党於魏，故王不信也。今秦楚争彊而公党於楚，是与公孙奭、甘茂同 道也，公何以异之？ 人皆言楚之善变也，而公必亡之，是自为责 也。公不如与王 谋其变也，善韩以备楚，如 此则无患矣。韩氏必先以国从公孙奭而後委国於甘茂。韩，公之雠 也。今公言善韩以备楚，是外 举不僻雠也。”</C>
+					<V>Tô Đại đáp: “Xin được thưa với ngài, người ta nói: quý cái mình cho là quý mới thực là quý. Tần vương tin yêu ngài, không bằng Công Tôn Thích; trí tuệ của ngài, không bằng Cam Mậu. Nay hai người này đều không đích thân nắm chính sự Tần, còn riêng ngài được chúa thượng cho quyết việc nước, sao vậy? Vì họ đều không được tín nhiệm. Công Tôn Thích kết đảng với Hàn, Cam Mậu kết đảng với Ngụy, cho nên đại vương không tin. Nay Tần, Sở tranh cường mà ngài kết đảng với Sở, thế là chung đường với Công Tôn Thích và Cam Mậu, ngài khác gì họ đâu? Người ta đều nói Sở giỏi ứng biến, ngài ắt bại trong tay họ, là trách nhiệm ngài tự gánh. Chi bằng ngài cùng đại vương mưu tính sự ứng biến của Sở, thân Hàn để phòng Sở, như thế thì chẳng lo nữa. Người Hàn ắt trước đem nước theo Công Tôn Thích, sau ủy thác nước cho Cam Mậu, Hàn là cừu địch của ngài. Nay ngài nói thân Hàn để phòng Sở, là làm ngoại giao thì không tránh kẻ thù.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.064">
+					<C>向寿曰：“然，吾甚欲韩合。”</C>
+					<V>Hướng Thọ nói: “Đúng, ta rất muốn liên kết với Hàn.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.065">
+					<C>对曰：“甘茂许公仲 以武遂，反宜阳之民， 今公徒收 之，甚难。”</C>
+					<V>Đáp rằng: “Cam Mậu đồng ý đem đất Vũ Toại cho Công Trọng, đưa dân trở về Nghi Dương, nay ngài nhận lại, việc đó rất khó.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.066">
+					<C>向寿曰：“然则奈何？武遂终不可得也？”</C>
+					<V>Hướng Thọ nói: “Thế phải làm sao? Rốt cuộc không thể được Vũ Toại ư?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.067">
+					<C>对曰：“公 奚不以秦为韩求颍川於楚？ 此韩之寄地也。公求而得之，是 令行於楚而以其地德韩也。公求而不得，是韩楚之怨不解 而交走秦也。秦楚争彊，而公 徐过楚以收韩，此利於秦。”</C>
+					<V>Đáp rằng: “Sao ngài không lấy danh nghĩa Tần xin đất Dĩnh Xuyên ở Sở cho Hàn? Đó là đất mà Hàn gửi vậy. Ngài xin được, là lệnh được thi hành ở Sở rồi dùng đất đó tạo đức với Hàn. Ngài xin không được, oán hận giữa Hàn và Sở không giải, sẽ tranh nhau chạy sang Tần. Tần, Sở tranh cường, còn ngài thong thả qua Sở để thu phục Hàn, đó là lợi cho Tần.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.068">
+					<C>向寿曰：“柰 何？”</C>
+					<V>Hướng Thọ nói: “Phải làm sao?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.069">
+					<C>对曰：“此善事也。甘茂欲以魏取齐，公孙奭欲以韩取齐。今 公取宜阳以为功，收楚韩以安之，而诛齐魏之罪， 是以公孙奭、甘茂无事 也。”</C>
+					<V>Đáp rằng: “Đây là việc tốt. Cam Mậu muốn dùng Ngụy để lấy Tề, Công Tôn Thích muốn dùng Hàn để lấy Tề. Nay ngài chiếm Nghi Dương, lấy đó làm công, tiếp nhận Sở, Hàn để vỗ yên họ, rồi xử tội Tề, Ngụy, như thế Công Tôn Thích và Cam Mậu không còn chuyện gì nữa.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.070">
+					<C>甘茂竟言秦昭王，以武遂复归之韩。</C>
+					<V>Rốt cuộc Cam Mậu nói với Tần Chiêu vương, đem đất Vũ Toại trả lại cho Hàn.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.071">
+					<C>茂惧，辍伐魏蒲阪，亡去。</C>
+					<V>Mậu sợ, bỏ việc đánh Bồ Bản của Ngụy mà chạy.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.072">
+					<C>樗里子与魏讲，罢兵。</C>
+					<V>Sư Lý tử và Ngụy giảng hòa, bãi binh.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.073">
+					<C>甘茂之亡秦奔齐，逢苏代。</C>
+					<V>Cam Mậu trốn khỏi Tần chạy sang Tề, gặp Tô Đại.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.074">
+					<C>代为齐使於秦。</C>
+					<V>Đại thay mặt Tề đi sứ sang Tần.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.075">
+					<C>甘茂曰：“臣得罪於 秦，惧而遯逃，无所容迹。臣闻贫人女与富人女会绩，贫人女 曰：‘我无以买烛，而子之烛光幸有馀，子可分我馀光，无损子明而 得一斯便焉。’今臣困而君方使秦而当路矣。茂之妻子在焉，原君以 馀光振之。”</C>
+					<V>Cam Mậu nói: “Thần đắc tội với Tần, sợ nên bỏ trốn, không chỗ nương thân. Thần từng nghe cô gái nhà nghèo và cô gái nhà giàu cùng dệt vải, cô nhà nghèo nói: 'Tôi không có tiền mua nến, còn cô, nến thắp sáng có thừa, có thể chia cho tôi ít ánh sáng, như thế cô không mất ánh sáng mà tôi cũng được chút tiện.' Nay thần khốn đốn, còn ngài đương đi sứ Tần lại đang nắm quyền. Vợ con Mậu ở Tần, xin ngài cho chút ánh sáng thừa để cứu vớt.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.076">
+					<C>遂致使於秦。</C>
+					<V>Rồi đi sứ sang Tần.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.077">
+					<C>已，因说秦王曰：“甘茂，非 常士也。其居於秦，累世重矣。自殽塞及 至鬼谷，其地形险易皆明知之。彼以齐约韩 魏反以图秦，非秦之利也。”</C>
+					<V>Việc xong, Đại nhân đó nói với Tần vương: “Cam Mậu là kẻ sĩ phi thường. Ông ta ở Tần, nhiều đời được trọng. Từ Hào Tái đến cửa Quỷ Cốc, địa hình hiểm yếu ra sao đều biết rõ. Ông ta mà lấy danh nghĩa Tề để ước định với Hàn, Ngụy quay lại đánh Tần, việc đó bất lợi cho Tần vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.078">
+					<C>秦王曰：“然则柰何？”</C>
+					<V>Tần vương nói: “Thế phải làm sao?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.079">
+					<C>苏代曰：“王 不若重其贽，厚其禄以迎之，使彼来则置之鬼谷， 终身勿出。”</C>
+					<V>Tô Đại đáp: “Chẳng bằng đại vương hãy dùng lễ trọng, trao lộc hậu để nghênh đón, ông ta về rồi, an trí ở Quỷ Cốc, suốt đời không rời khỏi.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.080">
+					<C>秦 王曰：“善。”</C>
+					<V>Tần vương nói: “Phải.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.081">
+					<C>即赐之上卿，以相印迎之於齐。</C>
+					<V>Bèn cho Cam Mậu làm thượng khanh, đem ấn Tướng quốc sang Tề nghênh đón.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.082">
+					<C>甘茂不往。</C>
+					<V>Cam Mậu không đi.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.083">
+					<C>苏代谓齐 湣王曰：“夫甘茂，贤人也。今秦赐之上卿，以相印迎之。甘茂德王 之赐，好为王臣，故辞而不往。今王何以礼之？”</C>
+					<V>Tô Đại nói với Tề Mẫn vương: “Ôi, Cam Mậu là người hiền. Nay Tần ban chức thượng khanh, dùng ấn Tướng quốc đón về. Cam Mậu cảm đức đại vương ban tặng, muốn làm bề tôi đại vương, cho nên từ chối không về, sao đại vương không dùng lễ đối đãi?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.084">
+					<C>齐王 曰：“善。”</C>
+					<V>Tề vương nói: “Phải.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.085">
+					<C>秦因复甘茂之 家以市於齐。</C>
+					<V>Tần nhân đó khôi phục gia tộc Cam Mậu, ganh đua với Tề.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.086">
+					<C>齐使甘茂於楚，楚怀王新与秦合婚而驩。</C>
+					<V>Tề sai Cam Mậu đi sứ nước Sở, Sở Hoài vương mới thông hôn với Tần nên rất vui.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.087">
+					<C>而秦闻甘茂在楚，使人谓楚王曰：“原送甘茂於 秦。”</C>
+					<V>Nhưng Tần nghe tin Cam Mậu tới Sở, bèn sai người nói với Sở vương: “Xin hãy đưa Cam Mậu về Tần.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.088">
+					<C>楚王问於范蜎 曰：“寡人欲置 相於秦，孰可？”</C>
+					<V>Sở vương hỏi Phạm Quyên: “Quả nhân muốn đặt chức Thừa tướng Tần, ai đảm đương được?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.089">
+					<C>对曰：“臣不足以识之。”</C>
+					<V>Phạm Quyên đáp: “Thần không đủ khả năng để biết ai được.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.090">
+					<C>楚王曰：“寡人欲相甘 茂，可乎？”</C>
+					<V>Sở vương nói: “Quả nhân muốn phong Cam Mậu, được chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.091">
+					<C>对曰：“不可。夫史举，下蔡之监门也，大不为事君， 小不为家室，以苟贱不廉闻於世，甘茂事之顺焉。故惠王之明，武王 之察，张仪之辩，而甘茂事之，取十官而无罪。茂诚贤者也，然不可 相於秦。夫秦之有贤相，非楚国之利也。，且王前尝用召滑於越， 而内行章义之难， 越国乱，故楚南塞厉门 而郡江东。计 王之功所以能如此者，越国乱而楚治也。今王知用诸越而忘用诸秦， 臣以王为钜过矣。然则王若欲置相於秦，则莫若向寿者可。夫向寿之 於秦王，亲也，少与之同衣，长与之同车，以听事。王必相向寿於 秦，则楚国之利也。”</C>
+					<V>Đáp rằng: “Không được. Xét lẽ, bọn gác cổng như Sử Cử, Hạ Thái, chuyện lớn không đủ thờ đại vương, chuyện nhỏ không đủ giúp gia đình, kẻ cẩu thả ti tiện không thể có tiếng liêm khiết ở đời, Cam Mậu lại đối đãi rất cung thuận. Cho nên Huệ vương trí sáng suốt, Vũ vương giỏi xét đoán, Trương Nghi tài biện bác, Cam Mậu phụng sự họ, làm mười chức quan mà không hề phạm lỗi. Mậu thực hiền năng, nhưng không thể làm Thừa tướng nước Tần. Bởi Tần có tướng hiền, bất lợi cho Sở. Và trước đây đại vương từng dùng Triệu Hoạt nước Việt, Hoạt ngầm gây họa Chương Nghĩa, khiến Việt rối loạn, cho nên Sở phía nam vây khốn Lệ Môn, biến Giang Đông thành quận ấp. Xét công của đại vương chính là Việt loạn thì Sở yên vậy. Nay đại vương biết dùng người ở Việt mà quên việc dùng người ở Tần, thần cho là sai lầm của đại vương vậy. Nếu đại vương muốn đặt chức Thừa tướng ở Tần, không ai bằng Hướng Thọ. Bởi Hướng Thọ là chỗ thân thích với Tần vương, lúc nhỏ mặc chung áo, lớn lên ngồi chung xe, được nghe bàn chính sự. Đại vương phải để Hướng Thọ làm Thừa tướng nước Tần, mới có lợi cho Sở.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.092">
+					<C>於是使使请秦相向寿於秦。</C>
+					<V>Thế là Sở phái sứ sang đề nghị Tần cho Hướng Thọ làm Thừa tướng.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.093">
+					<C>而甘 茂竟不得复入秦，卒於魏。</C>
+					<V>Còn Cam Mậu sau không được về Tần, chết ở Ngụy.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.094">
+					<C>甘茂有孙曰甘罗。</C>
+					<V>Cam Mậu có cháu nội là Cam La.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.095">
+					<C>甘罗者，甘茂孙也。</C>
+					<V>Cam La Cam La, cháu nội Cam Mậu.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.096">
+					<C>茂既死後，甘罗年十二，事秦相文信侯吕不 韦。</C>
+					<V>Sau khi Mậu chết, Cam La mới mười hai tuổi, phụng sự Thừa tướng nước Tần là Văn Tín hầu Lã Bất Vi.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.097">
+					<C>秦始皇帝使刚成君蔡泽於燕，三年而燕王喜使太子丹入质於秦。</C>
+					<V>Tần Thủy hoàng đế sại Cương Thành quân là Sái Trạch sang Yên, ba năm sau, Yên vương là Hỷ sai Thái tử Đan sang Tần làm con tin.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.098">
+					<C>秦使张唐往相燕，欲与燕共伐赵以广河间之地。</C>
+					<V>Tần sai Trương Đường sang làm Thừa tướng nước Yên, muốn cùng Yên đánh Triệu để mở rộng đất Hà Gian.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.099">
+					<C>张唐谓文信侯 曰：“臣尝为秦昭王伐赵，赵怨臣，曰：‘得唐者与百里之地。’今 之燕必经赵，臣不可以行。”</C>
+					<V>Trương Đường nói với Văn Tín hầu: “Tôi từng cùng Tần Chiêu vương đánh Triệu, Triệu oán tôi, nói: 'Ai bắt được Đường thưởng trăm dặm đất'. Nay sang Yên tất phải qua Triệu, tôi không thể đi được.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.100">
+					<C>甘罗 曰：“君侯何不快之甚也？”</C>
+					<V>Cam La hỏi: “Quân hầu sao không vui thế?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.101">
+					<C>甘罗曰：“臣请行之。”</C>
+					<V>Cam La nói: “Tôi xin thuyết phục ông ta.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.102">
+					<C>於是甘罗见张卿曰：“卿之功孰 与武安君？”</C>
+					<V>Thế rồi Cam La yết kiến Trường khanh, hỏi: “Công của ngài so với Vũ An quân, ai hơn?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.103">
+					<C>卿曰：“武安君南挫彊楚，北威燕、赵，战胜攻取，破 城堕邑，不知其数，臣之功不如也。”</C>
+					<V>Trương khanh đáp: “Vũ An quân nam thắng Sở hùng mạnh, bắc ra oai với Yên, Triệu, chiến thắng lập công, phá thành bạt ấp, không biết bao nhiêu, công của ta không bằng được.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.104">
+					<C>甘罗曰：“应侯之 用於秦也，孰与文信侯专？”</C>
+					<V>Cam La hỏi: “Ứng hầu được trọng dụng ở Tần, so với Văn Tín hầu, ai quyền hơn?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.105">
+					<C>甘罗 曰：“卿明知其不如文信侯专与？”</C>
+					<V>Cam La hỏi: “Ngài biết rõ mình không có quyền hành như Văn Tín hầu chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.106">
+					<C>曰：“知之。”</C>
+					<V>Đáp: “Biết chứ.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.107">
+					<C>张唐曰：“请因孺子行。”</C>
+					<V>Trương Đường nói: “Xin theo lời chú bé mà lên đường.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.108">
+					<C>行有日，甘罗谓文信侯曰：“借臣车五乘，请为张唐先报 赵。”</C>
+					<V>[Trương Đường] đi được vài ngày, Cam La nói với Văn Tín hầu: “Cho tôi mượn năm cỗ xe, xin vì Trương Đường đến báo trước cho Triệu.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.109">
+					<C>文信侯乃入言之於始皇曰：“昔甘茂之孙甘罗，年少耳，然名 家之子孙，诸侯皆闻之。今者张唐欲称疾不肯行，甘罗说而行之。今 原先报赵，请许遣之。”</C>
+					<V>Văn Tín hầu bèn vào cung nói với Thủy hoàng: “Cháu nội Cam Mậu là Cam La tuổi còn nhỏ, nhưng là con cháu danh gia, chư hầu đều biết tiếng. Nay Trương Đường muốn thác bệnh không chịu đi, Cam La đã thuyết phục ông ta lên đường. Nay [Cam La] xin đi báo trước cho Triệu, hãy phái y đi.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.110">
+					<C>赵襄王郊迎甘罗。</C>
+					<V>Triệu Tương vương ra ngoài thành đón Cam La.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.111">
+					<C>甘罗说赵王曰：“王闻燕太子丹入质秦欤？”</C>
+					<V>Cam La nói với Triệu vương: “Đại vương nghe việc Thái tử Đan nước Yên sang Tần làm con tin chưa?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.112">
+					<C>曰：“闻 之。”</C>
+					<V>Đáp: “Nghe rồi.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.113">
+					<C>曰：“闻张唐相燕欤？”</C>
+					<V>Hỏi: “Nghe Trương Đường sang làm Thừa tướng nước Yên chưa?”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.114">
+					<C>曰：“闻之。”</C>
+					<V>Đáp: “Nghe rồi.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.115">
+					<C>“燕太子丹入秦者， 燕不欺秦也。张唐相燕者，秦不欺燕也。燕、秦不相欺者，伐赵，危 矣。燕、秦不相欺无异故，欲攻赵而广河间。王不如赍臣五城 以广河间，请归燕太子，与彊 赵攻弱燕。”</C>
+					<V>Cam La nói: “Việc Thái tử Đan nước Yên sang Tần, là Yên không dối Tần vậy. Việc Trương Đường sang làm Thừa tướng nước Yên, là Tần không dối Yên vậy. Việc Yên và Tần không dối nhau, cùng đánh Triệu, nguy đấy. Yên và Tần không dối nhau chẳng có nguyên do nào khác, muốn đánh Triệu để mở rộng vùng Hà Gian. Chẳng bằng đại vương ban cho thần năm thành để mở rộng vùng Hà Gian, cho Thái tử nước Yên trở về, cùng Triệu mạnh tấn công Yên yếu.”</V>
+				</STC>
+				<STC ID="HCS_001.071.001.116">
+					<C>赵王立自割五城以广河间。</C>
+					<V>Triệu vương lập tức cắt năm thành để mở rộng vùng Hà Gian.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.117">
+					<C>秦归燕太子。</C>
+					<V>Tần trả Thái tử nước Yên về nước.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.118">
+					<C>赵攻燕，得上 谷三十城， 令秦有十一。</C>
+					<V>Triệu tấn công Yên, chiếm được ba mươi thành ở Thượng Cốc, Tần được mười một thành.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.119">
+					<C>甘罗还报秦，乃封甘罗以为上卿，复以始甘茂田宅赐之。</C>
+					<V>Cam La về báo với Tần, Tần vương phong Cam La làm thượng khanh, lại đem điền trạch của Cam Mậu trước kia ban cho.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.120">
+					<C>太史公曰：樗里子以骨肉重，固其理，而秦人称其智，故颇采 焉。</C>
+					<V>Thái sử công bàn rằng: Sư Lý tử vì cốt nhục được trọng dụng, vốn là lẽ thường, được người Tần khen là trí, cho nên tôi chọn ghi nhiều.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.121">
+					<C>甘茂起下蔡闾阎，显名诸侯，重彊齐楚。</C>
+					<V>Cam Mậu dấy lên nơi xóm làng ở đất Hạ Thái, nổi danh chư hầu, được Tề, Sở mạnh coi trọng.</V>
+				</STC>
+				<STC ID="HCS_001.071.001.122">
+					<C>方秦之 彊时，天下尤趋谋诈哉 严君名疾，厥号“智囊”。 既亲且重，称兵外攘。 甘茂 并相，初佐魏章。 始推向寿，乃攻宜阳。</C>
+					<V>Đương khi Tần hùng mạnh, thiên hạ càng đổ xô tính mưu gian trá vậy.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.071.002">
+				<STC ID="HCS_001.071.002.001">
+					<C>蒲 守恐，请胡衍。</C>
+					<V>Bồ chống giữ trong sợ hãi, bèn cầu cứu Hồ Diễn.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.002">
+					<C>故胡衍受金於蒲以自贵於 卫。 於是遂解蒲而去。</C>
+					<V>Vì thế Hồ Diễn nhận vàng của đất Bồ, còn được hiển quý Vệ. Sau Tần giải vây đất Bồ, rút về.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.003">
+					<C>还击皮氏， 皮氏未降，又去。</C>
+					<V>Rồi trở lại đánh Bì Thị, chưa hạ được Bì Thị, lại rút lui.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.004">
+					<C>至汉兴，长乐宫在其东， 未央宫在其西， 武库正直其墓。</C>
+					<V>Đến thời Hán, cung Trường Lạc ở đông, cung Vị Ương ở tây, kho vũ khí ngay trên mộ Sư Lý tử.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.005">
+					<C>乃下师於殽以救韩。</C>
+					<V>Bèn đem quân xuống đất Hào để cứu Hàn.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.006">
+					<C>向寿如楚， 楚闻秦之贵向寿，而厚事向寿。</C>
+					<V>Hướng Thọ đến Sở, Sở biết Hướng Thọ là quý thích của Tần, đối đãi trong hậu.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.007">
+					<C>向寿、公孙奭争之，不能得。</C>
+					<V>Hướng Thọ và Công Tôn Thích phản đối, cho là không được.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.008">
+					<C>向寿、公孙奭由此怨，谗甘茂。</C>
+					<V>Vì thế Hướng Thọ và Công Tôn Thích oán ghét, gièm pha Cam Mậu.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.009">
+					<C>文信侯不快，未有以彊也。</C>
+					<V>Văn Tín hầu không vui, cũng không ép buộc.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.010">
+					<C>文信侯曰：“吾令刚成君蔡泽事燕三 年，燕太子丹已入质矣，吾自请张卿相燕而 不肯行。”</C>
+					<V>Văn Tín hầu đáp: “Ta sai Cương Thành quân Thái Trạch sang Yên ba năm, Thái tử Đan nước Yên đã sang làm con tin, ta đích thân yêu cầu Trương khanh sang làm Thừa tướng nước Yên nhưng ông ta không đi.”</V>
+				</STC>
+				<STC ID="HCS_001.071.002.011">
+					<C>文信侯叱曰：“去！我身自请之 而不肯，女焉能行之？”</C>
+					<V>Văn Tín hầu mắng: “Cút! Chính ta yêu cầu ông ta còn không chịu, ngươi sao khiến ông ta đi được?”</V>
+				</STC>
+				<STC ID="HCS_001.071.002.012">
+					<C>甘罗曰：“大项橐 生七岁为孔子师。今臣生十二 岁於兹矣，君其试臣，何遽叱乎？”</C>
+					<V>Cam La nói: “Hạng Thác mới bảy tuổi đã làm thầy Khổng tử. Nay tôi mười hai tuổi rồi, ngài để tôi thử, sao lại vội quát tháo thế?”</V>
+				</STC>
+				<STC ID="HCS_001.071.002.013">
+					<C>张卿曰：“应侯不如文信侯专。”</C>
+					<V>Trương khanh đáp: “Ứng hầu không có quyền hành bằng Văn Tín hầu.”</V>
+				</STC>
+				<STC ID="HCS_001.071.002.014">
+					<C>甘罗曰：“应侯 欲攻赵，武安君难之，去咸阳七里而立死於杜邮。今文信侯自请卿相 燕而不肯行，臣不知卿所死处矣。”</C>
+					<V>Cam La nói: “Ứng hầu muốn đánh Triệu, Vũ An quân cho là khó, rời Hàm Dương bảy dặm đã chết ở Đỗ Bưu. Nay đích thân Văn Tín hầu yêu cầu ngài sang làm Thừa tướng nước Yên, ngài không chịu đi, tôi không biết ngài sẽ chết ở chỗ nào vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.071.002.015">
+					<C>始皇召见，使甘罗於赵。</C>
+					<V>Thủy hoàng triệu kiến, sai Cam La đến Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.016">
+					<C>甘罗年少，然 出一奇计，声称後世。</C>
+					<V>Cam La tuổi nhỏ, nhưng đưa ra một kế lạ, được đời sau khen ngợi.</V>
+				</STC>
+				<STC ID="HCS_001.071.002.017">
+					<C>虽非笃行之君子，然亦战国之策士也。</C>
+					<V>Tuy không phải bậc quân tử đức hạnh thuần chính, nhưng cũng là mưu sĩ thời Chiến quốc.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.071.003">
+				<STC ID="HCS_001.071.003.001">
+					<C>苏代许诺。</C>
+					<V>Tô Đại đồng ý.</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.035">
+			<PAGE ID="HCS_001.035.001">
+				<STC ID="HCS_001.035.001.001">
+					<C>管叔鲜、 蔡叔度者，周文王子而武王弟也。</C>
+					<V>Quản Thúc Tiên, Sái Thúc Độ là con của Chu Văn vương, em của Vũ vương.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.002">
+					<C>武王同母兄弟十 人。</C>
+					<V>Anh em cùng mẹ với Vũ vương có mười người.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.003">
+					<C>母曰太姒， 文 王正妃也。</C>
+					<V>Mẹ là Thái Tự, chính phi của Văn vương.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.004">
+					<C>其长子曰伯邑考，次曰武王发，次曰管叔鲜，次曰周公 旦，次曰蔡叔度，次曰曹叔振铎，次曰成叔武， 次曰霍叔处， 次曰康叔封， 次曰厓季载。</C>
+					<V>Con trưởng [của Thái Tự và Văn vương] là Bá Ấp Khảo, rồi đến Vũ vương Phát, Quản thúc Tiên, Chu công Đán, Sái Thúc Độ, Tào Thúc Chấn Đạc, Thành Thúc Vũ, Hoắc Thúc Xử, Khang thúc Phong, Nhiễm Quý Tải.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.005">
+					<C>同母昆弟十人， 唯发、旦贤，左右辅文王， 故文王舍伯邑考而以发为太子。</C>
+					<V>Anh em cùng mẹ mười người, nhưng chỉ có Phát và Đán là hiền năng, làm tả hữu phụ bật cho Văn vương, cho nên Văn vương bỏ Bá Ấp Khảo mà lấy Phát làm Thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.006">
+					<C>及文王崩而发立，是为武 王。</C>
+					<V>Đến khi Văn vương băng hà thì Phát lên ngôi, đó là Vũ vương.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.007">
+					<C>伯邑考既已前卒矣。</C>
+					<V>Bá Ấp Khảo đã chết từ trước đó.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.008">
+					<C>武王已克殷纣，平天下，封功臣昆弟。</C>
+					<V>Sau khi Vũ vương đánh thắng vua Trụ nhà Ân, bình định thiên hạ, phân phong cho bề tôi có công và các em.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.009">
+					<C>於是封叔鲜於管， 封叔度於蔡：二 人相纣子武庚禄父，治殷遗民。</C>
+					<V>Thế rồi phong cho Thúc Tiên đất Quản, Thúc Độ đất Sài: hai người phụ tá con trai vua Trụ là Vũ Canh Lộc Phủ, cai trị di dân của nhà Ân.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.010">
+					<C>封叔旦於鲁而相周，为周公。</C>
+					<V>Phong cho Thúc Đán đất Lỗ để phò tá nhà Chu, đó là Chu công.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.011">
+					<C>封叔振 铎於曹，封叔武於成， 封叔处於霍。 康 叔封、厓季载皆少，未得封。</C>
+					<V>Phong cho Thúc Chấn Đạc đất Tào, phong cho Thúc Vũ đất Thành, phong cho Thúc Xử đất Hoắc, Khang thúc Phong và Nhiễm Quý Tải đều còn nhỏ, chưa được phân phong.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.012">
+					<C>武王既崩，成王少，周公旦专王室。</C>
+					<V>Sau khi Vũ vương băng hà, Thành vương còn nhỏ, Chu công Đán nắm đại quyền trong vương thất.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.013">
+					<C>管叔、蔡叔疑周公之为不利 於成王，乃挟武庚以作乱。</C>
+					<V>Quản thúc, Sái thúc ngờ Chu công sẽ làm những việc gây bất lợi cho Thành vương, bèn xúi Vũ Canh làm loạn.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.014">
+					<C>周公旦承成王命伐诛武庚，杀管叔，而放 蔡叔，迁之，与车十乘，徒七十人从。</C>
+					<V>Chu công Đán thừa lệnh Thành vương thảo phạt Vũ Canh, giết Quản thúc, rồi lưu đày Sái thúc, lúc đày đi cho mười cỗ xe, bảy mươi tùy tòng.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.015">
+					<C>而分殷馀民为二：其一封微子 启於宋，以续殷祀；其一封康叔为卫君，是为卫康叔。</C>
+					<V>Rồi chia số dân còn lại của nhà Ân thành hai: thứ nhất, phân phong cho Vi tử Khải đất Tống, để kế tục tế tự nhà Ân; thứ hai, phong cho Khang thúc làm Vệ quân, đó là Vệ Khang thúc.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.016">
+					<C>厓季、康叔皆有驯行，於是周公举康叔为 周司寇，厓季为周司空，以佐成王治，皆有令 名於天下。</C>
+					<V>Nhiễm Quý và Khang thúc đều có đức hạnh thuần chính, vì thế Chu công cất nhắc Khang thúc làm Tư khấu cho nhà Chu, Nhiễm Quý làm Tư không cho nhà Chu, đặng phò tá Thành vương cai trị, đều có danh tiếng tốt đẹp trong thiên hạ.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.017">
+					<C>蔡叔度既迁而死。</C>
+					<V>Sái Thúc Độ bị lưu đày rồi chết.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.018">
+					<C>周公闻之， 而举胡以为鲁卿士， 鲁国治。</C>
+					<V>Chu công biết chuyện, mới cất nhắc Hồ làm khanh sĩ ở nước Lỗ, nước Lỗ [nhờ thế] yên trị.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.019">
+					<C>於是周公言於成王， 复封胡於蔡，以奉蔡叔之祀，是为蔡 仲。</C>
+					<V>Thế rồi Chu công nói với Thành vương, lại phong cho Hồ đất Sái, để phụng thờ tế tự Sái thúc, đó là Sái Trọng.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.020">
+					<C>馀五叔皆就国，无为天子吏 者。</C>
+					<V>Năm người em còn lại đều đến nước phong, không ai làm quan cho thiên tử.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.021">
+					<C>蔡仲卒，子蔡伯荒立。</C>
+					<V>Sái Trọng chết, con là Sái bá Hoang lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.022">
+					<C>蔡伯荒卒，子宫侯立。 宫侯卒，子厉侯 立。</C>
+					<V>Sái bá Hoang chết, con là Cung hầu lên thay. Cung hầu chết, con là Lệ hầu lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.023">
+					<C>厉侯卒，子武侯立。</C>
+					<V>Lệ hầu chết, con là Vũ hầu lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.024">
+					<C>武侯卒，子夷侯立。</C>
+					<V>Vũ hầu chết, con là Di hầu lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.025">
+					<C>夷侯十一年，周宣王即位。</C>
+					<V>Di hầu năm thứ mười một, Chu Tuyên vương lên ngôi.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.026">
+					<C>二十八年，夷侯 卒，子釐侯所事立。</C>
+					<V>Năm thứ hai mươi tám, Di hầu chết, con là Hy hầu Sở Sự lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.027">
+					<C>秦始得列为 诸侯。</C>
+					<V>Nước Tần bắt đầu được liệt vào hàng chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.028">
+					<C>四十八年，釐侯卒，子共侯兴立。</C>
+					<V>Năm thứ bốn mươi tám, Hy hầu chết, con là Cung hầu Hưng lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.029">
+					<C>共侯二年卒，子戴侯立。</C>
+					<V>Cung hầu năm thứ hai thì chết, con là Đái hầu lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.030">
+					<C>戴侯 十年卒，子宣侯措父立。</C>
+					<V>Đái hầu năm thứ mười thì chết, con là Tuyên hầu Thố Phủ lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.031">
+					<C>宣侯二十八年，鲁隐公初立。</C>
+					<V>Tuyên hầu năm thứ hai mươi tám, Lỗ Ẩn công mới lên ngôi.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.032">
+					<C>三十五年，宣侯卒，子桓侯封人 立。</C>
+					<V>Năm thứ ba mươi lăm, Tuyên hầu chết, con là Hoàn hầu Phong Nhân lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.033">
+					<C>二十年，桓侯卒，弟哀侯献舞立。</C>
+					<V>Năm thứ hai mươi, Hoàn hầu chết, em là Ai hầu Hiến Vũ lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.034">
+					<C>息夫人将归，过蔡，蔡侯不敬。</C>
+					<V>Phu nhân của Túc hầu trên đường về, đi qua nước Sái, Sái hầu bất kính.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.035">
+					<C>楚文 王从之，虏蔡哀侯以归。</C>
+					<V>Sở Văn vương nghe theo kế đó, bắt sống được Sái Ai hầu rồi rút về.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.036">
+					<C>凡立二十年卒。</C>
+					<V>Ai hầu trước sau tại vị được hai mươi năm thì qua đời.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.037">
+					<C>蔡人 立其子肸，是为缪侯。</C>
+					<V>Người Sái lập con của Ai hầu là Hật lên thay, đó là Mậu hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.038">
+					<C>缪侯以其女弟为齐桓公夫人。</C>
+					<V>Mậu hầu đem em gái gả cho Tề Hoàn công làm phu nhân.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.039">
+					<C>十八年，齐桓公与蔡女戏船中，夫 人荡舟，桓公止之，不止，公怒，归蔡女而不绝也。</C>
+					<V>Năm thứ mười tám, Tề Hoàn công cùng phu nhân nước Sái đùa chơi trên thuyền, phu nhân làm thuyền tròng trành, Hoàn công ngăn lại, [phu nhân vẫn] không thôi, Hoàn công tức giận, đưa trả về nước Sái nhưng không tuyệt giao.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.040">
+					<C>蔡侯怒，嫁其 弟。</C>
+					<V>Sái hầu giận, gả người em gái ấy cho người khác.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.041">
+					<C>二十九年，缪侯卒， 子庄侯甲午立。</C>
+					<V>Năm thứ hai mươi chín, Mậu hầu chết, con là Trang hầu Giáp Ngọ lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.042">
+					<C>十四年，晋文公败楚於城濮。</C>
+					<V>Năm thứ mười bốn, Tấn Văn công đánh bại quân Sở ở Thành Bộc.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.043">
+					<C>二十年，楚 太子商臣弑其父成王代立。</C>
+					<V>Năm thứ hai mươi, Thái tử nước Sở là Thương Thần giết vua cha là Thành vương rồi lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.044">
+					<C>二十五年，秦穆公卒。</C>
+					<V>Năm thứ hai mươi lăm, Tần Mục công chết.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.045">
+					<C>三十四年，庄侯卒，子文侯申立。</C>
+					<V>Năm thứ ba mươi tư, Trang hầu chết, con là Văn hầu Thân lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.046">
+					<C>文侯十四年，楚庄王伐陈，杀夏徵舒。</C>
+					<V>Văn hầu năm thứ mười bốn, Sở Trang vương thảo phạt nước Trần, giết Hạ Trưng Thư.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.047">
+					<C>二十年，文侯卒，子景侯固立。</C>
+					<V>Năm thứ hai mươi, Văn hầu chết, con là Cảnh hầu Cố lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.048">
+					<C>太子弑景侯而自立，是为灵侯。</C>
+					<V>Thái tử giết Cảnh hầu, tự lập làm vua, đó là Linh hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.049">
+					<C>灵侯二年，楚公子围弑其王郏敖而自立，为灵王。</C>
+					<V>Linh hầu năm thứ hai, công tử nước Sở là Vi giết vua nước mình là Giáp Ngao rồi tự lập làm vua, đó là Linh vương.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.050">
+					<C>十二年，楚灵王以灵侯 弑其父，诱蔡灵侯于申，伏甲饮之，醉而杀之， 刑其士卒七十人。</C>
+					<V>Năm thứ mười hai, Sở Linh vương nhân cơ hội [Sái] Linh hầu giết cha, bèn dụ gái Linh hầu đến đất Thân, cho giáp sĩ mai phục sau đó mời Sái Linh hầu uống rượu, chuốc say rồi giết chết, kế đó giết bảy mươi sĩ tốt của Linh hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.051">
+					<C>令公子弃疾围蔡。</C>
+					<V>Hạ lệnh cho công tử Khí Tật bao vây nước Sái.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.052">
+					<C>十一月，灭蔡，使弃疾为蔡公。</C>
+					<V>Tháng Mười một, [nước Sở] diệt nước Sái, cho Khí Tật làm Sái công.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.053">
+					<C>楚灭蔡三岁，楚公子弃疾弑其君灵王代立，为平王。</C>
+					<V>Ba năm sau khi nước Sở diệt nước Sái, công tử Khí Tật nước Sở giết vua nước mình là Linh vương rồi lên thay, đó là Bình vương.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.054">
+					<C>平王乃求蔡 景侯少子庐，立之，是为平侯。</C>
+					<V>Bình vương liền tìm con út của Sái Cảnh hầu là Lư, rồi đưa Lư lên ngôi, đó là Bình hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.055">
+					<C>楚平王初立，欲亲诸侯，故 复立陈、蔡後。</C>
+					<V>Sở Bình vương mới lên ngôi, muốn kết thân với chư hầu, cho nên khôi phục rồi lập hậu duệ của Trần và Sái.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.056">
+					<C>悼侯 父曰隐太子友。</C>
+					<V>Cha của Điệu hầu là Ẩn Thái tử Hữu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.057">
+					<C>隐太子友者，灵侯之太子，平侯立而杀隐太子，故平 侯卒而隐太子之子东国攻平侯子而代立，是为悼侯。</C>
+					<V>Ẩn Thái tử Hữu là Thái tử của Linh hầu, sau khi Bình hầu lên ngôi liền giết Ẩn Thái tử, cho nên khi Bình hầu chết đi, con của Ẩn Thái tử là Đông Quốc mới tấn công con của Bình hầu để lên thay, đó là Điệu hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.058">
+					<C>昭侯十年，朝楚昭王，持美裘二，献其一於昭王而自衣其一。</C>
+					<V>Chiêu hầu năm thứ mười, triều kiến Sở Chiêu vương, đem hai chiếc áo cừu đẹp, dâng một chiếc cho Chiêu vương còn một chiếc mình mặc.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.059">
+					<C>楚 相子常欲之，不与。</C>
+					<V>Tướng quốc nước Sở là Tử Thường muốn có chiếc áo đó, [Chiêu hầu] không cho.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.060">
+					<C>蔡侯知之，乃献其裘 於子常；子常受之，乃言归蔡侯。</C>
+					<V>Sái hầu biết việc đó, bèn dâng áo cừu của mình cho Tử Thường; [sau khi] Tử Thường nhận áo, bèn nói [với Sở vương] cho Sái hầu về.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.061">
+					<C>蔡侯归而之晋，请与晋伐楚。</C>
+					<V>Sái hầu về rồi sang nước Tấn, xin được cùng nước Tấn thảo phạt nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.062">
+					<C>蔡侯私於周苌弘以求长於卫； 卫使史䲡言康叔之功德，乃长卫。</C>
+					<V>Sái hầu ngầm xin Đại phu Tranh Hoằng nhà Chu cho [nước Sái] xếp trước nước Vệ; Vệ công sai Sử Ngư nói về công đức của [tổ của nước Vệ là] Khang thúc, nước Vệ liền được xếp trước.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.063">
+					<C>蔡昭侯 使其子为质於吴，以共伐楚。</C>
+					<V>Sái Chiêu hầu sai con trai mình sang nước Ngô làm con tin, để cùng nhau thảo phạt nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.064">
+					<C>蔡怨子常，子常恐，奔郑。</C>
+					<V>Nước Sái oán Tử Thường, Tử Thường sợ, bèn chạy sang nước Trịnh.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.065">
+					<C>十六 年，楚令尹为其民泣以谋蔡，蔡昭侯惧。</C>
+					<V>Năm thứ mười sáu, Lệnh doãn nước Sở vì dân khóc lóc [thỉnh cầu Sở vương] để mưu tính báo phục nước Sái, Sái Chiêu hầu sợ.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.066">
+					<C>二十六年，孔子如蔡。</C>
+					<V>Năm thứ hai mươi sáu, Khổng tử đến nước Sái.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.067">
+					<C>楚昭 王伐蔡，蔡恐，告急於吴。</C>
+					<V>Sở Chiêu vương thảo phạt nước Sái, nước Sái sợ, cấp báo với nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.068">
+					<C>二十八年，昭侯将朝于吴，大夫恐其复迁，乃令贼利杀昭侯； 已而诛贼利以解过，而立昭侯子朔，是为成 侯。</C>
+					<V>Năm thứ hai mươi tám, Chiêu hầu định vào triều kiến nước Ngô, các đại phu sợ lại bị thiên chuyển, bèn sai đạo tặc là Lợi giết Chiêu hầu; xong việc liền giết Lợi để xóa tội, rồi lập con Chiêu hầu là Sóc lên thay, đó là Thành hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.069">
+					<C>成侯四年，宋灭曹。</C>
+					<V>Thành hầu năm thứ tư, nước Tống diệt nước Tào.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.070">
+					<C>十九年，成侯卒，子声侯产立。 声侯十五年卒，子元侯立。</C>
+					<V>Năm thứ mười chín, Thành hầu chết, con là Thanh hầu Sản lên thay. Thanh hầu năm thứ mười lăm thì chết, con là Nguyên hầu lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.071">
+					<C>伯邑考，其後不知所封。</C>
+					<V>Hậu duệ của Bá Ấp Khảo không biết được phong ở đâu.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.072">
+					<C>武王发，其後为周，有本纪言。</C>
+					<V>Hậu duệ của Vũ vương Cơ Phát là nhà Chu, đã nói ở phần Bản kỷ.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.073">
+					<C>管叔鲜 作乱诛死，无後。</C>
+					<V>Quản thúc Tiên làm loạn bị giết, không có hậu duệ.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.074">
+					<C>周公旦，其後为鲁，有世家言。</C>
+					<V>Hậu duệ của Chu công Cơ Đán là nước Lỗ, đã nói ở phần Thế gia.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.075">
+					<C>蔡叔度，其後为 蔡，有世家言。 曹叔振铎，有後为曹，有世家言。</C>
+					<V>Hậu duệ của Sái Thúc Độ là nước Sái, có nói trong phần Thế gia. Hậu duệ của Tào thúc Chấn Đạc là nước Tào, có nói trong phần Thế gia.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.076">
+					<C>成叔武，其後世无 所见。</C>
+					<V>Hậu duệ của Thành Thúc Vũ không thấy ghi chép lại.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.077">
+					<C>霍叔处，其後晋献公时灭霍。</C>
+					<V>Hậu duệ của Hoắc Thúc Xử là nước Hoắc, [nước Hoắc] bị diệt thời Tấn Hiến công.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.078">
+					<C>康叔封，其後为卫，有世家言。</C>
+					<V>Hậu duệ của Khang thúc Phong là nước Vệ, có nói trong phần Thế gia.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.079">
+					<C>厓季载，其後世无所见。</C>
+					<V>Hậu duệ của Nhiễm Quý Tải không thấy ghi chép lại.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.080">
+					<C>太史公曰：管蔡作乱，无足载者。</C>
+					<V>Thái sử công bàn rằng: Quản, Sái làm loạn, không đáng để chép.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.081">
+					<C>然周武王崩，成王少，天下既 疑，赖同母之弟成叔、厓季之属十人为辅拂，是以诸侯卒宗周，故附 之世家言。</C>
+					<V>Nhưng Chu Vũ vương băng hà, Thành vương còn nhỏ, thiên hạ vốn ngờ, do các em cùng mẹ là Thành thúc, Nhiễm Quý mười người phò tá, nhờ đó chư hầu rốt cuộc suy tôn Chu vương làm tông chủ, cho nên phụ chép vào phần Thế gia.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.082">
+					<C>曹叔振铎者， 周武王 弟也。</C>
+					<V>Tào Thúc Chấn Đạc là em Chu Vũ vương.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.083">
+					<C>武王已克殷纣，封叔振铎於曹。</C>
+					<V>Sau khi Vũ vương diệt vua Trụ nhà Ân, phân phong đất Tào cho Thúc Chấn Đạc.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.084">
+					<C>叔振铎卒，子太伯脾立。 太伯卒，子仲君平立。</C>
+					<V>Thúc Chấn Đạc chết, con là Thái bá Tỳ lên thay. Thái bá chết, con là Trọng quận Bình lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.085">
+					<C>仲君平卒，子宫 伯侯立。 宫伯侯卒，子孝伯云立。</C>
+					<V>Trọng quân Bình chết, con là Cung bá Hầu lên thay. Cung bá Hầu chết, con là Hiếu bá Vân lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.086">
+					<C>孝伯云卒，子夷伯喜立。</C>
+					<V>Hiếu bá Vân chết, con là Di bá Hỷ lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.087">
+					<C>夷伯二十三年，周厉王奔于彘。</C>
+					<V>Di bá năm thứ hai mươi ba, Chu Lệ vương chạy ra đất Trệ.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.088">
+					<C>三十年卒，弟幽伯彊立。</C>
+					<V>[Di bá Hỉ] năm thứ ba mươi thì chết, em là U bá Cường lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.089">
+					<C>幽伯九年，弟苏杀幽伯代立，是为戴 伯。</C>
+					<V>U bá năm thứ chín, em là Tô giết U bá rồi lên thay, đó là Đái bá.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.090">
+					<C>戴伯元年，周宣王已立三岁。</C>
+					<V>Năm Đái bá thứ nhất, Chu Tuyên vương đã lên ngôi được ba năm.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.091">
+					<C>三十年，戴伯卒，子惠伯兕立。</C>
+					<V>Năm thứ ba mươi, Đái bá chết, con là Huệ bá Hủy lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.092">
+					<C>三十六，惠伯卒，子石甫立，其弟武杀之代立，是为缪公。</C>
+					<V>Năm thứ ba mươi sáu, Huệ bá chết, con là Thạch Phủ lên thay, [Thạch Phủ] bị em trai là Vũ giết rồi lên thay, đó là Mục Công.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.093">
+					<C>缪公 三年卒，子桓公终生立。</C>
+					<V>Mục công năm thứ ba thì chết, con là Hoàn công Chung Sinh lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.094">
+					<C>桓公三十五年，鲁隐公立。 四十五年，鲁弑其君隐公。</C>
+					<V>Hoàn công năm thứ ba mươi lăm, Lỗ Ẩn công lên ngôi. Năm thứ bốn mươi lăm, người Lỗ giết vua nước mình là Ẩn công.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.095">
+					<C>四十六 年，宋华父督弑其君殇公，及孔父。</C>
+					<V>Năm thứ bốn mươi sáu, Hoa Phủ Đốc ở nước Tống giết vua nước mình là Thương công và Đại phu Khổng Phủ.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.096">
+					<C>五十五年，桓公卒，子庄公夕姑 立。</C>
+					<V>Năm thứ năm mươi lăm, Hoàn công chết, con là Trang công Diệc Cô lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.097">
+					<C>三十一年，庄公卒，子釐公夷立。</C>
+					<V>Năm thứ ba mươi mốt, Trang công chết, con là Hy công Di lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.098">
+					<C>釐公九年卒，子昭公班立。</C>
+					<V>Hy công năm thứ chín thì chết, con là Chiêu công Ban lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.099">
+					<C>九年，昭公卒，子共公襄立。</C>
+					<V>Năm thứ chín, Chiêu công chết, con là Cung công Tương lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.100">
+					<C>二十五年，晋文公卒。</C>
+					<V>Năm thứ hai mươi lăm, Tấn Văn Công chết.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.101">
+					<C>三十五年，共公卒，子文公寿立。</C>
+					<V>Năm thứ ba mươi lăm, Cung công chết, con là Văn công Thọ lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.102">
+					<C>文公二 十三年卒，子宣公彊立。</C>
+					<V>Văn công năm thứ hai mươi ba thì chết, con là Tuyên công Cường lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.103">
+					<C>宣公十七年卒，弟 成公负刍立。</C>
+					<V>Tuyên công năm thứ mười bảy thì chết, em trai là Thành công Phụ Sô lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.104">
+					<C>成公三年，晋厉公伐曹，虏成公以归，已复释之。</C>
+					<V>Thành công năm thứ ba, Tấn Lệ công thảo phạt nước Tào, bắt sống Thành công đưa về nước Tấn, sau lại thả.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.105">
+					<C>二十三年，成公卒，子武公胜立。</C>
+					<V>Năm thứ hai mươi ba, Thành công chết, con là Vũ công Thắng lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.106">
+					<C>武公二十六年，楚公子弃疾 弑其君灵王代立。 二十七年，武公卒，子平公立。</C>
+					<V>Vũ công năm thứ hai mươi sáu, công tử nước Sở là Khí Tật giết vua nước mình là Linh vương rồi lên thay. Năm thứ hai mươi bảy, Vũ công chết, con là Bình công Tư lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.107">
+					<C>平公四年卒，子悼 公午立。</C>
+					<V>Bình công năm thứ tư thì chết, con là Điệu Công Ngọ lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.108">
+					<C>是岁，宋、卫、陈、郑皆火。</C>
+					<V>Năm đó, các nước Tống, Vệ, Trần, Trịnh đều bị hỏa tai.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.109">
+					<C>悼公八年，宋景公立。</C>
+					<V>Điệu công năm thứ tám, Tống Cảnh công lên ngôi.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.110">
+					<C>九年，悼公朝于宋，宋囚之；曹立其弟 野，是为声公。</C>
+					<V>Năm thứ chín, Điệu công sang triều kiến nước Tống, bị nước Tống cầm tù; nước Tào lập người em [của Điệu công] là Dã, đó là Thanh công.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.111">
+					<C>声公五年，平公弟通弑声公代立，是为隐公。 隐公四年，声公弟露弑隐公代立，是为靖公。</C>
+					<V>Thanh công năm thứ năm, em trai của Bình công là Thông giết Thanh công rồi lên làm vua, đó là Ẩn công. Ẩn công năm thứ tư, em trai của Thanh công là Lộ giết Ẩn công rồi lên thay, đó là Tĩnh công.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.112">
+					<C>靖公四年 卒，子伯阳立。</C>
+					<V>Tĩnh công năm thứ tư thì chết, con trai là Bá Dương lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.113">
+					<C>梦 者之子乃亡去。</C>
+					<V>Con của người nằm mộng nọ bèn trốn khỏi nước Tào.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.114">
+					<C>公孙彊言霸说於曹伯。</C>
+					<V>Công Tôn Cường nói về việc xưng bá để thuyết phục Tào bá.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.115">
+					<C>十四年，曹伯从之，乃背晋干宋。</C>
+					<V>Năm thứ mười bốn, Tào bá nghe theo, bèn quay lưng với nước Tấn, xâm phạm đến nước Tống.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.116">
+					<C>宋景公伐 之，晋人不救。</C>
+					<V>Tống Cảnh công liền thảo phạt nước Tào, người Tấn không cứu viện.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.117">
+					<C>十五年，宋灭曹，执曹伯阳及公孙彊以归而杀之。</C>
+					<V>Năm thứ mười lăm, nước Tống diệt nước Tào, bắt Tào Bá Dương cùng Công Tôn Cường đưa về rồi giết chết.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.118">
+					<C>曹 遂绝其祀。</C>
+					<V>Nước Tào dứt việc tế tự.</V>
+				</STC>
+				<STC ID="HCS_001.035.001.119">
+					<C>太史公曰：余寻曹共公之不用僖负羁，乃乘 轩者三百人， 知唯德之不建。 及振铎之梦，岂不欲引曹之祀者 哉？ 如公孙彊不脩厥政，叔铎之祀忽诸。 武王之弟，管、蔡及霍。</C>
+					<V>Thái sử công bàn rằng: Ta tìm hiểu về việc Tào Cung công không nghe lời can gián của Hy Phụ Ky, cho ba trăm mỹ nữ được ngồi xe mui cao buông màn dành cho đại phu, đủ biết không chuộng việc lập đức.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.035.002">
+				<STC ID="HCS_001.035.002.001">
+					<C>其子曰胡，胡乃改行，率德驯善。</C>
+					<V>Con của Độ là Hồ, Hồ bèn thay tính đổi nết, noi theo đức thành người cung thuận thiện lương.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.002">
+					<C>武侯之时，周厉王失国，奔彘，共和行政， 诸侯多叛周。</C>
+					<V>Thời Vũ hầu, Chu Lệ vương mất nước, chạy đến đất Trệ, thi hành chính sự [theo thể chế] “Cộng hòa”, chư hầu phần nhiều phản lại nhà Chu.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.003">
+					<C>釐侯三十九年，周幽王为犬戎所杀，周室卑而东徙。</C>
+					<V>Hy hầu năm thứ ba mươi chín, Chu U vương bị Khuyển Nhung giết, tông thất nhà Chu suy yếu rồi dời sang phía đông.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.004">
+					<C>桓侯三年，鲁弑其君隐公。</C>
+					<V>Hoàn hầu năm thứ ba, [người] Lỗ giết vua nước mình là Ẩn công.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.005">
+					<C>哀侯十一年，初，哀侯娶陈，息侯亦娶陈。</C>
+					<V>Ai hầu năm thứ mười một, ban trước, Ai hầu lấy vợ nước Trần, Tức hầu cũng lấy vợ nước Trần.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.006">
+					<C>息侯怒，请楚文 王：“来伐我，我求救於蔡，蔡必来，楚因击之，可以有功。”</C>
+					<V>Tức hầu giận, đề nghị Sở Văn vương: “Đến thảo phạt nước tôi, tôi sẽ cầu cứu nước Sái, nước Sái ắt đến, nước Sở nhân đó đánh nước Sái, có thể thu được thắng lợi.”</V>
+				</STC>
+				<STC ID="HCS_001.035.002.007">
+					<C>哀侯留九岁，死於楚。</C>
+					<V>Ai hầu bị lưu lại nước Sở chín năm, rồi chết ở nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.008">
+					<C>齐桓公怒，伐蔡；蔡溃，遂虏缪侯， 南至楚邵陵。</C>
+					<V>Tề Hoàn công tức tối, thảo phạt nước Sái; quân Sái tan, liền bắt Mậu hầu làm tù binh, phía nam tiến đến Thiệu Lăng nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.009">
+					<C>已而诸侯为蔡谢齐，齐侯归蔡侯。</C>
+					<V>Rồi sau, chư hầu giúp nước Sái tạ lỗi với nước Tề, Tề hầu thả Sái hầu về nước.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.010">
+					<C>庄侯三年，齐桓公卒。</C>
+					<V>Trang hầu năm thứ ba, Tề Hoàn công chết.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.011">
+					<C>三十三年，楚庄王 即位。</C>
+					<V>Năm thứ ba mươi ba, Sở Trang vương lên ngôi.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.012">
+					<C>十五年，楚围郑，郑降 楚，楚复醳之。</C>
+					<V>Năm thứ mười lăm, nước Sở bao vây nước Trịnh, nước Trịnh đầu hàng, nước Sở giải vây.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.013">
+					<C>景侯元年，楚庄王卒。</C>
+					<V>Năm Cảnh hầu thứ nhất, Sở Trang vương chết.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.014">
+					<C>四十九年，景侯为太子般娶妇於楚，而景 侯通焉。</C>
+					<V>Năm thứ bốn mươi chín, Cảnh hầu cưới vợ là người con gái nước Sở cho Thái tử Ban, rồi Cảnh hầu tư thông với người con gái ấy.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.015">
+					<C>九年，陈司徒招 弑其君哀公。</C>
+					<V>Năm thứ chín, Tư đồ nước Trần là Chiêu giết vua nước mình là Ai công.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.016">
+					<C>是年，楚亦复立陈。</C>
+					<V>Năm ấy, nước Sở cũng khôi phục lại nước Trần.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.017">
+					<C>平侯九年卒，灵侯般之孙东国攻平侯子而自立，是为悼侯。</C>
+					<V>Bình hầu năm thứ chín thì chết, cháu nội của Linh hầu Ban là Đông Quốc tấn công con trai của Bình hầu rồi tự lên thay, đó là Điệu hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.018">
+					<C>悼侯三年卒，弟 昭侯申立。</C>
+					<V>Điệu hầu năm thứ ba thì chết, em trai là Chiêu hậu Thân lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.019">
+					<C>子常谗蔡侯，留之楚三年。</C>
+					<V>Tử Thường sàm báng Sái hầu, khiến Sái hầu bị giữ lại ở nước Sở ba năm.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.020">
+					<C>十三年春，与卫灵公会邵陵。</C>
+					<V>Mùa xuân năm thứ mười ba, cùng với Vệ Linh công hội minh Thiệu Lăng.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.021">
+					<C>夏，为 晋灭沈，楚怒，攻蔡。</C>
+					<V>Mùa hạ, vì nước Tấn diệt nước Thẩm, Sở vương tức giận, tấn công nước Sái.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.022">
+					<C>十四年，吴去而楚昭王复国。</C>
+					<V>Năm thứ mười bốn, quân Ngô rời khỏi [Dĩnh đô], Sở Chiêu vương về nước.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.023">
+					<C>吴为蔡远，约迁以自近，易以相救；昭侯 私许，不与大夫计。</C>
+					<V>Nước Ngô cho rằng nước Sái xa xôi, bèn giao ước nước Sái chuyển đến gần nước Ngô để tiện bề ứng cứu; Chiêu hầu ngầm đồng ý, không bàn với các đại phu.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.024">
+					<C>吴人来救蔡，因迁蔡于州来。</C>
+					<V>Người Ngô đến cứu nước Sái, nhân đó chuyển đô thành nước Sái đến Châu Lai.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.025">
+					<C>十年，齐田常弑其君简公。</C>
+					<V>Năm thứ mười, Điền Thường nước Tề giết vua nước mình là Giản công.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.026">
+					<C>十三年，楚灭 陈。</C>
+					<V>Năm thứ mười ba, nước Sở diệt nước Trần.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.027">
+					<C>元侯 六年卒，子侯齐立。</C>
+					<V>Nguyên hầu năm thứ sáu thì chết, con là Hầu Tề lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.028">
+					<C>侯齐四年，楚惠王灭蔡，蔡侯齐亡，蔡遂绝祀。</C>
+					<V>Hầu Tề năm thứ tư, Sở Huệ vương diệt nước Sái, Sái hầu Tề chạy trốn, nước Sái bèn dứt việc tế tự.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.029">
+					<C>後陈灭三十三 年。</C>
+					<V>[Nước Sái bị] diệt sau nước Trần ba mươi ba năm.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.030">
+					<C>惠伯二十五年，周幽王为犬戎所杀，因东徙，益卑，诸侯畔之。</C>
+					<V>Huệ bá năm thứ hai mươi lăm, Chu U vương bị Khuyển Nhung giết, nhân đó [nhà Chu] dời sang phía đông, [từ đó] ngày càng suy vi, chư hầu phản lại.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.031">
+					<C>秦始列为诸侯。</C>
+					<V>Nước Tần bắt đầu được liệt vào hàng chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.032">
+					<C>庄公二十三年，齐桓公始霸。</C>
+					<V>Trang công năm thứ hai mươi ba, Tề Hoàn công bắt đầu xưng bá.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.033">
+					<C>昭 公六年，齐桓公败蔡，遂至楚召陵。</C>
+					<V>Chiêu công năm thứ sáu, Tề Hoàn công đánh bại nước Sái, rồi tiến đến Thiệu Lăng nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.034">
+					<C>共公十六年，初，晋公子重耳其亡过曹，曹君无礼，欲观其骈 胁。</C>
+					<V>Cung công năm thứ mười sáu, trước đây, công tử nước Tấn là Trùng Nhĩ lưu vong qua nước Tào, Tào quân vô lễ, muốn xem xương sườn nối liền của Trùng Nhĩ.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.035">
+					<C>釐 负羁谏，不听，私善於重耳。</C>
+					<V>Hy Phụ Ky can ngăn, [Tào quân] không nghe, [Hy Phụ Ky] ngầm giao hảo với Trùng Nhĩ.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.036">
+					<C>二十一年，晋文 公重耳伐曹，虏共公以归，令军毋入釐负羁之宗族闾。</C>
+					<V>Năm thứ hai mươi mốt, Tấn Văn Công Trùng Nhĩ thảo phạt nước Tào, bắt sống Cung công đưa về nước Tấn, sai quân không được xâm phạm làng thuộc tông tộc Hy Phụ Ky.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.037">
+					<C>或说晋文公 曰：“昔齐桓公会诸侯，复异姓；今君囚曹君，灭同姓，何以令於诸 侯？”</C>
+					<V>Có người nói với Tấn Văn công rằng: “Trước đây Tề Hoàn công hội họp chư hầu, khôi phục nước cho người khác họ; nay nhà vua bỏ tù Tào quân, diệt người cùng họ, biết lấy gì để hiệu lệnh chư hầu?”</V>
+				</STC>
+				<STC ID="HCS_001.035.002.038">
+					<C>晋乃复归共公。</C>
+					<V>Tấn Văn công bèn cho Cung công về nước.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.039">
+					<C>五年，晋栾书、中行偃使程滑弑其君 厉公。</C>
+					<V>Năm thứ năm, Loan Thư, Trung Hàng Yển nước Tấn sai Trình Hoạt giết vua nước mình là Lệ công.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.040">
+					<C>悼公死於宋，归葬。</C>
+					<V>Điệu công chết ở nước Tống, được đưa về táng.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.041">
+					<C>伯阳三年，国人有梦众君子立于社宫， 谋欲亡曹；曹叔振铎止之，请待 公孙彊，许之。</C>
+					<V>Bá Dương năm thứ ba, có người trong nước mơ thấy chư vị quân tử đứng ở đàn tế thần xã, bàn mưu muốn diệt nước Tào; Tào Thúc Chấn Đạc ngăn họ lại, đề nghị đợi Công Tôn Cường chấp chính, họ đồng ý.</V>
+				</STC>
+				<STC ID="HCS_001.035.002.042">
+					<C>梦者戒其子曰：“我亡，尔闻 公孙彊为政，必去曹，无离曹祸。”</C>
+					<V>Người nằm mộng mới răn con mình rằng: “Sau khi ta chết, con mà nghe Công Tôn Cường chấp chính, nhất định phải bỏ nước Tào, chớ để mắc vào tai họa của nước Tào.”</V>
+				</STC>
+				<STC ID="HCS_001.035.002.043">
+					<C>六年，曹野人公孙彊亦好田弋，获白雁而献之， 且言田弋之说，因访政事。</C>
+					<V>Năm thứ sáu, một người ở vùng thôn dã nước Tào tên là Công Tôn Cường cũng thích săn bắn, bắt được chim nhạn trắng rồi dâng lên Bá Dương, còn nói về thuyết săn bắn, nhân đó [Bá Dương] hỏi về chính sự.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.035.003">
+				<STC ID="HCS_001.035.003.001">
+					<C>冬，与吴王阖闾遂破楚入 郢。</C>
+					<V>Mùa đông, cùng với Ngô vương Hạp Lư đánh phá nước Sở, tiến vào Dĩnh đô.</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

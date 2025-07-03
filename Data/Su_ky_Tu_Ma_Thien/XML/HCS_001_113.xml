@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.113">
+			<PAGE ID="HCS_001.113.001">
+				<STC ID="HCS_001.113.001.001">
+					<C>南越王尉佗者， 真定人也， 姓赵氏。</C>
+					<V>Nam Việt vương Úy Đà, người Chân Định, họ Triệu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.002">
+					<C>秦时已并天下，略 定杨越， 置桂林、 南海、象郡， 以谪徙民，与越 杂处十三岁。</C>
+					<V>Nhà Tần đã thôn tính được thiên hạ, đánh chiếm bình định Dương Việt, lập ra các quận Quế Lâm, Nam Hải, Tượng Quận, đưa đám lưu dân đến sống chung với dân Việt mười ba năm.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.003">
+					<C>佗，秦时用为南海龙川令。</C>
+					<V>Thời Tần, Đà được làm Huyện lệnh Long Xuyên, quận Nam Hải.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.004">
+					<C>至二 世时，南海尉任嚣病 且死，召龙川令赵佗语曰：“闻陈胜等作乱，秦为无道，天下苦之， 项羽、刘季、陈胜、吴广等州郡各共兴军聚众，虎争天下，中国扰 乱，未知所安，豪杰畔秦相立。南海僻远，吾恐盗兵侵地至此，吾欲 兴兵绝新道，自备，待诸侯变，会病 甚。且番禺负山险，阻南海，东西数千里，颇有中国人相辅，此亦一 州之主也，可以立国。郡中长吏无足与言者，故召公告之。”</C>
+					<V>Đến thời Tần Nhị thế, Quận ủy Nam Hải là Nhâm Hiêu bị bệnh sắp chết, triệu Huyện lệnh Long Xuyên Triệu Đà đến nói: “Nghe nói bọn Trần Thắng làm loạn, nhà Tần vô đạo, thiên hạ khốn khổ, bọn Hạng Vũ, Lưu Quý, Trần Thắng, Ngô Quảng, ai nấy nổi lên tụ họp quần chúng ở các châu quận, như đàn hồ tranh nhau thiên hạ, Trung nguyên náo loạn, không biết chỗ nào yên, hào kiệt phản lại Tần, cùng nhau dựng lập. Nam Hải hẻo lánh xa xôi, ta sợ quân trộm cướp xâm lấn đất đai đến đây, ta muốn dấy quân cắt đứt đường mới, tự phòng bị, đợi chư hầu có biến, lại gặp lúc bệnh nặng. Hơn nữa Phiên Ngung dựa vào núi non hiểm trở, gần Nam Hải, từ đông sang tây mấy nghìn dặm, nếu được người Trung nguyên tương trợ, nơi đây cũng thành bá chủ một châu, có thể dựng nước. Các trưởng lại trong quận không ai đáng tin cậy, cho nên triệu ông đến để nói việc đó.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.005">
+					<C>嚣死，佗即移檄告横浦、 阳山、 湟谿 关 曰：“盗兵且至，急绝道聚兵自守！”</C>
+					<V>Hiêu chết, Đà liền truyền hịch cho các đất Hoành Phố, Dương Sơn, Niết Khê Quán rằng: “Quân trộm cướp sắp kéo đến, hãy kíp chặn đường, tập trung quân để tự phòng giữ!”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.006">
+					<C>因稍以法诛秦所置长吏，以其 党为假守。</C>
+					<V>Nhân đó [Triệu Đà] từng bước dùng pháp luật để giết các trưởng quan do nhà Tần đặt, dùng bè đảng của mình thay làm Quận thú.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.007">
+					<C>秦已破灭，佗即 击并桂林、象郡，自立为南越武王。</C>
+					<V>Tần đã bị đánh rồi diệt vong, Đà liền đánh chiếm Quế Lâm và Tượng Quận, tự lập làm Nam Việt Vũ vương.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.008">
+					<C>高帝已定天下，为中国劳苦，故释佗弗诛。</C>
+					<V>Sau khi Cao đế bình định thiên hạ, do Trung nguyên lao khổ nên bỏ qua không giết Đà.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.009">
+					<C>汉十一年， 遣陆贾因立佗为南越王，与剖符通使，和集百越，毋为南边患害，与 长沙接境。</C>
+					<V>Nhà Hán năm thứ mười một, sai Lục Giả nhân đó lập Đà làm Nam Việt vương, cùng chẻ tín phù để thông sứ, hòa hiếu quy tập người Bách Việt, không để họ trở thành mối nguy cho biên cương phía nam, Nam Việt tiếp liền ranh giới Trường Sa.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.010">
+					<C>高后时，有司请禁南越关市铁器。</C>
+					<V>Thời Cao hậu, quan hữu ty đề nghị cấm Nam Việt buôn bán đồ sắt ở các chợ vùng biên.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.011">
+					<C>佗曰：“高帝立我，通使物， 今高后听谗臣，别异蛮夷，隔绝器物，此必长沙王计也，欲倚中国， 击灭南越而并王之，自为功也。”</C>
+					<V>Triệu Đà nói: “Cao đế lập ta, cùng nhau thông sứ, trao đổi hàng hóa, nay Cao hậu nghe lời gièm của bề tôi, phân biệt man di, ngăn cấm đồ dùng, đó hẳn là kế của Trường Sa vương, muốn dựa Trung nguyên, đánh diệt Nam Việt rồi làm vua cả hai vùng, tự lập công lao vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.012">
+					<C>於是佗乃自尊号为南越武帝，发兵 攻长沙边邑，败数县而去焉。</C>
+					<V>Thế là Đà liền tự tôn hiệu thành Nam Việt Vũ đế, phát binh tấn công các ấp biên giới Trường Sa, phá hủy mấy huyện rồi rút về.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.013">
+					<C>高后遣将军隆虑侯灶 往击之。</C>
+					<V>Cao hậu sai tướng quân Long Lự hầu là Táo mang quân đến đánh.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.014">
+					<C>岁馀，高后崩，即罢兵。</C>
+					<V>Hơn một năm sau, Cao hậu băng hà, liền bãi binh.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.015">
+					<C>佗因 此以兵威边，财物赂遗闽越、西瓯、骆，役属焉， 东西万馀里。</C>
+					<V>Triệu Đà nhân đó đem quân uy hiếp biên giới, đem của cải hối lộ Mân Việt, Tây Âu và đất Lạc, nô dịch rồi khiến họ quy thuộc, từ đông sang tây trải hơn vạn dặm.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.016">
+					<C>诏丞相陈平等举可使南越者，平言好畤陆贾，先帝时习使南 越。</C>
+					<V>Hạ chiếu cho bọn Thừa tướng Trần Bình tiến cử người có thể đi sứ Nam Việt, Bình nói Hiếu Chỉ và Lục Giả thời tiên đế đã quen đi sứ Nam Việt.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.017">
+					<C>乃召贾以为太中大夫，往使。 因让佗自立为帝，曾无一介之使报 者。</C>
+					<V>[Vua] bèn triệu Lục Giả, cho làm Thái trung đại phu, sai đi sứ; nhân đó trách Đà tự lập làm Hoàng đế, không sai sứ giả đến thông báo.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.018">
+					<C>陆贾至南越，王甚恐，为书谢，称曰：“蛮夷大长老夫臣佗，前 日高后隔异南越，窃疑长沙王谗臣，又遥闻高后尽诛佗宗族，掘烧先 人冢，以故自弃，犯长沙边境。且南方卑湿，蛮夷中间，其东闽越千 人众号称王，其西瓯骆裸国亦称 王。老臣妄窃帝号，聊以自娱，岂敢以闻天王哉！”</C>
+					<V>Lục Giả đến Nam Việt, Nam Việt vương rất lo sợ, viết thư tạ tội, nói rằng: “Bề tôi đại trưởng lão phu ở man di là Đà, trước đây Cao hậu ngăn cách phân biệt Nam Việt, trộm ngờ Trường Sa vương gièm pha thần, lại từ xa nghe tin Cao hậu giết hết tông tộc của Đà, khai quật thiêu đốt mồ mả tổ tiên, cho nên bất chấp tất cả, xâm phạm biên giới Trường Sa. Hơn nữa phương nam thấp ẩm, trong cõi man di, Mân Việt ở phía đông, nghìn người xưng vương, Âu Lạc phía tây là nước để trần cũng xưng vương. Lão thần trộm xưng đế hiệu, tạm lấy đó tự làm vui, nào dám đem việc ấy báo với thiên vương!”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.019">
+					<C>於是乃下令国中曰：“吾闻两雄不俱立，两贤不并 世。皇帝，贤天子也。自今以後，去帝制黄屋左纛。”</C>
+					<V>Thế là [Triệu Đà] bèn hạ lệnh trong nước rằng: “Ta nghe, hai bên hùng cường không thể đứng chung, hai người hiền năng không thể ở cùng một đời. Hoàng đế là thiên tử hiền năng. Từ rày về sau, bãi bỏ chế độ xe hoàng ốc cắm cờ bên trái dành cho Hoàng đế.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.020">
+					<C>遂至孝景时，称臣，使人朝请。 然南越其居国窃如故号 名，其使天子，称王朝命如诸侯。</C>
+					<V>Đến thời Hiếu Cảnh đế, [Triệu Đà] xưng thần, sai người vào triều thỉnh mệnh, nhưng Nam Việt ở nước mình vẫn trộm dùng đế hiệu như cũ, sứ giả vào chầu thiên tử, xưng vương như chư hầu khác.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.021">
+					<C>至建元四年卒。</C>
+					<V>Đến năm Kiến Nguyên thứ tư, Triệu Đà chết.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.022">
+					<C>佗孙胡为南越王。</C>
+					<V>Cháu nội Triệu Đà là Triệu Hồ làm Nam Việt vương.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.023">
+					<C>此时闽越王郢兴兵击南越边邑，胡使人上 书曰：“两越俱为籓臣，毋得擅兴兵相攻击。今闽越兴兵侵臣，臣不 敢兴兵，唯天子诏之。”</C>
+					<V>Bấy giờ Mân Việt vương là Dĩnh cất quân tấn công thành ấp ở biên giới Nam Việt, Hồ sai người dâng thư báo lên: “Hai nước Việt đều là phiên thần, không được tự ý dấy binh tấn công nhau. Nay Mân Việt đem binh xâm phạm đất của thần, thần không dám hưng binh, xin thiên tử hạ chiếu lệnh.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.024">
+					<C>於是天子多南越义，守职约，为兴师，遣两 将军往讨闽越。</C>
+					<V>Vì thế Hoàng đế cho Nam Việt biết trọng nghĩa, giữ đúng chức phận, dấy binh giúp họ, sai hai tướng quân đến hỏi tội Mân Việt.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.025">
+					<C>天子使庄助往谕意南越王，胡顿首曰：“天子乃为臣兴兵讨闽 越，死无以报德！”</C>
+					<V>Thiên tử sai Trang Trợ sang tuyên dụ Nam Việt vương, Hồ dập đầu nói: “Thiên tử vì thần, dấy binh hỏi tội Mân Việt, thần dẫu chết cũng không biết lấy gì báo đền ơn đức!”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.026">
+					<C>谓助曰：“国新被寇，使者 行矣。胡方日夜装入见天子。”</C>
+					<V>Triệu Hồ nói với Trợ rằng: “Nước tôi mới bị giặc cướp, sứ giả hãy đi trước đi. Hồ đang ngày đêm chuẩn bị hành trang vào bái kiến thiên tử.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.027">
+					<C>助去後，其大臣谏胡曰：“汉兴兵诛 郢，亦行以惊动南越。且先王昔言，事天子期无失礼，要之不可以说 好语入见。入 见则不得复归，亡国之势也。”</C>
+					<V>Trợ đi rồi, đại thần can Hồ rằng: “Nhà Hán dấy binh giết Dĩnh, cũng là để dọa Nam Việt. Vả lại tiên vương xưa có nói, thờ thiên tử chỉ mong không thất lễ, quan trọng là không thể vì những lời tốt đẹp mà vào chầu. Vào chầu thì không được về, là cái thế mất nước vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.028">
+					<C>胡薨，谥为文王。</C>
+					<V>Hồ mất, thụy là Văn vương.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.029">
+					<C>婴齐代立，即藏其先武帝玺。</C>
+					<V>Anh Tề lên thay, giấu ngọc tỷ của Vũ đế trước đây.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.030">
+					<C>及即位，上书请立樛氏女 为后，兴为嗣。</C>
+					<V>Đến khi lên ngôi, dâng thư xin lập Cù thị làm Hoàng hậu, Hưng làm người kế vị.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.031">
+					<C>太子兴代立，其母为太后。</C>
+					<V>Thái tử Triệu Hưng lên thay, mẹ làm Thái hậu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.032">
+					<C>太后自未为婴齐姬时，尝与霸陵人安 国少季通。</C>
+					<V>Thái hậu từ khi chưa làm vợ của Anh Tề, từng tư thông với An Quốc Thiếu Quý người Ba Lăng.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.033">
+					<C>王年少，太后中国人也，尝与安国少季通，其使 复私焉。</C>
+					<V>Nam Việt vương tuổi còn nhỏ, Thái hậu là người Trung nguyên, từng tư thông với An Quốc Thiếu Quý, khi [An Quốc Thiếu Quý đi] sứ đến, lại cùng tư thông.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.034">
+					<C>国人颇知之，多不附太后。</C>
+					<V>Người trong nước biết việc đó, phần nhiều không theo Thái hậu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.035">
+					<C>即因使者上书，请比内诸侯，三岁一朝，除边关。</C>
+					<V>Liền nhân đó phái sứ giả dâng thư, xin được như các chư hầu khác, ba năm một lần triều kiến, bỏ hết quan ải biên giới.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.036">
+					<C>除其故黥劓刑，用汉法，比内诸侯。</C>
+					<V>Bỏ hình phạt cũ là thích chữ vào mặt, cắt mũi, dùng pháp luật nhà Hán, như các chư hầu khác.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.037">
+					<C>其 居国中甚重，越人信之，多为耳目者，得众心愈於王。</C>
+					<V>Ở trong nước, Lã Gia quyền thế rất lớn, được người Việt tin cậy, nhiều người làm tai mắt, được lòng người hơn cả Nam Việt vương.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.038">
+					<C>王之上书，数 谏止王，王弗听。</C>
+					<V>Nam Việt vương dâng thư lên, Lã Gia nhiều lần can ngăn nhưng vương không nghe.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.039">
+					<C>有畔心，数称病不见汉使者。</C>
+					<V>Lã Gia có lòng làm phản, nhiều lần cáo ốm không gặp sứ giả nhà Hán.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.040">
+					<C>使者皆注意嘉，势未 能诛。</C>
+					<V>Sứ giả đều chú ý đến Gia, nhưng tình thế chưa thể giết.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.041">
+					<C>王、王太后亦恐嘉等先事发，乃置酒，介汉使者权， 谋诛嘉等。</C>
+					<V>Vương và Thái hậu cũng sợ bọn Gia ra tay trước, liền bày tiệc rượu, dựa quyền thế của sứ giả nhà Hán, âm mưu giết bọn Gia.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.042">
+					<C>酒行，太后谓嘉 曰：“南越内属，国之利也，而相君苦不便者，何也？”</C>
+					<V>Trong tiệc rượu, Thái hậu bảo Gia rằng: “Nam Việt nội thuộc, là lợi cho nước, nhưng tướng quân khăng khăng cho là bất lợi, là cớ làm sao?”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.043">
+					<C>以激怒使 者。</C>
+					<V>Lấy việc ấy khích cho sứ giả nổi giận.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.044">
+					<C>乃阴与大臣作乱。</C>
+					<V>Bèn âm mưu cùng đại thần làm loạn.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.045">
+					<C>王素无意诛 嘉，嘉知之，以故数月不发。</C>
+					<V>Vương vốn không có ý giết Gia, Gia biết điều đó, vì thế mấy tháng liền không hành động.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.046">
+					<C>太后有淫行，国人不附，欲独诛嘉等， 力又不能。</C>
+					<V>Thái hậu có tính dâm, người trong nước không theo, muốn một mình giết bọn Gia, nhưng không đủ sức.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.047">
+					<C>天子闻嘉不听王，王、王太后弱孤不能制，使者怯无决。 又以为 王、王太后已附汉，独吕嘉为乱，不足以兴兵，欲使庄参以二千人往 使。</C>
+					<V>Thiên tử hay tin Gia không nghe theo Nam Việt vương, vương và Thái hậu yếu sức lại thế cô, không thể áp chế, sứ giả thì khiếp nhược không quyết đoán; lại cho vương và Thái hậu đã nội phụ nhà Hán, chỉ riêng Lã Gia làm loạn, không đủ để dấy binh, định sai Trang Sâm đem hai nghìn người đi sứ Nam Việt.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.048">
+					<C>参曰：“以好往，数人足矣；以武往，二千人无足以为也。”</C>
+					<V>Sâm nói: “Vì giao hảo mà đi sứ, cần mấy người là đủ rồi; vì dùng vũ lực mà đến, hai nghìn người không đủ hành sự.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.049">
+					<C>辞 不可，天子罢参也。</C>
+					<V>Sâm từ chối, cho là không thể, thiên tử bãi chức của Sâm.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.050">
+					<C>郏 壮士故济北相韩千秋 奋曰：“以区区之越，又有王、太后应，独相吕嘉为害，原得勇士二 百人，必斩嘉以报。”</C>
+					<V>Hàn Thiên Thu là tráng sĩ đất Giáp vốn làm tướng cho Tế Bắc vương khi trước, hăng hái nói: “Với nước Việt cỏn con, lại có Nam Việt vương và Thái hậu nội ứng, một mình Thừa tướng Lã Gia gây hại được gì, xin được đem hai trăm dũng sĩ đi, ắt chém Lã Gia về báo.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.051">
+					<C>於是天子遣千秋与王 太后弟樛乐将二千人往，入越境。</C>
+					<V>Thế là thiên tử sai Thiên Thu cùng em trai Vương thái hậu là Cù Lạc đem hai nghìn người vào nước Việt.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.052">
+					<C>吕嘉等乃遂反，下令国中曰：“王 年少。太后，中国人也，又与使者乱，专欲内属，尽持先王宝器入献 天子以自媚，多从人，行至长安，虏卖以为僮仆。取自脱一时之利， 无顾赵氏社稷，为万世虑计之意。”</C>
+					<V>Bọn Lã Gia liền làm phản, hạ lệnh cho trong nước rằng: “Nhà vua còn nhỏ, Thái hậu là người Trung nguyên, lại dâm loạn với sứ giả, chỉ muốn nội thuộc, mang hết đồ quý báu của tiên vương vào dâng thiên tử để xu nịnh, nhiều người đi theo, khi tới Trường An, sẽ đem bán làm nô bộc. Vì cái lợi thoát thân nhất thời, không ngó ngàng đến xã tắc họ Triệu, không có ý lo tính cho muôn đời.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.053">
+					<C>遣人告苍梧秦王及其诸郡县，立明王长男越妻子术阳侯 建德为王。</C>
+					<V>Sai người báo cho Tần vương ở Thương Ngô cùng các quận huyện, lập người con do con trưởng của Minh vương với vợ người Việt sinh ra là Thuật Dương hầu Kiến Đức làm vua.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.054">
+					<C>而韩千秋兵入，破数小邑。</C>
+					<V>Rồi Hàn Thiên Thu đem quân đến, phá được mấy ấp nhỏ.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.055">
+					<C>其後越直开道 给食，未至番禺四十里，越以兵击千秋等，遂灭之。</C>
+					<V>Sau đó, Việt mở đường thẳng cấp lương, cách Phiên Ngung bốn mươi dặm, đem quân đánh bọn Hàn Thiên Thu, rồi tiêu diệt hết.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.056">
+					<C>使人函封汉使者 节置塞上，好 为谩辞谢罪，发兵守要害处。</C>
+					<V>Sai người đóng hòm niêm phong tiết phù của sứ giả nhà Hán, để ở biên tái, nói khéo là tạ tội, rồi phát binh giữ chỗ trọng yếu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.057">
+					<C>於是天子曰：“韩千秋虽无成功，亦军 锋之冠。”</C>
+					<V>Thiên tử bèn nói: “Hàn Thiên Thu tuy không thành công, cũng đứng đầu hàng tiên phong trong quân.”</V>
+				</STC>
+				<STC ID="HCS_001.113.001.058">
+					<C>封其子延年为成安侯。</C>
+					<V>Phong con trai của Hàn Thiên Thu là Diên Niên làm Thành An hầu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.059">
+					<C>樛乐，其 姊为王太后，首原属汉，封其子广德为龙亢侯。</C>
+					<V>Cù Lạc, chị là Thái hậu, đi đầu trong việc nội thuộc nhà Hán, con trai Cù Lạc là Quảng Đức được phong làm Long Kháng hầu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.060">
+					<C>伏波将军将罪人，道远，会期後，与楼船会 乃有千馀人，遂俱进。</C>
+					<V>Phục ba tướng quân dẫn theo tội nhân, đường sá xa xôi, đến sau kỳ hẹn, hội quân với Lâu thuyền tướng quân, được hơn nghìn quân, rồi cùng tiến.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.061">
+					<C>楼船居前，至番禺。</C>
+					<V>Lâu thuyền tướng quân đi trước, đến Phiên Ngung.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.062">
+					<C>伏波乃为营，遣使者招降 者，赐印，复纵令相招。</C>
+					<V>Phục ba liền lập doanh trại, sai sứ giả chiêu hàng, ban ấn tín, lại hạ lệnh chiêu hàng lẫn nhau.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.063">
+					<C>吕嘉、建德已夜与其属数百 人亡入海，以船西去。</C>
+					<V>Lã Gia và Kiến Đức cùng mấy trăm bộ thuộc đương đêm trốn ra biển, đi thuyền sang phía tây.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.064">
+					<C>伏波又因问所得降者贵人，以知吕嘉所之，遣 人追之。</C>
+					<V>Phục ba tướng quân lại nhân hỏi những quý nhân đã đầu hàng, nhờ đó biết Lã Gia đi đâu, liền sai người đuổi theo.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.065">
+					<C>苍梧王赵光者，越王同姓，闻汉兵至，及越揭阳令定 自 定属汉；越桂林监居翁 谕瓯骆属汉：皆得为侯。</C>
+					<V>Thương Ngô vương Triệu Quang, cùng họ với Việt vương, nghe tin quân Hán đến, cùng Huyện lệnh Kiệt Dương nước Việt tên là Định, xin nội thuộc Hán; quan Giám ở Quế Lâm nước Việt là Cư Ông hiểu dụ Âu Lạc nội phụ nhà Hán, hai người đều được phong hầu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.066">
+					<C>戈船、下厉将军兵及驰义侯所发夜郎兵未下，南越 已平矣。</C>
+					<V>Quân của Qua thuyền tướng quân và Hạ lệ tướng quân cùng quân Dạ Lang do Trì Nghĩa hầu đưa đi chưa đến nơi, Nam Việt đã được bình định.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.067">
+					<C>遂为九郡。</C>
+					<V>Liền lập [Nam Việt] thành chín quận.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.068">
+					<C>自尉佗初王後，五世九十三岁而国亡焉。</C>
+					<V>Từ lúc Uý Đà mới xưng vương trở về sau, được năm đời, chín mươi ba năm, nước Nam Việt bị diệt vong.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.069">
+					<C>太史公曰：尉佗之王，本由任嚣。</C>
+					<V>Thái sử công bàn rằng: Uý Đà xưng vương, Vốn do Nhâm Hiêu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.070">
+					<C>遭汉初定，列为诸侯。</C>
+					<V>Gặp Hán mới lập, Liệt làm chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.071">
+					<C>瓯骆相攻，南越动摇。</C>
+					<V>Âu Lạc hỗn chiến, Nam Việt lao đao.</V>
+				</STC>
+				<STC ID="HCS_001.113.001.072">
+					<C>汉兵临境，婴齐入朝。</C>
+					<V>Quân Hán tiến đến, Anh Tề vào chầu.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.113.002">
+				<STC ID="HCS_001.113.002.001">
+					<C>会暑湿，士卒大疫， 兵不能逾岭。</C>
+					<V>Gặp thời tiết nóng nực, ẩm thấp, sĩ tốt phần lớn bị bệnh dịch, quân không thể vượt núi Dương Sơn.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.002">
+					<C>乃乘黄屋左纛，称制，与中国侔。</C>
+					<V>Bèn ngồi xe hoàng ốc cắm cờ bên trái, ban chiếu lệnh xưng là “chế”, ngang hàng với Trung nguyên.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.003">
+					<C>及孝文帝元年，初镇抚天下，使告诸侯四夷从代来即位意，喻盛 德焉。</C>
+					<V>Đến thời Hiếu Văn đế năm đầu, mới cai trị thiên hạ, sai sứ báo cho chư hầu, Tứ di từ đất Đại vào triều để thể hiện ý hướng khi mới lên ngôi, tỏ rõ ân đức lớn lao.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.004">
+					<C>召其从昆弟，尊官厚 赐宠之。</C>
+					<V>Triệu các anh em họ, ban cho quan cao lộc hậu, sủng ái họ.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.005">
+					<C>乃顿首谢，原长 为籓臣，奉贡职。</C>
+					<V>Bèn dập đầu tạ lỗi, nguyện mãi làm phiên thần, dâng cống.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.006">
+					<C>陆贾还报，孝 文帝大说。</C>
+					<V>Lục Giả về báo lại, Hiếu Văn đế cả mừng.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.007">
+					<C>兵未逾岭，闽越王弟馀善杀郢以 降，於是罢兵。</C>
+					<V>Quân chưa qua núi, em của Mân Việt vương là Dư Thiện giết Dĩnh rồi đầu hàng, thế rồi bãi binh.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.008">
+					<C>遣太子婴齐入宿卫。</C>
+					<V>Sai Thái tử Anh Tề vào làm Túc vệ.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.009">
+					<C>於是胡称病，竟不入见。</C>
+					<V>Thế là Hồ cáo bệnh, rốt cuộc không vào triều kiến.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.010">
+					<C>後十馀岁， 胡实病甚，太子婴齐请归。</C>
+					<V>Hơn chục năm sau, Hồ đổ bệnh nặng, Thái tử Anh Tề xin về.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.011">
+					<C>婴齐其入 宿卫在长安时，取邯郸樛氏女， 生子兴。</C>
+					<V>Khi Anh Tề vào làm Túc vệ ở Trường An, lấy người con gái họ Cù ở Hàm Đan, sinh con là Hưng.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.012">
+					<C>汉数使使者风谕婴齐，婴齐尚乐擅杀生自恣，惧入见 要用汉法，比内诸侯，固称病，遂不入见。</C>
+					<V>Nhà Hán nhiều lần phái sứ giả dụ bảo Anh Tề, Anh Tề vẫn thích tự ý nắm quyền sinh sát, sợ vào triều kiến sẽ phải theo pháp luật nhà Hán, như chư hầu khác, cố ý cáo bệnh, không chịu vào chầu.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.013">
+					<C>遣子次公入宿卫。</C>
+					<V>Sai con là Thứ Công vào làm Túc vệ.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.014">
+					<C>婴齐 薨，谥为明王。</C>
+					<V>Anh Tề mất, thụy là Minh vương.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.015">
+					<C>及婴齐薨後，元鼎四年，汉使安 国少季往谕王、王太后以入朝，比内诸侯；令辩士谏大夫终军等宣其 辞，勇士魏臣等辅其缺，卫尉路博德将 兵屯桂阳，待使者。</C>
+					<V>Sau khi Anh Tề mất, năm Nguyên Đỉnh thứ tư, nhà Hán sai An Quốc Thiếu Quý đến dụ Nam Việt vương và Thái hậu vào triều, như các chư hầu khác; sai bọn biện sĩ Gián đại phu Chung Quân tuyên giảng hiểu dụ, bọn dũng sĩ Ngụy Thần phụ vào chỗ thiếu khuyết, Vệ úy Lộ Bác Đức đem quân đóng đồn ở Quế Dương, chờ sứ giả.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.016">
+					<C>太后恐乱起，亦欲倚汉威，数劝 王及群臣求内属。</C>
+					<V>Thái hậu sợ sinh loạn, cũng muốn dựa uy nhà Hán, nhiều lần khuyên Nam Việt vương cùng quần thần xin nội thuộc.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.017">
+					<C>於是天子许之，赐其丞相吕嘉银印，及内史、中尉、太傅印，馀得自 置。</C>
+					<V>Thiên tử đồng ý, ban ấn bạc cho Thừa tướng Lã Gia, cùng ấn cho Nội sở, Trung úy, Thái phó, các chức quan khác được tự thiết lập.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.018">
+					<C>使者皆留填抚之。 王、王太 后饬治行装重赍，为入朝具。</C>
+					<V>Sứ giả đến đều lưu lại để vỗ về Nam Việt. Nam Việt vương và Thái hậu sửa soạn hành trang cùng hậu lễ chuẩn bị vào chầu.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.019">
+					<C>其相吕嘉年长矣，相三王，宗族官仕为长吏者七十馀人，男尽尚 王女，女尽嫁王子兄弟宗室，及苍梧秦王有连。</C>
+					<V>Thừa tướng Lã Gia tuổi cao, phụ tá ba đời vương, hơn bảy mươi người trong tông tộc làm trưởng lại, con trai đều lấy con gái của Nam Việt vương, con gái đều được gả cho vương tử, anh em trong tông thất, lại thông hôn với Tần vương ở Thương Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.020">
+					<C>使者皆东乡，太后南乡，王北乡，相 嘉、大臣皆西乡，侍坐饮。</C>
+					<V>Sứ giả đều ngồi hướng về đông, Thái hậu hướng về nam, Nam Việt vương hướng về bắc, Thừa tướng Lã Gia và đại thần đều hướng về tây, cùng ngồi hầu rượu.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.021">
+					<C>嘉弟为将，将卒居宫外。</C>
+					<V>Em trai Gia làm võ tướng, đem quân đóng ở ngoài cung.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.022">
+					<C>嘉见耳目非是，即起而出。</C>
+					<V>Gia thấy không có tai mắt ở đó, liền dậy đi ra.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.023">
+					<C>太后怒， 欲鏦嘉 以矛，王止太后。</C>
+					<V>Thái hậu tức giận, muốn dùng giáo đâm Gia, nhưng vương ngăn lại.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.024">
+					<C>嘉遂出， 分其弟兵就舍， 称病，不肯见王及使者。</C>
+					<V>Gia ra ngoài rồi, chia quân của em hộ vệ về phủ, cáo ốm, không chịu gặp vương và sứ giả.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.025">
+					<C>乃与其弟将卒攻杀王、太后及汉 使者。</C>
+					<V>Bèn cùng em trai đem quân đánh giết Nam Việt vương, Thái hậu cùng sứ giả nhà Hán.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.026">
+					<C>乃下赦曰：“天子 微，诸侯力政，讥臣不讨贼。今吕嘉、建德等反，自立晏如，令罪人 及江淮以南楼船十万师 往 讨之。”</C>
+					<V>Bèn hạ chiếu xá tội tù nhân: “Thiên tử suy yếu, chư hầu đánh nhau, chê trách bề tôi không biết thảo phạt nghịch tặc. Nay bọn Lã Gia, Kiến Đức làm phản, tự lập một cách yên ổn, lệnh cho tội nhân cùng các vùng Giang, Hoài về phía nam đem mười vạn quân lâu thuyền đến hỏi tội chúng.”</V>
+				</STC>
+				<STC ID="HCS_001.113.002.027">
+					<C>元鼎六年冬，楼船将军将精卒先陷寻陕， 破石门， 得越船粟，因推而前，挫 越锋，以数万人待伏波。</C>
+					<V>Mùa đông năm Nguyên Đỉnh thứ sáu, Lâu thuyền tướng quân đem tinh binh đi trước vây hãm Tầm Hiệp, phá Thạch Môn, thu được thuyền và thóc của Nam Việt, nhân đó tiến quân, bẻ gãy mũi tiên phong của Nam Việt, đem mấy vạn quân chờ Phục ba tướng quân.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.028">
+					<C>建德、嘉皆城守。</C>
+					<V>Kiến Đức và Gia đều giữ thành.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.029">
+					<C>会暮，楼船攻败越人，纵火烧 城。</C>
+					<V>Đến chiều tối, Lâu thuyền tướng quân đánh bại người Việt, phóng hỏa đốt thành.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.030">
+					<C>越素闻伏波名，日暮，不知其兵多少。</C>
+					<V>Người Nam Việt vốn nghe danh Phục ba tướng quân, chiều tối, không biết quân của Phục ba nhiều hay ít.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.031">
+					<C>以其故校尉司马苏弘得建德，封为海常侯； 越郎都稽 得嘉，封为临蔡侯。</C>
+					<V>Viên Hiệu úy tư mã cũ là Tô Hoằng bắt được Kiến Đức, được phong làm Hải Thường hầu; viên quan Lang nước Việt là Đô Kê bắt được Lã Gia, được phong làm Lâm Sái hầu.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.032">
+					<C>楼船 将军兵以陷坚为将梁侯。</C>
+					<V>Lâu thuyền tướng quân do đem quân vây hãm và đánh thành kiên cố, được phong làm Tướng Lương hầu.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.033">
+					<C>隆虑离 湿疫，佗得以益骄。</C>
+					<V>Long Lự rời ẩm, dịch; Đà được thể càng kiêu.</V>
+				</STC>
+				<STC ID="HCS_001.113.002.034">
+					<C>其 後亡国，徵自樛女；吕嘉小忠，令佗无後。</C>
+					<V>Về sau mất nước, Điềm từ Cù nữ. Lã Gia kém trung, Khiến Đà vô hậu.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.113.003">
+				<STC ID="HCS_001.113.003.001">
+					<C>元鼎五年秋，卫尉路博德为伏波将军，出桂阳，下汇水； 主爵都 尉杨仆为楼船将军，出豫章，下横浦；故归义越侯二人 为戈船、下厉将军， 出零陵，或下离水， 或柢苍梧；使驰义侯因巴蜀罪人，发 夜郎兵，下牂柯江： 咸会番禺。</C>
+					<V>Mùa thu năm Nguyên Đỉnh thứ năm, Vệ úy Lộ Bác Đức làm Phục ba tướng quân, đem quân ra Quế Dương, xuống Hối Thủy; Chủ tước đô úy Dương Bộc làm Lâu thuyền tướng quân, đem quân ra Dự Chương, xuống Hoành Phố; hai vị vốn được phong hầu ở nước Việt đã trở về chính nghĩa làm Qua thuyền tướng quân và Hạ lệ tướng quân, đem quân ra Linh Lăng, người xuống Ly Thủy, người đến thẳng Thương Ngô; sai Trì Nghĩa hầu dùng các tội nhân ở Ba Thục, phát binh ở Dạ Lang, xuống sông Tang Kha, cùng hội quân ở Phiên Ngung.</V>
+				</STC>
+				<STC ID="HCS_001.113.003.002">
+					<C>楼船自 择便处，居东南面；伏波居西北面。</C>
+					<V>Lâu thuyền tướng quân tự chọn chỗ thuận tiện, ở mặt đông nam; Phục ba tướng quân ở mặt tây bắc.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.113.004">
+				<STC ID="HCS_001.113.004.001">
+					<C>楼船力攻烧敌，反驱而入伏波营中。</C>
+					<V>Lâu thuyền tướng quân ra sức tấn công, thiêu đốt địch, trái lại lùa địch vào trong doanh quân Phục ba tướng quân.</V>
+				</STC>
+				<STC ID="HCS_001.113.004.002">
+					<C>犁旦， 城中皆降伏波。</C>
+					<V>Tảng sáng, trong thành đều hàng Phục ba tướng quân.</V>
+				</STC>
+				<STC ID="HCS_001.113.004.003">
+					<C>楼船从欲，怠傲失惑；伏 波困穷，智虑愈殖，因祸为福。</C>
+					<V>Lâu thuyền dục loạn, Ngông ngạo mê hoặc. Phục ba khốn cùng, Trí càng sáng suốt, Nhân họa thành phúc.</V>
+				</STC>
+				<STC ID="HCS_001.113.004.004">
+					<C>成败之转，譬若纠墨。</C>
+					<V>Thành bại chuyển đổi, Ví như nẩy mực.</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>
