@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.065">
+			<PAGE ID="HCS_001.065.001">
+				<STC ID="HCS_001.065.001.001">
+					<C>孙子武者，齐人也。 以兵法见於吴王阖庐。</C>
+					<V>Tôn Vũ Tôn tử tên Vũ, người nước Tề, nhờ giỏi binh pháp nên được tiếp kiến Ngô vương Hạp Lư.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.002">
+					<C>阖庐曰：“子之十三 篇，吾尽观之 矣，可以小试勒兵乎？”</C>
+					<V>Hạp Lư nói: “Mười ba thiên binh pháp của ông, ta đã xem cả rồi, có thể thử bày đội ngũ được chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.003">
+					<C>对曰：“可。”</C>
+					<V>Đáp rằng: “Được.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.004">
+					<C>阖庐曰：“可试以妇人 乎？”</C>
+					<V>Hạp Lư nói: “Dùng phụ nữ để thử được chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.005">
+					<C>曰：“可。”</C>
+					<V>Đáp: “Được.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.006">
+					<C>於是许之，出宫中美女，得百八十人。</C>
+					<V>Thế là Hạp Lư cho 180 mỹ nữ trong cung ra thử.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.007">
+					<C>孙子分为 二队，以王之宠姬二人各为队长，皆令 持戟。</C>
+					<V>Tôn tử chia làm hai đội, dùng hai người được vua sủng ái làm đội trưởng, đều ra lệnh cầm kích.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.008">
+					<C>令之曰：“汝知而心与左右手背乎？”</C>
+					<V>Lệnh hỏi: “Các ngươi có biết tay phải, tay trái, phía trước, phía sau ở đâu không?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.009">
+					<C>妇人曰：“知之。”</C>
+					<V>Các mỹ nữ đáp: “Biết.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.010">
+					<C>孙 子曰：“前，则视心；左，视左手；右，视右手；後，即视背。”</C>
+					<V>Tôn tử nói: “Hô 'trước' thì nhìn về trước mặt, hô 'trái' thì nhìn phía tay trái, hô 'phải' thì nhìn phía tay phải, hô 'sau' thì nhìn phía sau lưng.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.011">
+					<C>妇 人曰：“诺。”</C>
+					<V>Các mỹ nữ đáp: “Dạ.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.012">
+					<C>於是鼓之右， 妇人大笑。</C>
+					<V>Các mỹ nữ cười ngặt nghẽo.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.013">
+					<C>孙子曰：“约束不明，申令不熟，将之罪也。”</C>
+					<V>Tôn tử nói: “Quy định không rõ, truyền lệnh không kỹ, là lỗi của kẻ làm tướng”.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.014">
+					<C>复三令五 申而鼓之左，妇人复大笑。</C>
+					<V>Lại giải thích các quy định thêm mấy lần, rồi thúc trống sai quay sang trái. Các mỹ nữ lại cười ngặt nghẽo.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.015">
+					<C>孙子曰：“约束不明，申令不熟，将之罪 也；既已明而不如法者，吏士之罪也。”</C>
+					<V>Tôn tử nói: “Quy định không rõ, truyền lệnh không kỹ, đó là lỗi của kẻ làm tướng; nếu đã rõ mà không tuân quân pháp, đó là lỗi của binh sĩ.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.016">
+					<C>乃欲斩左古队长。</C>
+					<V>Bèn chực chém hai đội trưởng.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.017">
+					<C>吴王从台 上观，见且斩爱姬，大骇。 趣使使 下令曰：“寡人已知将军能用兵矣。寡人非此二姬，食不甘 味，原勿斩也。”</C>
+					<V>Ngô vương từ trên đài nhìn xuống, thấy định chém phi tần sủng ái của mình thì cả sợ, sai sứ hạ lệnh: “Quả nhân đã biết tài dụng binh của tướng quân. Quả nhân không có hai người họ thì ăn không ngon, xin đừng chém.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.018">
+					<C>孙子曰：“臣既已受命为将，将在军，君命有所不 受。”</C>
+					<V>Tôn tử nói: “Thần đã vâng mệnh làm tướng, tướng ở trong ở quân, lệnh vua có khi không theo.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.019">
+					<C>遂斩队长二人以徇。 用其次为队长，於是复鼓之。</C>
+					<V>Bèn chém hai đội trưởng để thị chúng, dùng người tiếp sau làm đội trưởng, rồi lại thúc trống chỉ huy.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.020">
+					<C>妇人左右前 後跪起皆中规矩绳墨，无敢出声。</C>
+					<V>Các mỹ nữ quay trái, phải, trước, sau, quỳ, đứng đều đúng quy định, không dám sai sót.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.021">
+					<C>於是孙子使使报王曰：“兵既整 齐，王可试下观之，唯王所欲用之，虽赴水火犹可也。”</C>
+					<V>Xong xuôi, Tôn tử sai sứ báo với vua rằng: “Binh lính đã chỉnh tề, bệ hạ hãy thử xem, nếu bệ hạ muốn dùng họ, dẫu sai vào nước sôi lửa bỏng cũng có thể được.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.022">
+					<C>吴王 曰：“将军罢休就舍，寡人不原下观。”</C>
+					<V>Ngô vương nói: “Tướng quân bãi binh về lữ quán nghỉ ngơi, quả nhân không muốn xem tiếp nữa.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.023">
+					<C>孙子曰：“王徒好其言，不 能用其实。”</C>
+					<V>Tôn tử nói: “Bệ hạ chỉ thích nói trên sách vở chứ không muốn thi hành trong thực tế.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.024">
+					<C>於是阖庐知孙子能用兵，卒以为将。</C>
+					<V>Hạp Lư biết Tôn tử giỏi dùng binh, sau phong làm tướng.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.025">
+					<C>西破彊楚，入郢， 北威齐晋，显名诸侯，孙子与有力焉。</C>
+					<V>Tây phá nước Sở hùng mạnh, vào tận Dĩnh đô; bắc ra oai với Tề, Tấn, nổi danh chư hầu, đều nhờ công Tôn tử vậy.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.026">
+					<C>孙武既死， 後百馀岁有孙膑。</C>
+					<V>Tôn Tẫn Tôn Vũ chết, hơn trăm năm sau xuất hiện Tôn Tẫn.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.027">
+					<C>膑生 阿鄄之间，膑亦孙武之後世子孙也。</C>
+					<V>Tẫn sinh tại vùng thành A và thành Quyên, cũng là hậu duệ của Tôn Vũ.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.028">
+					<C>孙膑尝与庞涓 俱学兵法。</C>
+					<V>Tôn Tẫn và Bàng Quyên cùng học binh pháp.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.029">
+					<C>庞涓既事魏，得为惠王将军，而自 以为能不及孙膑，乃阴使召孙膑。</C>
+					<V>Bàng Quyên phụng sự nước Ngụy trước, được Huệ vương phong làm tướng quân, nhưng tự cho mình chẳng bằng Tôn Vũ, bèn ngầm sai sứ triệu Tôn Tẫn đến.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.030">
+					<C>膑至，庞涓恐其贤於己，疾之，则 以法刑断其两足而黥之，欲隐勿见。</C>
+					<V>Tẫn tới, Bàng Quyên sợ Tẫn giỏi hơn mình, sinh lòng ganh ghét, rồi khép Tẫn chịu tội, chặt lìa hai chân, thích chữ lên mặt, muốn phải lánh mặt không cho ai thấy.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.031">
+					<C>齐使者如梁，孙膑以刑徒阴见，说齐使。</C>
+					<V>Sứ Tề đến Đại Lương, Tôn Tẫn lấy thân phận tội nhân ngầm gặp, thuyết phục sứ Tề.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.032">
+					<C>齐将田忌善而客待之。</C>
+					<V>Tướng quốc nước Tề là Điền Kỵ quý Tẫn, tiếp đãi như tân khách.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.033">
+					<C>忌数与齐诸公子驰逐重射。</C>
+					<V>Nhiều lần Kỵ cùng các công tử nước Tề đua ngựa cá cược.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.034">
+					<C>孙子见其马足不甚相远，马有上、中、下、辈。</C>
+					<V>Tôn tử thấy ngựa chạy không thua nhau là mấy. Ngựa chia ba hạng, thượng, trung và hạ.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.035">
+					<C>於是孙子谓田忌 曰：“君弟重射，臣能令君胜。”</C>
+					<V>Tôn tử bèn nói với Điền Kỵ: “Ngài cứ đặt cược lớn, tôi sẽ giúp ngài thắng.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.036">
+					<C>田忌 信然之，与王及诸公子逐射千金。</C>
+					<V>Điền Kỵ tin theo, đặt cược cùng vua và các công tử ngàn lạng vàng.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.037">
+					<C>及临 质，孙子 曰：“今以君之下驷与彼上驷，取君上驷与彼中驷，取君中驷与彼下 驷。”</C>
+					<V>Tới khi sắp đua, Tôn tử nói: “Hãy lấy ngựa hạng hạ của ngài đấu với hạng thượng, lấy hạng thượng đấu với hạng trung, lấy hạng trung đấu với hạng hạ.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.038">
+					<C>既驰三辈毕，而田忌一不胜而再胜，卒得王千金。</C>
+					<V>Đấu ba hạng xong, Điền Kỵ thua một nhưng thắng hai, cuối cùng được ngàn vàng từ vua.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.039">
+					<C>於是忌进孙 子於威王。</C>
+					<V>Sau đó, Điền Kỵ tiến cử Tôn tử lên Uy vương.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.040">
+					<C>威王问兵法，遂以为师。</C>
+					<V>Uy vương hỏi về binh pháp rồi tôn làm thầy.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.041">
+					<C>其後魏伐赵，赵急，请救於齐。</C>
+					<V>Về sau, Ngụy đánh Triệu, Triệu nguy cấp, xin Tề cứu.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.042">
+					<C>齐威王欲将孙膑，膑辞谢 曰：“刑馀之人不可。”</C>
+					<V>Tề Uy vương muốn phong Tôn Tẫn làm tướng, Tẫn từ chối, nói: “Kẻ bị ngục hình không thể làm tướng quân.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.043">
+					<C>於是乃以田忌为将，而孙子为师，居辎车 中，坐为计谋。</C>
+					<V>Thế là bèn phong Điền Kỵ làm tướng, Tôn Tẫn làm quân sư. Tẫn thường ngồi trong xe có rèm che để hoạch định mưu kế.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.044">
+					<C>田忌从之，魏果去邯郸，与齐战於桂陵，大破梁军。</C>
+					<V>Điền Kỵ nghe theo, quân Ngụy quả nhiên bỏ Hàm Đan, đánh nhau với Tề Quế Lăng, đại phá quân Lương.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.045">
+					<C>後十三岁， 魏与赵攻韩，韩告 急於齐。</C>
+					<V>Mười ba năm sau, Ngụy và Triệu đánh Hàn, Hàn báo nguy với Tề.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.046">
+					<C>齐使田忌将而往，直走大梁。</C>
+					<V>Tề sai Điền Kỵ đem quân sang, đến thẳng Đại Lương.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.047">
+					<C>魏将庞涓闻之，去韩而归，齐 军既已过而西矣。</C>
+					<V>Tướng Ngụy là Bàng Quyên biết tin, bỏ Hàn rút về thì quân Tề đã sang phía tây rồi.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.048">
+					<C>孙子谓田忌曰：“彼三晋之兵素悍勇而轻齐，齐号 为怯，善战者因其势而利导之。兵法，百里而趣利者蹶上将， 五十 里而趣利者军半至。使齐军入魏地为十万灶，明日为五万灶，又明日 为三万灶。”</C>
+					<V>Tôn Tẫn nói với Điền Kỵ: “Quân Tam Tấn vốn dũng mãnh nên khinh quân Tề, quân Tề có tiếng là khiếp nhược, người giỏi đánh trận sẽ lựa theo tình thế mà dẫn dắt để có lợi cho mình. Binh pháp nói, tiến quân gấp trăm dặm để đoạt lợi thì chủ tướng cũng kiệt quỵ, tiến gấp năm chục dặm thì chỉ nửa số quân đến nơi. Sai quân Tề vào Ngụy làm mười vạn bếp, hôm sau bớt đi còn năm vạn, hôm sau nữa bớt còn ba vạn.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.049">
+					<C>庞涓行三日，大喜，曰：“我固知齐军怯，入吾地三 日，士卒亡者过半矣。”</C>
+					<V>Bàng Quyên tiến quân ba ngày, thấy vậy cả mừng, nói: “Ta vốn biết quân Tề nhát gan, vào đất ta có ba ngày mà quân lính đã trốn quá nửa rồi.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.050">
+					<C>乃弃其步军，与其轻锐倍日并行逐之。</C>
+					<V>Bèn bỏ quân bộ, cùng quân khinh kỵ ngày đêm gấp rút đuổi đánh.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.051">
+					<C>孙子 度其行，暮当至马陵。</C>
+					<V>Tôn tử tính hành trình quân địch, biết buổi tối sẽ đến Mã Lăng.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.052">
+					<C>马陵道陕，而旁多阻隘，可伏兵，乃斫大树白 而书之曰“庞涓死于此树之下”。</C>
+					<V>Đường Mã Lăng hẹp, hai bên hiểm trở, có thể phục binh, bèn chặt cây lớn tước vỏ lộ phần trắng, viết lên rằng: “Bàng Quyên chết ở dưới cây này”.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.053">
+					<C>於是令齐军善射者万弩，夹道而 伏，期曰“暮见火举而俱发”。</C>
+					<V>Thế rồi sai vạn tay cung thiện xạ trong quân Tề mai phục hai bên đường, hẹn rằng: “Buổi tối, nếu thấy nổi lửa thì nhất tề bắn tên”.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.054">
+					<C>庞涓果夜至斫木下，见白书，乃钻火 烛之。 读其书未毕，齐军万弩俱发，魏军大乱相失。</C>
+					<V>Đêm ấy, quả nhiên Bàng Quyên đến chỗ cây nọ, thấy trên cây thân trắng có dòng chữ, bèn đốt đuốc lên xem, đọc chưa xong thì vạn tay cung nước Tề nhất loạt bắn ra, quân Ngụy đại loạn, không ứng cứu được nhau.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.055">
+					<C>庞涓自知智穷兵 败，乃自刭，曰：“遂成竖子之名！”</C>
+					<V>Bàng Quyên tự biết trí cùng binh bại, liền tự vẫn, nói: “Ta làm thằng nhãi nổi danh rồi?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.056">
+					<C>齐因乘胜尽破 其军，虏魏太子申以归。</C>
+					<V>Quân Tề thừa thắng phá tan quân Ngụy, bắt được thái tử Thân nước Ngụy làm tù binh rồi rút về.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.057">
+					<C>孙膑以此名显天下，世传其兵法。</C>
+					<V>Từ đó, danh tiếng Tôn Tẫn vang lừng thiên hạ, binh pháp của ông được lưu truyền ở đời.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.058">
+					<C>吴起者，卫人也，好用兵。 尝学於曾子，事鲁君。</C>
+					<V>Ngô Khởi Ngô Khởi người nước Vệ, thích dùng binh, thường học binh pháp của Tăng tử, thờ vua Lỗ.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.059">
+					<C>齐人攻鲁，鲁 欲将吴起，吴起取齐女为妻，而鲁疑之。</C>
+					<V>Người Tề tấn công Lỗ, Lỗ muốn phong Ngô Khởi làm tướng, nhưng phải lấy vợ nước Tề nên còn nghi ngờ.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.060">
+					<C>吴起於是欲就名，遂杀其 妻，以明不与齐也。</C>
+					<V>Ngô Khởi muốn lập danh, bèn giết vợ để tỏ mình không can hệ gì với Tề.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.061">
+					<C>将而攻齐，大破之。</C>
+					<V>Ngô Khởi cầm quân đánh Tề, cả phá được.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.062">
+					<C>鲁人或恶吴起曰：“起之为人，猜忍人也。其少时，家累千金， 游仕不遂，遂破其家，乡党笑之，吴起杀其谤己者三十馀人，而东出 卫郭门。与其母诀，齧臂而盟曰：‘起不为卿相，不复入卫。’遂事 曾子。居顷之，其母死，起终不归。曾子薄之，而与起绝。起乃之 鲁，学兵法以事鲁君。鲁君疑之，起杀妻以求将。夫鲁小国，而有战 胜之名，则诸侯图鲁矣。且鲁卫兄弟之国也，而君用起，则是弃 卫。”</C>
+					<V>Người nước Lỗ có kẻ gièm Ngô Khởi rằng: “Khởi làm người, quá nhẫn tâm. Lúc trẻ, nhà có ngàn vàng, đi du thuyết hòng làm quan không thành, đến nỗi phá tán toàn bộ sản nghiệp, làng xóm chê cười, Ngô Khởi giết hơn ba mươi người chê cười mình, rồi rời nước Vệ đi sang phía đông. Khi chia tay mẹ già, Khởi bèn cắn vào cánh tay mà thề: 'Khởi không làm nên khanh tướng, không về nước Vệ nữa.' Rồi thờ Tăng tử làm thầy. Không lâu sau, mẹ mất, Khởi vẫn không về. Tăng tử cho Khởi là người bạc bẽo nên cắt đứt quan hệ thầy trò. Khởi bèn sang nước Lỗ, học binh pháp rồi thờ vua Lỗ. Vua Lỗ nghi ngờ Khởi, Khởi liền giết vợ để mong làm tướng. Xét lẽ, Lỗ là nước nhỏ, nếu có danh nghĩa chiến thắng, chư hầu sẽ đánh nước Lỗ. Vả Lỗ và Vệ là nước anh em, nếu vua Lỗ dùng Khởi thì mất lòng nước Vệ.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.063">
+					<C>鲁君疑之，谢吴起。</C>
+					<V>Vua Lỗ nghi ngờ nên từ chối Ngô Khởi.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.064">
+					<C>吴起於是闻魏文侯贤，欲事之。</C>
+					<V>Ngô Khởi nghe nói Ngụy Văn hầu hiền đức, muốn thờ ông ta.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.065">
+					<C>文侯问李克曰：“吴起何如人 哉？”</C>
+					<V>Văn hầu hỏi Lý Khắc: “Ngô Khởi là người thế nào?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.066">
+					<C>李克曰：“起贪而好色， 然用兵司马穰 苴不能过也。”</C>
+					<V>Lý Khắc đáp: “Khởi tham lam hiếu sắc, nhưng dùng binh thì Tư Mã Nhương Tư cũng không hơn được.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.067">
+					<C>於是魏文候以为将，击秦，拔五城。</C>
+					<V>Thế là Ngụy Văn hầu cho làm tướng. Khởi cầm quân đánh Tần, hạ được năm thành.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.068">
+					<C>起之为将，与士卒最下者同衣食。 卧不设席，行不骑乘，亲裹赢 粮，与士卒分劳苦。</C>
+					<V>Khởi làm tướng, ăn mặc giống sĩ tốt thấp nhất, nằm không trải chiếu, đi không ngựa xe, chia bớt phần lương, san sẻ khỏ nhọc cùng binh sĩ.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.069">
+					<C>卒有病疽者，起为吮之。</C>
+					<V>Quân lính có kẻ bị u nhọt, Khởi dùng miệng hút mủ cho.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.070">
+					<C>卒母闻而哭之。</C>
+					<V>Mẹ binh lính đó biết chuyện bật khóc.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.071">
+					<C>人曰：“子卒也，而将，军自吮其疽，何哭 为？”</C>
+					<V>Có người hỏi: “Con bà là lính mà được tướng quân dùng miệng hút mủ cho, sao lại phải khóc?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.072">
+					<C>母曰：“非然也。往年吴公吮其父，其父战不旋踵，遂死於 敌。吴公今又吮其子，妾不知其死所矣。是以哭之。”</C>
+					<V>Bà mẹ đáp: “Không phải đâu. Khi trước Ngô công hút mủ cho cha nó, cha nó xông pha chiến đấu rồi chết trong tay địch. Nay Ngô công lại hút mủ cho nó, tôi không biết rồi nó sẽ chết ở đâu, vì thế mà khóc.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.073">
+					<C>文侯以吴起善用兵，廉平，尽能得士心，乃以为西河守，以拒 秦、韩。</C>
+					<V>Văn hầu cho Ngô Khởi giỏi dụng binh, liêm khiết công bằng, khéo thu phục nhân tâm binh sĩ, bèn phong làm Thái thú Tây Hà để chống Tần và Hàn.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.074">
+					<C>魏文侯既卒，起事其子武侯。</C>
+					<V>Ngụy Văn hầu chết, Khởi thờ con trai ông là Vũ hầu.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.075">
+					<C>武侯浮西河而下，中流，顾而谓吴 起曰：“美哉乎山河之固，此魏国之宝也！”</C>
+					<V>Vũ hầu đi thuyền từ Tây Hà xuống, giữa dòng quay lại bảo Ngô Khởi: “Đẹp thay, non sông hiểm trở, đó chính là báu vật của nước Ngụy vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.076">
+					<C>起对曰：“在德不在 险。昔三苗氏左洞庭，右彭蠡，德义不修，禹灭之。夏桀之居，左河 济，右泰华，伊阙在其南，羊肠在其北， 修政不仁，汤 放之。殷纣之国，左孟门， 右太行，常山在其北，大河经其南，修政不 德，武王杀之。由此观之，在德不在险。若君不修德，舟中之人尽为 敌国也。”</C>
+					<V>Khởi đáp: “Cốt ở đức chứ không ở đất hiểm yếu. Xưa, Tam Miêu bên trái có hồ Động Đình, bên phải có bến Bành Lãi, không sửa sang đức nghĩa, bị Hạ Vũ tiêu diệt. Chỗ vua Kiệt nhà Hạ ở, trái là sông Hoàng sông Tế, phải là Thái Sơn, Hoa Sơn, núi Y Khuyết ở phía nam, núi Dương Trường trấn mạn bắc, nhưng chính trị bất nhân, bị Thành Thang xua đuổi. Nước của vua Trụ nhà Ân, trái có núi Mạnh Môn, phải có Thái Sơn và Hành Sơn, Thường Sơn ở mạn bắc, sông Hoàng Hà rộng lớn chắn phía nam, nhưng chính sự không dùng đức, bị Vũ vương giết chết. Từ đó mà xét, cốt ở đức chứ không ở đất hiểm hay không. Nhà vua không tu đức, người trong thuyền thảy đều là người nước địch vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.077">
+					<C>武侯曰：“善。”</C>
+					<V>Vũ hầu nói: “Phải lắm”.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.078">
+					<C>吴起为西河守，甚有声名。</C>
+					<V>Ngô Khởi làm Thái thú Tây Hà, rất có danh tiếng.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.079">
+					<C>魏置相，相田文。</C>
+					<V>Ngụy lập Tưởng quốc, phong cho Điền Văn.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.080">
+					<C>吴起不悦，谓田文曰：“请与子论功，可乎？”</C>
+					<V>Ngô Khởi không vui, bảo Điền Văn rằng: “Xin luận công với ngài, được chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.081">
+					<C>田文 曰：“可。”</C>
+					<V>Điền Văn đáp: “Được.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.082">
+					<C>起曰：“将三军，使士卒乐死，敌国不敢谋，子孰与 起？”</C>
+					<V>Khởi hỏi: “Thống lãnh ba quân, khiến sĩ tốt vui lòng xông vào chỗ chết, nước địch không dám động binh, ngài với Khởi ai hơn?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.083">
+					<C>文曰：“不如子。”</C>
+					<V>Văn đáp: “Tôi không bằng ngài.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.084">
+					<C>起曰：“治百官，亲万民，实府库，子孰 与起？”</C>
+					<V>Khởi hỏi: “Sắp đặt trăm quan, muôn dân quy thuận, kho đụn đầy ắp, ngài với Khởi ai hơn?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.085">
+					<C>起曰：“守西河而秦兵不敢东乡，韩赵 宾从，子孰与起？”</C>
+					<V>Khởi hỏi: “Trấn giữ Tây Hà mà quân Tần không dám quấy rối phía đông, Hàn, Triệu quy phục, ngài với Khởi ai hơn?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.086">
+					<C>起曰：“此三者，子皆出吾 下，而位加吾上，何也？”</C>
+					<V>Khởi hỏi: “Ba việc đó ngài đều kém tôi, mà địa vị lại trên tôi, cớ làm sao?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.087">
+					<C>文曰：“主少国疑，大臣未附，百姓不 信，方是之时，属之於子乎？属之於我乎？”</C>
+					<V>Văn đáp: “Vua tuổi còn nhỏ, nước vẫn chưa yên, đại thần chưa quy phục, trăm họ chưa tin theo, vào lúc này đây, giao ngài làm Tướng quốc hay giao cho tôi?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.088">
+					<C>起默然良久，曰：“属 之子矣。”</C>
+					<V>Khởi trầm ngâm hồi lâu, đáp: “Giao cho ngài.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.089">
+					<C>文曰：“此乃吾所以居子之上也。”</C>
+					<V>Văn nói: “Chính thế tôi ở chức cao hơn ngài vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.090">
+					<C>吴起乃自知弗如田 文。</C>
+					<V>Ngô Khởi tự biết mình không bằng Điền Văn.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.091">
+					<C>田文既死，公叔为相，尚魏公主，而害吴起。</C>
+					<V>Điền Văn chết, Công Thúc làm Tướng quốc, lấy công chúa nước Ngụy, ghét bỏ Ngô Khởi.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.092">
+					<C>公 叔之仆曰：“起易去也。”</C>
+					<V>Kẻ hầu của Công Thúc nói: “Khởi dễ trừ thôi.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.093">
+					<C>公叔曰：“柰何？”</C>
+					<V>Công Thúc hỏi: “Tại sao?”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.094">
+					<C>其仆曰：“吴起为人 节廉而自喜名也。君因先与武侯言曰：‘夫吴起贤人也，而侯之国 小，又与彊秦壤界，臣窃恐起之无留心也。’武侯即曰：‘柰 何？’君因谓武侯曰：‘试延以公主，起有留心则必受之。无留心则 必辞矣。以此卜之。’君因召吴起而与归，即令公主怒而轻君。吴起 见公主之贱君也，则必辞。”</C>
+					<V>Y đáp: “Ngô Khởi là người liêm khiết nhưng hiếu danh. Ngài nói trước với Vũ hầu rằng: 'Ngô Khởi là người hiền mà nước của Vũ hầu thì nhỏ, lại giáp Tần mạnh, thần e Khởi không có ý ở lại lâu dài.' Vũ hầu sẽ hỏi: 'Tại sao?' thì ngài đáp: 'Thử gả công chúa cho Khởi, nếu Khởi có ý ở lại lâu dài sẽ chấp thuận, bằng không sẽ từ chối. Từ đó sẽ biết thôi.' Nhân thế, ngài triệu Ngô Khởi đến nhà, cố ý khiến công chúa giận mà coi thường ngài. Ngô Khởi thấy công chúa coi thường ngài thì ắt từ chối.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.095">
+					<C>於是吴起见公主之贱魏相，果辞魏武 侯。</C>
+					<V>Quả nhiên, Ngô Khởi thấy công chúa coi thường Tướng quốc nước Ngụy, liền từ chối yêu cầu của Ngụy Vũ hầu.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.096">
+					<C>武侯疑之而弗信也。</C>
+					<V>Vũ hầu nghi ngờ Ngô Khởi nên không tin dùng nữa.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.097">
+					<C>吴起惧得罪，遂去，即之楚。</C>
+					<V>Ngô Khởi sợ đắc tội, bèn bỏ đi, đến nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.098">
+					<C>楚悼王素闻起贤，至则相楚。</C>
+					<V>Sở Điệu vương vốn nghe danh Khởi hiền tài, vừa đến lập tức phong làm Tướng quốc.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.099">
+					<C>明法审令，捐不急之官，废公族疏 远者，以抚养战斗之士。</C>
+					<V>Ngô Khởi thẩm xét rõ pháp lệnh, bỏ các chức quan không cần thiết, cắt bổng lộc những người họ xa với vua để cấp phát cho chiến binh.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.100">
+					<C>於是南平百 越；北并陈蔡，卻三晋；西伐秦。</C>
+					<V>Vì thế phía nam bình định Bách Thành; phía bắc thôn tính Trần và Sái, đẩy lùi Tam Tấn; phía tây đánh Tần.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.101">
+					<C>诸侯患楚之彊。</C>
+					<V>Chư hầu lo sợ trước sự hùng mạnh của Sở.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.102">
+					<C>故楚之贵戚尽欲害 吴起。 及悼王死，宗室大臣作乱而攻吴起，吴起走之王尸而伏之。</C>
+					<V>Do quý tộc nước Sở thảy muốn hại Ngô Khởi nên sau khi Điệu vương chết, các đại thần trong tông thất làm loạn, công kích Ngô Khởi, Khởi chạy núp ở chỗ đặt thi thể nhà vua.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.103">
+					<C>击 起之徒因射刺吴起，并中悼王。</C>
+					<V>Bọn công kích bèn bắn Ngô Khởi, trúng cả thi thể Điệu vương.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.104">
+					<C>悼王既葬，太 子立，乃使令尹尽诛射吴起而并中王尸者。</C>
+					<V>Chôn Điệu vương xong, thái tử lên ngôi, bèn lệnh giết bọn đã bắn Ngô Khởi và thi thể nhà vua.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.105">
+					<C>坐射起而 夷宗死者七十馀家。</C>
+					<V>Những kẻ liên quan bị diệt tộc lên đến hơn bảy mươi nhà.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.106">
+					<C>太史公曰：世俗所称师旅，皆道孙子十三篇，吴起兵法，世多 有，故弗论，论其行事所施设者。</C>
+					<V>Thái sử công bàn rằng: Người đời xưng tụng chuyện quân lữ, đều nói đến 13 thiên Tôn tử và sách binh pháp của Ngô Khởi. Các sách này người đời phần nhiều đều có, nên không bàn thêm, chỉ bàn về cách hành sự của họ.</V>
+				</STC>
+				<STC ID="HCS_001.065.001.107">
+					<C>语曰：“能行之者未必能言，能言 之者未必能行。”</C>
+					<V>Có câu: “Người làm giỏi chưa chắc nói giỏi, người nói giỏi chưa chắc làm giỏi.”</V>
+				</STC>
+				<STC ID="HCS_001.065.001.108">
+					<C>吴起说 武侯以形势不如德，然行之於楚，以刻暴少恩亡其躯。 悲夫！ 孙子兵法，一十三篇。</C>
+					<V>Ngô Khởi nói với Vũ hầu coi trọng thế hiểm yếu chẳng bằng tu đức, nhưng thi hành chính sự ở nước Sở lại tàn khốc ít lòng nhân, đến nỗi phải mất mạng.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.065.002">
+				<STC ID="HCS_001.065.002.001">
+					<C>田忌欲引兵之赵，孙子曰：“夫解杂乱纷纠者 不控卷， 救斗者 不搏撠， 批亢捣虚， 形格势禁，则自为解耳。 今梁 赵相攻，轻兵锐卒必竭於外，老弱罢於内。君不若引兵疾走大梁，据 其街路，旻其方虚，彼必释赵而自救。是我一举解赵之围而收弊於魏 也。”</C>
+					<V>Điền Kỵ muốn dẫn quân đến Triệu, Tôn Tẫn nói: “Xét lẽ, gỡ chỗ rối thì không phải xốc tay, chữa chỗ đánh nhau thì chẳng cần xông vào, tránh thực dùng hư, khiến họ thấy khó sẽ phải tự bỏ. Nay Lương, Triệu đánh nhau, tinh binh ắt mỏi mệt ở chiến trường, quân già yếu uể oải ở trong nước. Chẳng bằng ngài hãy dẫn quân đến thẳng kinh đô Đại Lương, chặn đứng đường đi, đánh vào chỗ không phòng bị, họ ắt bỏ vây nước Triệu quay về tự cứu nước mình. Như vậy ta cất quân một lần mà giải được vây cho Triệu, dẫn dắt được nước Ngụy.”</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

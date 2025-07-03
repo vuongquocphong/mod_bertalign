@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.011">
+			<PAGE ID="HCS_001.011.001">
+				<STC ID="HCS_001.011.001.001">
+					<C>孝景皇帝者， 孝文之中子也。</C>
+					<V>Hiếu Cảnh hoàng đế là con giữa của Hiếu Văn hoàng đế.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.002">
+					<C>母窦太后。</C>
+					<V>Mẹ là Đậu thái hậu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.003">
+					<C>孝文在代时，前后有三男，及窦 太后得幸，前后死，及三子更死，故孝景得立。</C>
+					<V>Thời Hiếu Văn ở đất Đại, bà vương hậu trước có ba người con trai, đến khi Đậu thái hậu được sủng hạnh, vương hậu trước chết, ba người con cũng lần lượt chết, cho nên Hiếu Cảnh được lên ngôi.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.004">
+					<C>元年四月乙卯，赦天下。</C>
+					<V>Ngày Ất Mão, tháng Tư, năm đầu tiên, đại xá thiên hạ.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.005">
+					<C>乙巳，赐民爵一级。</C>
+					<V>Ngày Ất Tỵ, ban tước cho dân một cấp.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.006">
+					<C>五月，除田半租， 为孝文立太宗庙。</C>
+					<V>Tháng Năm, miễn nửa thuế ruộng. Lập miếu Thái tông cho Hiếu Văn.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.007">
+					<C>令群臣无朝贺。</C>
+					<V>Lệnh cho quần thần không phải đến chầu mừng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.008">
+					<C>匈奴入代，与约和亲。</C>
+					<V>Hung Nô vào đất Đại, cùng giao ước hòa thân.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.009">
+					<C>二年春，封故相国萧何孙系为武陵侯。</C>
+					<V>Mùa xuân, năm thứ hai, phong cho cháu của cố Tướng quốc Tiêu Hà là Tiêu Hệ làm Vũ Lăng hầu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.010">
+					<C>男子二十而得傅。</C>
+					<V>Con trai hai mươi tuổi phải nhập ngũ.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.011">
+					<C>四月壬午，孝文 太后崩。</C>
+					<V>Ngày Nhâm Ngọ, tháng Tư, Hiếu Văn thái hậu băng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.012">
+					<C>广川、长沙王皆之 国。</C>
+					<V>Quảng Xuyên vương, Trường Sa vương đều tới nước phong.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.013">
+					<C>丞相申屠嘉卒。</C>
+					<V>Thừa tướng Thân Đồ Gia chết.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.014">
+					<C>八 月，以御史大夫开封陶青为丞相。</C>
+					<V>Tháng Tám, cho Ngự sử đại phu Khai Phong hầu Đào Thanh làm thừa tướng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.015">
+					<C>彗星出东北。</C>
+					<V>Sao chổi mọc ở phía đông bắc.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.016">
+					<C>秋，衡山雨雹， 大者五寸，深者二尺。</C>
+					<V>Mùa thu, Hành Sơn mưa đá, viên lớn năm tấc, sâu đến hai thước.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.017">
+					<C>荧惑逆行，守北辰。</C>
+					<V>Sao Hỏa đi ngược, giữ Bắc cực.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.018">
+					<C>月出北辰 间。</C>
+					<V>Mặt trăng mọc ở vùng Bắc cực.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.019">
+					<C>岁星逆行天廷中。</C>
+					<V>Sao Thái tuế đi ngược trong vùng Thiên đình.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.020">
+					<C>置南陵及内史、祋祤为县。</C>
+					<V>Đặt vùng Nam Lăng cùng Nội Sử, Đội Vũ làm huyện.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.021">
+					<C>长星出西方。</C>
+					<V>Sao chổi mọc ở phương Tây.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.022">
+					<C>天火 燔雒阳东宫大殿城室。</C>
+					<V>Lửa trời đất trụi điện lớn cùng lầu thành, cung thất ở Đông cung tại Lạc Dương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.023">
+					<C>吴王濞、 楚王 戊、赵王遂、 胶西王卬、 济南王辟光、 菑川王贤、 胶东王雄渠 反， 发兵西乡。</C>
+					<V>Ngô vương Tỵ, Sở vương Mậu, Triệu Vương Toại, Giao Tây vương Ngang, Tế Nam vương Tịch Quang, Tri Xuyên vương Hiền, Giao Đông vương Hùng Cù làm phản, dấy binh tiến về phía tây.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.024">
+					<C>天子为诛晁错，遣袁盎谕告，不止，遂西围梁。</C>
+					<V>Thiên tử vì vậy giết Triều Thố, sai Viên Áng truyền cáo dụ, vẫn không dừng, bèn tiến về Tây bao vây đất Lương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.025">
+					<C>上乃遣大将军窦婴、太尉周亚夫将兵诛之。</C>
+					<V>Vua bèn sai Đại tướng quân Đậu Anh, Thái úy Chu Á Phu đem quân tới giết.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.026">
+					<C>六月 乙亥。 赦亡军及楚元王子(cid:0)等与 谋反者。</C>
+					<V>Ngày Ất Hợi, tháng Sáu, tha cho toán quân bỏ chạy cùng bọn Lưu Nghệ, con của Sở Nguyên vương, và những kẻ mưu phản.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.027">
+					<C>封大将军窦婴为魏其侯。 立楚元王 子平陆侯礼 为楚王。</C>
+					<V>Phong Đại tướng quân Đậu Anh làm Ngụy Kỳ hầu. Lập con của Sở Nguyên vương là Bình Lục hầu Lưu Lễ làm Sở vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.028">
+					<C>立皇子端为胶西王，子胜为中山 王。 徙济北王志为 菑川王，淮阳王馀为鲁王， 汝南王非为江都王。</C>
+					<V>Lập hoàng tử Đoan làm Giao Tây vương hoàng tử Thắng làm Trung Sơn vương. Dời Tế Bắc vương Chí làm Tri Xuyên vương, Hoài Dương Vương Dư làm Lỗ vương, Nhã Nam vương Phi làm Giang Đô vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.029">
+					<C>齐王将庐、 燕王嘉皆薨。</C>
+					<V>Tề vương Tương Lư, Yên vương Gia đều mất.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.030">
+					<C>四年夏，立太子。</C>
+					<V>Mùa hạ, năm thứ tư, lập thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.031">
+					<C>立皇子彻为胶东王。</C>
+					<V>Lập hoàng tử Triệt làm Giao Đông vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.032">
+					<C>六月甲戌，赦天下。</C>
+					<V>Ngày Giáp Tuất, tháng Sáu, đại xá thiên hạ.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.033">
+					<C>後九 月，更以阳为阳陵。</C>
+					<V>Tháng Chín nhuận, đổi Dịch Dương làm Dương Lăng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.034">
+					<C>复置津关，用传出入。</C>
+					<V>Đặt lại bến bãi, quan ải, ra vào phải dùng thẻ.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.035">
+					<C>冬， 以赵国为邯郸郡。</C>
+					<V>Mùa đông, đổi nước Triệu làm quận Hàm Đan.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.036">
+					<C>五年三月，作阳陵、 渭桥。</C>
+					<V>Tháng Ba, năm thứ năm, xây Dương Lăng, Vị Kiều.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.037">
+					<C>五月，募徙阳陵，予钱二十万。</C>
+					<V>Tháng Năm, chiêu mộ người dân đến ở Dương Lăng, cấp tiền hai mươi vạn.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.038">
+					<C>江都大 暴风从西方来，坏城十二丈。</C>
+					<V>Giang Đô gặp bão lớn đến từ phía tây, hỏng hai mươi trượng tường thành.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.039">
+					<C>丁卯，封长公主子蟜为隆虑侯。</C>
+					<V>Ngày Đinh Mão, phong con của trưởng công chúa tên là Kiểu làm Long Lư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.040">
+					<C>徙广川王为赵王。</C>
+					<V>Dời Quảng Xuyên vương làm Triệu vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.041">
+					<C>六年春，封中尉绾为建陵侯， 江都丞相嘉为建平侯，陇西太守浑邪为 平曲侯，赵丞相 嘉为江陵侯，故将军布为鄃侯。</C>
+					<V>Mùa xuân, năm thứ sáu, phong Trung úy tên là Oản làm Kiển Lăng hầu, thừa tướng Giang Đô tên là Gia làm Kiến Bình hầu, Thái thú Lũng Tây tên là Hồn Da làm Bình Khúc hầu, thừa tướng nước Triệu tên là Gia làm Giang Lăng hầu, nguyên tướng quân tên là Bố làm Thư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.042">
+					<C>梁楚二王皆 薨。</C>
+					<V>Hai vương nước Lương, Sở đều mất.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.043">
+					<C>七年冬，废栗太子为临江王。</C>
+					<V>Mùa đông, năm thứ bảy, phế truất thái tử Lật làm Lâm Giang vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.044">
+					<C>十月晦，日有食之。</C>
+					<V>Ngày ba mươi, tháng Mười một, nhật thực.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.045">
+					<C>春，免徒隶作阳陵者。</C>
+					<V>Mùa xuân, tha cho tù nhân và nô lệ xây Dịch Lăng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.046">
+					<C>丞相青免。</C>
+					<V>Thừa tướng Thanh bị bãi chức.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.047">
+					<C>二月乙 巳，以太尉条侯周亚夫为丞 相。</C>
+					<V>Ngày Ất Tị, tháng Hai, cho Thái úy Điều hầu Chu Á Phu làm thừa tướng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.048">
+					<C>四月乙巳，立胶东王太后为皇后。</C>
+					<V>Ngày Ất Tị, tháng Tư, lập Giao Đông vương thái hậu làm hoàng hậu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.049">
+					<C>丁巳，立胶东王为太子。</C>
+					<V>Ngày Đinh Tị, lập Giao Đông vương làm thái tử.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.050">
+					<C>中元年，封故御史大夫周苛孙平 为绳侯，故御史大夫周昌左车为安阳侯，四月乙巳，赦天 下，赐爵一级。</C>
+					<V>Năm Trung nguyên đầu tiên, phong cho cháu của cố Ngự sử đại phu Chu Hạ là Bình làm Thằng hầu, cháu của cố Ngự sử đại phu Chu Xương là Tả Xa làm An Dương hầu. Ngày Ất Tị, tháng Tư, đại xá thiên hạ, ban tước cho dân một cấp.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.051">
+					<C>除禁锢。</C>
+					<V>Bỏ lệnh cấm.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.052">
+					<C>衡山、原都雨雹，大者尺八寸。</C>
+					<V>Hành Sơn, Nguyên Đô mưa đá, viên lớn một thước tám tấc.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.053">
+					<C>中二年二月，匈奴入燕，遂不和亲。</C>
+					<V>Tháng Hai, năm Trung nguyên thứ hai, Hung Nô tiến vào đất Yên, liền bỏ hòa thân.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.054">
+					<C>三月，召临江王来。 即死中 尉府中。</C>
+					<V>Tháng Ba, Vời Lâm Giang vương tới làm Giang vương chết ngay trong phủ Trung úy.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.055">
+					<C>夏，立皇子越为广川王，子寄为胶东王。</C>
+					<V>Mùa hạ, lập hoàng tử Việt làm Quảng Xuyên vương, hoàng tử Ký làm Giao Đông vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.056">
+					<C>封四侯。</C>
+					<V>Phong bốn hầu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.057">
+					<C>中三年冬，罢诸侯御史中丞。</C>
+					<V>Mùa đông, năm Trung nguyên thứ ba, bỏ chức chư hầu Ngự sử trung thừa.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.058">
+					<C>春，匈奴王二人率其徒来降，皆封 为列侯。</C>
+					<V>Mùa xuân, hai vua Hung Nô đem bộ hạ tới đầu hàng, đều phong làm liệt hầu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.059">
+					<C>立皇子方乘为清河王。</C>
+					<V>Lập hoàng tử Phương Thừa làm Thanh Hà vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.060">
+					<C>三月，彗星出西北。</C>
+					<V>Tháng Ba, sao chổi mọc ở tây bắc.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.061">
+					<C>丞相周亚夫，以御史大夫桃侯刘舍为丞相。</C>
+					<V>Thừa tướng Chu Á Phu bị bãi chức, cho Ngự sử đại phu Đào hầu Lưu Xá làm thừa tướng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.062">
+					<C>四月，地动。</C>
+					<V>Tháng Tư, động đất.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.063">
+					<C>中四年三月，置德阳宫。</C>
+					<V>Tháng Ba, năm Trung nguyên thứ tư, dựng cung Đức Dương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.064">
+					<C>大蝗。</C>
+					<V>Có nạn châu chấu lớn.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.065">
+					<C>秋，赦徒作阳陵者。</C>
+					<V>Mùa thu, tha cho tù nhân xây Dương Lăng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.066">
+					<C>中五年夏，立皇子舜为常山王。</C>
+					<V>Mùa hạ, năm Trung nguyên thứ năm, lập hoàng tử Thuấn làm Thường Sơn vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.067">
+					<C>封十侯。</C>
+					<V>Phong mười liệt hầu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.068">
+					<C>六月丁巳，赦天下，赐爵一级。</C>
+					<V>Ngày Đinh Tị, tháng Sáu, đại xá thiên hạ, ban tước cho dân một cấp.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.069">
+					<C>天 下大潦。</C>
+					<V>Thiên hạ lụt lớn.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.070">
+					<C>更命诸侯丞相曰相。</C>
+					<V>Đổi gọi thừa tướng ở các nước chư hầu là Tướng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.071">
+					<C>秋，地动。</C>
+					<V>Mùa thu, động đất.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.072">
+					<C>中六年二月己卯，行幸雍，郊见五帝。</C>
+					<V>Ngày Kỷ Mão, tháng Hai, năm Trung nguyên thứ sáu, thiên tử ngự giá đến huyện Ung, cử hành tế Giao để tế Ngũ đế.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.073">
+					<C>三月，雨雹。</C>
+					<V>Tháng Ba, mưa đá.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.074">
+					<C>四月，梁孝 王、城阳共王、 汝南王皆薨。</C>
+					<V>Tháng Tư, Lương Hiếu vương, Thành Dương Công vương, Nhã Nam vương đều mất.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.075">
+					<C>立梁孝王子明为济川 王，子彭离为济东王，子定为 山阳王，子不识为济阴 王。</C>
+					<V>Lập con của Lương Hiếu vương là Minh làm Tế Xuyên vương, con là Bành Ly làm Tế Đông vương, con là Định làm Sơn Dương vương, con là Bất Thức làm Tế Âm vương.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.076">
+					<C>梁分 为五。</C>
+					<V>Chia đất Lương làm năm.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.077">
+					<C>更命廷尉为大理，将作少府为将作大匠，主爵中尉为 都尉，长信詹事 为长信少府， 将行为大长 秋，大 行为行人， 奉常为太常， 典客为大行， 治粟内史为大农。</C>
+					<V>Đổi chức Đình úy làm Đại lý, đổi Tương tác Thiếu phủ làm Tương tác Đại tượng, đổi Chủ tước trung úy làm Đô úy, đổi Trường tín Chiêm sự làm Trưởng tín Thiếu phủ, đổi Tướng hành làm Đại trường thu, Đại hành làm Hành nhân, Phụng thường làm Thái thường, Điển khách làm Đại hình, Trị túc nội sử làm Đại nông.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.078">
+					<C>以大内为二千石， 置左右内官，属大内。</C>
+					<V>Cho Đại nội lương hai ngăn thạch, đặt tả hữu nội quan, thuộc Đại nội.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.079">
+					<C>八月，匈奴入上郡。</C>
+					<V>Tháng Tám, Hung Nô tiến vào Thượng Quận.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.080">
+					<C>後元年冬，更命中大夫令为卫尉。</C>
+					<V>Mùa đông, năm Hậu nguyên đầu tiên, đổi Trung đại phu lệnh làm Vệ úy.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.081">
+					<C>三月丁 酉，赦天下，赐爵一级，中二千石、诸侯相爵右庶长。</C>
+					<V>Ngày Đinh Dậu, tháng Ba, đại xá thiên hạ, ban tước cho dân một cấp, các quan lương hai ngàn thạch cùng quan Tướng của các nước chư hầu được ban tước Hữu thứ trưởng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.082">
+					<C>四月，大酺。</C>
+					<V>Tháng Tư, cho thiên hạ ăn uống linh đình.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.083">
+					<C>七月乙巳，日食。</C>
+					<V>Ngày Ất Tỵ, tháng Bảy, nhật thực.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.084">
+					<C>丞相刘舍免。</C>
+					<V>Thừa tướng Lưu Xá bị bãi chức.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.085">
+					<C>八月壬 辰，以御史大夫绾为丞相，封建陵侯。</C>
+					<V>Ngày Nhâm Thìn, tháng Tám, cho Ngự sử đại phu tên là Oản làm thừa tướng, phong làm Kiển Lăng hầu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.086">
+					<C>後二年正月，地一日三动。</C>
+					<V>Tháng Giêng, năm Hậu nguyên thứ hai, tháng Giêng, một ngày động đất ba lần.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.087">
+					<C>酺五日。</C>
+					<V>Ăn uống linh đình năm ngày.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.088">
+					<C>令内史郡不得食马粟，没入县 官。</C>
+					<V>Lệnh cho Nội sử và các quận không được đem lương thực cho ngựa ăn, bằng không quan huyện tịch thu ngựa.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.089">
+					<C>止马舂。</C>
+					<V>Cấm dùng ngựa giã thóc.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.090">
+					<C>为岁不登，禁天下食不 造岁。 省列侯遣之国。</C>
+					<V>Vì mùa màng thất bát, không để cho thiên hạ hết lương thực trước vụ gặt thu. Giảm số liệt hầu, sai tới nước phong.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.091">
+					<C>三 月，匈奴入雁门。</C>
+					<V>Tháng Ba, Hung Nô tiến vào Nhạn Môn.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.092">
+					<C>十月，租长陵田。</C>
+					<V>Tháng Mười, cho thuê ruộng ở Trường Lăng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.093">
+					<C>大旱。</C>
+					<V>Đại hạn.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.094">
+					<C>衡山国、河东、云中郡 民疫。</C>
+					<V>Nước Hành Sơn, quận Hà Đông, quận Vân Trung, dân bị ôn dịch.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.095">
+					<C>後三年十月，日月皆赤五日。</C>
+					<V>Tháng Mười, năm Hậu nguyên thứ ba, mặt trăng và mặt trời đều đỏ au trong năm ngày.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.096">
+					<C>十二月晦，袴。</C>
+					<V>Ngày ba mươi tháng Mười hai, có sấm.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.097">
+					<C>月 贯天廷中。</C>
+					<V>Mặt trăng đi xuyên qua Thiên đình.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.098">
+					<C>正月甲寅，皇太子冠。</C>
+					<V>Ngày Giáp Dần, tháng Giêng, hoàng thái tử làm lễ gia quan.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.099">
+					<C>甲子，孝景皇帝崩。</C>
+					<V>Ngày Giáp Tý, Hiếu Cảnh hoàng đế băng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.100">
+					<C>遗诏赐诸侯王以下至民为父後爵一 级，天下户百钱。</C>
+					<V>Di chiếu ban tước từ vua chư hầu tới dân thường, hễ ai nối nghiệp cha đều được một cấp, ban cho mỗi hộ trong thiên hạ trăm tiền.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.101">
+					<C>出宫人归其家，复无所与。</C>
+					<V>Thả cung phi về nhà, miễn mọi thuế má.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.102">
+					<C>太子即位，是为孝武皇 帝。</C>
+					<V>Thái tử lên ngôi, đây là Hiếu Vũ hoàng đế.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.103">
+					<C>三月，封皇太后弟蚡 为武安侯，弟胜为周阳侯。</C>
+					<V>Tháng Ba, phong cho em của hoàng thái hậu là Điền Phân làm Vũ An hầu, em là Điền Thắng làm Chu Dương hầu.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.104">
+					<C>置阳 陵。</C>
+					<V>Chôn cất Cảnh đế ở Dương Lắng.</V>
+				</STC>
+				<STC ID="HCS_001.011.001.105">
+					<C>太史公曰：汉兴，孝文施大德，天下怀安，至孝景，不复忧异 姓，而晁错刻削诸侯，遂使七国俱起，合从而西乡，以诸侯太盛，而 错为之不以渐也。</C>
+					<V>Thái sử công bàn rằng: Nhà Hán nổi lên, Hiếu Văn ban đức lớn, thiên hạ yên ổn. Đến thời Hiểu Cảnh, không còn lo họ khác làm phản, nhưng Triều Thố cắt tỉa thế lực chư hầu, khiến bảy nước cùng dấy binh, hợp tung tây tiến, ấy bởi chư hầu quá mạnh, mà Thố không thể lo việc một cách tuần tự, dần dần.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.011.002">
+				<STC ID="HCS_001.011.002.001">
+					<C>後九月，伐驰道树，殖兰池。</C>
+					<V>Tháng Chín nhuận, chặt cây hai bên đường vua đi, lấp ao Lan Trì.</V>
+				</STC>
+				<STC ID="HCS_001.011.002.002">
+					<C>地动。</C>
+					<V>Động đất.</V>
+				</STC>
+				<STC ID="HCS_001.011.002.003">
+					<C>九月甲戌，日食。</C>
+					<V>Ngày Giáp Tuất, tháng Chín, nhật thực.</V>
+				</STC>
+				<STC ID="HCS_001.011.002.004">
+					<C>九月戊戌 晦，日食。</C>
+					<V>Tháng Chín, ngày ba mươi, Mậu Tuất, nhật thực.</V>
+				</STC>
+				<STC ID="HCS_001.011.002.005">
+					<C>军东都门外。</C>
+					<V>Đóng quân ở ngoài cửa Đông Đô.</V>
+				</STC>
+				<STC ID="HCS_001.011.002.006">
+					<C>七月辛亥，日食。</C>
+					<V>Ngày Tân Hợi, tháng Bảy nhật thực.</V>
+				</STC>
+				<STC ID="HCS_001.011.002.007">
+					<C>五月丙戌，地动，其蚤食时复动。</C>
+					<V>Ngày Bính Tuất, tháng Năm, động đất, vào lúc ăn sáng lại động.</V>
+				</STC>
+				<STC ID="HCS_001.011.002.008">
+					<C>上庸地动二十二日，坏城垣。</C>
+					<V>Vùng Thượng Dung động đất hai mươi hai ngày, hỏng tường thành.</V>
+				</STC>
+				<STC ID="HCS_001.011.002.009">
+					<C>日如紫。</C>
+					<V>Mặt trời màu tía.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.011.003">
+				<STC ID="HCS_001.011.003.001">
+					<C>郅将军击匈奴。</C>
+					<V>Tướng quân Chất Đô đánh Hung Nô.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.011.004">
+				<STC ID="HCS_001.011.004.001">
+					<C>安 危之机，岂不以谋哉？</C>
+					<V>Mấu chốt an nguy, há chẳng do mưu lược sao?</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

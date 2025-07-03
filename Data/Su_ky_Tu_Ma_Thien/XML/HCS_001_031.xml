@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.031">
+			<PAGE ID="HCS_001.031.001">
+				<STC ID="HCS_001.031.001.001">
+					<C>吴太伯， 太伯弟仲雍， 皆周太王之子， 而王季历之兄也。</C>
+					<V>Ngô Thái bá và em trai là Trọng Ung, đều là con của Chu Thái vương và là anh của vua Quý Lịch.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.002">
+					<C>季历贤，而有圣子昌，太王欲立季历以及昌，於是 太佰、仲雍二人乃饹荆蛮，文身断发，示不可用， 以避季历。</C>
+					<V>Quý Lịch hiền năng, lại có người con thánh minh tên là Xương, Thái vương muốn lập Quý Lịch để truyền đến Xương, thế nên hai anh em Thái bá, Trọng Ung bèn chạy trốn đến đất Kinh Man, xăm mình cắt tóc, tỏ rằng mình không thể được trọng dụng, nhằm tránh Quý Lịch.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.003">
+					<C>季历果立，是为王 季，而昌为文王。</C>
+					<V>Quý Lịch quả nhiên được lập, đó là vua Quý, còn Xương [sau] là Văn vương.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.004">
+					<C>太伯之饹荆蛮，自号句吴。</C>
+					<V>Thái bá chạy trốn đến Kinh Man, tự lấy hiệu là Câu Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.005">
+					<C>荆蛮义之，从而归之千馀家，立为吴太伯。</C>
+					<V>[Người] Kinh Man cho ông là người có nghĩa, bèn theo rồi quy thuận đến hơn nghìn nhà, lập làm Ngô Thái bá.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.006">
+					<C>太伯卒，无子， 弟仲雍立，是为吴仲雍。</C>
+					<V>Thái bá chết, không có con, người em trai là Trọng Ung lên thay, đó là Ngô Trọng Ung.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.007">
+					<C>仲雍卒， 子季简立。</C>
+					<V>Trọng Ung chết, con là Quý Giản lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.008">
+					<C>季简卒，子叔达立。</C>
+					<V>Quý Giản chết, con là Thúc Đạt lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.009">
+					<C>叔达 卒，子周章立。</C>
+					<V>Thúc Đạt chết, con là Chu Chương lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.010">
+					<C>是时周武王克殷，求太伯、仲雍之後，得周章。</C>
+					<V>Bấy giờ Chu Vũ vương diệt xong nhà Ân, cho tìm hậu duệ của Thái bá và Trọng Ung, tìm được Chu Chương.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.011">
+					<C>周章 已君吴，因而封之。</C>
+					<V>Chu Chương đã làm vua nước Ngô, [Vũ vương] nhân đó phong cho đất Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.012">
+					<C>乃封周章弟虞仲於周之北故夏虚， 是为虞仲， 列为诸侯。</C>
+					<V>Bèn lấy vùng nguyên là Hạ Khư ở phía bắc nước Chu phong cho em của Chu Chương là Ngu Trọng, đó là Ngu Trọng, được liệt vào hàng chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.013">
+					<C>周章卒，子熊遂立，熊遂卒，子柯相立。</C>
+					<V>Chu Chương chết, con là Hùng Toại lên thay. Hùng Toại chết, con là Ca Tướng lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.014">
+					<C>柯相卒，子彊鸠夷立。</C>
+					<V>Ca Tướng chết, con là Cương Cưu Di lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.015">
+					<C>彊鸠夷卒，子馀桥疑吾立。 馀桥疑吾卒，子柯卢立。</C>
+					<V>Cương Cưu Di chết, con là Dư Kiều Nghi Ngô lên thay. Dư Kiều Nghi Ngô chết, con là Kha Lư lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.016">
+					<C>柯卢卒，子周繇立。 周繇卒，子屈羽立。</C>
+					<V>Kha Lư chết, con là Chu Dao lên thay. Chu Dao chết, con là Khuất Vũ lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.017">
+					<C>屈羽卒，子夷吾立。 夷吾 卒，子禽处立。</C>
+					<V>Khuất Vũ chết, con là Di Ngô lên thay. Di Ngô chết, con là Cầm Xử lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.018">
+					<C>禽处卒，子转立。</C>
+					<V>Cầm Xử chết, con là Chuyển lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.019">
+					<C>转卒， 子颇高立。 颇高卒，子句卑立。</C>
+					<V>Chuyển chết, con là Phả Cao lên thay. Phả Cao chết, con là Câu Ty lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.020">
+					<C>句卑卒，子去 齐立。 去齐卒，子寿梦立。</C>
+					<V>Câu Ty chết, con là Khứ Tề lên thay. Khứ Tề chết, con là Thọ Mông lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.021">
+					<C>寿梦立而吴始益大，称 王。</C>
+					<V>Thọ Mông lên ngôi thì nước Ngô bắt đầu lớn mạnh dần, xưng vương.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.022">
+					<C>自太伯作吴，五世而武王克殷，封其後为二：其一虞，在中国； 其一吴，在夷蛮。</C>
+					<V>Từ thuở Thái bá dựng nước Ngô, trải năm đời thì đến khi [Chu] Vũ vương lật đổ nhà Ân, hậu duệ được phong hai nơi: một là nước Ngu, nằm ở Trung nguyên, một là nước Ngô, nằm ở vùng man di.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.023">
+					<C>中国之虞灭二世，而夷蛮 之吴兴。</C>
+					<V>Nước Ngu ở Trung nguyên bị diệt được hai đời thì nước Ngô ở vùng man di hứng khởi.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.024">
+					<C>吴伐楚。</C>
+					<V>Ngô đánh Sở.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.025">
+					<C>二十五年，王寿梦卒。</C>
+					<V>Năm thứ hai mươi lăm, vua Thọ Mông chết.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.026">
+					<C>季札贤，而寿梦欲立之，季札让不可，於是乃 立长子诸樊，摄行事当国。</C>
+					<V>Quý Trát là người hiền năng, nhưng khi Thọ Mông định lập [Quý Trát] làm vua, Quý Trát lại thoái thác, thế là bèn lập con trưởng là Chư Phàn, để nắm quyền hành xử lý mọi việc trong nước.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.027">
+					<C>吴人固立季札，季札弃其 室而耕，乃舍之。</C>
+					<V>Người Ngô cố lập Quý Trát, Quý Trát bỏ nhà đi cày ruộng, người ta mới chịu thôi.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.028">
+					<C>十三年，王诸樊卒。</C>
+					<V>Năm thứ mười ba, vua Chư Phàn chết.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.029">
+					<C>有命授弟馀祭，欲传 以次，必致国於季札而止，以称先王寿梦之意，且嘉季札之义，兄弟 皆欲致国，令以渐至焉。</C>
+					<V>Có di mệnh truyền ngôi cho em là Dư Sái, muốn truyền lần lượt, nhất định truyền quốc đến Quý Trát mới thôi, để thuận theo ý nguyện của tiên vương Thọ Mông, hơn nữa để biểu dương khí tiết của Quý Trát, các anh em đều muốn truyền quốc cho, nên mới theo cách này để dần dần truyền đến [Quý Trát].</V>
+				</STC>
+				<STC ID="HCS_001.031.001.030">
+					<C>四年，吴使季札聘於鲁，请观周乐。 为歌周南、召南。</C>
+					<V>Năm thứ tư, nước Ngô sai Quý Trát sang thông hiếu với nước Lỗ, được mời thưởng thức âm nhạc nhà Chu.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.031">
+					<C>歌颂。 曰：“至矣哉，直而不 倨，曲而不诎， 近而不偪，远而不携， 而迁不淫， 复而不厌， 哀而不愁，乐而不荒， 用而不匮，广而不宣， 施而不费， 取而不贪，处而不厎， 行而不流。五声和，八 风平， 节有度，守有序， 盛德之所同也。”</C>
+					<V>Hát “Tụng”, [nghe xong, Quý Trát] nói: “Cực điểm vậy thay, thẳng thắn mà không ngạo mạn, uyển chuyển mà không khuất phục, thân cận mà không bức bách, xa xôi mà không lỏng lẻo, biến đổi mà không dâm loạn, trăn trở mà không mệt mỏi, đau thương mà không ưu sầu, vui vẻ mà không hoang đàng, dùng mà không thiếu, rộng mà không lộ, ra ơn mà không phí phạm, lấy mà không tham nhiều, ngừng nghỉ mà không trì trệ, vận hành mà không trôi tuột. Lời của năm thanh hài hòa, khí của tám phương bình ổn, tiết tấu có chừng mực, phách nhịp có quy tắc, giống như nơi chứa đức tốt vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.031.001.032">
+					<C>遂去之。</C>
+					<V>Đoạn bỏ đi.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.033">
+					<C>文子闻之，终身不听琴 瑟。</C>
+					<V>Văn tử nghe được lời ấy, sau này cả đời không nghe tiếng đàn cầm đàn sắt nữa.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.034">
+					<C>十七年，王馀祭卒， 弟馀眛立。</C>
+					<V>Năm thứ mười bảy, vua Dư Sái chết, em là Dư Muội lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.035">
+					<C>四年，王馀眛卒，欲授弟季札。</C>
+					<V>Năm thứ tư, vua Dư Muội chết, muốn truyền ngôi cho em là Quý Trát.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.036">
+					<C>於是吴人 曰：“先王有命，兄卒弟代立，必致季子。季子今逃位，则王馀眛後 立。今卒，其子当代。”</C>
+					<V>Vì thế, người Ngô nói: “Tiên vương đã có di mệnh, anh mất thời em lên thay, ắt truyền đến Quý tử. Nay Quý tử trốn ngôi, thì vua Dư Muội là người cuối cùng trong các anh em được lập. Nay [vua Dư Muội] mất đi, lập con ngài lên thay.”</V>
+				</STC>
+				<STC ID="HCS_001.031.001.037">
+					<C>乃立王馀眛之子僚为王。</C>
+					<V>Bèn lập con của vua Dư Muội là Liêu lên làm vương.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.038">
+					<C>公子光 者，王诸樊之子也。</C>
+					<V>Công tử Quang là con vua Chư Phàn.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.039">
+					<C>常以为吾父 兄弟四人，当传至季子。</C>
+					<V>[Quang] luôn cho rằng cha mình có ba người anh em, [ngôi báu] đáng lẽ được truyền đến Quý tử.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.040">
+					<C>季子即不受国，光父先立。 即不传季子，光 当立。</C>
+					<V>Quý tử đã không nhận ngôi báu, thì cha của Quang là người đầu tiên được lập. Đã không truyền ngôi đến Quý tử thì đáng lý Quang phải được lập.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.041">
+					<C>阴纳贤士，欲以袭王僚。</C>
+					<V>[Quang] liền ngầm chiêu nạp hiền sĩ, muốn tập kích Ngô vương Liêu.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.042">
+					<C>伍子胥之初奔吴，说吴王僚以伐楚之利。</C>
+					<V>Hồi Ngũ Tử Tư mới chạy sang nước Ngô, thuyết phục Ngô vương Liêu về mối lợi khi thảo phạt nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.043">
+					<C>十二年冬，楚平王卒。</C>
+					<V>Mùa đông năm thứ mười hai, Sở Bình vương chết.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.044">
+					<C>楚发兵绝吴兵後，吴兵不得还。</C>
+					<V>Nước Sở cất quân chặn phía sau quân Ngô, quân Ngô không trở về được.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.045">
+					<C>於是吴公子光 曰：“此时不可失也。”</C>
+					<V>Thế là, công tử Quang nước Ngô nói: “Thời cơ [hành thích Ngô vương] này không thể bỏ lỡ.”</V>
+				</STC>
+				<STC ID="HCS_001.031.001.046">
+					<C>光曰：“我身，子之身也。”</C>
+					<V>Quang đáp: “Mạng sống của ta cũng chính là mạng sống của ông vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.031.001.047">
+					<C>公子光竟代立为王，是为吴王阖庐。</C>
+					<V>Rốt cuộc công tử Quang thay thế rồi lên ngôi vương, đó là Ngô vương Hạp Lư.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.048">
+					<C>阖庐乃以专 诸子为卿。</C>
+					<V>Hạp Lư liền cho con của Chuyên Chư làm chức khanh.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.049">
+					<C>於是吴王遂纵兵追之。</C>
+					<V>Thế là Ngô vương bèn tung quân truy kích.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.050">
+					<C>十年春，越闻吴王之在郢，国空，乃伐吴。</C>
+					<V>Mùa xuân năm thứ mười, nước Việt nghe tin Ngô vương đang ở Dĩnh đô, trong nước trống không, liền chinh phạt nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.051">
+					<C>吴王病伤而死。</C>
+					<V>Ngô vương bị thương rồi ốm chết.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.052">
+					<C>季康子使子贡以周礼说太宰嚭，乃得止。</C>
+					<V>Quý Khang tử sai Tử Cống dùng lễ chế nhà Chu thuyết phục Thái tể Phỉ, [Thái tể Phỉ] mới thôi [không đòi hỏi].</V>
+				</STC>
+				<STC ID="HCS_001.031.001.053">
+					<C>越王句践率其众以朝吴，厚献遗之，吴王喜。</C>
+					<V>Việt vương Câu Tiễn dẫn các bề tôi của mình sang triều kiến nước Ngô, dâng lễ vật trọng hậu, Ngô vương vui lòng.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.054">
+					<C>吴王不听，使子胥於齐，子胥属其子於齐鲍氏， 还报吴王。</C>
+					<V>Ngô vương không nghe, sai Tử Tư đi sứ nước Tề, Tử Tư gửi gắm con mình cho Bào thị nước Tề, trở về phục mệnh với Ngô vương.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.055">
+					<C>吴王闻 之，大怒，赐子胥属镂 之剑以死。</C>
+					<V>Ngô vương biết chuyện, cả giận, ban kiếm Chúc lũ để cho Tử Tư tự vẫn.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.056">
+					<C>齐人败吴，吴王乃引兵归。</C>
+					<V>Người Tề đánh bại quân Ngô, Ngô vương bèn dẫn quân về.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.057">
+					<C>六月子，越王句践伐吴。</C>
+					<V>Ngày Bính Tý tháng Sáu, Việt vương Câu Tiễn chinh phạt nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.058">
+					<C>丙戌，虏吴太子友。</C>
+					<V>Ngày Bính Tuất, bắt sống Thái tử Hữu nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.059">
+					<C>丁亥，入吴。</C>
+					<V>Ngày Đinh Hợi, vào đất Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.060">
+					<C>乃引兵归国。</C>
+					<V>Liền dẫn quân về nước.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.061">
+					<C>二十年，越王句践复伐吴。</C>
+					<V>Năm thứ hai mươi, Việt vương Câu Tiễn lại chinh phạt nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.062">
+					<C>二十一年，遂围吴。</C>
+					<V>Năm thứ hai mươi mốt, bèn bao vây nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.063">
+					<C>越王句践欲迁吴王夫差於甬东， 予百家居之。</C>
+					<V>Việt vương Câu Tiễn định đày Ngô vương Phù Sai ra Dũng Đông, cấp cho trăm hộ để ở lại đó.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.064">
+					<C>越王灭吴，诛太宰嚭，以为不 忠，而归。</C>
+					<V>Việt vương tiêu diệt nước Ngô, giết Thái tể Phỉ vì cho là bất trung, rồi trở về.</V>
+				</STC>
+				<STC ID="HCS_001.031.001.065">
+					<C>余读春秋古 文，乃知中国之虞与荆蛮句吴兄弟也。</C>
+					<V>Ta đọc cổ văn Xuân Thu, mới hay nước Ngu ở Trung nguyên và Câu Ngô ở Kinh Man là anh em vậy.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.031.002">
+				<STC ID="HCS_001.031.002.001">
+					<C>是时晋献公灭周北虞公，以开晋伐虢也。</C>
+					<V>Khi ấy, Tấn Hiến công diệt Ngu công ở phía bắc nước Chu để mở đường cho nước Tấn đánh nước Quốc.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.002">
+					<C>十二世而晋灭中国之虞。</C>
+					<V>[Được] mười hai đời thì nước Tấn diệt nước Ngu ở Trung nguyên.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.003">
+					<C>大凡 从太伯至寿梦十九世。</C>
+					<V>Tính ra từ Thái bá đến Thọ Mông gồm mười chín đời.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.004">
+					<C>王寿梦二年， 楚之亡大夫申公巫臣怨楚将子反而饹晋，自晋使吴，教吴用兵 乘车，令其子为吴行人， 吴於是始通於中国。</C>
+					<V>Vua Thọ Mông năm thứ hai, vì oán tướng nước Sở là Tử Phản nên viên đại phu đào tẩu của Sở là Thân công Vu Thần chạy trốn sang nước Tấn, từ Tấn đi sứ sang Ngô, dạy người Ngô phép dùng binh và chiến xa, sai con ở lại Ngô làm chức Hành nhân, từ đó Ngô mới bắt đầu qua lại với Trung nguyên.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.005">
+					<C>十六年，楚共王伐吴，至衡山。</C>
+					<V>Năm thứ mười sáu, Sở Cung vương đánh nước Ngô, đến tận Hành Sơn.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.006">
+					<C>寿梦有子四人，长曰诸 樊， 次曰馀祭，次曰馀眛， 次曰季札。</C>
+					<V>Thọ Mông có bốn người con trai, con trưởng là Chư Phàn, kế là Dư Tế, tiếp là Dư Muội, út là Quý Trát.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.007">
+					<C>王诸樊元年，诸樊已除丧，让位季 札。</C>
+					<V>Vua Chư Phàn năm thứ nhất, Chư Phàn đã đoạn tang, liền nhường ngôi cho Quý Trát.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.008">
+					<C>季札谢曰：“曹宣公之卒也，诸侯与曹人不义曹君， 将立子臧，子臧 去之，以成曹君， 君子曰 ‘能守节矣’。君义嗣， 谁敢干君！有国， 非吾节也。札虽不材，原附於子臧之义。”</C>
+					<V>Quý Trát từ tạ rằng: “Tào Tuyên công chết đi, chư hầu và người nước Tào đều cho rằng Tào quân bất nghĩa, định lập Tử Tang, Tử Tang rơi nước Tào, để thành toàn cho Tào quân, người Quân tử cho là: 'Biết thủ tiết đấy'. Đại huynh nối ngôi theo lễ, ai dám mạo phạm! Việc nhận ngôi vua, không phải khí tiết của Trát. Trát tuy bất tài, cũng nguyện noi theo tiết tháo của Tử Tang.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.009">
+					<C>秋，吴伐楚，楚败我师。</C>
+					<V>Mùa thu, Ngô đánh Sở, bị Sở đánh bại.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.010">
+					<C>四年，晋平公初立。</C>
+					<V>Năm thứ tư, Tấn Bình công mới lên ngôi.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.011">
+					<C>王馀祭三年，齐相庆封有罪，自齐来饹吴。</C>
+					<V>Vua Dư Sái năm thứ ba, Tướng quốc nước Tề là Khánh Phong mắc tội, từ Tề chạy sang Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.012">
+					<C>吴予庆封硃方之县， 以为奉邑，以女妻之，富於在 齐。</C>
+					<V>Nước Ngô đem huyện Chu Phương ban cho Khánh Phong làm ấp hưởng lộc, gả con gái cho, [khiến Khánh Phong] giàu có hơn khi ở nước Tề.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.013">
+					<C>曰：“美哉，始基之矣，犹未 也。 然勤而不怨。”</C>
+					<V>Sau khi nghe hát “Chu nam”, “Thiệu nam”, [Quý Trát] nói: “Đẹp đẽ thay, bắt đầu gây dựng nền móng, còn chưa hoàn thiện, nhưng dân vất vả mà không oán thán.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.014">
+					<C>歌 秦。 曰：“此之谓夏声。夫能夏则大，大之至也，其周之旧乎？”</C>
+					<V>Hát “Tần phong”, [nghe xong, Quý Trát] nói: “Đây gọi là Hạ thanh. Ôi, đã là Hạ thì to lớn, to lớn đến cực độ vậy, đó là âm nhạc cũ của nhà Chu chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.015">
+					<C>去鲁，遂使齐。</C>
+					<V>[Quý Trát] rời nước Lỗ, bèn đi sứ sang nước Tề.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.016">
+					<C>故晏子因陈桓子以纳政与邑，是 以免於栾高之难。</C>
+					<V>Vì thế, Yến tử nhờ Trần Hoàn tử để giao lại ấp phong và quyền tước, nhờ thế thoát được nạn Loan Cao.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.017">
+					<C>将去，谓叔向曰：“吾子勉之！君侈 而多良，大夫皆富，政将在三家。 吾子直，必思自免於 难。”</C>
+					<V>Sắp sửa đi thì nói với Thúc Hướng rằng: “Ngài hãy cố gắng! Nhà vua xa xỉ mà lại nhiều bề tôi giỏi, các đại phu đều giàu có [ắt ban bố ân huệ sâu dày], cho nên chính sự sắp về tay ba nhà. Ngài là người ngay thẳng, ắt phải tự nghĩ cách mà tránh nạn.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.018">
+					<C>季札之初使，北过徐君。</C>
+					<V>Lúc Quý Trát mới đi sứ, lên phía bắc qua chỗ Từ quân.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.019">
+					<C>季札心知 之，为使上国，未献。</C>
+					<V>Quý Trát trong lòng hiểu ý, song vì còn đi sứ nước lớn nên chưa đem tặng.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.020">
+					<C>还至徐，徐君已死，於是乃解其宝剑，系之徐 君冢树而去。</C>
+					<V>Khi trở về đến nước Từ, Từ quân đã chết, thế là bèn cởi kiếm báu buộc lên cây ở mộ Từ quân rồi mới đi.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.021">
+					<C>七年，楚公子围弑其王夹敖而代立，是为灵王。</C>
+					<V>Năm thứ bảy, công tử nước Sở là Vi giết vua nước mình là Giáp Ngao để tự lập làm vua, đó là Linh vương.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.022">
+					<C>十年，楚灵王会诸侯而以伐吴之硃方，以诛齐 庆封。</C>
+					<V>Năm thứ mười, Sở Linh vương hội chư hầu để vây đánh đất Chu Phương của nước Ngô, nhằm giết Khánh Phong nước Tề.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.023">
+					<C>吴亦攻楚，取三邑而去。</C>
+					<V>Nước Ngô cũng vây đánh nước Sở, đoạt ba ấp rồi rút về.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.024">
+					<C>十一年，楚伐 吴，至雩娄。</C>
+					<V>Năm thứ mười một, nước Sở tiến đánh nước Ngô, đến tận Vu Lâu.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.025">
+					<C>十二年， 楚复来伐，次於乾谿，楚师败走。</C>
+					<V>Năm thứ mười hai, nước Sở lại đến đánh, đóng quân ở Càn Khê, quân Sở thua chạy.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.026">
+					<C>王馀眛二年，楚公子弃疾 弑其君灵王代立焉。</C>
+					<V>Vua Dư Muội năm thứ hai, công tử nước Sở là Khí Tật giết vua nước mình là Linh vương để lên thay.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.027">
+					<C>王僚二年， 公子光伐楚，败而亡王 舟。</C>
+					<V>Vương Liêu năm thứ hai, công tử Quang thảo phạt nước Sở, bị thua, còn làm mất chiến thuyền của tiên vương.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.028">
+					<C>五年，楚之亡臣伍子胥来饹，公子光客之。</C>
+					<V>Năm thứ năm, bề tôi bỏ trốn của nước Sở là Ngũ Tử Tư chạy đến [nước Ngô], công tử Quang đối đãi như khách.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.029">
+					<C>八年，吴使公子光伐楚，败楚师，迎楚故太子建母於居巢以归。</C>
+					<V>Năm thứ tám, nước Ngô sai công tử Quang thảo phạt nước Sở, đánh bại quân Sở, đón mẹ của Thái tử Kiến trước đây từ Cư Sào trở về.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.030">
+					<C>因北伐，败陈、蔡之师。</C>
+					<V>Thừa cơ bắc phạt, đánh bại quân đội nước Trần và nước Sái.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.031">
+					<C>九年，公子光伐楚，拔居巢、锺离。</C>
+					<V>Năm thứ chín, công tử Quang thảo phạt nước Sở, hạ được Cư Sào, Chung Ly.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.032">
+					<C>初，楚边邑卑梁氏之处 女与吴边邑之女争桑，二女家怒相灭，两国边邑长闻 之，怒而相攻，灭吴之边邑。</C>
+					<V>Hồi trước, có xử nữ tộc Ty Lương thị ở biên ấp nước Sở tranh lá dâu với người con gái ở biên ấp nước Ngô, dẫn đến hai nhà nổi giận rồi đánh giết nhau, quan trưởng biên ấp hai nước hay tin cũng tức giận đánh nhau, biên ấp nước Ngô bị diệt.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.033">
+					<C>吴王怒，故遂伐楚，取两都而去。</C>
+					<V>Ngô vương nổi giận, nên mới phạt Sở, chiếm hai thành ấp rồi về.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.034">
+					<C>公子光曰：“胥之父兄 为僇於楚，欲自报其仇耳。未见其利。”</C>
+					<V>Công tử Quang bảo: “Cha và anh của Tư bị Sở giết, nên muốn báo thù cho họ mà thôi, chưa thấy lợi gì cả.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.035">
+					<C>子胥退而耕於野，以待专诸之事。</C>
+					<V>Tử Tư lui về cày ruộng ở nơi thôn dã, để đợi việc Chuyên Chư [hành thích Ngô vương Liêu thành công].</V>
+				</STC>
+				<STC ID="HCS_001.031.002.036">
+					<C>十三年春，吴欲因楚丧而伐之， 使公子盖馀、烛 庸 以兵围楚之六、灊。</C>
+					<V>Mùa xuân năm thứ mười ba, nước Ngô muốn nhân lúc nước Sở có tang sang đánh, liền sai công tử Cái Dư, Chúc Dung đem quân bao vây ấp Lục, ấp Tiềm nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.037">
+					<C>使季札於晋，以观诸侯之变。</C>
+					<V>Phái Quý Trát sang Tấn, để quan sát động tĩnh của chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.038">
+					<C>专诸曰：“王僚可杀也。母老子弱， 而两 公子将兵攻楚，楚绝其路。方今吴外困於楚，而内空无骨鲠之臣，是 无柰我何。”</C>
+					<V>Chuyên Chư đáp: “Ngô vương Liêu thì có thể giết được. Mẹ già con thơ, còn hai công tử thì đem quân vây đánh Sở, bị Sở cắt đứt đường về. Nay, nước Ngô bên ngoài bị Sở vây khốn, bên trong không có bề tôi cương trực, thì sao làm gì được ta chứ.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.039">
+					<C>王僚使兵陈於道， 自王宫至光之家，门阶户席，皆王僚之亲也，人夹持铍。</C>
+					<V>Ngô vương Liêu sai binh sĩ đứng dàn trên đường, từ vương cung đến tận nhà Quang, các chỗ như cổng, thềm, cửa, chỗ ngồi đều có thân tín của Ngô vương Liêu, ai nấy đều cầm kiếm sắc.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.040">
+					<C>吴公子烛庸、盖馀二 人将兵遇围於楚者，闻公子光弑王僚自立，乃以其兵降楚，楚封之於 舒。</C>
+					<V>Công tử nước Ngô là Chúc Dung, Cái Dư, hai người cầm quân bị người Sở bao vây, nghe tin công tử Quang giết Ngô vương Liêu để tự lập, liền đem quân hàng Sở, nước Sở phong cho ở đất Thư.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.041">
+					<C>王阖庐元年，举伍子胥为行人而与谋国事。</C>
+					<V>Ngô vương Hạp Lư năm thứ nhất, cất nhắc Ngũ Tử Tư làm Hành nhân để cùng mưu tính việc nước.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.042">
+					<C>楚诛伯州犁，其孙伯 嚭亡奔吴， 吴以为大夫。</C>
+					<V>Nước Sở giết Bá Châu Lê, cháu nội [Bá Châu Lê] là Bá Phỉ chạy trốn sang nước Ngô, Ngô vương phong làm đại phu.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.043">
+					<C>三年，吴王阖庐与子胥、伯嚭将兵伐楚，拔舒，杀吴亡将二公 子。</C>
+					<V>Năm thứ ba, Ngô vương Hạp Lư cùng Tử Tư, Bá Phỉ đem quân chinh phạt nước Sở, hạ được đất Thư, giết hại tướng vốn là hai công tử nước Ngô trốn sang.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.044">
+					<C>四年，伐楚，取六与灊。</C>
+					<V>Năm thứ tư, chinh phạt nước Sở, chiếm được ấp Lục và ấp Tiềm.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.045">
+					<C>五年，伐越，败 之。</C>
+					<V>Năm thứ năm, chinh phạt nước Việt, nước Việt thua trận.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.046">
+					<C>六年，楚使子常囊瓦伐吴。</C>
+					<V>Năm thứ sáu, nước Sở sai Tử Thường, Nang Ngõa chinh phạt nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.047">
+					<C>迎而击之，大败楚军於豫章，取楚之居巢而还。</C>
+					<V>Đón đánh quân Sở, đại phá quân Sở ở Dự Chương, chiếm được Cư Sào của nước Sở rồi rút về.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.048">
+					<C>二子对曰：“楚将子常贪，而 唐、蔡皆怨之。王必欲大伐，必得唐、蔡乃可。”</C>
+					<V>Hai người đáp rằng: “Tướng nước Sở là Tử Thường tham lam, mà nước Đường, nước Sái đều oán ông ta. Nếu nhà vua nhất định muốn đánh lớn, tất phải được nước Đường, nước Sái ủng hộ mới được.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.049">
+					<C>阖庐从之，悉兴 师，与唐、蔡西伐楚，至於汉水。</C>
+					<V>Hạp Lư nghe theo, đem hết quân binh, cùng nước đường, nước Sái tiến sang phía Tây chinh phạt nước Sở, kéo đến Hán Thủy.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.050">
+					<C>遂以其部五千人袭冒楚，楚兵 大败，走。</C>
+					<V>Bèn đem năm nghìn quân của mình đánh úp quân Sở, quân Sở đại bại, rút chạy.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.051">
+					<C>比至郢， 五战，楚五败。</C>
+					<V>Đến khi tới đất Dĩnh, thì năm lần đánh, Sở bại cả năm lần.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.052">
+					<C>楚昭王亡出郢，奔郧。</C>
+					<V>Sở Chiêu vương trốn khỏi Dĩnh đô, chạy đến đất Vân.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.053">
+					<C>郧公弟欲弑昭王，昭王 与郧公饹随。</C>
+					<V>Em của Vân công muốn giết Chiêu vương, Chiêu vương cùng Vân công chạy sang đất Tùy.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.054">
+					<C>而吴兵遂入郢。</C>
+					<V>Thế rồi quân Ngô liền kéo vào Dĩnh đô.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.055">
+					<C>吴使别兵击越。</C>
+					<V>Ngô vương sai cánh quân khác đánh nước Việt.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.056">
+					<C>十一年，吴王使太子夫差伐 楚，取番。</C>
+					<V>Năm thứ mười một, Ngô vương sai Thái tử Phù Sai chinh phạt nước Sở, chiếm được đất Phan.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.057">
+					<C>楚恐而去郢徙鄀。</C>
+					<V>Nước Sở lo sợ, bèn bỏ đất Dĩnh dời đô sang ấp Nhược.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.058">
+					<C>十五年，孔子相鲁。</C>
+					<V>Năm thứ mười lăm, Khổng tử làm Tướng quốc nước Lỗ.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.059">
+					<C>十九年夏，吴伐越，越王句践迎击之槜李。</C>
+					<V>Mùa hạ năm thứ mười chín, nước Ngô đánh nước Việt, Việt vương Câu Tiễn đón đánh ở đất Tuy Lý.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.060">
+					<C>三年，乃报越。</C>
+					<V>Năm thứ ba, mới báo thù được nước Việt.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.061">
+					<C>王夫差元年， 以大夫伯嚭为太宰。</C>
+					<V>Ngô vương Phù Sai năm thứ nhất, lấy đại phu Bá Phỉ làm Thái tể.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.062">
+					<C>二年，吴王悉精兵以伐越，败之夫椒， 报姑苏也。</C>
+					<V>Năm thứ hai, Ngô vương đem hết quân tinh nhuệ để thảo phạt nước Việt, đánh bại nước Việt ở đất Phù Tiêu, báo được mối thù ở đất Cô Tô.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.063">
+					<C>越王句践乃以甲兵五千人栖於会稽， 使大夫种 因吴太宰嚭而 行成， 请委国为臣妾。</C>
+					<V>Việt vương Câu Tiễn liền đem năm nghìn giáp binh lưu lại ở Cối Kê, sai đại phu Chủng thông qua Thái tể Bá Phỉ của nước Ngô để cầu hòa, xin giao nước, nguyện làm tôi đòi cho nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.064">
+					<C>吴王将许之，伍 子胥谏曰：“昔有过氏 杀斟灌以伐斟寻， 灭夏后帝相。 帝相之妃后缗方娠， 逃於有仍 而生少康。少康为有仍 牧正。有过又欲杀少康，少康奔 有虞。有虞思 夏德，於是妻之以二女而邑之於纶，有田 一成，有众一旅。後遂收夏 众，抚其官职。 使人诱之， 遂灭有过氏，复禹之绩，祀夏配天， 不失旧物。 今吴不如有过之彊，而句践大於少康。今不因此而 灭之，又将■之，不亦难乎！且句践为人能辛苦，今不灭，後必悔 之。”</C>
+					<V>Ngô vương định nhận lời, Ngũ Tử Tư can rằng: “Xưa Hữu Qua thị giết Châm Quán rồi thảo phạt Châm Tầm, tiêu diệt con cháu nhà Hạ là Đế Tướng. Phi tử của Đế Tướng là Hậu Mân đang có thai, chạy trốn đến Hữu Nhưng rồi sinh ra Thiếu Khang. Thiếu Khang làm chức Mục chính cho Hữu Nhưng. Hữu Qua lại muốn giết Thiếu Khang, Thiếu Khang chạy sang Hữu Ngu. Hữu Ngu nhớ đức của nhà Hạ, do đó đem hai con gái gả cho [Thiếu Khang] rồi phong cho ấp Luân; đất đai vuông một thành, dân có một lữ. Sau bèn thu phục dân chúng, vỗ về các quan chức nhà Hạ. Sai người dụ dỗ Hữu Qua, rồi tiêu diệt Hữu Qua thị, khôi phục cơ đồ của Hạ Vũ, tế tự nhà Hạ phối hưởng với trời, không làm mất đi những việc cũ [của triều Hạ]. Nay nước Ngô không mạnh bằng Hữu Qua, còn Câu Tiễn lại lớn hơn Thiếu Khang. Nay không thừa thế bây giờ mà diệt đi, lại muốn khoan dung, chẳng cũng nguy lắm sao! Hơn nữa, Câu Tiễn là người có thể chịu được cay đắng [để chờ thời], nay không tiêu diệt, sau tất phải hối hận.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.065">
+					<C>吴王不听，听太宰嚭，卒许越平，与盟而罢兵去。</C>
+					<V>Ngô vương không nghe, mà theo lời Thái tể Phỉ, rốt cuộc cho nước Việt được hòa, cùng lập minh ước rồi rút quân về.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.066">
+					<C>七年，吴王夫差闻齐景公死而大臣争宠，新君弱，乃兴师北伐 齐。</C>
+					<V>Năm thứ bảy, Ngô vương Phù Sai nghe tin Tề Cảnh công chết mà các đại thần lại tranh sủng, vua mới còn yếu đuối, liền cất quân lên phía bắc chinh phạt nước Tề.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.067">
+					<C>吴王不听，遂北伐齐，败齐师於艾陵。</C>
+					<V>Ngô vương không nghe, bèn tiến lên phía bắc chinh phạt nước Tề, đánh bại quân Tề ở Ngải Lăng.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.068">
+					<C>九年，为驺伐鲁， ，至与 鲁盟乃去。 十年，因伐齐而归。</C>
+					<V>Năm thứ chín, [nước Ngô] vì nước Trâu mà chinh phạt nước Lỗ, kéo đến [nước Lỗ], cùng nước Lỗ kết minh rồi về. Năm thứ mười, thừa cơ chinh phạt nước Tề rồi về.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.069">
+					<C>十一年，复北伐齐。</C>
+					<V>Năm thứ mười một, lại tiến lên phía bắc phạt Tề.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.070">
+					<C>唯子胥惧， 曰：“是弃吴也。”</C>
+					<V>Riêng Tử Tư lo sợ, nói: “Ấy là vứt bỏ nước Ngô vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.071">
+					<C>将死，曰：“树 吾墓上以梓， 令可为器。抉吾眼置之吴东门， 以观越之灭吴 也。”</C>
+					<V>Khi sắp chết, [Tử Tư] nói: “Trồng cây tử trên mộ của ta, để sau này làm quan tài. Móc mắt ta treo trên cửa đông nước Ngô, để ta xem nước Việt tiêu diệt nước Ngô.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.072">
+					<C>齐鲍氏弑齐悼公。</C>
+					<V>Bào thị nước Tề giết Tề Điệu công.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.073">
+					<C>吴王闻之，哭於军门外三 日，乃从海上攻齐。</C>
+					<V>Ngô vương biết chuyện, khóc ngoài cửa quân ba ngày, đoạn theo đường biển tấn công nước Tề.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.074">
+					<C>十三年，吴召鲁、卫之君会於橐皋。</C>
+					<V>Năm thứ mười ba, Ngô vương triệu Lỗ quân, Vệ quân đến hội minh ở đất Thác Cao.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.075">
+					<C>十四年春，吴王北会诸侯於黄池， 欲霸中国以全周室。</C>
+					<V>Mùa xuân năm thứ mười bốn, Ngô vương lên phía bắc hội chư hầu ở đất Hoàng Trì, muốn xưng bá Trung nguyên để bảo toàn cho nhà Chu.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.076">
+					<C>吴人告败於王夫 差，夫差恶其闻也。</C>
+					<V>Người Ngô báo việc bại trận với Ngô vương Phù Sai, Phù Sai sợ tin tức đến tại chư hầu.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.077">
+					<C>或泄其语，吴王 怒，斩七人於幕下。</C>
+					<V>Có kẻ tiết lộ tin ấy, Ngô vương nổi giận, chém bảy người ngay dưới trướng [để diệt khẩu].</V>
+				</STC>
+				<STC ID="HCS_001.031.002.078">
+					<C>七月辛丑，吴王与晋定 公争长。</C>
+					<V>Ngày Tân Sửu tháng Bảy, Ngô vương và Tấn Định công tranh làm minh chủ.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.079">
+					<C>吴王曰：“於周室我为长。”</C>
+					<V>Ngô vương bảo: “Trong nhà Chu, ta là trưởng.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.080">
+					<C>晋定公曰：“於姬姓我为伯。”</C>
+					<V>Tấn Định công bảo: “Trong họ Cơ, ta lớn nhất.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.081">
+					<C>赵 鞅怒，将伐吴，乃长晋定公。</C>
+					<V>Triệu Ưởng nổi giận, định tiến đánh nước Ngô, bèn tôn Tấn Định công làm minh chủ.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.082">
+					<C>吴王已盟，与晋别，欲伐宋。</C>
+					<V>Ngô vương sau khi lập lời minh, chia tay vua Tấn, muốn đánh nước Tống.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.083">
+					<C>国亡太子，内空，王居外久，士皆罢敝，於是乃 使厚币以与越平。</C>
+					<V>Nước mất Thái tử, trong nước trong rỗng, Ngô vương ở ngoài nước lâu, quân sĩ đều mệt mỏi, thế là bèn đem hậu lễ để giảng hòa với nước Việt.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.084">
+					<C>十五年，齐田常杀简公。</C>
+					<V>Năm thứ mười lăm, Điền Thường nước Tề giết Giản công.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.085">
+					<C>十八年，越益彊。</C>
+					<V>Năm thứ mười tám, nước Việt ngày càng mạnh.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.086">
+					<C>越王句践率兵伐败吴师於笠泽。</C>
+					<V>Việt vương Câu Tiễn dẫn quân lại đánh bại quân Ngô ở Lạp Trạch.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.087">
+					<C>楚灭陈。</C>
+					<V>Nước Sở diệt nước Trần.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.088">
+					<C>二十三年十一月丁卯，越败吴。</C>
+					<V>Ngày Đinh Mão tháng Mười một năm thứ hai mươi ba, nước Việt đánh bại nước Ngô.</V>
+				</STC>
+				<STC ID="HCS_001.031.002.089">
+					<C>吴王曰：“孤老矣，不能事君王也。吾悔不用子胥之 言，自令陷此。”</C>
+					<V>Ngô vương nói: “Ta già rồi, không thể thờ quân vương được nữa. Ta hối hận vì không nghe lời Tử Tư, tự khiến mình sa vào cảnh này.”</V>
+				</STC>
+				<STC ID="HCS_001.031.002.090">
+					<C>遂自刭死。</C>
+					<V>Đoạn cắt cổ chết.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.031.003">
+				<STC ID="HCS_001.031.003.001">
+					<C>季札封於延陵， 故号曰延陵季 子。</C>
+					<V>Quý Trát được phong ở Diên Lăng, vì vậy hiệu là Diên Lăng Quý tử.</V>
+				</STC>
+				<STC ID="HCS_001.031.003.002">
+					<C>歌王。 曰：“美哉，思而不惧，其周之东 乎？”</C>
+					<V>Hát “Vượng phong”, [nghe xong, Quý Trát] nói: “Đẹp đẽ thay, suy tư mà không sợ sệt, là nhạc sau hồi nhà Chu rời sang đông ư?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.003">
+					<C>歌郑。 曰：“其细已甚，民不堪也，是其先亡乎？”</C>
+					<V>Hát “Trịnh phong”, [nghe xong, Quý Trát] nói: “Quá ư nhỏ nhặt, dân không chịu thấu, là nước sẽ mất đầu tiên ư?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.004">
+					<C>歌豳。 曰：“美哉，荡荡乎，乐而不淫， 其周公之东乎？”</C>
+					<V>Hát “Bân phong”, [nghe xong, QuýTrát] nói: “Đẹp đẽ thay, thảnh thơi thay, vui mà không dâm, là nhạc lúc Chu công đông chinh chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.005">
+					<C>歌唐。 曰：“思深哉，其有陶唐氏之遗风乎？不然，何 忧之远也？ 非令德之後，谁能若是！”</C>
+					<V>Hát “Đường phong”, [nghe xong, Quý Trát] nói: “Nghĩ sâu xa thay, còn di phong của họ Đào Đường chăng? Bằng không sao suy tư sâu xa tới vậy? Phi hậu duệ của bậc có đức lớn, ai được như thế?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.006">
+					<C>歌陈。 曰：“国无主，其能久 乎？”</C>
+					<V>Hát “Trần phong”, [nghe xong, Quý Trát] nói: “Nước không vua, sao có thể lâu dài được đây?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.007">
+					<C>歌小 雅。 曰：“美哉，思而不 贰，怨而不言， 其周德之衰乎？ 犹有先王之遗民也。”</C>
+					<V>Hát “Tiểu nhã”, [nghe xong, Quý Trát] nói: “Đẹp đẽ thay, suy tư mà chẳng hai lòng, oán hận mà chẳng nói ra, là đức nhà Chu nhỏ chăng? Do hãy còn cái tình dân cũ của tiên vương.”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.008">
+					<C>见舞韶护者， 曰：“圣人之弘也， 犹有惭德，圣人之难也！”</C>
+					<V>Xem múa “Thiều hộ”, [Quý Trát] nói: “Thánh nhân lớn lao thay, nhưng dường có chỗ còn thắc thỏm, làm thánh nhân khó thế đấy!”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.009">
+					<C>见舞大夏， 曰：“美哉，勤而不德！非 禹其谁能及之？”</C>
+					<V>Xem múa “Đại Hạ”, Quý Trát nói: “Đẹp đẽ thay, chăm chỉ mà không khoe khoang, không phải Vũ thì ai làm được thế?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.010">
+					<C>见舞招箾， 曰：“德至矣哉，大矣， 如天之无不焘也， 如地之无不载也，虽甚盛德，无以加矣。观止矣， 若有他乐，吾不敢观。”</C>
+					<V>Xem múa “Chiêu sóc”, Quý Trát] nói “Đức đến cực điểm thay, lớn lao thay, như trời cao, không gì không che phủ, như đất dày, không gì không gánh chở, dẫu thêm đức tốt cũng không biết thêm vào đâu. Xem thế là đủ, dẫu thêm nhạc khác, ta cũng chẳng dám xem nữa.”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.011">
+					<C>谓子产曰：“郑之执政侈，难 将至矣，政必及子。子为政，慎以礼。 不然，郑国将败。”</C>
+					<V>Bảo Tử Sản rằng: “Người cầm quyền nước Trịnh xa hoa, họa nạn sắp đến đấy, chính sự nhất định về tay ngài. Ngài nắm quyền chính, phải thận trọng tuân theo lễ pháp. Bằng không nước Trịnh sẽ suy vong.”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.012">
+					<C>自卫如晋，将舍於宿， 闻锺声， 曰：“异哉！吾闻之，辩而不德，必加於戮。 夫子获罪 於君以在此， 惧犹不足，而又可以畔乎？ 夫子之在此，犹燕 之巢于幕也。君在殡而可以乐乎？”</C>
+					<V>[Quý Trát] từ nước Vệ sang nước Tấn, định vào ở trọ trong ấp Thích, chợt nghe thấy tiếng chuông, bèn nói: “Quái lạ! Ta từng nghe, khéo biện bác mà không có đức hạnh, nhất định phải chịu hình phạt. Phu tử (Tôn Văn tử) đắc tội với quốc quân vậy mà vẫn còn ở đây, sợ hãi chưa xiết, mà còn có thể làm nhạc được sao? Phu tử ở ấp Thích khác nào tổ én trên mành vậy. Quốc quân (Vệ Hiến công) còn quàn ở đó, mà có thể làm nhạc được chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.013">
+					<C>適晋，说赵文子、韩宣子、 魏献子曰：“晋国其萃於三家乎！”</C>
+					<V>[Quý Trát] đến nước Tấn, nói với Triệu Văn tử, Hàn Tuyên tử, Nguỵ Hiến tử rằng: “Vận mệnh nước Tấn sẽ tập trung trong tay ba nhà đấy!”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.014">
+					<C>徐君好季札剑，口弗敢言。</C>
+					<V>Từ quân thích kiếm của Quý Trát, nhưng chưa dám mở lời.</V>
+				</STC>
+				<STC ID="HCS_001.031.003.015">
+					<C>从者曰：“徐君已死，尚谁予乎？”</C>
+					<V>Tùy tòng hỏi: “Từ quân đã chết, ngài còn để lại tặng ai?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.016">
+					<C>季子曰：“不 然。始吾心已许之，岂以死倍吾心哉！”</C>
+					<V>Quý tử đáp: “Không phải thế. Trước đây, ta đã thầm hứa sẽ tặng kiếm, há vì ông ấy đã mất mà làm trái lòng mình sao?”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.017">
+					<C>季札让，逃去。</C>
+					<V>Quý Trát từ chối, rồi bỏ trốn.</V>
+				</STC>
+				<STC ID="HCS_001.031.003.018">
+					<C>告专诸 曰：“不索何获！我真王嗣，当 立，吾欲求之。季子虽至，不吾废也。”</C>
+					<V>Rồi nói với Chuyên Chư rằng: “Không tìm làm sao có được! Ta mới thực là người thừa kế vương vị, đáng lý phải được lên ngôi, ta muốn đạt được điều đó. Quý tử dẫu có trở về cũng không phế ta đâu.”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.019">
+					<C>季子至，曰：“苟先君无废祀，民人无废主，社稷有奉，乃吾君 也。吾敢谁怨乎？哀死事生，以待天命。 非我生乱，立者从之，先人之道也。”</C>
+					<V>Quý tử về đến, nói rằng: “Nếu việc tế tự tiên quân không bị bỏ phế, ngôi chúa của dân chúng không bị bỏ trống, [thì ai] thờ phụng đàn xã đàn tắc, người đó chính là quốc quân của ta vậy. Ta dám oán ai đây? Xót người đã mất, thờ người còn sống, đặng đợi mệnh trời. Ta không dấy loạn, ai lên ngôi thì theo, đó là đạo lý của các bậc tiền nhân vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.020">
+					<C>复 命，哭僚墓， 复位而待。</C>
+					<V>Liền hồi báo việc đi sứ, khóc trước mộ Liêu, trở về giữ chức đợi lệnh [Quang].</V>
+				</STC>
+				<STC ID="HCS_001.031.003.021">
+					<C>光谋欲入郢，将军孙武曰：“民劳，未可，待之。”</C>
+					<V>Quang mưu đánh vào đất Dĩnh, Tướng quân Tôn Vũ nói: “Dân còn vất vả, chưa thể đánh được, hãy đợi thêm đã.”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.022">
+					<C>楚告 急秦，秦遣兵救楚击吴，吴师败。</C>
+					<V>Nước Sở cấp báo với nước Tần, Tần sai quân cứu Sở, đánh Ngô, quân Ngô thua.</V>
+				</STC>
+				<STC ID="HCS_001.031.003.023">
+					<C>吴师观之，越因伐吴，败之姑苏， 伤吴王阖 庐指，军卻七里。</C>
+					<V>Quân Ngô đang mải trông, quân Việt thừa cơ tấn công quân Ngô, đánh bại quân Ngô ở đất Cô Tô, làm Ngô vương Hạp Lư bị thương ở ngón tay, quân phải lùi bảy dặm.</V>
+				</STC>
+				<STC ID="HCS_001.031.003.024">
+					<C>对曰： “不敢！”</C>
+					<V>Đáp rằng: “Không dám!”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.025">
+					<C>太宰嚭曰：“可胜而不能居 也。”</C>
+					<V>Thái tể Phỉ nói rằng: “Có thể thắng được nhưng không thể ở lại.”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.026">
+					<C>太史公曰：孔子言“太伯可谓至德矣，三以天下让，民无得而称 焉”。</C>
+					<V>Thái sử công bàn rằng: Khổng tử nói: “Thái bá khá gọi là bậc chí đức vậy, ba lần nhường thiên hạ, mà dân không biết để xưng tụng.”</V>
+				</STC>
+				<STC ID="HCS_001.031.003.027">
+					<C>延陵季子之仁心，慕义无穷， 见微而知清浊。</C>
+					<V>Lòng nhân của Diên Lăng Quý tử, mến mộ đạo nghĩa vô cùng, xem điều nhỏ nhặt mà biết chuyện đục trong.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.031.004">
+				<STC ID="HCS_001.031.004.001">
+					<C>歌 邶、鄘、卫。 曰：“美哉，渊乎， 忧而不困者也。 吾闻卫康叔、武公之德如是，是其卫风乎？”</C>
+					<V>Hát “Bội phong”, “Dung phong”, “Vệ phong”, [nghe xong, Quý Trát] nói: “Đẹp đẽ thay, sâu xa thay, lo âu mà không khốn quẫn. Ta nghe đức hạnh của Vệ Khang thúc, Vũ công cũng giống như thế, đây là Vệ Phong ư?”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.002">
+					<C>歌齐。 曰：“美哉，泱泱乎大风也哉。 表东海 者，其太公乎？国未可量也。”</C>
+					<V>Hát “Tề phong”, [nghe xong, Quý Trát] nói: “Đẹp đẽ thay, sâu thẳm mênh mông thay, thực là khuôn phép của nước lớn. Người là mẫu mực của miền Đông Hải, chính là Thái công đó chăng? Vận nước chưa thể lường hết được.”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.003">
+					<C>歌魏。 曰：“美哉，沨沨 乎，大而■， 俭而易，行以德辅，此则盟主也。”</C>
+					<V>Hát “Ngụy phong”, [nghe xong, Quý Trát] nói: “Đẹp đẽ thay, uyển chuyển thay, rộng rãi mà biết ước thúc, khiêm hòa mà vẫn giản đơn, nhờ đức hạnh bổ trợ để thi hành, đó hẳn là bậc minh chủ vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.004">
+					<C>歌大雅。 曰：“广 哉，熙熙乎，曲而有直体， 其文王之德乎？”</C>
+					<V>Hát “Đại nhã”, [nghe xong, Quý Trát] nói: “Rộng lớn thay, nhuần nhị thay, ngữ khí uyển chuyển mà vẫn cương chính, là đức của Văn lương chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.005">
+					<C>见舞象箾、南籥者， 曰：“美哉，犹有 感。”</C>
+					<V>Xem múa “Tượng sóc”, “Nam thược”, [Quý Trát] nói: “Đẹp đẽ thay, nhưng vẫn chứa niềm hoài hận.”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.006">
+					<C>见舞大武， 曰：“美哉，周之盛也其若此乎？”</C>
+					<V>Xem múa “Đại vũ”, [Quý Trát] nói: “Đẹp đẽ thay, sự hưng thịnh của nhà Chu đại để giống thế chăng?”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.007">
+					<C>见子产，如旧交。</C>
+					<V>[Quý Trát] gặp Tử Sản, như gặp lại bạn cũ.</V>
+				</STC>
+				<STC ID="HCS_001.031.004.008">
+					<C>说蘧瑗、史狗、史 䲡、公子荆、公叔发、公子朝曰：“卫多君子，未有患也。”</C>
+					<V>[Quý Trát] bảo Cừ Viện, Sử Cẩu, Sử Thu, công tử Kinh, Công Thúc Phát, công tử Triều rằng: “Nước Vệ nhiều quân tử, chưa có gì đáng lo.”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.009">
+					<C>九年，吴王阖庐请伍子胥、孙武曰：“始子之言郢未可入，今果 如何？”</C>
+					<V>Năm thứ chín, Ngô vương Hạp Lư thỉnh triệu Ngũ Tử Tư và Tôn Vũ đến hỏi rằng: “Trước đây, các ông bảo chưa thể tiến đánh vào đất Dĩnh, nay thì thế nào?”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.010">
+					<C>阖庐使立太子夫差，谓曰：“尔而忘句践杀汝父乎？”</C>
+					<V>Hạp Lư truyền lập Thái tử Phù Sai, bảo rằng: “Mày có dám quên việc Câu Tiễn giết cha mày không?”</V>
+				</STC>
+				<STC ID="HCS_001.031.004.011">
+					<C>至缯，召鲁哀公而徵百 牢。</C>
+					<V>[Ngô vương] đến đất Tăng, triệu Lỗ Ai công đến đòi cung ứng cỗ Bách lao.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.031.006">
+				<STC ID="HCS_001.031.006.001">
+					<C>说晏平仲曰：“子速纳邑与政。 无邑无政，乃免於难。齐国之政 将有所归；未得所归，难未息也。”</C>
+					<V>[Quý Trát] nói với Yến Bình Trọng rằng: “Ngài mau giao nộp ấp phong và quyền chức. Không ấp không quyền, mới mong thoát nạn. Quyền chính nước Tề sắp quy về một mối; chưa về một mối, họa nạn chưa dứt vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.031.006.002">
+					<C>光惧，袭楚，复得王舟而还。</C>
+					<V>Quang sợ, đánh úp nước Sở, đoạt lại được chiến thuyền của tiên vương rồi về.</V>
+				</STC>
+				<STC ID="HCS_001.031.006.003">
+					<C>於是伍员知光有他志， 乃求勇士专诸， 见之光。</C>
+					<V>Vì vậy, Ngũ Viên biết Quang có chí khác (muốn tiếm ngôi), bèn tìm dũng sĩ là Chuyên Chư, ra mắt Quang.</V>
+				</STC>
+				<STC ID="HCS_001.031.006.004">
+					<C>子胥谏曰：“越王句践食不重味，衣不重采，吊死问疾，且欲有 所用其众。此人不死，必为吴患。今越在腹心疾而王不先，而务齐， 不亦谬乎！”</C>
+					<V>Tử Tư can rằng: “Việt vương Câu Tiễn ăn không hai vị, mặc không hai màu, điếu viếng người chết, thăm nom kẻ ốm, ý muốn huy động dân chúng. Người này không chết, tất trở thành mối lo của nước Ngô. Nay nước Việt là bệnh trong phủ tạng mà nhà vua không lo trước, lại lo chuyện nước Tề, chẳng cũng sai lầm hay sao?”</V>
+				</STC>
+				<STC ID="HCS_001.031.006.005">
+					<C>谏曰：“越在腹 心，今得志於齐，犹石田，无所用。且 盘庚之诰有颠越勿遗， 商之以兴。”</C>
+					<V>Can rằng: “Nước Việt [là mối lo] trong tim trong bụng, nay ta được đắc chí ở đất Tề, cũng giống như mảnh ruộng đá sỏi vậy, không dùng được vào việc gì. Hơn nữa, thiên “Bàn Canh chi cáo” có câu “Kẻ ngông cuồng vượt lễ thì chớ lưu lại, nhà Thương nhờ thế mới hưng thịnh.”</V>
+				</STC>
+				<STC ID="HCS_001.031.006.006">
+					<C>呜呼，又何其闳览博物君子也！</C>
+					<V>Ôi, sao mà bậc quân tử ấy lại hiểu biết sự vật rộng lớn đến thế!</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.031.007">
+				<STC ID="HCS_001.031.007.001">
+					<C>光喜， 乃客伍子胥。</C>
+					<V>Quang mừng rỡ, bèn đối đãi với Ngũ Tử Tư như khách.</V>
+				</STC>
+				<STC ID="HCS_001.031.007.002">
+					<C>四月丙子， 光伏甲士於窟室， 而谒王僚饮。</C>
+					<V>Ngày Bính Tý tháng Tư, Quang giấu giáp sĩ ở dưới hầm, rồi mời Ngô vương Liêu đến dự yến tiệc.</V>
+				</STC>
+				<STC ID="HCS_001.031.007.003">
+					<C>手匕首刺王僚，铍交於匈， 遂弑王僚。</C>
+					<V>[Sau đó Chuyên Chư] tay nắm chủy thủ đâm Ngô vương Liêu, [tuy Chuyên Chư cũng bị] đâm vào bụng, nhưng vẫn giết được Ngô vương Liêu.</V>
+				</STC>
+				<STC ID="HCS_001.031.007.004">
+					<C>楚亦发兵拒吴，夹水陈。</C>
+					<V>Nước Sở cũng phát quân chống cự quân Ngô, bày trận hai bên bờ sông.</V>
+				</STC>
+				<STC ID="HCS_001.031.007.005">
+					<C>越使死士挑战， 三行造吴师，呼，自刭。</C>
+					<V>Nước Việt sai dũng sĩ cảm tử khiêu chiến, dàn thành ba hàng đến trước quân Ngô, hét lên rồi tự cắt cổ.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.031.008">
+				<STC ID="HCS_001.031.008.001">
+					<C>公子光详为 足疾，入于窟室， 使专诸置匕首 於炙鱼之中以进食。</C>
+					<V>Công tử Quang vờ đau chân, đi xuống dưới hầm, rồi sai Chuyên Chư giấu chảy thủ vào bụng cá nướng rồi dâng món ăn.</V>
+				</STC>
+				<STC ID="HCS_001.031.008.002">
+					<C>夫(cid:0)曰：“王 已属臣兵，兵以利为上，尚何待焉？”</C>
+					<V>Phù Khái nói: “Đại vương đã giao quân cho thần, việc quân lấy lại làm đầu, còn đợi gì nữa?”</V>
+				</STC>
+				<STC ID="HCS_001.031.008.003">
+					<C>子胥、 伯嚭鞭平王之尸以报父雠。</C>
+					<V>Tử Tư, Bá Phỉ dùng roi đánh vào thây của Bình vương để báo thù cho cha.</V>
+				</STC>
+				<STC ID="HCS_001.031.008.004">
+					<C>习战射，常以报 越为志。</C>
+					<V>Tập trận bắn cung, luôn nuôi chí báo thù nước Việt.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.031.009">
+				<STC ID="HCS_001.031.009.001">
+					<C>吴王阖庐弟夫(cid:0)欲战，阖庐弗许。</C>
+					<V>Em trai của Ngô vương Hạp Lư là Phù Khái muốn đánh, Hạp Lư không cho.</V>
+				</STC>
+				<STC ID="HCS_001.031.009.002">
+					<C>阖庐弟夫(cid:0)见秦越交败吴，吴王留 楚不去，夫(cid:0)亡归吴而自立为吴王。</C>
+					<V>Em trai Hạp Lư là Phù Khái thấy quân Tần, quân Việt thay nhau đánh bại quân Ngô, Ngô vương còn lưu lại Sở không về, Phù Khái trốn về Ngô rồi tự lập làm Ngô vương.</V>
+				</STC>
+				<STC ID="HCS_001.031.009.003">
+					<C>楚昭王乃得以九月复入郢，而封夫(cid:0)於堂谿，为堂谿 氏。</C>
+					<V>Sở Chiêu vương đến tháng Chín mới về lại được Dĩnh đô, đoạn phong Phù Khái đất Đường Khê, đó là Đường Khê thị.</V>
+				</STC>
+				<STC ID="HCS_001.031.009.004">
+					<C>乙酉， 越五千人与吴战。</C>
+					<V>Ngày Ất Dậu, năm nghìn quân Việt đánh với quân Ngô.</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>

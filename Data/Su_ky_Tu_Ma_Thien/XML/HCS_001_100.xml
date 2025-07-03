@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="HCS_001">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME>Sử ký Tư Mã Thiên</VOLUME>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Phạm Văn Ánh</TRANSLATOR>
+			<SOURCE>guoxue.com</SOURCE>
+		</meta>
+		<SECT ID="HCS_001.100">
+			<PAGE ID="HCS_001.100.001">
+				<STC ID="HCS_001.100.001.001">
+					<C>季布者，楚人也。</C>
+					<V>Quý Bố, người Sở.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.002">
+					<C>为气任侠， 有名 於楚。</C>
+					<V>Khí khái hiệp nghĩa, có tiếng ở Sở.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.003">
+					<C>项籍使将兵，数窘汉王。</C>
+					<V>Hạng Tịch sai cầm quân, nhiều lần khiến Hán vương khốn đốn.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.004">
+					<C>及项羽 灭，高祖购求布千金，敢有舍匿，罪及三族。</C>
+					<V>Đến khi Hạng Vũ bị diệt, Cao tổ treo thưởng Quý Bố nghìn vàng, ai dám giấu, xử tội ba họ.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.005">
+					<C>季布匿濮阳周氏。</C>
+					<V>Quý Bố ẩn ở nhà họ Chu tại Bộc Dương.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.006">
+					<C>周氏 曰：“汉购将军急，迹且至臣家，将军能听臣，臣敢献计；即不能， 原先自刭。”</C>
+					<V>Họ Chu nói: “Nhà Hán treo thưởng tướng quân gắt gao, truy theo tung tích đến tận nhà tôi, nếu tướng quân nghe, tôi xin hiến kế; như không thể, xin cắt cổ chết trước tướng quân.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.007">
+					<C>乃髡钳季布，衣褐衣，置广柳车中， 并与其家僮数十人，之鲁硃家 所卖之。</C>
+					<V>Bèn gọt tóc đeo vòng sắt vào cổ Quý Bố, mặc áo vải thô, bảo ngồi trong xe tang, cùng mấy chục gia nhân, đến bán cho Châu Gia huyện Lỗ.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.008">
+					<C>硃家心知是季布，乃买而置之田。</C>
+					<V>Châu Gia trong bụng biết là Quý Bố, bèn mua rồi cho làm đồng.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.009">
+					<C>诫其子曰：“田事听此 奴，必与同食。”</C>
+					<V>Dặn con rằng: “Việc ruộng đồng phải nghe nô bộc này, nhất định phải ăn cùng hắn.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.010">
+					<C>硃家乃乘轺车 之洛阳，见汝阴侯滕公。</C>
+					<V>Châu Gia liền ngồi xe nhỏ đến Lạc Dương, yết kiến Nhữ Âm hầu Đẳng Công.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.011">
+					<C>滕公留硃家饮数日。</C>
+					<V>Đằng Công giữ Châu Gia lại uống rượu mấy hôm.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.012">
+					<C>因谓 滕公曰：“季布何大罪，而上求之急也？”</C>
+					<V>Nhân đó nói với Đằng Công: “Quý Bố có tội lớn gì mà Hoàng thượng tìm bắt gắt gao thế?”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.013">
+					<C>滕公曰：“布数为项羽窘 上，上怨之，故必欲得之。”</C>
+					<V>Đằng Công đáp: “Bố nhiều lần vì Hạng Vũ khiến Hoàng thượng khốn đốn, Hoàng thượng oán hắn, nên muốn bắt bằng được.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.014">
+					<C>硃家曰：“君视季布何如人 也？”</C>
+					<V>Châu Gia nói: “Ngài thấy Quý Bố là người thế nào?”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.015">
+					<C>曰：“贤者也。”</C>
+					<V>Đáp: “Người hiền năng vậy.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.016">
+					<C>硃家曰：“臣各为其主用，季布为项籍用， 职耳。项氏臣可尽诛邪？今上始得天下，独以己之私怨求一人，何示 天下之不广也！且以季布之贤而汉求之急如此，此不北走胡即南走越 耳。夫忌壮士以资敌国，此伍子胥所以鞭荆平王之墓也。君何不从容 为上言邪？”</C>
+					<V>Châu Gia nói: “Bề tôi đều vì chủ mình, Quý Bố ra sức vì Hạng Tịch, là chức phận thôi. Có thể giết hết bề tôi họ Hạng không? Nay Hoàng thượng mới được thiên hạ, chỉ vì oán riêng truy bắt một người, sao lại tỏ cho thiên hạ thấy mình không quảng đại vậy! Vả lại Quý Bố hiền năng mà Hán lại bắt gắt gao, hắn không sang người Hồ phía bắc cũng qua nước Việt phía nam thôi. Ghét tráng sĩ để giúp nước địch, ấy là nguyên do Ngũ Tử Tư quật mộ dùng roi đánh xác Sở Bình vương vậy. Sao ngài không nhân lúc thư thả thưa lại với Hoàng thượng?”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.017">
+					<C>汝阴侯滕公心知硃家大侠，意季布匿其所，乃许 曰：“诺。”</C>
+					<V>Nhữ Âm hầu Đằng Công biết Châu Gia là đại hiệp, xem chừng Quý Bố ẩn chỗ ông ta, bèn hứa rằng: “Được.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.018">
+					<C>当是时，诸公皆多 季布能摧刚为柔，硃家亦以此名闻当世。</C>
+					<V>Bấy giờ, các quan đều tán thưởng Quý Bố giỏi biến cương thành nhu, Châu Gia cũng nhờ đó nổi tiếng đương thời.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.019">
+					<C>季布召见，谢，上拜为郎 中。</C>
+					<V>Quý Bố được triệu kiến, tạ ơn xá tội, phong làm Lang trung.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.020">
+					<C>孝惠时，为中郎将。</C>
+					<V>Thời Hiếu Huệ đế, làm Trung lang tưởng.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.021">
+					<C>单于尝为书嫚吕后，不逊，吕后大怒，召诸 将议之。</C>
+					<V>Thiền vu từng viết thư xấc xược với Lã hậu, không nhún nhường, Lã hậu cả giận, triệu các tướng đến thương nghị.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.022">
+					<C>上将军樊哙曰：“臣原得十万众，横行匈奴中。”</C>
+					<V>Thượng tướng quân Phan Khoái nói: “Cho thần mười vạn quân để tung hoành đất Hung Nô.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.023">
+					<C>诸将皆阿 吕后意，曰“然”。</C>
+					<V>Các tướng đều a dua theo ý Thái hậu, nói “Phải”.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.024">
+					<C>季布曰：“樊哙可斩也！夫高帝将兵四十馀万 众，困於平城，今哙柰何以十万众横行匈奴中，面欺！且秦以事於 胡，陈胜等起。于今创痍未瘳，哙又面谀，欲摇动天下。”</C>
+					<V>Quý Bố tâu: “Phàn Khoái đáng chém! Xưa Cao đế đem hơn bốn mươi vạn quân, còn bị khốn ở Bình Thành, nay Khoái sao có thể dẫn mười vạn quân tung hoành đất Hung Nô được, ra mặt lừa người! Và Tần gây chuyện với người Hồ, bọn Trần Thắng nhân đấy nổi lên. Đến nay, vết thương chưa lành, Khoái lại ra mặt nịnh bợ, muốn khiến thiên hạ lay động.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.025">
+					<C>是时殿上 皆恐，太后罢朝，遂不复议击匈奴事。</C>
+					<V>Bấy giờ trên điện đều sợ, Thái hậu bãi triều, rồi không bàn lại chuyện đánh Hung Nô nữa.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.026">
+					<C>季布为河东守，孝文时，人有言其贤者，孝文召，欲以为御史大 夫。</C>
+					<V>Quý Bố làm Quận thú Hà Đông, thời Hiếu Văn đế, có người nói Quý Bố hiền năng, Hiếu Văn đế triệu đến, muốn cho làm Ngự sử đại phu.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.027">
+					<C>复有言其勇，使酒难近。</C>
+					<V>Lại có người nói Quý Bố dũng lược, là sâu rượu nên khó gần.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.028">
+					<C>至，留邸一月，见罢。</C>
+					<V>Đến nơi, lưu lại một tháng, được triệu kiến rồi thôi.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.029">
+					<C>季布因进曰：“臣无功窃宠， 待罪河东。 陛下无故召臣，此人必有以臣欺陛下者；今臣至，无所受事，罢 去，此人必有以毁臣者。夫陛下以一人之誉而召臣，一人之毁而去 臣，臣恐天下有识闻之有以闚陛下也。”</C>
+					<V>Quý Bố nhân đó nói: “Thần không có công mà trộm được sủng ái, ở Hà Đông chờ định tội. Bệ hạ vô cớ triệu thần, như thể ắt có người cho thần lừa dối bệ hạ. Nay thần đến, không phải làm gì, cho về, người đó ắt hủy báng thần. Bệ hạ dựa vào lời khen của một người mà triệu kiến thần, vì lời hủy báng của một người mà cho thần về, thần sợ kẻ có hiểu biết trong thiên hạ sẽ nhìn thấu bệ hạ.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.030">
+					<C>上默然惭，良久曰：“河东吾股肱郡，故特召君耳。”</C>
+					<V>Hoàng thượng lặng thinh, hổ thẹn, hồi lâu mới nói: “Hà Đông là quận tay chân của ta, nên mới đặc biệt triệu kiến ông.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.031">
+					<C>楚人曹丘生，辩士，数招权顾金钱。</C>
+					<V>Tào Khâu người Sở là biện sĩ, nhiều lần xu phụ người quyên quý vì tiền vàng.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.032">
+					<C>事贵人赵同 等，与窦长 君善。</C>
+					<V>Phụng sự quý nhân là bọn Triệu Đồng, thân với Đậu Trường quân.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.033">
+					<C>季布闻之，寄书谏窦长君曰：“吾闻曹丘生非长者，勿与 通。”</C>
+					<V>Quý Bố biết chuyện, gửi thư can Đậu Trường quân rằng: “Tôi nghe nói Tào Khâu sinh không đường hoàng, chớ qua lại với hắn.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.034">
+					<C>及曹丘生归，欲得书请季布。</C>
+					<V>Đến khi Tào Khâu sinh về, muốn có thư giới thiệu với Quý Bố.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.035">
+					<C>窦长君曰：“季将军不说足下，足下无往。”</C>
+					<V>Đậu Trường quân nói: “Quý tướng quân không thích túc hạ, túc hạ không nên đến.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.036">
+					<C>固请书，遂 行。</C>
+					<V>Cố nài xin thư giới thiệu, rồi lên đường.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.037">
+					<C>使人先发书，季布果大怒，待曹丘。</C>
+					<V>Sai người mang thư đến trước, Quý Bố quả nhiên cả giận, đợi Tào Khâu đến.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.038">
+					<C>曹丘至，即揖季布曰：“楚 人谚曰‘得黄金百，不如得季布一诺’，足下何以得此声於梁楚间 哉？且仆楚人，足下亦楚人也。仆游扬足下之名於天下，顾不重邪？ 何足下距仆之深也！”</C>
+					<V>Tào Khâu đến, liền với Quý Bố rồi nói: “Người Sở có câu ngạn ngữ: 'Được trăm cân vàng, chẳng bằng được tiếng ừ của Quý Bố', sao túc hạ được danh tiếng ở nước Lương, Sở vậy? Vả tôi là người Sở, túc hạ cũng là người Sở. Tôi ngao du dương danh túc hạ khắp thiên hạ, sao không được coi trọng? Sao túc hạ cự tuyệt tôi quá đáng thế?”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.039">
+					<C>季布乃大说，引入，留数月，为上客，厚送 之。</C>
+					<V>Quý Bố bèn cả mừng, dẫn vào, giữ lại mấy tháng, coi như thượng khách, về đưa hậu lễ.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.040">
+					<C>季布名所以益闻者，曹丘扬之也。</C>
+					<V>Danh tiếng Quý Bố vì thế càng nổi, nhờ Tào Khâu phát dương cho vậy.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.041">
+					<C>季布弟季心，气盖关中，遇人恭 谨，为任侠，方数千里，士皆争为之死。</C>
+					<V>Em trai Quý Bố là Quý Tâm, dũng khí bậc nhất Quan Trung, gặp người cung kính cẩn trọng, làm việc trượng nghĩa, trong nghìn dặm vuông, kẻ sĩ đều tranh chết vì ông ta.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.042">
+					<C>尝杀人，亡之吴，从袁丝 匿。</C>
+					<V>Từng giết người, trốn sang Ngô, ẩn ở nhà Viên Ty.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.043">
+					<C>尝为中司马， 中尉郅都不敢不 加礼。</C>
+					<V>Từng làm Trung tư mã, quan Trung úy Chất Đô không dám không gia lễ.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.044">
+					<C>少年多时时窃籍其名以行。</C>
+					<V>Nhiều thanh niên thường mạo danh Quý Tâm để hành sự.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.045">
+					<C>当是时，季心以 勇，布以诺，著闻关中。</C>
+					<V>Bấy giờ, Quý Tâm nhờ trí dũng, Quý Bố nhờ được tin dùng, nổi tiếng khắp Quan Trung.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.046">
+					<C>季布母弟丁公， 为楚将。</C>
+					<V>Cậu ruột Quý Bố là Đinh Công, làm tướng quân nước Sở.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.047">
+					<C>丁公为项羽逐窘高祖彭城西，短兵接，高祖急， 顾丁公曰：“两贤岂相戹哉！”</C>
+					<V>Đinh Công vì Hạng Vũ truy đuổi khiến Cao tổ khốn đốn phía tây Bành Thành, vũ khí ngắn chạm nhau, Cao tổ bí bách quá, quay sang nói với Đinh Công: “Hai người hiền há tàn hại nhau ư?”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.048">
+					<C>於是丁公引兵而还，汉王遂解去。</C>
+					<V>Thế là Đinh Công dẫn quân về, Hán vương liền thoát đi.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.049">
+					<C>及 项王灭，丁公谒见高祖。</C>
+					<V>Đến khi Hạng vương bị diệt, Đinh Công yết kiến Cao tổ.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.050">
+					<C>高祖以丁公徇军中，曰：“丁公为项王臣不 忠，使项王失天下者，乃丁公也。”</C>
+					<V>Cao tổ sai đem Đinh Công vào chém trong quân, nói: “Đinh Công làm bề tôi Hạng vương mà bất trung, khiến Hạng vương mất thiên hạ, là tội của Đinh Công.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.051">
+					<C>遂斩丁公，曰：“使後世为人臣 者无效丁公！”</C>
+					<V>Bèn chém Đinh Công, nói: “Để người làm tôi đời sau không dám bắt chước Đinh Công!”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.052">
+					<C>栾布者，梁人也。</C>
+					<V>Loan Bố Loan Bố, người nước Lương.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.053">
+					<C>始梁王彭越为家人时， 尝与布游。</C>
+					<V>Hồi đầu, Lương vương Bành Việt là thường dân, từng giao du với Bố.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.054">
+					<C>穷困，赁佣於齐，为酒人保。</C>
+					<V>Nghèo khốn, đi làm mướn ở Tề, tôi đòi cho người bán rượu.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.055">
+					<C>数岁，彭越去之巨野中为盗，而布为人 所略卖，为奴於燕。</C>
+					<V>Được mấy năm, Bành Việt bỏ nhà đến làm trộm ở vùng Cự Dã, còn Bố bị người ta cướp rồi bán, làm nô bộc ở Yên.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.056">
+					<C>为其家主报仇，燕将臧荼举以为都尉。</C>
+					<V>Báo thù cho chủ nhà, được tướng Tang Đồ nước Yên cho làm Đô úy.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.057">
+					<C>臧荼後为 燕王，以布为将。</C>
+					<V>Tang Đồ sau làm Yên vương, lấy Bố làm tướng quân.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.058">
+					<C>及臧荼反，汉击燕，虏布。</C>
+					<V>Khi Tang Đồ làm phản, Hán đánh Yên, bắt được Bố.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.059">
+					<C>梁王彭越闻之，乃言 上，请赎布以为梁大夫。</C>
+					<V>Lương Vương Bành Việt nghe tin, bèn tâu lên, xin chuộc Bố vì từng làm đại phu của Lương.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.060">
+					<C>使於齐，未还，汉召彭越，责以谋反，夷三族。</C>
+					<V>Đi sứ sang Tề, chưa về, nhà Hán triệu Bành Việt, trách tội mưu phản, giết cả ba họ.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.061">
+					<C>已而枭彭越头於 雒阳下，诏曰：“有敢收视者，辄捕之。”</C>
+					<V>Rồi bêu đầu Bành Việt dưới thành Lạc Dương, chiếu rằng: “Ai đến lấy đầu hoặc nhìn, phải bắt ngay.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.062">
+					<C>布从齐还，奏事彭越头 下，祠而哭之。</C>
+					<V>Bố từ Tề về, tâu việc dưới đầu Bành Việt, tế lễ khóc thương.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.063">
+					<C>上召布，骂曰：“若与彭越反邪？吾禁 人勿收，若独祠而哭之，与越反明矣。趣亨 之。”</C>
+					<V>Hoàng thượng triệu Bố, mắng rằng: “Ngươi với Bành Việt làm phản chăng? Ta cấm người ta lấy đầu, riêng ngươi đến tế lễ khóc lóc, rõ ràng là cùng Việt làm phản. Mau nấu nó.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.064">
+					<C>方提趣 汤，布顾曰：“原一言而 死。”</C>
+					<V>Đương kéo ném vào vạc, Bố quay lại nói: “Xin nói một lời rồi chết.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.065">
+					<C>上曰：“何言？”</C>
+					<V>Hoàng thượng hỏi: “Nói gì?”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.066">
+					<C>布曰：“方上之困於彭城，败荥阳、成皋 间，项王所以不能西，徒以彭王居梁地，与汉合从苦楚也。当是之 时，彭王一顾，与楚则汉破，与汉而楚破。且垓下之会，微彭王，项 氏不亡。天下已定，彭王剖符受封，亦欲传之万世。今陛下一徵兵於 梁，彭王病不行，而陛下疑以为反，反形未见，以苛小 案诛灭之，臣恐功臣人人自危也。今彭王已 死，臣生不如死，请就亨。”</C>
+					<V>Bố đáp: “Đương lúc Hoàng thượng bị khốn ở Bành Thành, thua trận ở Huỳnh Dương, Thành Cao, sở dĩ Hạng vương không thể đuổi sang tây, vì có Bành vương đất Lương, cùng Hán hợp tung Sở phải khốn khổ. Lúc ấy, Bành vương ngoái đầu một cái, hợp với Sở thì Hán tan ngay, quay về Hán thì Sở tan ngay. Vả lại hội chiến ở Cai Hạ, không có Bành vương, họ Hạng không bị diệt. Thiên hạ đã yên định, Bành vương được nhận phù tiết phân phong, cũng muốn truyền cho muôn đời. Nay bệ hạ một phen trưng dụng quân nước Lương, Bành vương vì ốm không đến mà bệ hạ nghi là làm phản, phản đâu chưa thấy, chỉ dựa vào tiểu tiết giết đi, thần sợ công thần ai nấy tự thấy nguy hiểm. Nay Bành vương đã chết, thần sống chẳng bằng chết, xin được vào vạc.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.067">
+					<C>於是上乃释布罪，拜为都尉。</C>
+					<V>Thế là Hoàng thượng bèn xá tội cho Loan Bố, phong làm Đô úy.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.068">
+					<C>孝文时，为燕相，至将军。</C>
+					<V>Thời Hiếu Văn đế, làm Tướng quốc nước Yên, quan đến tướng quân.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.069">
+					<C>布乃称曰：“穷困不能辱身下志，非 人也；富贵不能快意，非贤也。”</C>
+					<V>Loan Bố tự cho: “Khốn cùng mà không thể nhún mình giấu chí, không phải người chân chính; giàu sang mà không thể thỏa ý, không phải người hiền.”</V>
+				</STC>
+				<STC ID="HCS_001.100.001.070">
+					<C>於是尝有德者厚报之，有怨者必以 法灭之。</C>
+					<V>Thế rồi ai từng có ân đức, báo đáp trọng hậu, ai từng có thù oán, dùng pháp giết chết.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.071">
+					<C>吴反时，以军功封俞侯，复为 燕相。</C>
+					<V>Lúc Ngô và Sở làm phản, nhờ quân công nên được phong làm Du hầu, lại được làm Tướng quốc nước Yên.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.072">
+					<C>燕齐之间皆为栾布立社，号曰栾公社。</C>
+					<V>Một dải Yên, Tề đều lập đền thờ Loan Bố, hiệu là Loan Công xã.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.073">
+					<C>景帝中五年薨。 子贲嗣，为太常，牺牲不如令，国除。</C>
+					<V>Hán Cảnh đế niên hiệu Trung Nguyên năm thứ năm, Loan Bố qua đời, con trai là Bôn thừa kế tước hầu, làm quan Thái thường, dùng con vật hiến tế không đúng quy định, nước phong bị phế.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.074">
+					<C>太史公曰：以项羽之气，而季布以勇显於楚，身屦军 搴旗者数矣，可谓壮士。</C>
+					<V>Thái sử công bàn rằng: Khí lực như Hạng Vũ mà Quý Bố còn nhờ vào dũng được nổi danh ở Sở, thân nhiều lần đạp lên địch cướp cờ xí, có thể gọi là tráng sĩ.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.075">
+					<C>然至 被刑戮，为人奴而不死，何其下也！</C>
+					<V>Nhưng đến khi bị tội, làm nô bộc cho người để không phải chết, sao hạ mình đến thế!</V>
+				</STC>
+				<STC ID="HCS_001.100.001.076">
+					<C>彼必自负其材，故受辱而不羞， 欲有所用其未足也，故终为汉名将。</C>
+					<V>Ông ta hẳn tự cậy tại mình, cho nên chịu nhục mà không hổ thẹn, muốn có chỗ thi thố hết khả năng, cuối cùng làm danh tướng nhà Hán.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.077">
+					<C>贤者诚重其死。</C>
+					<V>Người hiền năng thực sự coi trọng mạng sống.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.078">
+					<C>夫婢妾贱人感慨 而自杀者，非能勇也，其计画 无复之耳。</C>
+					<V>Như kẻ tỳ thiếp tiện nhân vì phẫn uất mà tự sát, đó không phải có dũng khí, chẳng qua không nghĩ ra cách gì khác thôi.</V>
+				</STC>
+				<STC ID="HCS_001.100.001.079">
+					<C>栾布哭彭越，趣汤如归 者，彼诚知所处，不自重其 死。</C>
+					<V>Loan Bố khóc Bành Việt, đi đến vạc nước sôi như trở về, ông ta thực biết chỗ của mình, không coi trọng mạng sống.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="HCS_001.100.002">
+				<STC ID="HCS_001.100.002.001">
+					<C>长事袁丝，弟畜灌夫、籍福之属。</C>
+					<V>Phụng sự Viên Ty như tôn trưởng, coi bọn thuộc hạ Quán Phu, Tịch Phúc như em trai.</V>
+				</STC>
+				<STC ID="HCS_001.100.002.002">
+					<C>虽往古烈士，何以加哉！</C>
+					<V>Dẫu bậc sĩ tiết liệt thời cổ cũng đâu hơn gì!</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>
