@@ -149,6 +149,7 @@ def _post_request_to_api( data: str, is_split: bool = False ) -> list[str]:
 	
 	if is_split:
 		lines = data.splitlines()
+		lines = [line.strip() for line in lines if line.strip()]
 	else:
 		lines = _split_zh(data, limit=1000)
  

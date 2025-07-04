@@ -11,7 +11,7 @@ class Bertalign:
                  src,
                  tgt,
                  model = model,
-                 max_align=5,
+                 max_align=6,
                  top_k=2,
                  win=5,
                  skip=-0.1,
@@ -32,6 +32,7 @@ class Bertalign:
         self.len_penalty = len_penalty
         self.sentence_num_penalty = sentence_num_penalty
         self.union_score = union_score
+        self.is_split = is_split
         self.ner_dict = ner_dict
         
         src = clean_text(src)
@@ -122,6 +123,14 @@ class Bertalign:
             print("Error: The number of converted source sentences does not match the number of source sentences.")
             print("Converted source sentences: {}".format(converted_zh_len))
             print("Source sentences: {}".format(self.src_num))
+
+            # Print first 5 sentences for debugging
+            print("First 5 source sentences:")
+            for i in range(min(5, self.src_num)):
+                print(f"{i+1}: {self.src_sents[i]}")
+            print("First 5 converted sentences:")
+            for i in range(min(5, converted_zh_len)):
+                print(f"{i+1}: {converted_src[0][i]}")
             raise ValueError("The number of converted source sentences does not match the number of source sentences.")
 
         # Convert vn text to words list

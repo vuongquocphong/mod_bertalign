@@ -64,8 +64,8 @@ def evaluate(alignments, golden):
     return precision, recall, f1, match, len(alignments), len(golden)
 
 # Define the parameters for the alignment
-skip_cost = continuous_numbers( -0.5, 0.0, 0.05 )
-snt_num_penalty = continuous_numbers( 0.0, 0.5, 0.01 )
+skip_cost = continuous_numbers( -0.4, 0.0, 0.01 )
+snt_num_penalty = continuous_numbers( 0.0, 0.3, 0.01 )
 union_score = continuous_numbers( 0.0, 1.0, 0.05 )
 # model = bertalign.Encoder("LaBSE")
 
@@ -125,12 +125,15 @@ if __name__ == "__main__":
     if len(src_pars) != len(tgt_pars):
         raise ValueError("The number of source paragraphs does not match the number of target paragraphs.")
     
-    start_paragraph = 22
+    start_paragraph = 1
     bathch_size = 137
+
+    consider_paragraphs = [1, 22]
     
     # Align each paragraph pair
     total_paragraphs = len(src_pars)
     for i in range(start_paragraph - 1, min(total_paragraphs, start_paragraph + bathch_size - 1)):
+        if( i + 1 not in consider_paragraphs ): continue
         print(f"Aligning paragraph {i + 1}/{len(src_pars)}")
         src_paragraph = src_pars[i]
         tgt_paragraph = tgt_pars[i]
