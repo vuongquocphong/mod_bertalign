@@ -148,7 +148,7 @@ def _post_request_to_api( data: str, is_split: bool = False ) -> list[str]:
 		return text
 	
 	if is_split:
-		lines = [data]
+		lines = data.splitlines()
 	else:
 		lines = _split_zh(data, limit=1000)
  
