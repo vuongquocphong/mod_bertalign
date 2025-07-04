@@ -112,7 +112,7 @@ def load_nom_dict(file_path: str) -> dict[str, str]:
 # nom_dict = load_nom_dict('bertalign/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx')
 nom_dict = load_nom_dict('bertalign/dictionary/D_204_single_char_thi_vien_sino_vietnamese_dict_update.xlsx')
 
-def _post_request_to_api( data: str ) -> list[str]:
+def _post_request_to_api( data: str, is_split: bool = False ) -> list[str]:
 	"""
 	Sends a POST request to the specified API.
 
@@ -147,7 +147,10 @@ def _post_request_to_api( data: str ) -> list[str]:
 				text = text.replace(char, ' ')
 		return text
 	
-	lines = _split_zh(data, limit=1000)
+	if is_split:
+		lines = [data]
+	else:
+		lines = _split_zh(data, limit=1000)
  
 	spaced_lines = []
 	
@@ -183,7 +186,7 @@ def _clean_vietnamese_text(text: str) -> str:
 	pattern = r"[.!?；：，—“”‘’\[\]\(\),:;\"]"
 	return re.sub(pattern, ' ', text)
 
-def convert_zh(text: str, overlaps: int):
+def convert_zh(text: str, overlaps: int, is_split: bool = False):
 	"""
 	Convert the input text to sino-vietnamese using the API.
 
@@ -191,7 +194,7 @@ def convert_zh(text: str, overlaps: int):
 	:return: A list of sino-converted sentences.
 	"""
 
-	converted_sentences = _post_request_to_api(text)
+	converted_sentences = _post_request_to_api(text, is_split)
 	if converted_sentences is None:
 		raise Exception("Error in API response.")
 	

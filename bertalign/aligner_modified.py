@@ -125,7 +125,7 @@ class BertalignModified:
         # start_time = time.time()
 
         # Convert zh text to words list
-        converted_src, src_word_len = convert_zh(self.src, self.max_align - 1)
+        converted_src, src_word_len = convert_zh(self.src, self.max_align - 1, self.is_split)
         converted_zh_len = len(converted_src[0])
 
         # Prepare index dictionary of each words
