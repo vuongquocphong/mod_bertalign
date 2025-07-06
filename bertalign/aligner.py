@@ -22,7 +22,6 @@ class Bertalign:
                  is_split=False,
                  ner_dict={}
                ):
-        self.src = src
         self.model = model
         self.max_align = max_align
         self.top_k = top_k
@@ -39,6 +38,8 @@ class Bertalign:
         tgt = clean_text(tgt)
         src_lang = 'zh'
         tgt_lang = 'vi'
+
+        self.src = src
         
         # Split into sentences
         if is_split:

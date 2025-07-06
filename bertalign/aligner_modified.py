@@ -16,7 +16,7 @@ class BertalignModified:
                  src,
                  tgt,
                  model = model,
-                 max_align=7,
+                 max_align=6,
                  top_k=2,
                  win=5,
                  skip=-0.1,
@@ -25,7 +25,6 @@ class BertalignModified:
                  sentence_num_penalty=True,
                  union_score=True,
                  is_split=False,
-                 ner_dict={}
                ):
         self.src = src
         self.model = model
@@ -37,7 +36,7 @@ class BertalignModified:
         self.len_penalty = len_penalty
         self.sentence_num_penalty = sentence_num_penalty
         self.union_score = union_score
-        self.ner_dict = ner_dict
+        self.is_split = is_split
         
         src = clean_text(src)
         tgt = clean_text(tgt)

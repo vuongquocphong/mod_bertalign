@@ -22,16 +22,20 @@ def read_numbers_from_file(filename):
     
     # Sort the current ranking
     sorted_ranking = sorted(current_ranking, key=lambda x: (-x[2], -x[0], -x[1]))
+    ranking_size = len(sorted_ranking)
+    
+    # Create a dictionary for O(1) rank lookups
+    rank_lookup = {value: rank + 1 for rank, value in enumerate(sorted_ranking)}
 
     # Update the global ranking ( the sum of rank of coefficients tuple in all files )
     for key in current_stored:
-        current_rank = sorted_ranking.index(current_stored[key]) + 1
+        current_rank = rank_lookup[current_stored[key]]
         if key not in general_ranking: general_ranking[key] = 0
-        general_ranking[key] += current_rank
+        general_ranking[key] += current_rank / ranking_size
 
 if __name__ == "__main__":
     # Read all the file from the specified directory
-    directory = "/home/hoktro/mod_bertalign/Evaluation_results/Evaluation"
+    directory = "/home/hoktro/mod_bertalign/Evaluation_results"
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
             file_path = os.path.join(directory, filename)

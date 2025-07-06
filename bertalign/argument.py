@@ -10,9 +10,9 @@ class Argument:
         if hasattr(self, "args"): return
 
         self.args = dict()
-        self.args["skip"] = -0.12
-        self.args["sentence_num_penalty"] = 0.01
-        self.args["union_score"] = 0.25
+        self.args["skip"] = -0.15
+        self.args["sentence_num_penalty"] = 0.05
+        self.args["union_score"] = 0.15
         # self.args["union_score"] = 0.0
         # self.args["sentence_num_penalty"] = 0.0
     
