@@ -112,24 +112,51 @@ def load_nom_dict(file_path: str) -> dict[str, str]:
 # nom_dict = load_nom_dict('bertalign/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx')
 nom_dict = load_nom_dict('bertalign/dictionary/D_204_single_char_thi_vien_sino_vietnamese_dict_update.xlsx')
 
-def _post_request_to_api( data: str, is_split: bool = False ) -> list[str]:
+def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str]:
 	"""
 	Sends a POST request to the specified API.
 
 	:param data: The text need to convert to sino-vietnamese.
 	:return: The list of sino-converted of each sentence.
 	"""
-	def batch_transliterate(sentences, server_url="http://localhost:8080/RPC2"):
+	def batch_transliterate(sentences_generator, server_url="http://localhost:8080/RPC2"):
+		"""
+		Process sentences from a generator for memory efficiency.
+		
+		:param sentences_generator: Generator or iterable of sentences
+		:param server_url: API server URL
+		:return: List of transliterated sentences
+		"""
 		server = xmlrpc.client.ServerProxy(server_url)
 		results = []
 
-		for sentence in sentences:
-			params = {'text': sentence}
-			try:
-				response = server.translate(params)
-				results.append(response.get('text', ''))  # fallback to empty string if 'text' missing
-			except Exception as e:
-				results.append(f"[Error: {e}]")  # include error for debugging
+		# Can accept both generators and regular iterables
+		for sentence in sentences_generator:
+			
+			# If sentence is short enough, send it directly
+			if len(sentence) <= 50:
+				params = {'text': sentence}
+				try:
+					response = server.translate(params)
+					results.append(response.get('text', ''))  # fallback to empty string if 'text' missing
+				except Exception as e:
+					results.append(f"[Error: {e}]")  # include error for debugging
+			
+			# Split long sentences if necessary
+			else:
+				# Split by ，or ,
+				chunks = re.split(r'[，,；;]', sentence)
+				translated_chunks = []
+				for chunk in chunks:
+					params = {'text': chunk}
+					try:
+						response = server.translate(params)
+						translated_chunks.append(response.get('text', ''))
+					except Exception as e:
+						translated_chunks.append(f"[Error: {e}]")
+				
+				translated_chunks = ' '.join( translated_chunks )
+				results.append( translated_chunks )
 		return results
 	
 	def preprocess_snt_for_transliteration(replace_dict, text: str):
@@ -147,21 +174,15 @@ def _post_request_to_api( data: str, is_split: bool = False ) -> list[str]:
 				text = text.replace(char, ' ')
 		return text
 	
-	if is_split:
-		lines = data.splitlines()
-		lines = [line.strip() for line in lines if line.strip()]
-	else:
-		lines = _split_zh(data, limit=1000)
- 
-	spaced_lines = []
-	
-	for line in lines:
-		line = ' '.join(line)
-		spaced_lines.append(line)
+	def _process_lines(lines: list[str]):
+		for line in lines:
+			line = ' '.join(line)
+			line = preprocess_snt_for_transliteration(nom_dict, line)
+			yield line
 
-	preprocessed_lines = [preprocess_snt_for_transliteration(nom_dict, line) for line in spaced_lines]  
-
-	transliterated_lines = batch_transliterate(preprocessed_lines)
+	# Use the generator directly as an argument
+	preprocessed_generator = _process_lines(lines)
+	transliterated_lines = batch_transliterate(preprocessed_generator)
 
 	return transliterated_lines
 	
@@ -187,7 +208,7 @@ def _clean_vietnamese_text(text: str) -> str:
 	pattern = r"[.!?；：，—“”‘’\[\]\(\),:;\"]"
 	return re.sub(pattern, ' ', text)
 
-def convert_zh(text: str, overlaps: int, is_split: bool = False):
+def convert_zh( src_sents: list[str], overlaps: int, is_split: bool = False):
 	"""
 	Convert the input text to sino-vietnamese using the API.
 
@@ -195,7 +216,7 @@ def convert_zh(text: str, overlaps: int, is_split: bool = False):
 	:return: A list of sino-converted sentences.
 	"""
 
-	converted_sentences = _post_request_to_api(text, is_split)
+	converted_sentences = _post_request_to_api(src_sents, is_split)
 	if converted_sentences is None:
 		raise Exception("Error in API response.")
 	
