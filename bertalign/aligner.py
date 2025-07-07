@@ -20,7 +20,6 @@ class Bertalign:
                  sentence_num_penalty=True,
                  union_score=True,
                  is_split=False,
-                 ner_dict={}
                ):
         self.model = model
         self.max_align = max_align
@@ -32,14 +31,11 @@ class Bertalign:
         self.sentence_num_penalty = sentence_num_penalty
         self.union_score = union_score
         self.is_split = is_split
-        self.ner_dict = ner_dict
         
         src = clean_text(src)
         tgt = clean_text(tgt)
         src_lang = 'zh'
         tgt_lang = 'vi'
-
-        self.src = src
         
         # Split into sentences
         if is_split:
@@ -87,6 +83,9 @@ class Bertalign:
         first_pointers = first_pass_align(self.src_num, self.tgt_num, first_w, first_path, first_alignment_types, D, I, src_sents=self.src_sents, tgt_sents=self.tgt_sents)
         first_alignment = first_back_track(self.src_num, self.tgt_num, first_pointers, first_path, first_alignment_types)
 
+        # Deallocate memory
+        del D, I, first_pointers, first_path
+
         print("Performing second-step alignment ...")
         second_alignment_types = get_alignment_types(self.max_align)
         second_w, second_path = find_second_search_path(first_alignment, self.win, self.src_num, self.tgt_num)
@@ -101,6 +100,9 @@ class Bertalign:
         
         print("Finished! Successfully aligning {} {} sentences to {} {} sentences\n".format(self.src_num, self.src_lang, self.tgt_num, self.tgt_lang))
         self.result = second_alignment
+
+        # Deallocate memory
+        del second_pointers, second_path, second_w, second_alignment_types
     
     def print_sents(self):
         for bead in (self.result):
@@ -113,7 +115,7 @@ class Bertalign:
         start_time = time.time()
 
         # Convert zh text to words list
-        converted_src, src_word_len = convert_zh(self.src, self.max_align - 1, self.is_split)
+        converted_src, src_word_len = convert_zh(self.src_sents, self.max_align - 1, self.is_split)
         converted_zh_len = len(converted_src[0])
 
         # Prepare index dictionary of each words
@@ -148,3 +150,15 @@ class Bertalign:
         if len(bead) > 0:
             line = join_char.join(lines[bead[0]:bead[-1]+1])
         return line
+    
+    def __del__(self):
+        print("Bertalign instance is being deallocated.")
+        # Explicitly delete large GPU tensors if they exist
+        if hasattr(self, 'src_vecs'): del self.src_vecs
+        if hasattr(self, 'tgt_vecs'): del self.tgt_vecs
+
+        if hasattr(self, 'src_sents'): del self.src_sents
+        if hasattr(self, 'tgt_sents'): del self.tgt_sents
+
+        # Release GPU memory
+        torch.cuda.empty_cache()
