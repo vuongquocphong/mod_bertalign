@@ -1,0 +1,22 @@
+Timestamp: 06:15:31
+Time taken: 0:03:28.882544
+Model: LaBSE
+Top k: 2
+Max align param: 10
+Golden size: 0
+Alignments size: 1088
+Precision: 0.0
+Recall: 0
+F1: 0
+--------------------
+Timestamp: 06:23:25
+Time taken: 0:06:40.482779
+Model: LaBSE
+Top k: 2
+Max align param: 20
+Golden size: 0
+Alignments size: 1067
+Precision: 0.0
+Recall: 0
+F1: 0
+--------------------

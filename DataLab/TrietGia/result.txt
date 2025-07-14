@@ -1,0 +1,99 @@
+Timestamp: 07:26:53
+Time taken: 0:00:15.869775
+Model: LaBSE
+Top k: 2
+Max align param: 6
+Golden size: 871
+Alignments size: 633
+Precision: 0.7835703001579779
+Recall: 0.5694603903559128
+F1: 0.6595744680851063
+--------------------
+Timestamp: 07:29:58
+Time taken: 0:00:13.354965
+Model: LaBSE
+Top k: 2
+Max align param: 6
+Golden size: 871
+Alignments size: 633
+Precision: 0.7835703001579779
+Recall: 0.5694603903559128
+F1: 0.6595744680851063
+--------------------
+Timestamp: 07:32:29
+Time taken: 0:00:13.108115
+Model: LaBSE
+Top k: 2
+Max align param: 6
+Golden size: 871
+Alignments size: 633
+Precision: 0.7835703001579779
+Recall: 0.5694603903559128
+F1: 0.6595744680851063
+--------------------
+Timestamp: 07:39:10
+Time taken: 0:00:13.130566
+Model: LaBSE
+Top k: 2
+Max align param: 6
+Golden size: 871
+Alignments size: 633
+Precision: 0.7835703001579779
+Recall: 0.5694603903559128
+F1: 0.6595744680851063
+--------------------
+Timestamp: 08:03:02
+Time taken: 0:00:12.955195
+Model: LaBSE
+Top k: 2
+Max align param: 6
+Golden size: 871
+Alignments size: 638
+Precision: 0.780564263322884
+Recall: 0.5717566016073479
+F1: 0.6600397614314115
+--------------------
+Timestamp: 08:06:18
+Time taken: 0:01:06.313137
+Model: LaBSE
+Top k: 2
+Max align param: 15
+Golden size: 871
+Alignments size: 626
+Precision: 0.7971246006389776
+Recall: 0.5729047072330654
+F1: 0.6666666666666665
+--------------------
+Timestamp: 08:09:55
+Time taken: 0:01:54.526574
+Model: LaBSE
+Top k: 2
+Max align param: 20
+Golden size: 871
+Alignments size: 626
+Precision: 0.7987220447284346
+Recall: 0.574052812858783
+F1: 0.6680026720106881
+--------------------
+Timestamp: 08:25:10
+Time taken: 0:01:58.068383
+Model: LaBSE
+Top k: 2
+Max align param: 20
+Golden size: 871
+Alignments size: 631
+Precision: 0.7923930269413629
+Recall: 0.574052812858783
+F1: 0.6657789613848202
+--------------------
+Timestamp: 08:33:55
+Time taken: 0:01:57.139473
+Model: LaBSE
+Top k: 2
+Max align param: 20
+Golden size: 871
+Alignments size: 626
+Precision: 0.7987220447284346
+Recall: 0.574052812858783
+F1: 0.6680026720106881
+--------------------
