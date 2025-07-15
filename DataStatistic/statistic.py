@@ -143,7 +143,7 @@ def process_data(folder_path):
 	with open(golden_path, 'r', encoding='utf-8') as f:
 		golden_text = f.readlines()
 
-	golden_bead, golden_proportion = 0, 0.00
+	total_golden, golden_bead, golden_proportion = 0, 0, 0.00
 	
 	for line in golden_text:
 		txt = line.split('\t')
@@ -151,6 +151,8 @@ def process_data(folder_path):
 			raise ValueError("Golden text format error: {}".format(line))
 		
 		left, right = txt[0].strip(), txt[1].strip()
+
+		if len(left) != 0 or len(right) != 0: total_golden += 1
 
 		if len(left) == 0 or len(right) == 0:
 			continue
@@ -160,7 +162,7 @@ def process_data(folder_path):
 
 	average_proportion = golden_proportion / golden_bead if golden_bead > 0 else 0
 
-	return total_src, total_tgt, round(averaveLen_src, 2), round(averaveLen_tgt, 2), totalChar_src, len(local_dict_src), totalChar_tgt, len(local_dict_tgt), round(average_proportion, 4)
+	return total_src, total_tgt, round(averaveLen_src, 2), round(averaveLen_tgt, 2), totalChar_src, len(local_dict_src), totalChar_tgt, len(local_dict_tgt), total_golden, round(average_proportion, 4)
 
 def process_data_SKTMT(folder_path):
 
@@ -169,7 +171,7 @@ def process_data_SKTMT(folder_path):
 	total_src, totalLen_src, totalChar_src = 0, 0, 0
 	total_tgt, totalLen_tgt, totalChar_tgt = 0, 0, 0
 
-	golden_bead, golden_proportion = 0, 0.00
+	total_golden, golden_bead, golden_proportion = 0, 0, 0.00
 
 	local_dict_src = set()
 	local_dict_tgt = set()
@@ -238,6 +240,8 @@ def process_data_SKTMT(folder_path):
 			
 			left, right = txt[0].strip(), txt[1].strip()
 
+			if len(left) != 0 or len(right) != 0: total_golden += 1
+
 			if len(left) == 0 or len(right) == 0:
 				continue
 
@@ -248,7 +252,7 @@ def process_data_SKTMT(folder_path):
 	averaveLen_tgt = totalLen_tgt / total_tgt if total_tgt > 0 else 0
 	average_proportion = golden_proportion / golden_bead if golden_bead > 0 else 0
 
-	return total_src, total_tgt, round(averaveLen_src, 2), round(averaveLen_tgt, 2), totalChar_src, len(local_dict_src), totalChar_tgt, len(local_dict_tgt), round(average_proportion, 4)
+	return total_src, total_tgt, round(averaveLen_src, 2), round(averaveLen_tgt, 2), totalChar_src, len(local_dict_src), totalChar_tgt, len(local_dict_tgt), total_golden, round(average_proportion, 4)
 
 def analyze_data():
 
@@ -311,16 +315,17 @@ def analyze_data():
 	totalLen_src = sum(res[3] * res[1] for res in results)
 	totalLen_tgt = sum(res[4] * res[2] for res in results)
 	totalChar_src = sum(res[5] for res in results)
-	totalChar_tgt = sum(res[6] for res in results)
 	uniqueChar_src = len(global_dict_src)
+	totalChar_tgt = sum(res[7] for res in results)
 	uniqueChar_tgt = len(global_dict_tgt)
-	average_proportion = sum(res[9] for res in results) / len(results)
+	total_alignment = sum(res[9] for res in results)
+	average_proportion = sum(res[10] for res in results) / len(results)
 
 	results.append(("Total", total_src, total_tgt,
 		round(totalLen_src / total_src, 2) if total_src > 0 else 0,
 		round(totalLen_tgt / total_tgt, 2) if total_tgt > 0 else 0,
 		totalChar_src, uniqueChar_src, totalChar_tgt, uniqueChar_tgt,
-		round(average_proportion, 4)))
+		total_alignment, round(average_proportion, 4)))
 
 	# Write into xlsx file
 	import pandas as pd
@@ -329,7 +334,7 @@ def analyze_data():
 		'Average Length Source', 'Average Length Target', 
 		'Total Characters Source', 'Unique Characters Source', 
 		'Total Characters Target', 'Unique Characters Target', 
-		'Average Proportion'
+		'Total alignment', 'Average Proportion'
 	])
 	output_path = "/home/hoktro/mod_bertalign/DataStatistic/statistic_results.xlsx"
 	df.to_excel(output_path, index=False)
