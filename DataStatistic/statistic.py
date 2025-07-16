@@ -59,6 +59,7 @@ def clean_zh_text(text):
 	
 	# Remove all spaces
 	text = re.sub(r'\s+', '', text)
+	length = len(text)
 
 	# Remove all except for Chinese characters
 	text = re.sub(r'[^\u4e00-\u9fff\u3400-\u4dbf\u20000-\u2a6df\u2a700-\u2b73f\u2b740-\u2b81f\u2b820-\u2ceaf\uf900-\ufaff]', '', text)
@@ -66,22 +67,26 @@ def clean_zh_text(text):
 	# Split characters
 	characters = list(text)
 
-	return characters
+	return characters, length
 
 def clean_vi_text(text):
 	
+	length = len(text)
+
 	# Remove all except for Vietnamese characters and some punctuation
 	text = re.sub(r'[^\w\s]', '', text)
 
 	# Remove all spaces
 	text = re.sub(r'\s+', ' ', text)
+	length -= len(text)
 
 	text = text.lower()
 	
 	# Split characters
 	characters = text.split(' ')
+	length += len(characters)
 
-	return characters
+	return characters, length
 
 global_dict_src = set()
 global_dict_tgt = set()
@@ -109,10 +114,11 @@ def process_data(folder_path):
 		total_src += len(sentences)
 		
 		for sent in sentences:
-			totalLen_src += len(sent)
+			# totalLen_src += len(sent)
 			
-			chars = clean_zh_text(sent)
+			chars, sent_length = clean_zh_text(sent)
 			totalChar_src += len(chars)
+			totalLen_src += sent_length
 
 			local_dict_src.update(chars)
 			global_dict_src.update(chars)
@@ -129,10 +135,11 @@ def process_data(folder_path):
 		total_tgt += len(sentences)
 		
 		for sent in sentences:
-			totalLen_tgt += len(sent)
+			# totalLen_tgt += len(sent)
 			
-			chars = clean_vi_text(sent)
+			chars, sent_length = clean_vi_text(sent)
 			totalChar_tgt += len(chars)
+			totalLen_tgt += sent_length
 
 			local_dict_tgt.update(chars)
 			global_dict_tgt.update(chars)
@@ -157,8 +164,11 @@ def process_data(folder_path):
 		if len(left) == 0 or len(right) == 0:
 			continue
 
+		chars_left, _left = clean_zh_text(left)
+		chars_right, _right = clean_vi_text(right)
+
 		golden_bead += 1
-		golden_proportion += len(left) / len(right)
+		golden_proportion += _left / _right
 
 	average_proportion = golden_proportion / golden_bead if golden_bead > 0 else 0
 
@@ -199,10 +209,11 @@ def process_data_SKTMT(folder_path):
 			total_src += len(sentences)
 			
 			for sent in sentences:
-				totalLen_src += len(sent)
+				# totalLen_src += len(sent)
 				
-				chars = clean_zh_text(sent)
+				chars, sent_length = clean_zh_text(sent)
 				totalChar_src += len(chars)
+				totalLen_src += sent_length
 
 				local_dict_src.update(chars)
 				global_dict_src.update(chars)
@@ -217,10 +228,11 @@ def process_data_SKTMT(folder_path):
 			total_tgt += len(sentences)
 			
 			for sent in sentences:
-				totalLen_tgt += len(sent)
+				# totalLen_tgt += len(sent)
 				
-				chars = clean_vi_text(sent)
+				chars, sent_length = clean_vi_text(sent)
 				totalChar_tgt += len(chars)
+				totalLen_tgt += sent_length
 
 				local_dict_tgt.update(chars)
 				global_dict_tgt.update(chars)
@@ -245,8 +257,11 @@ def process_data_SKTMT(folder_path):
 			if len(left) == 0 or len(right) == 0:
 				continue
 
+			chars_left, _left = clean_zh_text(left)
+			chars_right, _right = clean_vi_text(right)
+
 			golden_bead += 1
-			golden_proportion += len(left) / len(right)
+			golden_proportion += _left / _right
 
 	averaveLen_src = totalLen_src / total_src if total_src > 0 else 0
 	averaveLen_tgt = totalLen_tgt / total_tgt if total_tgt > 0 else 0
