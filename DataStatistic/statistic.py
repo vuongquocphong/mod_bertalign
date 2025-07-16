@@ -71,13 +71,13 @@ def clean_zh_text(text):
 
 def clean_vi_text(text):
 	
+	# Remove all spaces
+	text = re.sub(r'\s+', ' ', text)
 	length = len(text)
 
 	# Remove all except for Vietnamese characters and some punctuation
 	text = re.sub(r'[^\w\s]', '', text)
 
-	# Remove all spaces
-	text = re.sub(r'\s+', ' ', text)
 	length -= len(text)
 
 	text = text.lower()
