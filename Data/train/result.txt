@@ -20,3 +20,36 @@ Precision: 0.9388646288209607
 Recall: 0.9079391891891891
 F1: 0.9231429798196651
 --------------------
+Timestamp: 11:11:21
+Time taken: 0:00:52.718662
+Model: LaBSE
+Top k: 2
+Max align param: 7
+Golden size: 1184
+Alignments size: 1148
+Precision: 0.9398954703832753
+Recall: 0.9113175675675675
+F1: 0.925385934819897
+--------------------
+Timestamp: 11:14:22
+Time taken: 0:00:44.151350
+Model: LaBSE
+Top k: 2
+Max align param: 6
+Golden size: 1184
+Alignments size: 1148
+Precision: 0.9398954703832753
+Recall: 0.9113175675675675
+F1: 0.925385934819897
+--------------------
+Timestamp: 11:21:59
+Time taken: 0:01:32.016178
+Model: LaBSE
+Top k: 2
+Max align param: 10
+Golden size: 1184
+Alignments size: 1148
+Precision: 0.9407665505226481
+Recall: 0.9121621621621622
+F1: 0.9262435677530018
+--------------------

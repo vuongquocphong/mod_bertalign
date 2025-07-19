@@ -723,7 +723,7 @@
 后大骂何进无谋，引贼入京，致有今日之祸。	Hà Thái Hậu mắng nhiếc Hà Tiến là đồ vô mưu, đem giặc vào kinh đô, để có cái vạ ngày nay.
 儒催逼帝，帝曰：“容我与太后作别。”	Nho bức vua phải uống rượu. Vua nói: - Hãy khoan! Để ta cùng Thái Hậu từ biệt đã.
 乃大恸而作歌，其歌曰：	
-“天地易兮日月翻，弃万乘兮退守藩。	Giời đất chao, giăng sao cũng đổ Bỏ ngôi sao, ra chỗ phiên phong 
+“天地易兮日月翻，弃万乘兮退守藩。	Giời đất chao, giăng sao cũng đổ Bỏ ngôi sao, ra chỗ phiên phong.
 为臣逼兮命不久，大势去兮空泪潸！”	Bởi ai nên sự lạ lùng? Việc đời ngán ngẩm, ròng ròng châu tuôn.
 唐妃亦作歌曰：“皇天将崩兮后土. 颓，身为帝姬兮命不随。	Đường phi cũng làm bài ca rằng: Giời nghiêng đất lại lở tan Phận mình thê thiếp, trái oan lạ thường!
 生死异路兮从此毕，奈何茕速兮心中悲！”	Từ sinh nay đã khác đường, Một người một bóng xót thương tấm lòng!
@@ -896,9 +896,9 @@
 第七镇，东郡太守乔瑁。	7. Kiều Mạo, thái thú Đông Quận.
 第八镇，山阳太守袁遗。	8. Viên Di, thái thú Sơn Dương.
 第九镇，济北相鲍信。	9. Pháo Tín, tướng ở Tế Bắc.
-第十镇，北海太守孔融。	10. Khổng Dung, thái thú Bắc Hải. 11.
-第十一镇，广陵太守张超。	Trương Siêu, thái thú Quảng Lăng. 12.
-第十二镇，徐州刺史陶谦。	Đào Khiêm, thứ sử Từ Châu.
+第十镇，北海太守孔融。	10. Khổng Dung, thái thú Bắc Hải.
+第十一镇，广陵太守张超。	11. Trương Siêu, thái thú Quảng Lăng.
+第十二镇，徐州刺史陶谦。	12. Đào Khiêm, thứ sử Từ Châu.
 第十三镇，西凉太守马腾。	13. Mã Đằng, thái thú Tây Lương.
 第十四镇，北平太守公孙瓒。	14. Công Tôn Toản, thái thú Bắc Bình.
 第十五镇，上党太守张杨。	15. Trương Dương, thái thú Thượng Đảng.
@@ -1969,8 +1969,7 @@
 帝在楼上宣谕曰：“王允既诛，军马何故不退？”	Vua ở trên lầu phán hỏi rằng: - Vương Doãn đã bị giết rồi, sao quân mã chưa rút?
 李傕、郭汜曰：“臣等有功王室，未蒙赐爵，故不敢退军。”	Lý Thôi, Quách Dĩ thưa rằng: - Muôn tâu bệ hạ, chúng tôi có công với nhà vua, chưa được phong tước, cho nên chưa dám lui quân.
 帝曰：“卿欲封何爵？”	Vua phán hỏi: - Các người muốn được phong tước gì?
-李、郭、张、樊四人各自写职衔献上，勒要如此官品，帝只得从之。	Lý, Quách, Trương, Phàn bốn đứa cầu phong chức hàm gì, đều tự tay viết ra dâng lên, đòi vua phải phong như thế. Vua bắt buộc phải nghe theo:
-封李傕为车骑将军池阳侯领司隶校尉假节钺，郭汜为后将军美阳侯假节钺，同秉朝政；樊稠为右将军万年侯，张济为骠骑将军平阳侯，领兵屯弘农。	 1. Lý Thôi làm sa kỵ tướng quân, Trì dương hầu, lĩnh chức tư lệ hiệu úy, được dùng cờ tiết, lưỡi phủ việt. 2. Quách Dĩ, làm hậu tướng quân, Mỹ dương hầu cũng được dùng cờ tiết, lưỡi phủ việt. Hai người cùng giữ quyền chính trong triều. 3. Phàn Trù, làm hữu tướng quân, Vạn niên hầu. 4. Trương Tế, làm phiêu kỵ tướng quân, Binh dương hầu. Trương, Phàn hai người lĩnh binh ra đóng đồn ở Hoàng Nông.
+李、郭、张、樊四人各自写职衔献上，勒要如此官品，帝只得从之。封李傕为车骑将军池阳侯领司隶校尉假节钺，郭汜为后将军美阳侯假节钺，同秉朝政；樊稠为右将军万年侯，张济为骠骑将军平阳侯，领兵屯弘农。	Lý, Quách, Trương, Phàn bốn đứa cầu phong chức hàm gì, đều tự tay viết ra dâng lên, đòi vua phải phong như thế. Vua bắt buộc phải nghe theo: 1. Lý Thôi làm sa kỵ tướng quân, Trì dương hầu, lĩnh chức tư lệ hiệu úy, được dùng cờ tiết, lưỡi phủ việt. 2. Quách Dĩ, làm hậu tướng quân, Mỹ dương hầu cũng được dùng cờ tiết, lưỡi phủ việt. Hai người cùng giữ quyền chính trong triều. 3. Phàn Trù, làm hữu tướng quân, Vạn niên hầu. 4. Trương Tế, làm phiêu kỵ tướng quân, Binh dương hầu. Trương, Phàn hai người lĩnh binh ra đóng đồn ở Hoàng Nông.
 其余李蒙、王方等，各为校尉。	Còn lũ Lý Mông, Vương Phương đều được phong làm hiệu úy.
 然后谢恩，领兵出城。	
 又下令追寻董卓尸首，获得些零碎皮骨，以香木雕成形体，安凑停当，大设祭祀，用王者衣冠棺椁，选择吉日，迁葬郿坞。	Bọn ấy lại sai người đi tìm đầu và thây Đổng Trác. Tìm được ít nhiều da xương vụn nát, chúng lấy gỗ thơm, khắc thành hình thể, chắp ghép đâu vào đấy, cúng tế thực to, áo mũ quan quách, dùng theo đám ma nhà vua, chọn ngày tốt làm lễ cất đám rước sang táng ở My Ổ.

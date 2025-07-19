@@ -35,7 +35,7 @@ def read_numbers_from_file(filename):
 
 if __name__ == "__main__":
     # Read all the file from the specified directory
-    directory = "/home/hoktro/mod_bertalign/Evaluation_results"
+    directory = "/home/hoktro/mod_bertalign/Evaluation_results/Stored"
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
             file_path = os.path.join(directory, filename)
