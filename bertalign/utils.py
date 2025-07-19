@@ -5,16 +5,36 @@ import xmlrpc.client
 from sentence_splitter import SentenceSplitter
 from underthesea import sent_tokenize
 
-def clean_text(text):
+def clean_text(text, lang):
 	clean_text = []
 	text = text.strip()
 	lines = text.splitlines()
 	for line in lines:
 		line = line.strip()
 		if line:
-			line = re.sub('\s+', ' ', line)
+			line = re.sub('\s+', '', line) if lang == 'zh' else re.sub(r'\s+', ' ', line)
 			clean_text.append(line)
 	return "\n".join(clean_text)
+
+
+def length_vi(text):
+	
+	# Remove all spaces
+	text = re.sub(r'\s+', ' ', text)
+	length = len(text)
+
+	# Remove all except for Vietnamese characters and some punctuation
+	text = re.sub(r'[^\w\s]', '', text)
+
+	length -= len(text)
+
+	text = text.lower()
+	
+	# Split characters
+	characters = text.split(' ')
+	length += len(characters)
+
+	return length
 	
 def split_sents(text, lang):
 	if lang == 'zh':
@@ -27,6 +47,11 @@ def split_sents(text, lang):
 	refine_sents = [sents[-1]] 
 	index = len(sents) - 2
 	while index >= 0:
+		if not re.match(r'^.*?:?\s*\d+\s*\.$', sents[index]):
+			refine_sents.append(sents[index])
+			index -= 1
+			continue
+
 		if not re.match(r'^\d+\s*\.$', sents[index]):
 			refine_sents.append(sents[index])
 			index -= 1
@@ -40,10 +65,14 @@ def split_sents(text, lang):
 	
 def _split_zh(text, limit=1000):
 	sent_list = []
+	# # Original version
 	# text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
 	# text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
+
+	# # Proposed version
 	text = re.sub('(?P<quotation_mark>([。.？?！!](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
 	text = re.sub('(?P<quotation_mark>([。.？?！!]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
+	
 	sent_list_ori = text.splitlines()
 	for sent in sent_list_ori:
 		sent = sent.strip()

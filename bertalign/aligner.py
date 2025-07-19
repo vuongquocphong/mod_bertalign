@@ -32,10 +32,10 @@ class Bertalign:
         self.union_score = union_score
         self.is_split = is_split
         
-        src = clean_text(src)
-        tgt = clean_text(tgt)
         src_lang = 'zh'
         tgt_lang = 'vi'
+        src = clean_text(src, src_lang)
+        tgt = clean_text(tgt, tgt_lang)
         
         # Split into sentences
         if is_split:
@@ -54,8 +54,8 @@ class Bertalign:
 
         # Convert sentences into embeddings
         print("Embedding source and target text using {} ...".format(self.model.model_name))
-        src_vecs, src_lens = self.model.transform(src_sents, max_align - 1)
-        tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1)
+        src_vecs, src_lens = self.model.transform(src_sents, max_align - 1, 'zh')
+        tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1, 'vi')
 
         char_ratio = np.sum(src_lens[0,]) / np.sum(tgt_lens[0,])
 
@@ -150,7 +150,7 @@ class Bertalign:
         if len(bead) > 0:
             line = join_char.join(lines[bead[0]:bead[-1]+1])
         return line
-    
+      
     def __del__(self):
         print("Bertalign instance is being deallocated.")
         # Explicitly delete large GPU tensors if they exist

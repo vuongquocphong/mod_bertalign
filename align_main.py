@@ -15,7 +15,7 @@ def load_ner_json_to_dict(file_path):
 
 dirs_list = ["tqdn2"]
 
-def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
+def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict = {}):
     print(f"Aligning {dir_name} using {model.model_name} model...")
     print(f"Top k: {top_k}")
     print(f"Max align param: {max_align}")
@@ -33,17 +33,20 @@ def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
         pars = f.readlines()
         for par in pars:
             tgt.append(par.strip())
+    
     for i in range(len(src)):
         src_text = src[i]
         tgt_text = tgt[i]
         print("Aligning paragraph {}...".format(i + 1))
-        aligner = bertalign.Bertalign(src_text, tgt_text, model=model, max_align=max_align, top_k=top_k, ner_dict=ner_dict)
+        aligner = bertalign.Bertalign(src_text, tgt_text, model=model, max_align=max_align, top_k=top_k)
         aligner.align_sents()
+        
         for bead in (aligner.result):
             src_line = aligner._get_line(bead[0], aligner.src_sents)
             tgt_line = aligner._get_line(bead[1], aligner.tgt_sents, ' ')
             # calculate similarity
             alignments.append((src_line, tgt_line))
+    
     end_time = datetime.now()
     time_diff = end_time - start_time
     golden = []
@@ -51,6 +54,7 @@ def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
     precision = 0
     recall = 0
     mismatch_list = []
+    
     with open(f"{dir_name}/golden.txt", "r", encoding="utf-8") as f:
         data = f.readlines()
         for i in range(len(data)):
@@ -73,9 +77,11 @@ def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
                     break
             if not is_match:
                 mismatch_list.append(alignment)
+
     with open(f"{dir_name}/alignments.txt", "w", encoding="utf-8") as f:
         for alignment in alignments:
             f.write(alignment[0] + "\t" + alignment[1] + "\n")
+
     with open(f"{dir_name}/result.txt", "a", encoding="utf-8") as f:
         precision = match / len(alignments) if len(alignments) > 0 else 0
         recall = match / len(golden) if len(golden) > 0 else 0
@@ -92,6 +98,7 @@ def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
         f.write(f"Recall: {recall}\n")
         f.write(f"F1: {f1}\n")
         f.write("--------------------\n")
+
     with open(f"{dir_name}/mismatch_{model.model_name}.txt", "w", encoding="utf-8") as f:
         for mismatch in mismatch_list:
             f.write(mismatch[0] + "\t" + mismatch[1] + "\n")

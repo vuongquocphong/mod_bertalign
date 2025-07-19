@@ -16,7 +16,7 @@ class BertalignModified:
                  src,
                  tgt,
                  model = model,
-                 max_align=6,
+                 max_align=10,
                  top_k=2,
                  win=5,
                  skip=-0.1,
@@ -38,10 +38,10 @@ class BertalignModified:
         self.union_score = union_score
         self.is_split = is_split
         
-        src = clean_text(src)
-        tgt = clean_text(tgt)
         src_lang = 'zh'
         tgt_lang = 'vi'
+        src = clean_text(src, src_lang)
+        tgt = clean_text(tgt, tgt_lang)
         
         # Split into sentences
         if is_split:
@@ -60,8 +60,8 @@ class BertalignModified:
 
         # Convert sentences into embeddings
         print("Embedding source and target text using {} ...".format(self.model.model_name))
-        src_vecs, src_lens = self.model.transform(src_sents, max_align - 1)
-        tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1)
+        src_vecs, src_lens = self.model.transform(src_sents, max_align - 1, 'zh')
+        tgt_vecs, tgt_lens = self.model.transform(tgt_sents, max_align - 1, 'vi')
 
         char_ratio = np.sum(src_lens[0,]) / np.sum(tgt_lens[0,])
 
@@ -124,7 +124,7 @@ class BertalignModified:
         # start_time = time.time()
 
         # Convert zh text to words list
-        converted_src, src_word_len = convert_zh(self.src, self.max_align - 1, self.is_split)
+        converted_src, src_word_len = convert_zh(self.src_sents, self.max_align - 1, self.is_split)
         converted_zh_len = len(converted_src[0])
 
         # Prepare index dictionary of each words
@@ -157,5 +157,9 @@ class BertalignModified:
         # Explicitly delete large GPU tensors if they exist
         if hasattr(self, 'src_vecs'): del self.src_vecs
         if hasattr(self, 'tgt_vecs'): del self.tgt_vecs
+
+        if hasattr(self, 'src_sents'): del self.src_sents
+        if hasattr(self, 'tgt_sents'): del self.tgt_sents
+
         # Release GPU memory
         torch.cuda.empty_cache()

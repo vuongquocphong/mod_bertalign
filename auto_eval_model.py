@@ -12,11 +12,11 @@ from eval_alignments import eval
 list_model = ["LaBSE"]
 
 def auto_eval_model(dir_name, num_overlaps, top_k):
-    ner_dict = load_ner_json_to_dict("cn_sv_dict.json")
+    # ner_dict = load_ner_json_to_dict("cn_sv_dict.json")
     # print(ner_dict)
     for model_name in list_model:
         model = Encoder(model_name)
-        align_dir(dir_name, top_k, num_overlaps, model, datetime.now(), ner_dict=ner_dict)
+        align_dir(dir_name, top_k, num_overlaps, model, datetime.now())
         # eval(dir_name, num_overlaps, model)
         print(f"Done evaluating {dir_name} using {model_name} model.")
         print("=========================================")
