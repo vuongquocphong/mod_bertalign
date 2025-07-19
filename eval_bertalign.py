@@ -1,32 +1,35 @@
 import bertalign
 from bertalign import Encoder
 
-src_par = ""
-tgt_par = ""
+src_par = []
+tgt_par = []
 
-with open("./data/Complete/chinese_val_snts.txt", "r", encoding="utf8") as f:
+with open("Data/train/chinese_pars.txt", "r", encoding="utf8") as f:
     lines = f.readlines()
     for line in lines:
-        src_par += line.strip() + "\n"
+        src_par.append(line.strip())
 
-with open("./data/Complete/translation_val_snts.txt", "r", encoding="utf8") as f:
+with open("Data/train/translation_pars.txt", "r", encoding="utf8") as f:
     lines = f.readlines()
     for line in lines:
-        tgt_par += line.strip() + "\n"
-
-aligner = bertalign.Bertalign(src=src_par, tgt=tgt_par, is_split=True)
-
-aligner.align_sents()
+        tgt_par.append(line.strip())
 
 alignments = []
-for bead in (aligner.result):
-    src_line = aligner._get_line(bead[0], aligner.src_sents)
-    tgt_line = aligner._get_line(bead[1], aligner.tgt_sents)
-    # calculate similarity
-    alignments.append((src_line, tgt_line))
+
+for i in range(len(src_par)):
+
+    aligner = bertalign.Bertalign(src=src_par[i], tgt=tgt_par[i])
+
+    aligner.align_sents()
+
+    for bead in (aligner.result):
+        src_line = aligner._get_line(bead[0], aligner.src_sents)
+        tgt_line = aligner._get_line(bead[1], aligner.tgt_sents)
+        # calculate similarity
+        alignments.append((src_line, tgt_line))
 
 golden = []
-with open("./data/Complete/real_golden.txt", "r", encoding="utf-8") as f:
+with open("Data/train/golden.txt", "r", encoding="utf-8") as f:
     data = f.readlines()
     for i in range(len(data)):
         data[i] = data[i].strip()
@@ -49,7 +52,7 @@ for alignment in alignments:
 precision = match / len(alignments) if len(alignments) > 0 else 0
 recall = match / len(golden) if len(golden) > 0 else 0
 
-with open("./data/Complete/result.txt", "a", encoding="utf-8") as f:
+with open("Data/train/result.txt", "a", encoding="utf-8") as f:
     f.write(f"Align with trans source snts using bertalign baseline" + "\n")
     f.write("Precision: " + str(precision) + "\n")
     f.write("Recall: " + str(recall) + "\n")

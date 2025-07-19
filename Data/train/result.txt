@@ -1,0 +1,20 @@
+Align with trans source snts using bertalign baseline
+Precision: 0.8782837127845884
+Recall: 0.8471283783783784
+F1: 0.8624247635425624
+------------------
+Align with trans source snts using bertalign baseline
+Precision: 0.8780701754385964
+Recall: 0.8454391891891891
+F1: 0.86144578313253
+------------------
+Align with trans source snts using bertalign baseline
+Precision: 0.8779631255487269
+Recall: 0.8445945945945946
+F1: 0.8609556607834696
+------------------
+Align with trans source snts using bertalign baseline
+Precision: 0.8612818261633012
+Recall: 0.8285472972972973
+F1: 0.8445975032285836
+------------------
