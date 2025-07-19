@@ -15,7 +15,7 @@ def load_ner_json_to_dict(file_path):
 
 dirs_list = ["tqdn2"]
 
-def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
+def align_dir(dir_name, top_k, max_align, model, start_time):
     print(f"Aligning {dir_name} using {model.model_name} model...")
     print(f"Top k: {top_k}")
     print(f"Max align param: {max_align}")
@@ -37,7 +37,7 @@ def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict):
         src_text = src[i]
         tgt_text = tgt[i]
         print("Aligning paragraph {}...".format(i + 1))
-        aligner = bertalign.Bertalign(src_text, tgt_text, model=model, max_align=max_align, top_k=top_k, ner_dict=ner_dict)
+        aligner = bertalign.Bertalign(src_text, tgt_text, model=model, max_align=max_align, top_k=top_k)
         aligner.align_sents()
         for bead in (aligner.result):
             src_line = aligner._get_line(bead[0], aligner.src_sents)

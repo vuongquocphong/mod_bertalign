@@ -6,11 +6,6 @@ import numpy as np
 import numba as nb
 from sys import platform
 
-from bertalign.argument import Argument as arg
-
-# Initialize the argument class
-coefficient = arg()
-
 def second_back_track(i, j, pointers, search_path, a_types):
 	alignment = []
 	while ( 1 ):
@@ -33,19 +28,13 @@ def second_pass_align(src_vecs,
 					  tgt_vecs,
 					  src_lens,
 					  tgt_lens,
-					#   converted_src,
-					#   converted_tgt,
-					#   src_word_len,
-					#   tgt_word_len,
 					  w,
 					  search_path,
 					  align_types,
 					  char_ratio,
 					  skip,
 					  margin=False,
-					  len_penalty=False,
-					  sentence_num_penalty=False,
-					  union_score=False):
+					  len_penalty=False):
 	"""
 	Perform the second-pass alignment to extract m-n bitext segments.
 	Args:
@@ -96,22 +85,13 @@ def second_pass_align(src_vecs,
 				score = cost[prev_i][prev_j_offset]
 
 				if a_1 == 0 or a_2 == 0:  # deletion or insertion
-					cur_score = coefficient["skip"]
+					cur_score = skip
 				else:
 					cur_score = calculate_similarity_score(src_vecs,
 														   tgt_vecs,
 														   i, j, a_1, a_2, 
 														   src_len, tgt_len,
 														   margin=margin)
-					# if sentence_num_penalty:
-					# 	sentence_penalty = a_1 + a_2
-					# 	cur_score -= sentence_penalty * coefficient["sentence_num_penalty"]
-
-					# if union_score:
-					# 	union_score = calculate_union_score(converted_src, converted_tgt,
-					# 										 src_word_len, tgt_word_len,
-					# 										 i, j, a_1, a_2, second_loop=True)
-					# 	cur_score = cur_score * ( 1.0 - coefficient["union_score"] ) + union_score * coefficient["union_score"]
 					
 					if len_penalty:
 						penalty = calculate_length_penalty(src_lens, tgt_lens, i, j,
@@ -222,76 +202,6 @@ def calculate_length_penalty(src_lens,
 @nb.jit(nopython=True, fastmath=True, cache=True)
 def nb_dot(x, y):
 	return np.dot(x,y)
-
-def calculate_union_score(src_converted, tgt_converted,
-						  src_word_len, tgt_word_len,
-						  src_idx, tgt_idx, 
-						  src_overlap, tgt_overlap, 
-						  second_loop: True) -> np.float32:
-	"""
-	Calculates the longest common subsequence (LCS) between two lists of words.
-
-	:param src_words: The source list of words.
-	:param tgt_words: The target list of words.
-	:return: The length of the longest common subsequence.
-	"""
-	src_words = src_converted[src_overlap - 1][src_idx - 1]
-	tgt_words = tgt_converted[tgt_overlap - 1][tgt_idx - 1]
-
-	src_words_len = src_word_len[src_overlap - 1][src_idx - 1]
-	tgt_words_len = tgt_word_len[tgt_overlap - 1][tgt_idx - 1]
-
-	# First pass of LCS
-	dp = [(-1, "")]
-	trace_back = [(-1, "") for _ in range(src_words_len)]
-
-	for word in tgt_words:
-		if word not in src_words: continue
-		for index in src_words[word]:
-			if dp[-1][0] < index:
-				trace_back[index] = dp[-1]
-				dp.append( ( index, word ) )
-			else:
-				pos = bisect.bisect_left(dp, index, key =lambda x: x[0])
-				trace_back[index] = dp[pos - 1]
-				dp[pos] = ( index, word )
-
-	# Trace back the longest common subsequence
-	index, word = dp[-1]
-	longest_common_subsequence, visited_index = [], set()
-	if index != -1: 
-		longest_common_subsequence.append(word)
-		visited_index.add(index)
-
-	while index != -1:
-		index, word = trace_back[index]
-		visited_index.add(index)
-		longest_common_subsequence.append(word)
-
-	longest_result = len(dp) - 1
-
-	# print(f"LCS: {longest_common_subsequence[::-1][1:]}")
-
-	if second_loop:
-		dp = [-1]
-		for word in tgt_words:
-			if word not in src_words: continue
-			if word == longest_common_subsequence[-1]:
-				longest_common_subsequence.pop()
-				continue
-			for index in src_words[word]:
-				if index in visited_index: continue
-				if dp[-1] < index: dp.append(index)
-				else:
-					pos = bisect.bisect_left(dp, index)
-					dp[pos] = index
-						
-		longest_result += len(dp) - 1
-
-
-	longest_result = longest_result * 2.0 / (src_words_len + tgt_words_len)
-
-	return longest_result
 
 def find_second_search_path(align, w, src_len, tgt_len):
 	"""
