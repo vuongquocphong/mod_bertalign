@@ -124,7 +124,7 @@ if __name__ == "__main__":
     if len(src_pars) != len(tgt_pars):
         raise ValueError("The number of source paragraphs does not match the number of target paragraphs.")
     
-    start_paragraph = 6
+    start_paragraph = 20
     bathch_size = 30
 
     consider_paragraphs = [1, 22]
