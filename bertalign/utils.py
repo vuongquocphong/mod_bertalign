@@ -200,9 +200,8 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 			
 			# If sentence is short enough, send it directly
 			if len(sentence) <= 50:
-				params = {'text': sentence}
 				try:
-					response = send_single_api_request(params)
+					response = send_single_api_request(sentence)
 					results.append(response)  # fallback to empty string if 'text' missing
 				except Exception as e:
 					results.append(f"[Error: {e}]")  # include error for debugging
@@ -213,9 +212,8 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 				chunks = re.split(r'[，,；;]', sentence)
 				translated_chunks = []
 				for chunk in chunks:
-					params = {'text': chunk}
 					try:
-						response = send_single_api_request(params)
+						response = send_single_api_request(chunk)
 						translated_chunks.append(response)
 					except Exception as e:
 						translated_chunks.append(f"[Error: {e}]")
