@@ -42,7 +42,7 @@ def align_dir(dir_name, top_k, max_align, model, start_time, ner_dict = {}):
         aligner.align_sents()
         
         for bead in (aligner.result):
-            src_line = aligner._get_line(bead[0], aligner.src_sents)
+            src_line = aligner._get_line(bead[0], aligner.src_sents, '')
             tgt_line = aligner._get_line(bead[1], aligner.tgt_sents, ' ')
             # calculate similarity
             alignments.append((src_line, tgt_line))
@@ -128,8 +128,8 @@ def align_pars_no_gold(dir_name, top_k, max_align, model, start_time, ner_dict):
         aligner = bertalign.Bertalign(src_text, tgt_text, model=model, max_align=max_align, top_k=top_k, ner_dict=ner_dict)
         aligner.align_sents()
         for bead in (aligner.result):
-            src_line = aligner._get_line(bead[0], aligner.src_sents)
-            tgt_line = aligner._get_line(bead[1], aligner.tgt_sents)
+            src_line = aligner._get_line(bead[0], aligner.src_sents, '')
+            tgt_line = aligner._get_line(bead[1], aligner.tgt_sents, ' ')
             # calculate similarity
             alignments.append((src_line, tgt_line))
     end_time = datetime.now()
@@ -168,8 +168,8 @@ def align_snts_no_gold(dir_name, top_k, max_align, model, start_time, ner_dict):
     aligner = bertalign.Bertalign(src, tgt, model=model, max_align=max_align, top_k=top_k, ner_dict=ner_dict, is_split=True)
     aligner.align_sents()
     for bead in (aligner.result):
-        src_line = aligner._get_line(bead[0], aligner.src_sents)
-        tgt_line = aligner._get_line(bead[1], aligner.tgt_sents)
+        src_line = aligner._get_line(bead[0], aligner.src_sents, '')
+        tgt_line = aligner._get_line(bead[1], aligner.tgt_sents, ' ')
         # calculate similarity
         alignments.append((src_line, tgt_line))
     end_time = datetime.now()

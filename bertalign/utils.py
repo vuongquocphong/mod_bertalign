@@ -1,8 +1,7 @@
-from collections import defaultdict
-from itertools import chain
 import re
-import xmlrpc.client
-from sentence_splitter import SentenceSplitter
+import requests
+from googletrans import Translator
+from collections import defaultdict
 from underthesea import sent_tokenize
 
 def clean_text(text, lang):
@@ -16,21 +15,26 @@ def clean_text(text, lang):
 			clean_text.append(line)
 	return "\n".join(clean_text)
 
+def detect_lang(text):
+    translator = Translator(service_urls=[
+      'translate.google.com.hk',
+    ])
+    max_len = 200
+    chunk = text[0 : min(max_len, len(text))]
+    lang = translator.detect(chunk).lang
+    if lang.startswith('zh'): lang = 'zh'
+    return lang
 
 def length_vi(text):
-	
-	# Remove all spaces
+
 	text = re.sub(r'\s+', ' ', text)
 	length = len(text)
 
-	# Remove all except for Vietnamese characters and some punctuation
 	text = re.sub(r'[^\w\s]', '', text)
 
 	length -= len(text)
-
 	text = text.lower()
 	
-	# Split characters
 	characters = text.split(' ')
 	length += len(characters)
 
@@ -65,11 +69,7 @@ def split_sents(text, lang):
 	
 def _split_zh(text, limit=1000):
 	sent_list = []
-	# # Original version
-	# text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
-	# text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
 
-	# # Proposed version
 	text = re.sub('(?P<quotation_mark>([。.？?！!](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
 	text = re.sub('(?P<quotation_mark>([。.？?！!]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
 	
@@ -109,37 +109,9 @@ def _preprocess_line(line):
 	return line
 
 ###########################################################################
-# UNION PREPARATION
+# OVERLAP PREPARATION
 ###########################################################################
-
-def load_nom_dict(file_path: str) -> dict[str, str]:
-	"""
-	Load the nom dictionary from a file.
-
-	:param file_path: The path to the dictionary file.
-	:return: A dictionary with characters as keys and their replacements as values.
-	"""
-	nom_dict = {}
-	# load the excel file
-	import pandas as pd
-	df = pd.read_excel(file_path)
- 
-	# extract the first and the second columns
-	chinese = df.iloc[:, 0].tolist()
-	vietnamese = df.iloc[:, 1].tolist()
-	# create a dictionary from the two columns
- 
-	if len(chinese) != len(vietnamese):
-		raise ValueError("The two columns must have the same length.")
-	for i in range(len(chinese)):
-		if chinese[i] in nom_dict:
-			continue
-		nom_dict[chinese[i]] = vietnamese[i]
-	
-	return nom_dict
-
-# nom_dict = load_nom_dict('bertalign/dictionary/D_203_single_char_nom_qn_dictionary_thi_vien.xlsx')
-nom_dict = load_nom_dict('bertalign/dictionary/D_204_single_char_thi_vien_sino_vietnamese_dict_update.xlsx')
+TRANSLITERATE_URL = "https://tools.clc.hcmus.edu.vn/api/web/clc-sinonom/sinonom-transliteration"
 
 def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str]:
 	"""
@@ -148,39 +120,59 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 	:param data: The text need to convert to sino-vietnamese.
 	:return: The list of sino-converted of each sentence.
 	"""
-	def batch_transliterate(sentences_generator, server_url="http://localhost:8080/RPC2"):
+
+	def send_single_api_request(text: str, url=TRANSLITERATE_URL) -> str:
+		payload = {
+			"text": text
+		}
+		
+		headers = {
+			"User-Agent": "Mozilla/5.0",
+			"Referer": "https://tools.clc.hcmus.edu.vn",
+			"Origin": "https://tools.clc.hcmus.edu.vn",
+			"Content-Type": "application/json"
+		}
+
+		try:
+			response = requests.post(url, json=payload, headers=headers)
+			response.raise_for_status()  # Raise error for bad status codes
+			data = response.json()
+
+			if data.get("is_success") and "data" in data:
+				result = data["data"].get("result_text_transcription")
+				if result:
+					to_return = " ".join(result) if isinstance(result, list) else result
+					return to_return
+				else: raise ValueError("No transcription found in response.")
+			else: raise ValueError("API returned failure or malformed response.")
+
+		except Exception as e: raise RuntimeError(f"API request failed: {e}")
+     
+	def batch_transliterate(sentences_generator):
 		"""
 		Process sentences from a generator for memory efficiency.
 		
-		:param sentences_generator: Generator or iterable of sentences
+		:param sentences: Generator or iterable of sentences
 		:param server_url: API server URL
 		:return: List of transliterated sentences
 		"""
-		server = xmlrpc.client.ServerProxy(server_url)
 		results = []
 
-		# Can accept both generators and regular iterables
 		for sentence in sentences_generator:
-			
-			# If sentence is short enough, send it directly
-			if len(sentence) <= 50:
-				params = {'text': sentence}
+			if len(sentence) <= 100:
 				try:
-					response = server.translate(params)
-					results.append(response.get('text', ''))  # fallback to empty string if 'text' missing
+					response = send_single_api_request(sentence)
+					results.append(response)
 				except Exception as e:
-					results.append(f"[Error: {e}]")  # include error for debugging
+					results.append(f"[Error: {e}]")
 			
-			# Split long sentences if necessary
 			else:
-				# Split by ，or ,
 				chunks = re.split(r'[，,；;]', sentence)
 				translated_chunks = []
 				for chunk in chunks:
-					params = {'text': chunk}
 					try:
-						response = server.translate(params)
-						translated_chunks.append(response.get('text', ''))
+						response = send_single_api_request(chunk)
+						translated_chunks.append(response)
 					except Exception as e:
 						translated_chunks.append(f"[Error: {e}]")
 				
@@ -188,31 +180,7 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 				results.append( translated_chunks )
 		return results
 	
-	def preprocess_snt_for_transliteration(replace_dict, text: str):
-		# Preprocess the text if necessary (e.g., remove unwanted characters)
-		for char in text:
-			# Check if the character is in Basic Multilingual Plane (BMP)
-			if ord(char) <= 65535:
-				continue
-			# If not, check if it is in the replace dictionary
-			if char in replace_dict.keys():
-				text = text.replace(char, replace_dict[char])
-				print(replace_dict[char])
-			else:
-				# If the character is not in the replace dictionary, replace it with a space
-				text = text.replace(char, ' ')
-		return text
-	
-	def _process_lines(lines: list[str]):
-		for line in lines:
-			line = ' '.join(line)
-			line = preprocess_snt_for_transliteration(nom_dict, line)
-			yield line
-
-	# Use the generator directly as an argument
-	preprocessed_generator = _process_lines(lines)
-	transliterated_lines = batch_transliterate(preprocessed_generator)
-
+	transliterated_lines = batch_transliterate(lines)
 	return transliterated_lines
 	
 def _clean_zh_text(text: str) -> str:

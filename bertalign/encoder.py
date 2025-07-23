@@ -1,7 +1,6 @@
 import numpy as np
 
 from sentence_transformers import SentenceTransformer
-import torch
 from bertalign.utils import yield_overlaps, length_vi
 
 class Encoder:
@@ -15,7 +14,6 @@ class Encoder:
             overlaps.append(line)
 
         sent_vecs = self.model.encode(overlaps)
-        torch.cuda.empty_cache()
         embedding_dim = sent_vecs.size // (len(sents) * num_overlaps)
         sent_vecs.resize(num_overlaps, len(sents), embedding_dim)
 

@@ -1,15 +1,8 @@
 import bisect
-from collections import defaultdict
-import torch
 import faiss
 import numpy as np
 import numba as nb
-from sys import platform
-
-from bertalign.argument import Argument as arg
-
-# Initialize the argument class
-coefficient = arg()
+import bertalign.constant as CONSTANT
 
 def second_back_track(i, j, pointers, search_path, a_types):
 	alignment = []
@@ -41,7 +34,6 @@ def second_pass_align(src_vecs,
 					  search_path,
 					  align_types,
 					  char_ratio,
-					  skip,
 					  margin=False,
 					  len_penalty=False,
 					  sentence_num_penalty=False,
@@ -61,7 +53,6 @@ def second_pass_align(src_vecs,
 		search_path: numpy array. Second-pass alignment search path.
 		align_types: numpy array. Second-pass alignment types.
 		char_ratio: float. Source to target length ratio.
-		skip: float. Cost for instertion and deletion.
 		margin: boolean. True if choosing modified cosine similarity score.
 	Returns:
 		pointers: numpy array recording best alignments for each DP cell.
@@ -96,7 +87,7 @@ def second_pass_align(src_vecs,
 				score = cost[prev_i][prev_j_offset]
 
 				if a_1 == 0 or a_2 == 0:  # deletion or insertion
-					cur_score = coefficient["skip"]
+					cur_score = CONSTANT.SKIP
 				else:
 					cur_score = calculate_similarity_score(src_vecs,
 														   tgt_vecs,
@@ -105,17 +96,16 @@ def second_pass_align(src_vecs,
 														   margin=margin)
 					if sentence_num_penalty:
 						sentence_penalty = a_1 + a_2
-						cur_score -= sentence_penalty * coefficient["sentence_num_penalty"]
+						cur_score -= sentence_penalty * CONSTANT.SENTENCE_NUM_PENALTY
 
 					if union_score:
 						union_score = calculate_union_score(converted_src, converted_tgt,
 															 src_word_len, tgt_word_len,
 															 i, j, a_1, a_2, second_loop=True)
-						cur_score = cur_score * ( 1.0 - coefficient["union_score"] ) + union_score * coefficient["union_score"]
+						cur_score = cur_score * ( 1.0 - CONSTANT.UNION_SCORE ) + union_score * CONSTANT.UNION_SCORE
 					
 					if len_penalty:
-						penalty = calculate_length_penalty(src_lens, tgt_lens, i, j,
-														   a_1, a_2, char_ratio)
+						penalty = calculate_length_penalty(src_lens, tgt_lens, i, j, a_1, a_2, char_ratio)
 						cur_score *= penalty
 					
 		
@@ -124,8 +114,7 @@ def second_pass_align(src_vecs,
 					best_score = score
 					best_a = a
 			
-			# Update cell(i, j) with the best score
-			# and rescord the trace history.
+			# Update cell(i, j) with the best score and rescord the trace history.
 			j_offset = j - i_start
 			cost[i][j_offset] = best_score
 			pointers[i][j_offset] = best_a
@@ -269,8 +258,6 @@ def calculate_union_score(src_converted, tgt_converted,
 		longest_common_subsequence.append(word)
 
 	longest_result = len(dp) - 1
-
-	# print(f"LCS: {longest_common_subsequence[::-1][1:]}")
 
 	if second_loop:
 		dp = [-1]
