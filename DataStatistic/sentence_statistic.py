@@ -1,5 +1,6 @@
 import re
 
+import pandas as pd
 from underthesea import sent_tokenize
 
 
@@ -25,17 +26,11 @@ def split_sents(text, lang):
 	refine_sents = [sents[-1]] 
 	index = len(sents) - 2
 	while index >= 0:
-		if not re.match(r'^.*?:\s*\d+\s*\.$', sents[index]):
-			refine_sents.append(sents[index])
-			index -= 1
-			continue
-
-		if not re.match(r'^\s*\d+\s*\.$', sents[index]):
-			refine_sents.append(sents[index])
-			index -= 1
-			continue
-
-		refine_sents[-1] = sents[index] + ' ' + refine_sents[-1]
+		
+		if re.match(r'^.*?:\s*\d+\s*\.$', sents[index]) or re.match(r'^\s*\d+\s*\.$', sents[index]):
+			refine_sents[-1] = sents[index] + ' ' + refine_sents[-1]
+		
+		else: refine_sents.append(sents[index])
 		index -= 1
 	
 	refine_sents.reverse()
@@ -150,23 +145,46 @@ def resolve_folder( folder_path ):
 		src_current = src_current + _
 		tgt_current = tgt_current + __
 
-	# Export alignments type to a file
-	with open("/home/hoktro/mod_bertalign/DataStatistic/alignments_type.txt", "w", encoding="utf8") as f:
-		for alignment in alignments_type:
-			f.write(f"{alignment[0]}\t{alignment[1]}\t{alignment[2]}\t{alignment[3]}\n")
+		global_count.append((_, __))
+
+	# # Export alignments type to a file
+	# with open("/home/hoktro/mod_bertalign/DataStatistic/alignments_type.txt", "w", encoding="utf8") as f:
+	# 	for alignment in alignments_type:
+	# 		f.write(f"{alignment[0]}\t{alignment[1]}\t{alignment[2]}\t{alignment[3]}\n")
 	
-	# Export splitted sentences to files
-	with open("/home/hoktro/mod_bertalign/DataStatistic/splitted_src.txt", "w", encoding="utf8") as f:
-		for sent in src_sents:
-			f.write(f"{sent}\n")
+	# # Export splitted sentences to files
+	# with open("/home/hoktro/mod_bertalign/DataStatistic/splitted_src.txt", "w", encoding="utf8") as f:
+	# 	for sent in src_sents:
+	# 		f.write(f"{sent}\n")
 	
-	with open("/home/hoktro/mod_bertalign/DataStatistic/splitted_tgt.txt", "w", encoding="utf8") as f:
-		for sent in tgt_sents:
-			f.write(f"{sent}\n")
+	# with open("/home/hoktro/mod_bertalign/DataStatistic/splitted_tgt.txt", "w", encoding="utf8") as f:
+	# 	for sent in tgt_sents:
+	# 		f.write(f"{sent}\n")
+
+global_count = []
 
 if __name__ == "__main__":
-	# folder_path = "/home/hoktro/mod_bertalign/Data/dai_nam_chinh_bien_liet_truyen"
-	# folder_path = "/home/hoktro/mod_bertalign/Data/tam_quoc_dien_nghia/tqdn1"
-	folder_path = "/home/hoktro/mod_bertalign/Data/dai_viet_su_ki"
-
+	folder_path = "/home/hoktro/mod_bertalign/Data/dai_nam_chinh_bien_liet_truyen"
 	resolve_folder(folder_path)
+	folder_path = "/home/hoktro/mod_bertalign/Data/tam_quoc_dien_nghia/tqdn1"
+	resolve_folder(folder_path)
+	folder_path = "/home/hoktro/mod_bertalign/Data/dai_viet_su_ki"
+	resolve_folder(folder_path)
+
+	# Couunt each type of alignment
+	counts = {}
+	for src_count, tgt_count in global_count:
+		if (src_count, tgt_count) not in counts:
+			counts[(src_count, tgt_count)] = 0
+		counts[(src_count, tgt_count)] += 1
+
+	# Sort the count by key
+	counts = dict(sorted(counts.items(), key=lambda item: item[0]))
+
+	# Export the count to a xlsx file
+	counts_list = [(src_count, tgt_count, count) for (src_count, tgt_count), count in counts.items()]
+	df = pd.DataFrame(counts_list, columns=["Source Count", "Target Count", "Count"])
+	df.to_excel("/home/hoktro/mod_bertalign/DataStatistic/alignments_count.xlsx", index=False)
+	print("Alignment counts exported to alignments_count.xlsx")
+	print("Total alignments:", len(global_count))
+	print("Alignment types:", len(counts))
