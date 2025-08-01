@@ -47,18 +47,13 @@ def split_sents(text, lang):
 	refine_sents = [sents[-1]] 
 	index = len(sents) - 2
 	while index >= 0:
-		if not re.match(r'^.*?:?\s*\d+\s*\.$', sents[index]):
-			refine_sents.append(sents[index])
+		if re.match(r'^.*?:\s*\d+\s*\.$', sents[index]) or re.fullmatch(r'\d+\s*\.', sents[index]):
+			refine_sents[-1] = sents[index] + ' ' + refine_sents[-1]
+			print(refine_sents[-1])
 			index -= 1
 			continue
-
-		if not re.match(r'^\d+\s*\.$', sents[index]):
-			refine_sents.append(sents[index])
-			index -= 1
-			continue
-
-		refine_sents[-1] = sents[index] + ' ' + refine_sents[-1]
-		index -= 1
+		refine_sents.append(sents[index])
+		index -= 1		
 	
 	refine_sents.reverse()
 	return refine_sents
