@@ -188,7 +188,7 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 			# If not, check if it is in the replace dictionary
 			if char in replace_dict.keys():
 				text = text.replace(char, replace_dict[char])
-				print(replace_dict[char])
+				# print(replace_dict[char])
 			else:
 				# If the character is not in the replace dictionary, replace it with a space
 				text = text.replace(char, ' ')
