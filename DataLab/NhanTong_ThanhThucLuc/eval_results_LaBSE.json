@@ -1,0 +1,796 @@
+[
+    {
+        "source": "谕军机大臣等、吉庆奏、访出洋匪聚集并藏匿船只各处在安南境内。且有该国隐匿贼匪之情。",
+        "target": "Dụ cho các quân cơ đại thần: Cát Khánh tâu: “Điều tra về việc cướp biển tụ tập, cùng việc tàu bè của chúng ẩn trốn tại lãnh thổ An Nam, quả thực có việc nước này che giấu bọn giặc phỉ.\n",
+        "similarity": "0.5260935",
+        "weight": "72"
+    },
+    {
+        "source": "此时若行文该国。反致贼匪闻信潜逃。",
+        "target": "Lúc này nếu gửi văn thư cho họ, là giúp cho bọn giặc phỉ biết tin, tìm cách bí mật trốn tránh\".\n",
+        "similarity": "0.32835642",
+        "weight": "38"
+    },
+    {
+        "source": "所见尚是。",
+        "target": "Ý kiến rất phải.\n",
+        "similarity": "0.34978843",
+        "weight": "8"
+    },
+    {
+        "source": "刻下暂且无庸行文晓示该国。",
+        "target": "Trước mắt tạm không cần gửi văn thư hiểu thị nước này.\n",
+        "similarity": "0.4977111",
+        "weight": "23"
+    },
+    {
+        "source": "俟派往访查官员呈报到日。吉庆当不露声色。妥为办理。即将贼首擒获。以绝根株。",
+        "target": "Tới ngày các viên quan được phái đi điều tra trình báo, Cát Khánh cũng đừng tỏ thái độ, cứ thu xếp ổn thỏa, bắt tên đầu sỏ của giặc để tuyệt gốc.”\n",
+        "similarity": "0.5003144",
+        "weight": "63"
+    },
+    {
+        "source": "谕军机大臣等、吉庆等审办海洋盗犯一摺。内称察访江坪地面系闽粤民夷杂处。勾结为匪。如有应行知会安南之处。临时再缮发昭会等语。",
+        "target": "Dụ cho các quân cơ đại thần: Bọn Cát Khánh dâng tờ tâu về việc thẩm tra quân cướp biển, trong có nói: \"Đi điều tra vùng đất Giang Bình, là nơi dân Di Mân [Phúc Kiến], Việt [Quảng Đông] ở xen nhau, nếu cần thông báo [tình hình] cho An Nam biết, thì [đã] đến lúc lại viết công văn gửi đi'.\n",
+        "similarity": "0.46634448",
+        "weight": "117"
+    },
+    {
+        "source": "细思事有所难。",
+        "target": "Suy nghĩ kỹ thấy việc này có chỗ khó.\n",
+        "similarity": "0.67373186",
+        "weight": "15"
+    },
+    {
+        "source": "如该国王果不知情。自可照会搜捕。",
+        "target": "Nếu như Quốc vương quả thật không biết tình hình, thì tự nhiên nên gửi công văn đi đề tìm bắt.\n",
+        "similarity": "0.4607424",
+        "weight": "31"
+    },
+    {
+        "source": "今据拏获夷匪罗亚三等供称。安南乌艚。有总兵十二人。船一百余号。并据起获印记。是此项乌艚夷匪。皆得受该国王封号。其出洋行劫。似该国王非不知情。",
+        "target": "Nay theo lời khai của bọn phỉ Di La Á Tam [thì] Tàu Ô An Nam có 12 Tổng binh, hơn 100 hiệu thuyền, và căn cứ vào giấy tờ bắt được có ấn triện, thì bọn cướp Tàu Ô đều nhận hiệu phong của Quốc vương, việc ra biển cướp bóc Quốc vương không thể không biết.\n",
+        "similarity": "0.6062022",
+        "weight": "110"
+    },
+    {
+        "source": "若令会合拏贼。彼岂肯听从。",
+        "target": "Vậy nếu bảo phối hợp bất giặc cướp, làm sao bọn họ chịu nghe lời?\n",
+        "similarity": "0.46443173",
+        "weight": "25"
+    },
+    {
+        "source": "且内地民人。出洋为匪。尚不能官为禁止。何况外夷。",
+        "target": "Vả lại dân nội địa ra ngoài biên làm giặc, quan không cẩm được, huống hồ là dân ngoại Di!\n",
+        "similarity": "0.6328276",
+        "weight": "39"
+    },
+    {
+        "source": "傥安南藉词抵饰。何从与之分辨。",
+        "target": "Nếu An Nam viện lý do để chống chế che giấu, thì lấy gì biện bạch với họ?\n",
+        "similarity": "0.30730006",
+        "weight": "27"
+    },
+    {
+        "source": "又值因此生衅。兴师征讨该国耶。",
+        "target": "Lại có đáng gì vì việc này mà gây hấn, rồi mang quân đánh nước họ ư!\n",
+        "similarity": "0.4207151",
+        "weight": "31"
+    },
+    {
+        "source": "吉庆等、惟当于闽粤浙江三省洋面。饬属会擒。",
+        "target": "Bọn Cát Khánh chỉ nên phát lệnh cho thuộc hạ phối hợp với nhau bắt [giặc] tại mặt biển ba tỉnh Phúc Kiến, Quảng Đông, Triết Giang.\n",
+        "similarity": "0.43923262",
+        "weight": "44"
+    },
+    {
+        "source": "遇有外洋驶入夷匪。无论安南何官。即行严办。",
+        "target": "Nếu gặp bọn phỉ Di từ biển khơi đi thuyền vào, thì không luận quan chức nào của An Nam cũng đều nghiêm trị ngay.\n",
+        "similarity": "0.4938341",
+        "weight": "40"
+    },
+    {
+        "source": "再此后拏获安南盗匪。审明后当即正法。毋庸解京。以省驿站解送之烦。",
+        "target": "Lại nói thêm: Từ nay trở về sau bắt được giặc cướp An Nam, thẩm tra minh bạch rồi lập tức cho xử tử, không cần phải giải về kinh, để bớt được sự phiền phức trạm dịch phải giải tống.\n",
+        "similarity": "0.49206915",
+        "weight": "67"
+    },
+    {
+        "source": "将此传谕知之。",
+        "target": "Nay đem dụ truyền để hay biết.”\n",
+        "similarity": "0.4218637",
+        "weight": "14"
+    },
+    {
+        "source": "谕军机大臣等、吉庆等奏、农耐夷人阮进定等、与安南交兵。因遭风漂入粤洋。恳请赏给食米。放回本国。",
+        "target": "Dụ cho các quân cơ đại thần: \"Theo lời tâu của Cát Khánh: Người Di tại Nông Nại là bọn Nguyễn Tiến Định giao tranh với quân An Nam [Tây Sơn], bị gió bão trôi dạt vào vùng biên Quảng Đông, khẩn xin cấp lương gạo và trả về nước cũ\".\n",
+        "similarity": "0.4999328",
+        "weight": "85"
+    },
+    {
+        "source": "自应略为抚恤。",
+        "target": "Đương nhiên phải an ủi chăm sóc qua loa.\n",
+        "similarity": "0.34789297",
+        "weight": "12"
+    },
+    {
+        "source": "但阮光缵现奉正朔。此等与彼为敌之夷人。若加以重待。傥阮光缵遣人来问。汝等何辞以对。况朕当亲政之初。",
+        "target": "Nhưng hiện nay Nguyễn Quang Toản đang phụng nhận lịch năm mới, nước này và bọn Di kia là hai phe cừu địch, nếu trọng đãi, trong trường hợp Nguyễn Quang Toản sai người đến hỏi, thì bọn ngươi biết lấy lời gì đề đáp lại?\n",
+        "similarity": "0.42231628",
+        "weight": "84"
+    },
+    {
+        "source": "该夷人等未必不妄生希冀。欲图翻案。",
+        "target": "Huống chi Trẫm vừa mới đảm đang việc nước, bọn người Di kia không khỏi có ý cầu mong, với ý đồ lật lại vụ việc.\n",
+        "similarity": "0.3332085",
+        "weight": "37"
+    },
+    {
+        "source": "黎阮曲直。此时本无庸置议。且阮氏畏服天朝。已有年所。而农耐地方。闻洋面盗匪。多于彼处销赃。亦非善类。",
+        "target": "Việc họ Lê, họ Nguyễn ai sai ai đúng lúc này không cần bàn luận, chỉ biết rằng họ Nguyễn quy phục Thiên triều đã mấy năm, còn vùng đất Nông Nại thì nghe rằng bọn cướp biển thường trốn tránh tại đó, vậy chúng không phải là kẻ tốt.\n",
+        "similarity": "0.46936703",
+        "weight": "88"
+    },
+    {
+        "source": "汝等若不严饬回洋。则农耐请助之人即至。",
+        "target": "Nếu các ngươi không nghiêm lệnh bắt chúng đáp thuyền trở về, rồi người của Nông Nại lại đến xin trợ giúp, sự việc càng trở nên rắc rối phiền phức thêm.\n",
+        "similarity": "0.47445104",
+        "weight": "44"
+    },
+    {
+        "source": "转生枝节。然亦不可将阮进定等缚送安南。惟当略为赏恤。",
+        "target": "Nhưng cũng không thể trói bọn Nguyễn Tiến Định giải giao cho An Nam, mà chỉ nên ban cấp chăm sóc qua loa, rồi cho về.\n",
+        "similarity": "0.48917735",
+        "weight": "46"
+    },
+    {
+        "source": "任其归去。乃吉庆等欲令附搭商船。设被安南侦知。转似助彼仇敌。岂抚驭远藩之道。",
+        "target": "Cát Khánh lại định gửi những người này theo thương thuyền trở về, nếu bị trinh sát An Nam biết được, mang tiếng là giúp cho kẻ địch của họ, thì há có phải là đạo vỗ về chế ngự đối với phiên bang xa xôi?\n",
+        "similarity": "0.4881597",
+        "weight": "74"
+    },
+    {
+        "source": "吉庆、陆有仁、俱著申饬。",
+        "target": "Cát Khánh và Lục Hữu Nhân hãy xét kỹ!\n",
+        "similarity": "0.42127544",
+        "weight": "16"
+    },
+    {
+        "source": "该督等当遵旨妥办。切勿轻开边衅慎之。",
+        "target": "Các Đốc phủ phải tuân chỉ thu xếp ổn thỏa, đừng khinh suất để đến nỗi gây hấn tại biên giới. Hãy cần thận!\n",
+        "similarity": "0.48222515",
+        "weight": "36"
+    },
+    {
+        "source": "将此谕令知之。",
+        "target": "Đem lệnh này báo cho biết.”\n",
+        "similarity": "0.64986223",
+        "weight": "14"
+    },
+    {
+        "source": "谕军机大臣等、吉庆奏、顺德县民人赵大任、被风漂至农耐。经该国长阮福映、差人唤至富春。代为修船。给与口粮。带有该国长禀词、内称上年该国有遭风难番。曾邀恤赏。交给文禀。",
+        "target": "Dụ cho các quân cơ đại thần: Theo lời tâu của Cát Khánh: “Một người dân tại huyện Thuận Đức, tên là Triệu Đại Nhậm [đi thuyền] bị gió bão trôi dạt đến Nông Nại, Quốc trưởng nước này là Nguyễn Phúc Ánh sai người đưa tới Phú Xuân giúp sửa chữa lại thuyền, cấp lương thực, có mang tờ bẩm của Quốc trưởng, trong có nói: Năm ngoái nước này có viên quan bị tai nạn gió bão, được Thiên triều chẩn cấp, nay dâng tờ bẩm để tỏ lòng cảm khích”.\n",
+        "similarity": "0.5814417",
+        "weight": "152"
+    },
+    {
+        "source": "叙述感激之意等语。该国长阮福映递禀之意。不过欲嘉其恭顺。希冀奏明。或可邀天朝恩助。",
+        "target": "Ý của Quốc trưởng Nguyễn Phúc Ánh đệ bẩm chẳng qua muốn chứng tỏ thêm lòng cung thuận, hoặc có thể xin Thiên triều gia ơn trợ giúp.\n",
+        "similarity": "0.4889976",
+        "weight": "55"
+    },
+    {
+        "source": "但农耐与安南、现在争夺未定之时。吉庆等所称不可稍存偏向。所见极是。",
+        "target": "Nhưng Nông Nại và An Nam [Tây Sơn] hiện nay tranh đoạt chưa chấm dứt, Cát Khánh đã tâu rằng không thiên vị phe nào, ý đó rất đúng.\n",
+        "similarity": "0.56658167",
+        "weight": "54"
+    },
+    {
+        "source": "此时覆给该国长札谕内。惟当谕以上年恤赏该国难番。系属天朝抚绥各国外夷常例。并未专摺奏闻大皇帝圣鉴。",
+        "target": "Lần này đáp lời viên Quốc trưởng chỉ nên dụ như sau: “Năm ngoái chẩn cấp cho viên quan nước ngươi bị tai nạn, thuộc lệ thường của Thiên triều vỗ về chăm sóc các nước ngoại Di, nên không dâng tờ tâu lên Đại hoàng đế duyệt.\n",
+        "similarity": "0.4879082",
+        "weight": "85"
+    },
+    {
+        "source": "今民人赵大任漂至尔国。尔国照料回粤。并带有文禀。本部堂深悉尔国感谢之忱。",
+        "target": "Nay người dân là Triệu Đại Nhậm trôi dạt đến nước ngươi, được lưu ý giúp đỡ trở về Việt [Quảng] Đông, lại mang theo tờ bẩm, Bản bộ đường biết rõ tấm lòng cảm tạ của nước ngươi.\n",
+        "similarity": "0.46709973",
+        "weight": "65"
+    },
+    {
+        "source": "但上年抚恤尔国难番之事。既未具奏。此时尔国禀词。亦不便代为奏达。",
+        "target": "Nhưng việc năm ngoái chẩn cấp cho viên quan nước ngươi, đã không tâu trình lên Đại Hoàng đế, nên lời bẩm lần này cũng không tiện giúp tấu trình thay\".\n",
+        "similarity": "0.6121054",
+        "weight": "57"
+    },
+    {
+        "source": "如续有文禀。或乞兵相助。则当明示驳饬。谕以两无偏向。",
+        "target": "Nếu như cứ tiếp tục gửi văn thư hoặc xin binh trợ giúp, thì phải chỉ bảo nghiêm túc rằng giữa hai bên, không thiên vị bên nào.\n",
+        "similarity": "0.55116326",
+        "weight": "45"
+    },
+    {
+        "source": "至前此吉庆、谢启昆、先后奏到。俱称安南富春城。被农耐抢占后。业经安南收复。",
+        "target": "Gần đây Cát Khánh căn cứ vào lời tâu của Khải Côn, trước sau đều nói rằng sau khi thành Phú Xuân của An Nam bị Nông Nại [Đồng Nai] chiếm, rồi An Nam thu phục lại.\n",
+        "similarity": "0.50199616",
+        "weight": "62"
+    },
+    {
+        "source": "今赵大任供词、尚称七月内在富春城内。面见农耐国长阮福映。",
+        "target": "Nay lời khai của Triệu Đại Nhậm nói vào tháng 7 ở trong thành Phú Xuân, gặp mặt Quốc trưởng Nông Nại Nguyễn Phúc Ánh.\n",
+        "similarity": "0.51371527",
+        "weight": "44"
+    },
+    {
+        "source": "是否该民人从富春回粤时。尚在安南未经收复之前。抑系安南收复后。复被农耐夺取。",
+        "target": "Như vậy phải chăng tên dân từ Phú Xuân trở về Lưỡng Quảng trước khi An Nam lấy được thành Phú Xuân, hay sau khi An Nam thu phục xong lại bị Nông Nại chiếm lại?\n",
+        "similarity": "0.54928404",
+        "weight": "62"
+    },
+    {
+        "source": "著吉庆查明遇便覆奏。",
+        "target": "Cát Khánh hãy điều tra rõ, tiện dịp phúc tấu.\n",
+        "similarity": "0.33790252",
+        "weight": "18"
+    },
+    {
+        "source": "安南与农耐彼此构衅交兵。原与内地无涉。吉庆等当持以镇静。不必过问。",
+        "target": "An Nam với Nông Nại giao tranh, đối với nội địa không liên can, bọn Cát Khánh hãy giữ bình tĩnh, không cần hỏi han quá nhiều.\n",
+        "similarity": "0.6322131",
+        "weight": "51"
+    },
+    {
+        "source": "至将来如果安南为农耐所并全境俱失。该国王阮光缵叩关请命。",
+        "target": "Tương lai nếu như An Nam bị Nông Nại thôn tính mất hết toàn lãnh thổ, Quốc vương Nguyễn Quang Toản gõ cửa ải thỉnh mệnh, đến lúc này Cát Khánh nên tâu rõ để xin chỉ thị.\n",
+        "similarity": "0.62024635",
+        "weight": "54"
+    },
+    {
+        "source": "彼时吉庆等自当奏明请旨。抑或农耐将安南并吞之后具禀到粤。亦即奏闻。候旨办理。",
+        "target": "Hoặc nếu Nông Nại thôn tính An Nam xong đến Lưỡng Quảng bẩm đầy đủ sự việc, lúc bấy giờ cũng tâu đầy đủ rồi đợi chiếu chỉ để xử lý.\"\n",
+        "similarity": "0.45638394",
+        "weight": "59"
+    },
+    {
+        "source": "谕军机大臣等、吉庆等奏、洋盗陈添保携眷内投、并将缴出安南印敕进呈。",
+        "target": "Dụ cho các quân cơ đại thần: Theo lời tâu của bọn Cát Khánh, tên cướp biển Trần Thiêm Bảo mang cả gia quyến nội phục, và trình nạp sắc ấn của An Nam cấp cho.\n",
+        "similarity": "0.45612025",
+        "weight": "58"
+    },
+    {
+        "source": "据摺内称陈添保因捕鱼遭风、于乾隆四十八年、经阮光平掳去、封为总兵等语。",
+        "target": "Theo tờ tâu nói: “Trần Thiêm Bảo nhân đánh cá gặp bão, vào năm Càn Long thứ 48 [1783] bị Nguyễn Quang Bình bắt, phong chức Tổng binh”.\n",
+        "similarity": "0.5613671",
+        "weight": "58"
+    },
+    {
+        "source": "可见积年洋盗滋扰。皆由安南窝留所致。",
+        "target": "Có thể thấy trong nhiều năm hải tặc quấy phá đều do An Nam chứa chấp gây ra.\n",
+        "similarity": "0.6643576",
+        "weight": "30"
+    },
+    {
+        "source": "即阮光平在日。已将内地民人掳去。加封伪号。纵令在洋劫掠。",
+        "target": "Lúc Nguyễn Quang Bình còn sống, bắt người của nội địa, gia phong ngụy tước hiệu, rồi tung ra biển cướp phá.\n",
+        "similarity": "0.44281468",
+        "weight": "44"
+    },
+    {
+        "source": "阮光平身受皇考重恩。如此丧心蔑理。实非人类。",
+        "target": "Nguyễn Quang Bình đích thân chịu ơn nặng của Hoàng khảo, làm việc táng tận lương tâm, thực không đáng là con người.\n",
+        "similarity": "0.4757577",
+        "weight": "37"
+    },
+    {
+        "source": "今阅该国伪诏内。有视天下如一家、四海如一人之语。尤属夜郎自大。",
+        "target": "Nay duyệt lại tờ ngụy chiếu của Quốc vương này có câu “Thị thiên hạ như nhất gia, tứ hải như nhất nhân\" (Coi thiên hạ như một nhà, bốn biển như một người), càng thuộc loại ếch ngồi đáy giếng [nguyên văn: Dạ Lang tự đại].\n",
+        "similarity": "0.45100385",
+        "weight": "74"
+    },
+    {
+        "source": "若论其种种狂悖。本应声罪致讨。惟该国现与农耐构兵。转不值乘其危急。加以挞伐。",
+        "target": "Nghĩ về sự cuồng vọng này, đáng mang quân đánh dẹp trị tội; hiềm nước này hiện đang giao tranh với Nông Nại, nên không thừa lúc nguy cấp sát phạt thêm.\n",
+        "similarity": "0.44262075",
+        "weight": "63"
+    },
+    {
+        "source": "揆诸天理。该国灭亡。亦在旦夕。更无庸以文诰化诲。亦毋庸给予照会。",
+        "target": "Xét về thiên lý, nước này sẽ mất trong sớm tối, càng không cần dùng văn cáo để dạy dỗ, cũng không cần thông báo cho biết.\n",
+        "similarity": "0.43824977",
+        "weight": "54"
+    },
+    {
+        "source": "所有敕印等件。现令销毁。",
+        "target": "Tất cả sắc ấn [của bọn chúng cấp] lệnh cho thiêu hủy.\n",
+        "similarity": "0.61727244",
+        "weight": "21"
+    },
+    {
+        "source": "该督等惟当严饬将弁。巡缉各洋。遇有安南盗匪窜入。立即拏获惩办。",
+        "target": "Tổng đốc nên nghiêm lệnh cho các võ quan, tuần tiễu ngoài biên, gặp bọn hải tặc An Nam, lập tức truy nã trừng trị.\n",
+        "similarity": "0.53421795",
+        "weight": "47"
+    },
+    {
+        "source": "其投出之陈添保、并家属夥盗等、即照该督所请、于海洋较远之南雄府地方。分别妥为安插。",
+        "target": "Bọn đầu thú Trần Thiêm Bảo, cùng quyến thuộc bọn cướp, y theo lời xin của Tổng đốc, phân biệt bố trí ăn ở tại phủ Nam Hùng tương đối cách xa biển.\n",
+        "similarity": "0.57286626",
+        "weight": "64"
+    },
+    {
+        "source": "仍不时严密稽查。毋令出洋滋事。",
+        "target": "Thỉnh thoảng bất ngờ kiểm tra, không để chúng trở lại biển gây sự.\n",
+        "similarity": "0.45340586",
+        "weight": "24"
+    },
+    {
+        "source": "将此谕令知之。",
+        "target": "Đem lệnh này báo cho hay biết.\"\n",
+        "similarity": "0.66473395",
+        "weight": "13"
+    },
+    {
+        "source": "又谕、吉庆奏、农耐遣使恭进表贡。并缚送莫观扶等三犯、来粤正法各情形。",
+        "target": "Lại dụ cho các quân cơ đại thần: Cát Khánh tâu về tình hình Nông Nại sai sứ dâng biểu tiến cống, và trói giải giao ba tên tội phạm là bọn Mạc Quan Phù đến Quảng Đông xử tử.\n",
+        "similarity": "0.55689573",
+        "weight": "57"
+    },
+    {
+        "source": "览奏俱悉。",
+        "target": "Đã xem kỹ tờ tâu.\n",
+        "similarity": "0.32050204",
+        "weight": "10"
+    },
+    {
+        "source": "从前阮光平款关内附。极为恭顺。我皇考鉴其忱悃。锡以封土。",
+        "target": "Đầu đuôi liên quan đến việc trước đây bọn Nguyễn Quang Bình khẩn khoản tại cửa ải cầu xin nội phụ, hết sức cung thuận, Hoàng khảo ta xét rõ lòng thành, bèn cho phong đất.\n",
+        "similarity": "0.4233597",
+        "weight": "52"
+    },
+    {
+        "source": "阮光平感被殊荣。躬亲诣阙。",
+        "target": "Nguyễn Quang Bình cảm kích ân vinh, đích thân đến triều đình triều kiến.\n",
+        "similarity": "0.46276307",
+        "weight": "19"
+    },
+    {
+        "source": "皇考恩礼有加。骈蕃锡赉。",
+        "target": "Hoàng khảo ta tăng thêm ơn, nhiều lần ban thưởng.\n",
+        "similarity": "0.31369448",
+        "weight": "21"
+    },
+    {
+        "source": "原以阮光平克矢畏怀。始得仰承宠遇。",
+        "target": "Nguyên do Nguyễn Quang Bình biết khắc kỷ kính sợ, mới được đón nhận sự đãi ngộ.\n",
+        "similarity": "0.4724746",
+        "weight": "28"
+    },
+    {
+        "source": "迨阮光缵嗣服交南。复颁敕命。俾其世守勿替。",
+        "target": "Đến lúc Nguyễn Quang Toản kế thừa đất Nam Giao, lại được ban sắc mệnh, để nối đời giữ chức.\n",
+        "similarity": "0.35432908",
+        "weight": "36"
+    },
+    {
+        "source": "乃近年以来。闽粤二省洋面盗船内。闲有长发之人。闻系该国纵令出洋行劫。",
+        "target": "Rồi mấy năm gần đây phát hiện trong số các thuyền cướp phá tại vùng biển Phúc Kiến, Lưỡng Quảng, thỉnh thoảng có bọn hải tặc tóc dài, nghe rằng nước này [nhà Tây Sơn] tung ra biên cướp.\n",
+        "similarity": "0.5040913",
+        "weight": "66"
+    },
+    {
+        "source": "朕未肯轻信。尚以长发匪徒。或系该国贫民。随盗入夥。曾降旨谕令查拏。总未见擒献一人。",
+        "target": "Trẫm chưa vội tin, nghĩ rằng bọn tóc dài có thể là những người nghèo tại An Nam gia nhập vào đảng cướp, nên đã giáng chỉ ra lệnh cho nước này truy nã, nhưng chưa bắt dâng được một tên nào!\n",
+        "similarity": "0.36063775",
+        "weight": "76"
+    },
+    {
+        "source": "今阮福映缚致莫观扶等三犯。讯取供词。均系内地盗犯。该国招往投顺。封为东海王、及总兵等伪职。仍令至内洋行劫商旅。",
+        "target": "Nay Nguyễn Phúc Ánh cho trói giải giao bọn Mạc Quan Phù ba tên, tra hỏi lấy lời khai đều nói bọn chúng là trộm cướp nội địa, bị nước này chiêu dụ, phong cho các ngụy chức như Đông Hải Vương, Tổng binh v.v... và ra lệnh đến biển nội địa cướp phá khách thương.\n",
+        "similarity": "0.6084719",
+        "weight": "95"
+    },
+    {
+        "source": "是阮光缵不但不遵旨查拏。而且窝纳叛亡。宠以官职。肆毒海洋。负恩反噬。莫此为甚。",
+        "target": "Nguyễn Quang Toản không những không chịu tuân chỉ truy nã bọn cướp, mà còn dung nạp chúng, ban chức tước, cướp phá vùng biển, bội nghĩa vong ân đến như vậy là cùng!\n",
+        "similarity": "0.53210664",
+        "weight": "59"
+    },
+    {
+        "source": "至敕书印信。颁自天朝。名器至重。尤当敬谨护守。与国存亡。",
+        "target": "Còn như sắc thư ấn tín do Thiên triều ban cho, danh khí tối quan trọng, phải hết sức kính cẩn giữ gìn, mất còn cùng với nước.\n",
+        "similarity": "0.44258642",
+        "weight": "47"
+    },
+    {
+        "source": "乃阮光缵不知慎重。于阮福映上年攻取富春时。辄行舍弃潜逃。罪无可逭。",
+        "target": "Cớ sao Nguyễn Quang Toản không biết thận trọng, khi Nguyễn Phúc Ánh tấn công thành Phú Xuân năm ngoái, bèn bỏ sắc ấn chạy trốn, tội không thể tránh được.\n",
+        "similarity": "0.5320087",
+        "weight": "54"
+    },
+    {
+        "source": "至阮福映此次使臣。吉庆当谕以尔国长恭进表内所叙情节。业经转奏。蒙大皇帝俯察尔国恭顺之诚。",
+        "target": "Đến như sứ thần lần này của Nguyễn Phúc Ánh, thì Cát Khánh nên dụ như sau: “Những tình tiết mà Quốc trưởng ngươi cung kính trình bày trong biểu văn đã được trình tấu, mong Đại hoàng đế ngó xuống thấy được lòng thành cung thuận của nước ngươi, để ban thưởng nhiều.\n",
+        "similarity": "0.43684727",
+        "weight": "86"
+    },
+    {
+        "source": "深为嘉奖。阮光平臣事天朝。先大皇帝锡之敕命。恩赉优加。",
+        "target": "Trước đây Nguyễn Quang Bình xưng thần thờ Thiên triều, được Tiên hoàng đế ban sắc mệnh, đặc cách gia ơn.\n",
+        "similarity": "0.4110003",
+        "weight": "37"
+    },
+    {
+        "source": "乃其子阮光缵、竟敢窝留内地盗犯。通同劫掠。丧心背恩。实为天理所不容。是以亡不旋踵。",
+        "target": "Rồi con y, Nguyễn Quang Toản, dám dung dưỡng bọn tội phạm nội địa, thông đồng cướp phá, táng tận bội ân, thực lẽ trời không dung, nên cơ nghiệp mất nhanh không kịp quay gót.\n",
+        "similarity": "0.5058065",
+        "weight": "67"
+    },
+    {
+        "source": "今弃国潜逃。并天朝所给敕印。亦不能守。是阮光缵不特上负先大皇帝怙冒洪慈。抑且为阮光平不孝之子。获罪甚重。",
+        "target": "Nay bỏ nước chạy trốn, ngay cả sắc ấn Thiên triều ban cho cũng không giữ được, vậy Nguyễn Quang Toản không những riêng phụ lòng nhân từ rộng lượng của Tiên Đại hoàng đế, mà cũng là đứa con bất hiếu của Nguyễn Quang Bình, tội lỗi rất nặng.\n",
+        "similarity": "0.54989433",
+        "weight": "87"
+    },
+    {
+        "source": "尔国长遣使恭缴敕印。并缚献逋盗。深得事大之理。恭进表贡。具见至诚。",
+        "target": "Quốc trưởng ngươi cho mang sắc ấn giao nạp, trói dâng bọn đạo tặc, biết sâu đạo nghĩa thờ nước lớn, cung kính dâng biểu văn và cống vật, thấy đủ lòng chí thành.\n",
+        "similarity": "0.6034836",
+        "weight": "55"
+    },
+    {
+        "source": "但天朝每遇外洋诸国遭风船只。无不一视同仁。给资妥送。从无因此遽纳贡献之事。",
+        "target": "Nhưng Thiên triều mỗi lần thấy thuyền bè các nước bị nạn, đều coi như nhau, trợ cấp đưa về, không vì lý do đó mà phải nạp cống.\n",
+        "similarity": "0.5703472",
+        "weight": "61"
+    },
+    {
+        "source": "且尔国长邦家未定。并非素备藩封。揆之体制。尚不应在职贡之列。",
+        "target": "Vả lại Quốc trưởng ngươi việc nước cũng chưa ổn định, không hoàn bị để được phong làm Phiên thần, xét theo thể chế còn chưa đáng theo lệ nhận triều cống.\n",
+        "similarity": "0.62181425",
+        "weight": "55"
+    },
+    {
+        "source": "尔等可即赍回。转向尔国长告知。",
+        "target": "Các ngươi hãy mang trở về, báo lại cho Quốc trưởng ngươi hay biết\".\n",
+        "similarity": "0.512871",
+        "weight": "27"
+    },
+    {
+        "source": "如此明白檄谕。",
+        "target": "Dụ rõ ràng như vậy mới đúng cách.\n",
+        "similarity": "0.5022374",
+        "weight": "13"
+    },
+    {
+        "source": "方为得体。其所缴敕印。著吉庆暂为收贮。",
+        "target": "Sắc ấn giao nạp, cho Cát Khánh tạm thu nhận.\n",
+        "similarity": "0.499482",
+        "weight": "24"
+    },
+    {
+        "source": "再前据清安泰奏、阮光缵为阮种所获。阮种、是否即系阮福映。未据声叙。",
+        "target": "Lại nói thêm: Trước đây theo lời tâu của Thanh An Thái, Nguyễn Quang Toản bị Nguyễn Chủng bắt, Nguyễn Chủng có phải là Nguyễn Phúc Ánh hay không, cũng không thể căn cứ vào lời nói suông được.\n",
+        "similarity": "0.39222378",
+        "weight": "59"
+    },
+    {
+        "source": "本日吉庆摺内称农耐使臣起程。尚在阮光缵被获之前。是以未得此信。",
+        "target": "Trong tờ tâu ngày hôm nay Cát Khánh tâu rằng sứ thần Nông Nại khởi hành trước lúc Nguyễn Quang Toản bị bắt, nên chưa nhận được tin này.\n",
+        "similarity": "0.55443126",
+        "weight": "50"
+    },
+    {
+        "source": "前次谕令吉庆等、如阮光缵率属内投。妥为安置。",
+        "target": "Trước đây có dụ bọn Cát Khánh nếu như Nguyễn Quang Toản mang thuộc hạ đến đầu thuận, thì cho an trí ổn thỏa.\n",
+        "similarity": "0.45708328",
+        "weight": "37"
+    },
+    {
+        "source": "令伊罪状昭著。实无足惜。",
+        "target": "Nay tội trạng y rõ ràng, thực không đáng tiếc.\n",
+        "similarity": "0.35830933",
+        "weight": "19"
+    },
+    {
+        "source": "若叩关求纳。吉庆当将阮福映缴来敕印。并盗犯莫观扶等供词。令其阅看。面加诘责后。传旨革去王爵。",
+        "target": "Nếu y đến gõ cửa ải xin dung nạp, Cát Khánh hãy cho xem sắc ấn Nguyễn Phúc Ánh giao nạp, cùng lời khai của bọn cướp Mạc Quan Phù, sau khi trách mắng xong, truyền chỉ cách bỏ tước Vương, rồi đem giam cấm, đợi chiếu chỉ định đoạt.\n",
+        "similarity": "0.4719703",
+        "weight": "86"
+    },
+    {
+        "source": "即于该处监禁、候旨定夺。傥阮光缵已为阮福映所获。阮福映不敢自专。将伊解送镇南关。亦当照此办理。",
+        "target": "Trường hợp Nguyễn Quang Toản bị Nguyễn Phúc Ánh bắt; nếu Nguyễn Phúc Ánh không dám tự quyết định, đem y giải giao đến cửa ải Trấn Nam, thì cũng đối xử giống như trên.\n",
+        "similarity": "0.3913847",
+        "weight": "68"
+    },
+    {
+        "source": "其莫观扶等三犯。俱照大逆律办。如各犯家属、有应缘坐者。一体查办。",
+        "target": "Còn ba phạm nhân, bọn Mạc Quan Phù, chiếu theo luật đại nghịch mà xử lý; nếu như gia thuộc phạm nhân có sự liên can, cũng cho tra xét một lượt.\n",
+        "similarity": "0.5494266",
+        "weight": "55"
+    },
+    {
+        "source": "此时吉庆当遵前旨。迅赴镇南关。勒兵防守。持以镇静。",
+        "target": "Lúc này Cát Khánh nên tuân theo chỉ dụ trước, đến cửa ải Trấn Nam điều binh phòng thủ, giữ cho yên ổn.\n",
+        "similarity": "0.5615118",
+        "weight": "41"
+    },
+    {
+        "source": "俟阮福映攻得安南全境。遣使请封。或得阮光缵实在下落。再行奏闻候旨。",
+        "target": "Đợi lúc Nguyễn Phúc Ánh chiếm được toàn lãnh thổ An Nam, sai sứ đến cầu phong, hoặc biết rõ thực tại về Nguyễn Quang Toản thì hãy tấu lên rồi đợi chiếu chỉ.\n",
+        "similarity": "0.4560128",
+        "weight": "58"
+    },
+    {
+        "source": "将此传谕知之。",
+        "target": "Đem những điều này truyền dụ cho biết.\n",
+        "similarity": "0.55538267",
+        "weight": "14"
+    },
+    {
+        "source": "谕军机大臣等、昨据孙玉庭奏进阮福映请封表文。朕详加披阅。所请以南越二字锡封一节。断不可行南越之名。",
+        "target": "Dụ cho các quân cơ đại thần: “Hôm qua theo lời tâu của Tôn Ngọc Đình tâu dâng biểu văn thỉnh phong của Nguyễn Phúc Ánh, Trẫm đã mở đọc kỹ, đoạn xin ban phong tên nước hai chữ “Nam Việt\" không thể chấp nhận được.\n",
+        "similarity": "0.42207608",
+        "weight": "83"
+    },
+    {
+        "source": "所包甚广。考之前史。今广东广西地界。亦在其内。",
+        "target": "Địa danh “Nam Việt\" bao hàm rất lớn, khảo sử xưa hai tỉnh Quảng Đông, Quảng Tây đều năm ở trong đó.\n",
+        "similarity": "0.5198688",
+        "weight": "40"
+    },
+    {
+        "source": "阮福映边徼小夷。此时即全有安南。亦不过交阯故地。何得遽称南越。",
+        "target": "Nguyễn Phúc Ánh là [xứ] Di nhỏ nơi biên giới, tuy hiện nay có được toàn đất An Nam, bất quá lãnh thổ bằng đất Giao Chỉ xưa là cùng, làm sao lại được xưng là \"Nam Việt”?\n",
+        "similarity": "0.49311796",
+        "weight": "60"
+    },
+    {
+        "source": "安知非欲夸示外夷。故请易国号。先为尝试。自应加以驳斥。",
+        "target": "Biết đâu đây không phải là ý muốn khoe khoang tự thị của ngoại Di, xin thay đổi quốc hiệu, để thử bụng [Thiên triều] trước, đương nhiên đáng bác đi.\n",
+        "similarity": "0.5032198",
+        "weight": "49"
+    },
+    {
+        "source": "已令军机处代拟檄谕一道。并原表交孙玉庭发回。看其接奉之后。如何禀覆。候旨酌办。",
+        "target": "Đã ra lệnh cho quân cơ đại thần soạn thay một tờ hịch dụ, và mang nguyên biêu giao cho Tôn Ngọc Đình trả lại, đề xem sau khi nhận được chúng sẽ bẩm báo phúc đáp ra sao, rồi đợi chiếu chỉ mà xử lý.\n",
+        "similarity": "0.5988772",
+        "weight": "76"
+    },
+    {
+        "source": "至阮福映求封南越。显有恃功要请情事。",
+        "target": "Ngoài ra Nguyễn Phúc Ánh cầu phong quốc hiệu “Nam Việt\", rõ ràng tự thị võ công muốn đòi xin thêm đất.\n",
+        "similarity": "0.31864458",
+        "weight": "33"
+    },
+    {
+        "source": "恐其心存叵测。所有广东广西、一带海道边关。俱著密饬地方官留心防备。不可稍涉懈弛。",
+        "target": "Sợ bọn chúng âm mưu bất trắc, nên truyền các quan địa phương tại hai tỉnh Quảng Đông, Quảng Tây lưu tâm phòng bị vùng biển cùng biên giới, cửa ải, không được trễ nải lơ là.\n",
+        "similarity": "0.59419036",
+        "weight": "66"
+    },
+    {
+        "source": "将此各传谕知之。",
+        "target": "Nay truyền dụ các nơi để hay biết.”\n",
+        "similarity": "0.3274014",
+        "weight": "15"
+    },
+    {
+        "source": "谕军机大臣等、孙玉庭奏、接到阮福映回禀、请旨遵行一摺。览奏俱悉。",
+        "target": "Dụ cho các quân cơ đại thần: Tôn Ngọc Đình dâng tờ tâu xin chiếu chỉ để tuân hành về việc tờ bẩm phúc đáp của Nguyễn Phúc Ánh, Trẫm đã đọc kỹ.\n",
+        "similarity": "0.41719607",
+        "weight": "54"
+    },
+    {
+        "source": "阮福映以前次檄谕。系出孙玉庭之意。未经奏闻。故此次仍以请封南越表文、禀恳代奏。",
+        "target": "Nguyễn Phúc Ánh cho rằng lời dụ lần trước là ý kiến riêng của Tôn Ngọc Đình, biểu văn của y chưa tấu lên trên để được nghe quyết định [của Hoàng đế], nên lần này vẫn thỉnh phong quốc hiệu Nam Việt và khẩn xin tấu thay.\n",
+        "similarity": "0.43724573",
+        "weight": "76"
+    },
+    {
+        "source": "朕阅其禀文。情词委婉。极为恭顺。",
+        "target": "Trẫm duyệt biểu văn, lời và ý rất mềm dẻo, hết sức cung thuận.\n",
+        "similarity": "0.43556964",
+        "weight": "26"
+    },
+    {
+        "source": "所称该国先有越裳之地。今并有安南。不愿忘其世守。袭用安南旧名。自亦系实情。",
+        "target": "Xưng rằng nước y trước kia có đất Việt Thường, nay lấy thêm đất An Nam [Tây Sơn], không dám quên gốc đã giữ đời nối đời, bèn dùng tên cũ An Nam, đấy là tình thực.\n",
+        "similarity": "0.62046313",
+        "weight": "67"
+    },
+    {
+        "source": "孙玉庭即檄知该国长、谕以前此因来表请封国号。名义未符。未敢冒昧具奏。",
+        "target": "Tôn Ngọc Đình hãy truyền hịch cho Quốc trưởng rằng: “Lần trước đến thỉnh phong quốc hiệu, danh nghĩa chưa hợp, nên không dám mạo muội tâu lên đầy đủ.\n",
+        "similarity": "0.5495992",
+        "weight": "56"
+    },
+    {
+        "source": "今来禀详述建国始末。请锡新封。已据情奏闻大皇帝。奉有谕旨、以该国长前此航海输诚。",
+        "target": "Nay nhận được biểu phúc đáp, tường thuật đầu đuôi việc dựng nước, xin được phong tên mới, đã thể theo tình thực tâu lên Đại Hoàng đế.\n",
+        "similarity": "0.5594749",
+        "weight": "59"
+    },
+    {
+        "source": "恭缴阮光缵遗弃旧颁敕印。并缚献海洋逋盗。",
+        "target": "Nay nhận được chỉ dụ rằng, Quốc trưởng có lòng thành, lần trước cung kính giao nạp sắc ấn trước đây ban cho [An Nam] bị Nguyễn Quang Toản bỏ lại, và trói giải bọn giặc cướp ngoài biển, lại cung kính thỉnh mệnh, nên được soi xét kỹ tấm lòng thành.\n",
+        "similarity": "0.33701217",
+        "weight": "65"
+    },
+    {
+        "source": "恪恭请命。具鉴悃忱。兹请锡藩封。虔具表贡。",
+        "target": "Việc cầu phong và dâng biểu cống, đặc dụ chấp thuận.\n",
+        "similarity": "0.34868523",
+        "weight": "26"
+    },
+    {
+        "source": "特谕嘉纳。至所请以南越名国之处。该国先有越裳旧地。后有安南全壤。天朝褒赐国封。著用越南二字。以越字冠于上。仍其先世疆域。以南字列于下。表其新锡藩封。",
+        "target": "Đến việc xin đặt tên nước là Nam Việt, thì nước này trước đây có đất cũ Việt Thường, sau lại được toàn lãnh thổ An Nam, vậy Thiên triều phong quốc hiệu cho dùng hai chữ “Việt Nam”; lấy chữ “Việt” để đằng trước tượng trưng cương vực thời xưa, dùng chữ \"Nam\" để đằng sau, biểu tượng đất mới được phong.\n",
+        "similarity": "0.62915",
+        "weight": "128"
+    },
+    {
+        "source": "且在百越之南。与古所称南越不致混淆。称名既正。字义亦属吉祥。可永承天朝恩泽。",
+        "target": "Lại còn có nghĩa là phía nam của Bách Việt, không lẫn lộn với tên nước cũ \"Nam Việt.” Một khi tên nước đã chính, nghĩa của chữ cũng tốt lành, vĩnh viễn thừa hưởng ân trạch của Thiên triều.\n",
+        "similarity": "0.5155226",
+        "weight": "71"
+    },
+    {
+        "source": "现已令陪价等诣阙请封。所颁敕印。即以此二字称名。",
+        "target": "Hiện đã ra lệnh bồi thần đến kinh khuyết thỉnh phong, sắc ấn ban cho sẽ lấy hai chữ đó làm tên.\n",
+        "similarity": "0.6673057",
+        "weight": "40"
+    },
+    {
+        "source": "该国膺此嘉名。备位藩服。更足显荣勿替。孙玉庭接奉此旨。一面檄谕阮福映。一面即委员伴送该使臣恭赍表贡进京。",
+        "target": "Nước ngươi được ban tên đẹp, xếp vào nước ngoại phiên thần phục, càng đủ hiển vinh chớ bỏ”.Tôn Ngọc Đình tiếp nhận chiếu chỉ này, một mặt truyền hịch dụ Nguyễn Phúc Ánh, một mặt sai người cùng đi theo sứ thần nước này đến kinh đô dâng biểu tiến cống.\n",
+        "similarity": "0.53256226",
+        "weight": "91"
+    },
+    {
+        "source": "谕以天气渐近暑热。可缓程行走。",
+        "target": "Lưu ý tiết trời nắng nóng, nên cho đi từ từ để tỏ lòng cảm thương.\n",
+        "similarity": "0.5383268",
+        "weight": "25"
+    },
+    {
+        "source": "以示体恤。约于七月杪到京。彼时朕驻跸避暑山庄。正值哈萨克入觐。亦可令其一体与宴。",
+        "target": "Vào khoảng cuối tháng 7 đến kinh đô, lúc này Trẫm đang nghỉ mát tại sơn trang, gặp dịp Cáp Tát Khắc Các vào triều kiến, cũng có thể cho cùng dự yến luôn một thể.\n",
+        "similarity": "0.5682326",
+        "weight": "67"
+    },
+    {
+        "source": "仍将该使臣自粤西起程日期。先行奏闻。",
+        "target": "Hãy tâu cho biết trước ngày tháng viên sứ thần này khởi hành từ Quảng Tây.\n",
+        "similarity": "0.5772595",
+        "weight": "29"
+    },
+    {
+        "source": "将此谕令知之。",
+        "target": "Đem mệnh lệnh này báo cho hay biết.\n",
+        "similarity": "0.7971802",
+        "weight": "12"
+    },
+    {
+        "source": "谕内阁、绵志等奏、安南人黎侗私往涿州探看伊子、请交顺天府照例办理一摺。",
+        "target": "Dụ cho Nội các: “Bọn Miên Chí tâu, người An Nam tên Lê Quýnh ngầm đến Trác Châu tìm gặp con y, nay xin giao cho phủ Thuận Thiên chiếu theo lệ xử lý.\n",
+        "similarity": "0.4860974",
+        "weight": "60"
+    },
+    {
+        "source": "黎侗等本系边徼累臣。在监羁禁。",
+        "target": "Bọn Lê Quýnh vốn là bề tôi bị bắt giữ ở vùng hẻo lánh xa xôi, đang bị giam cấm.\n",
+        "similarity": "0.45427623",
+        "weight": "30"
+    },
+    {
+        "source": "嘉庆五年朕特加恩释放。命在外火器营地方安插。各赏给马甲钱粮。仍著该管官留心查察。原不许其任意轻出。",
+        "target": "Vào năm Gia Khánh thứ 5 [1800] được Trẫm đặc cách phóng thích, lệnh cho bố trí ăn ở ngoài doanh hỏa khí, cấp lương tiền như lính Bát kỳ, vẫn giao cho quan phụ trách trông coi, không được tự ý đi ra ngoài.\n",
+        "similarity": "0.57407844",
+        "weight": "86"
+    },
+    {
+        "source": "今黎侗、及李秉道、诡称告假与黎维祁上坟。经该营章京派护军二人照料。",
+        "target": "Nay Lê Quýnh cùng Lý Bỉnh Đạo nói dối xin đi thăm mộ Lê Duy Kỳ, được doanh này cho hai người lính hộ tống.\n",
+        "similarity": "0.5423962",
+        "weight": "49"
+    },
+    {
+        "source": "讵黎侗等乘闲至卢沟桥一带行走。旋经护军仅将李秉道追回。而黎侗已至涿州。",
+        "target": "Đi đến khoảng phụ cận cầu Lư Cấu, Lê Quýnh thừa lúc sơ hở bỏ đi, quân hộ tổng chỉ đưa được Lý Bỉnh Đạo trở về, còn Lê Quýnh thì đi thằng đến Trác Châu.\n",
+        "similarity": "0.62121665",
+        "weight": "63"
+    },
+    {
+        "source": "经该州查询。始据供出、因闻知越南贡使内有伊子黎允倬充当行人、一同赴京、伊特前来迎探等情。",
+        "target": "Qua viên Tri châu này thẩm vấn, y khai rằng “Nhân nghe tin trong số cống sứ Việt Nam có con y là Lê Doãn Trác giữ chức Hành nhân, trên đường đến kinh đô, nên y đi thăm hỏi sự tình”.\n",
+        "similarity": "0.42772502",
+        "weight": "76"
+    },
+    {
+        "source": "黎侗等在蓝靛厂居住。何由知黎允倬随越南贡使来京。",
+        "target": "Bọn Lê Quýnh trú tại xưởng thuốc nhuộm [màu] lam, làm sao biết được Lê Doãn Trác theo phái đoàn cống sứ Việt Nam đến kinh đô?\n",
+        "similarity": "0.46773064",
+        "weight": "43"
+    },
+    {
+        "source": "况该国使臣于二十五日行抵涿州。黎侗即于次日到彼。何以得信如是之速。",
+        "target": "Huống chi sứ thần nước này đến Trác Châu vào ngày 25, Lê Quýnh đến ngay vào ngày hôm sau, cớ sao được tin nhanh như vậy?\n",
+        "similarity": "0.6507971",
+        "weight": "56"
+    },
+    {
+        "source": "且黎侗等即欲出外探看。亦当禀明该管大臣奏明请旨。俟恩准之后。方可前往。乃并未呈明。辄私自潜行。实属不遵管束。",
+        "target": "Vả lại bọn Lê Quýnh muốn đi ra ngoài để thăm gặp, thì cứ bẩm lên viên đại thần cai quản, để được tâu lên đợi chiếu chỉ chấp thuận mới có thể đi được, sao y chưa trình rõ ràng lại ngầm đi, quả thực không tuân lệnh quản thúc.\n",
+        "similarity": "0.57466155",
+        "weight": "90"
+    },
+    {
+        "source": "除将该营官员另降谕旨分别议处外。所有黎侗李秉道二人、著该营及顺天府解交刑部审讯定拟具奏。",
+        "target": "Ngoại việc giáng chỉ riêng đem các quan viên trong doanh phân biệt xét xử, nay truyền lệnh cho doanh này cùng phủ Thuận Thiên giải giao cả hai tên Lê Quýnh, Lý Bỉnh Đạo đến bộ Hình để thẩm vấn, đánh giá rồi tâu lên đầy đủ.”\n",
+        "similarity": "0.5544566",
+        "weight": "81"
+    },
+    {
+        "source": "又谕、刑部奏、将参领宝善与黎侗质讯明确定拟具奏一摺。",
+        "target": "Lại dụ cho Nội các: Bộ Hình tâu, đã đem viên Tham lĩnh Bảo Thiện đối chất xác minh với Lê Quýnh, rồi đánh giá soạn tờ tâu trình lên.\n",
+        "similarity": "0.38004246",
+        "weight": "46"
+    },
+    {
+        "source": "安南人黎侗等、在蓝靛厂居住。参领宝善系专管之员。",
+        "target": "Bọn người An Nam Lê Quýnh cư trú tại xưởng thuốc nhuộm lam, do Tham lĩnh Bảo Thiện chuyên trách quản lý.\n",
+        "similarity": "0.6217564",
+        "weight": "36"
+    },
+    {
+        "source": "乃于黎侗等恳假迎探贡使。并不禀明该管大臣。辄准其告假。已属专擅。",
+        "target": "Nhưng khi Lê Quýnh khẩn khoản xin nghỉ việc để đi đón thăm cống sứ, Bảo Thiện không bẩm lên quan đại thần cai quản, mà tự chấp thuận cho đi, đã là tự tiện.\n",
+        "similarity": "0.35356632",
+        "weight": "59"
+    },
+    {
+        "source": "前据黎侗供出。经行在该管王大臣、向该参领面加询问。伊并不承认。",
+        "target": "Trước đây theo lời khai ra của Lê Quýnh, đại thần họ Vương cai quản đích thân hỏi viên Tham lĩnh, nhưng y không thừa nhận.\n",
+        "similarity": "0.5708345",
+        "weight": "47"
+    },
+    {
+        "source": "旋命军机大臣传旨详询。再四开导。仍不据实供明。",
+        "target": "Liền đó quân cơ đại thần chuyển chỉ hỏi tường tận, bảo ban mãi y vẫn không nói rõ sự thực.\n",
+        "similarity": "0.5290327",
+        "weight": "37"
+    },
+    {
+        "source": "及至解交刑部、与黎侗当面质对。无可抵赖。始行供认。实属狡诈。仅予交部严加议处。尚属过轻。",
+        "target": "Đen khi giải giao Bảo Thiện đến bộ Hình đối chất với Lê Quýnh, y không còn bao che được, rốt cuộc phải thừa nhận, thật là giảo trá, nếu chỉ giao về bộ nghị xử thì e quá nhẹ.\n",
+        "similarity": "0.5107542",
+        "weight": "73"
+    },
+    {
+        "source": "宝善著即革职。",
+        "target": "Nay truyền lệnh cách chức ngay Bảo Thiện, phát vãng đến Ô Lỗ Mộc Tề ra sức lập công đề chuộc tội.\n",
+        "similarity": "0.33572382",
+        "weight": "20"
+    },
+    {
+        "source": "发往乌噜木齐效力赎罪至黎侗、李秉道、即讯明并非私自潜往。向无不合。",
+        "target": "Còn bọn Lê Quýnh, Lý Bỉnh Đạo đã được hỏi rõ và cũng không phải ngầm đi, mọi việc đều hợp lẽ.\n",
+        "similarity": "0.3887236",
+        "weight": "50"
+    },
+    {
+        "source": "著仍交外火器营于蓝靛厂安插。留心管束。毋任出外滋事。",
+        "target": "Truyền vẫn giao cho doanh Hỏa khí bố trí ăn ở tại xưởng thuốc nhuộm lam, lưu tâm quản thúc, không được tự ý đi ra ngoài sinh chuyện.\n",
+        "similarity": "0.6092173",
+        "weight": "46"
+    },
+    {
+        "source": "其供出之蒙古官员阿姓、系黎侗于途间偶遇。其旗分姓氏。自未能记忆明悉。亦不必纷纷纷查究。",
+        "target": "Việc Lê Quýnh khai trên đường đi tình cờ gặp viên quan Mông Cô họ A, thuộc đơn vị kỳ nào [trong Bát kỳ] và tên, tự nhiên chưa thể nhớ rõ, cũng không cần tra cứu dài dòng.\n",
+        "similarity": "0.5131949",
+        "weight": "73"
+    }
+]
+Average similarity: 0.49713000068158814
+Weighted average similarity: 0.5062297413553791
