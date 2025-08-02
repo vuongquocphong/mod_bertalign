@@ -2,44 +2,8 @@ from collections import defaultdict
 from itertools import chain
 import re
 import xmlrpc.client
-import requests
 from sentence_splitter import SentenceSplitter
 from underthesea import sent_tokenize
-
-TRANSLITERATE_URL = "https://tools.clc.hcmus.edu.vn/api/web/clc-sinonom/sinonom-transliteration"
-
-def send_single_api_request(text: str, url=TRANSLITERATE_URL) -> str:
-    payload = {
-        "text": text
-    }
-    
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Referer": "https://tools.clc.hcmus.edu.vn",
-        "Origin": "https://tools.clc.hcmus.edu.vn",
-        "Content-Type": "application/json"
-    }
-
-    try:
-        response = requests.post(url, json=payload, headers=headers)
-        response.raise_for_status()  # Raise error for bad status codes
-        data = response.json()
-
-        if data.get("is_success") and "data" in data:
-            result = data["data"].get("result_text_transcription")
-            if result:
-                to_return = ""
-                # combine the list of transcriptions into a single string
-                for i in range(len(result)):
-                    to_return += result[i]
-                return to_return
-            else:
-                raise ValueError("No transcription found in response.")
-        else:
-            raise ValueError("API returned failure or malformed response.")
-
-    except Exception as e:
-        raise RuntimeError(f"API request failed: {e}")
 
 def clean_text(text, lang):
 	clean_text = []
@@ -83,17 +47,11 @@ def split_sents(text, lang):
 	refine_sents = [sents[-1]] 
 	index = len(sents) - 2
 	while index >= 0:
-		if not re.match(r'^.*?:?\s*\d+\s*\.$', sents[index]):
-			refine_sents.append(sents[index])
-			index -= 1
-			continue
-
-		if not re.match(r'^\d+\s*\.$', sents[index]):
-			refine_sents.append(sents[index])
-			index -= 1
-			continue
-
-		refine_sents[-1] = sents[index] + ' ' + refine_sents[-1]
+		
+		if re.match(r'^.*?:\s*\d+\s*\.$', sents[index]) or re.match(r'^\s*\d+\s*\.$', sents[index]):
+			refine_sents[-1] = sents[index] + ' ' + refine_sents[-1]
+		
+		else: refine_sents.append(sents[index])
 		index -= 1
 	
 	refine_sents.reverse()
@@ -101,9 +59,6 @@ def split_sents(text, lang):
 	
 def _split_zh(text, limit=1000):
 	sent_list = []
-	# # Original version
-	# text = re.sub('(?P<quotation_mark>([。.？！](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
-	# text = re.sub('(?P<quotation_mark>([。.？！]|…{1,2})[”’"」\'）])', r'\g<quotation_mark>\n', text)
 
 	# # Proposed version
 	text = re.sub('(?P<quotation_mark>([。.？?！!](?![”’"」\'）])))', r'\g<quotation_mark>\n', text)
@@ -184,8 +139,7 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 	:param data: The text need to convert to sino-vietnamese.
 	:return: The list of sino-converted of each sentence.
 	"""
-     
-	def batch_transliterate(sentences_generator, server_url=TRANSLITERATE_URL):
+	def batch_transliterate(sentences_generator, server_url="http://localhost:8080/RPC2"):
 		"""
 		Process sentences from a generator for memory efficiency.
 		
@@ -193,6 +147,7 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 		:param server_url: API server URL
 		:return: List of transliterated sentences
 		"""
+		server = xmlrpc.client.ServerProxy(server_url)
 		results = []
 
 		# Can accept both generators and regular iterables
@@ -200,9 +155,10 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 			
 			# If sentence is short enough, send it directly
 			if len(sentence) <= 50:
+				params = {'text': sentence}
 				try:
-					response = send_single_api_request(sentence)
-					results.append(response)  # fallback to empty string if 'text' missing
+					response = server.translate(params)
+					results.append(response.get('text', ''))  # fallback to empty string if 'text' missing
 				except Exception as e:
 					results.append(f"[Error: {e}]")  # include error for debugging
 			
@@ -212,9 +168,10 @@ def _post_request_to_api( lines: list[str], is_split: bool = False ) -> list[str
 				chunks = re.split(r'[，,；;]', sentence)
 				translated_chunks = []
 				for chunk in chunks:
+					params = {'text': chunk}
 					try:
-						response = send_single_api_request(chunk)
-						translated_chunks.append(response)
+						response = server.translate(params)
+						translated_chunks.append(response.get('text', ''))
 					except Exception as e:
 						translated_chunks.append(f"[Error: {e}]")
 				

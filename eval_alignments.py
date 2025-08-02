@@ -8,12 +8,14 @@ zh_marks = {'。', '！', '？', '；', '…', '：', '，', '、', '「', '」'
 
 def eval(dir_name, num_overlaps, model):
     print(f"Generating eval file using {model.model_name} model...")
+    
     def get_similarity(sent1, sent2, num_overlaps):
-        em1, em1_len = model.transform([sent1], num_overlaps)
-        em2, em2_len = model.transform([sent2], num_overlaps)
+        em1, em1_len = model.transform([sent1], num_overlaps, 'zh')
+        em2, em2_len = model.transform([sent2], num_overlaps, 'vi')
         em1_vec = em1[0][0]
         em2_vec = em2[0][0]
         return np.dot(em1_vec, em2_vec) / (np.linalg.norm(em1_vec) * np.linalg.norm(em2_vec))
+    
     with open(f"{dir_name}/alignments.txt", "r", encoding="utf-8") as f:
         alignments = f.readlines()
         for i in range(len(alignments)):
@@ -53,4 +55,4 @@ def eval(dir_name, num_overlaps, model):
         f.write("\n")
 
 if __name__ == "__main__":
-    eval("/home/hoktro/mod_bertalign/Data/tam_quoc_dien_nghia", 5, model)
+    eval("/home/hoktro/mod_bertalign/DataLab/TuThuBinhGiai", 1, model)
